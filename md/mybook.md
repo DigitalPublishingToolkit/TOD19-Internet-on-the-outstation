@@ -7458,7 +7458,7 @@ Ormond-Parker, A. Corn, C. Fforde, K. Obata and S. O’Sullivan (eds)
 *Information Technologies and Indigenous Communities*, Canberra: AIATSIS
 Research Publications, 2013, pp. 27-52.
 
-J. Finlayson, and A.J. Auld. ‘Shoe or Stew?: Balancing Wants and Needs
+Finlayson, J., and A.J. Auld. ‘Shoe or Stew?: Balancing Wants and Needs
 in Indigenous Households: A Study of Appropriate Income Support Payments
 and Policies for Families’, *CAEPR Discussion Paper No. 182*, Canberra:
 ANU Centre for Aboriginal Economic Policy Research, 1999.
@@ -8050,7 +8050,8 @@ Submission by Vodafone Hutchison Australia*, 2015.
 Warschauer, M. ‘Dissecting the “Digital Divide”: A Case Study in Egypt’,
 *The Information Society* 19.4 (2003): 297-304.
 
-Warschauer, M. and Matuchniak, T., ‘New Technology and Digital Worlds: Analyzing Evidence of Equity in Access, Use, and Outcomes’, *Review of Research in Education* 34.1 (2010): 180.
+
+Warschauer, M. and Matuchniak, T., ‘New Technology and Digital Worlds: Analyzing Evidence of Equity in Access, Use, and Outcomes’, *Review of Research in Education* 34.1 (2010): 180.
 Weber, S. and S. Dixon. *Growing up Online: Young People and Digital
 Technologies*, New York: Palgrave Macmillan, 2007.
 
