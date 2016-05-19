@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Introduction</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On one of our first visits to Mungalawurru, a small Aboriginal community eighty kilometres northwest of Tennant Creek, a senior man asked if he could use our Toyota Land Cruiser’s high-frequency radio. His relative was in hospital and he wanted to know how the man was faring. The extended family gathered around the car as we made contact. The doctor informed everyone that the patient was awake and recovering, but his leg had been amputated.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>That day our radio was the only means by which the residents of Mungalawurru could contact the outside world. The one payphone in the community was out of order – a regular occurrence – and there were no home phones. A few people owned mobile phones, but to make the call, they had to drive along an unsealed road halfway back to Tennant Creek to the old Warrego gold mine, where you can pick up a bar or two of reception on some handsets. There was only one laptop among the twenty-two permanent residents of Mungalawurru, but it wasn’t connected to the internet.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>That visit occurred in 2010, when over 80 per cent people in Australia over the age of 14 were using the internet.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Communications and Media Authority, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Internet Service Market and Australians in the Online Environment</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Canberra, 2011.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Mungalawurru’s somewhat extreme degree of isolation was about to change. We were doing the groundwork for a project that would provide computers and internet access, along with training and maintenance, to households in three small communities. Kwale Kwale, forty kilometres west of Alice Springs, was the first to be connected, followed Mungalawurru and then Imangara, which lies between Alice Springs and Tennant Creek, east of the Stuart Highway.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Aside from finding out which households wanted internet access, we hoped to discover why – despite government programs – people didn’t have it already and whether they saw potential benefits in being online. We weren’t testing new satellite speeds or trying out a new e-health application; we were simply attempting to connect households to the existing, standard satellite broadband, using the most commonly-available equipment. The process of doing this, however, revealed the obvious ways in which the broadband market and government policies were failing to serve remote Aboriginal communities.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This book tells the story of what became known in research circles as the Home Internet Project, or ‘the computer project’ within the communities themselves. The simplicity of those titles belied the bafflingly low rates of internet adoption in these communities. Six in 10 adults in the communities had never used the internet when we made that trip in 2010. A third of those who had used a computer at some point in the past had not used the internet, some having only used computers to play solitaire; others for sharing music. Three quarters of those who had used the internet were under the age of 30.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The 2011 Census revealed low rates of internet adoption amongst Aboriginal people living in remote areas compared to elsewhere.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Bureau of Statistics, ‘Census of Population and Housing—Counts of Aboriginal and Torres Strait Islander Peoples’ (2011), http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Fewer than 4 in 10 Indigenous households in remote and very remote Australia had an internet connection at home, compared with over 8 in 10 households of the total Australian population. In some parts of the country the figure was much lower, such as the Barkly region in central Australia (excluding the township of Tennant Creek), where take-up was less than 1 in 10 for Indigenous households. The term ‘digital divide’ describes those who are accessing the benefits of computers and the internet, and those who are not. In Australia, the divide is widest between Aboriginal people living in remote areas and non-Aboriginal people living in the same area.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The purpose of this book is threefold. Firstly, we examine the reasons for the digital divide, looking at the particular circumstances and ways of life within remote communities that have contributed to low rates of household internet adoption, particularly in small communities. We pay particular attention to the cultural and economic systems (both traditional and contemporary) that influence internet adoption and use. Secondly, we seek to demonstrate the ways in which broadband is changing life in remote communities. What are the consequences of digital exclusion, and to what extent can broadband help overcome the hardship and inconveniences of living in remote settlements? Thirdly, the Home Internet Project was established as a trial (see Chapter 1), in that it set out to implement an alternative to current digital divide strategies in remote Australia. Where the insights of this book relate to policy frameworks and industry behaviours, we have attempted to outline those connections and suggest new approaches.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Outstations</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The majority of Indigenous Australians live in cities and regional towns along the eastern seaboard. Indigenous Australians, however, are much more highly represented in remote areas, making up 2.4 per cent of the non-remote population and 27.6 per cent of the remote population.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Bureau of Statistics, ‘Australia, Remote and Very Remote (Remoteness Factor), Indigenous Profile, by Household’ (2011), www.abs.gov.au/websitedbs/censushome.nsf/home.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Outstations, also referred to as ‘homelands’ in some regions of Australia, are small Aboriginal communities located on Aboriginal land. In the Northern Territory, approximately 10,000 Aboriginal Australians live on outstations.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Northern Territory Department of Education, ‘Enrolment and Attendance Statistics’, http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Although outstation residents represent a comparatively small subset of Australia’s total Indigenous population, they constitute a significant proportion of total Aboriginal settlements. Of Australia’s 1,187 remote communities, 500 are outstations in the NT, comprising more than 2,400 dwellings. Almost three-quarters of all Aboriginal communities have a population of fewer than fifty people, and only seventeen have a population of more than 1,000 people.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Bureau of Statistics, ‘Housing and Infrastructure in Aboriginal and Torres Strait Islander Communities’ (2007), http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view=.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The three communities in this book differ in their size, and in their distance from major towns (Kwale Kwale 40 kilometers; Mungalawarru 80 kilometers; and Imangara 200 kilometers). Between 6 and 18 houses were located on each outstation, although not all houses were habitable the entire time. Occupancy fluctuated, dictated by issues including access to services such as schools, incarceration, wasp nests, broken pipes, housing revitalization programs, visitors and family tragedy. Each community also contained additional structures, such as sheds, that were used for a range of activities including clinic visits, as places of worship, and for enterprise (see Chapter 2). The largest community has around 100 permanent residents, and the smallest only twelve.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is true to say that outstations are generally very small. However, although defining outstations by size of population is convenient for data collection and bureaucratic processes, it does not adequately convey their purpose or place. Families who choose to live on outstations have a direct ancestral connection to the land. This is distinct from other communities, where people have relocated from different places into administratively identified settlements, either through necessity or coercion. As Jon Altman points out, even this definition tends to create a ‘false dichotomy in settlement hierarchies between larger discrete Indigenous townships and smaller outstations’, when in fact regular movement between townships and outstations ‘is a culturally distinctive feature of the way Aboriginal people live’ (see Chapter 2).</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>J. Altman, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>In Search of an Outstations Policy for Indigenous Australians</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Canberra: Centre for Aboriginal Economic Policy Research, 2006, p. 1.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Our investigation of the internet on outstations works with this more fluid understanding, recognizing both the ties and movements that are typical of outstation life, and which can seem at odds with mainstream conceptions of domestic internet use as a permanent and stable form of connectivity.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kinship systems and practices carried through from pre-colonial times continue to govern life in remote communities to varying degrees, and families in some regions speak one or more Aboriginal languages at home. More than five Aboriginal languages were spoken across the three outstations, including Warumungu, Alyawarr and Arrernte. As anthropologists have observed, the contemporary Indigenous sociality of remote communities is an expression of both traditional and Western culture, including new capabilities ‘in language, technology, practical knowledge, ritual, and ways of organizing social, political and economic life’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>D. Austin-Broos, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>A Different Inequality: The Politics of Debate About Remote Aboriginal Australia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> [Kindle Dx Version], Allen &amp; Unwin, 2011, Chapter 1, Section 2, Paragraph 6.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The communities discussed in this book are still traditional in many respects, while also living within, negotiating and participating in contemporary systems. We were made aware of this regularly during our visits, such as when we attempted to follow up a computer-related request with a resident, only to be told that she had gone ‘porcupine’ [echidna] hunting. Such practices, a continuation of the oldest living culture in the world, sat alongside media consumption habits not unlike those of mainstream Australian households – including news, video clips, computer games and social networking applications.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Media anthropologist Serper Tenhunen proposes the concept of ‘social logistics’ as a tool for understanding ‘relationships between technology, culture and social structure’ of the kind that we are concerned with in this book.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>S. Tenhunen, ‘Mobile Technology in the Village: ICTs, Culture, and Social Logistics in India’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of the Royal Anthropological Institute</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 14.3 (2008): 517.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Such an approach looks at how communication technologies are taken up and adapted within different cultural settings, showing how the various uses are bent to fit within the particular social organization of a time and place, including cultural and institutional ways of doing. Some scholars have rejected the terms ‘adoption’ and ‘use’, as these imply that there exists a uniform and uncomplicated pattern of encountering communication technology, denying that consumption is active and that technologies can be objects of desire for some and disregarded by others.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>N. Selwyn, S. Gorard and J. Furlong, ‘Whose Internet Is It Anyway? Exploring Adults’ (Non) Use of the Internet in Everyday Life’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>European Journal of Communication</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 20.1 (2005): 5-26.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> We have chosen to retain the terms adoption and use, partly to emphasize that choices also occur within particular regimes – the retail offerings, infrastructures and programs developed and offered by agencies and businesses that are often separate from, and external to, life in remote communities. The level to which these structures are adaptable or inflexible, and the strategies people develop in order to work around, or away from, such regimes, are important for understanding the digital divide. The various attempts to resolve communication infrastructure in remote Australia also reveal the aspirations and assumptions about how remote communities should exist in relation to the so-called outside world. These mutations of the policy apparatus have been surprisingly disconnected from other attempts to construct, remedy or intervene in the welfare of the Territory’s remote communities (see Chapter 1). This book therefore sits within a media studies tradition of policy analysis, grounded in the observable daily use of information and communications technology (ICT).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our investigations into internet use revealed a social setting that was embedded within traditional structures, but where those ways of organizing and understanding the world blended into everyday, non-traditional activities. For instance, when we asked about his online contacts, one man told us, ‘I don’t have friends, only family’, referring to a possibly extensive kinship network rather than social isolation. Although we were not privy to the depth of such relationships from our limited position as researchers investigating media, we were given some insights into how communications technologies (internet and mobile phones) are creating new social configurations and placing pressure on customs. Chapter 5 discusses these issues in relation to cyber-safety concerns that arose in the township of Tennant Creek during the course of our work.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The residents’ everyday concerns included shopping and transactions as well as interests that were intensely local, such as responsibilities to land councils, ensuring young people are aware of their obligations to others, and negotiating with outsiders, including us. While policy commentators often notice that cultural meetings and funeral business take people away from their outstation base, we observed that rodeos and local show days had the same outcome. To us, such movements between communities and towns were interesting, because they have consequences for how people stay connected, and for their preferences in terms of retail offerings and devices, as discussed in Chapters 8 and 9.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Internet Access and Telecommunications</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The detailed longitudinal data on which much of this book is based concerns one particular regime of access: home internet, meaning internet accessed within the domestic setting and managed by the householders. Our intention in looking at home internet was to test some cultural assumptions that were influencing policy decisions at the time we commenced the study. However, we have also endeavoured to describe other systems of internet access (see Chapters 8 and 9) in order to explore the dynamics of other regimes.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From the start, our interest in home internet was more explorative than developmental. We provided households in the three communities with access to a computer and an internet connection in order to understand why such a common means of internet access was not being taken up by residents. Although we were curious to know whether internet would transform life in the communities, we did not set out to achieve transformation, in the way that ‘ICT for development’ seeks to do (see Chapter 2). Rather, our interest was in how the infrastructures of the internet – including the technologies, public policy programs and retail mechanisms – were serving or failing this particular population. If the residents gave up on their home internet, or decided to do things differently, that would be as revealing as if they embraced the technology outright.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When we commenced the project, we had various hypotheses as to why these outstations had not sought out internet services. One hypothesis was that it was simply a matter of affordability, given the very low income of the households. We also considered practical matters to do with housing such as living arrangements, the condition of the houses, and being home long enough to want a permanent connection to the internet. We were well aware of the physical challenges to infrastructure, with one of our partners, the Centre for Appropriate Technology (CAT), having conducted various surveys and infrastructure projects in the region over the years. However, we did not know how long computers and related electronics could withstand the heat, dust and vermin.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A great deal occurred during those four years, both within the communities and externally. As described in the Chapter 2, we provided free internet connections and maintained computers for two and a half years. Our presence and purpose in the communities changed the dynamics of what home internet meant to these households. CAT dealt with the installers, and replaced and repaired equipment on a regular basis. We all attempted to help residents, showing them how to do certain things, listening to their concerns, and repeatedly explaining how they could maintain a connection of their own in the future. All these efforts meant that when the choice came to take out an internet connection of their own, many households chose to do so.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Beyond these communities, the communications landscape was constantly changing. During our various travels beyond the outstations (comparative work on the project, as well as interactions between the two Indigenous organizations on the project team), we observed that different groups were accessing the internet in different ways. For instance, some were conducting online transactions intermittently at internet kiosks located in caravan parks and council offices. Others were playing computer games while in prison or rehabilitation facilities. Where there were remote media centers or schools, these provided important (although monitored) forms of access. As the years went by, we witnessed more people using mobile phones and tablets when in town, in what seemed to be a sudden spike in mobile device use in the region. We concluded that remote Aboriginal communities have vastly different levels and means of internet access depending on community size, proximity to larger towns or tourist sites, and on the agencies and businesses that interact with them. We have incorporated examples of the various regimes of access, and compared and contrasted these where possible (Chapter 8).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Broadband Policy</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The assorted and irregular nature of internet use in remote Australia needs to be seen within the historical trajectory of telecommunications in Australia. As we discuss in Chapter 1, remote regions were last to receive telecommunications, and only then through government programs, including payphones, subsidies to offset costs, price controls such as untimed local calls for landlines within certain areas, and community infrastructure programs.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>S. McElhinney, ‘Telecommunications Liberalisation and the Quest for Universal Service in Australia’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Telecommunications Policy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 25.4 (2001): 233-248.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> By 2007, 77 per cent of all remote communities had some form of telecommunication service, but for many this consisted of one public telephone; only 20 per cent of the population in remote communities had a fixed telephone line, and only 26 per cent of communities had mobile telephone coverage.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Communications and Media Authority, ‘Telecommunications in Remote Indigenous Communications’, http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Since then, various public-private initiatives have extended mobile coverage to more communities, but the cost of mobile telephone infrastructure remains prohibitive for many communities, as well as being economically unviable for providers. By 2015, a total of seventeen locations in the lower half of the Northern Territory had mobile coverage – twelve of which include residential dwellings – making mobile broadband at home available to approximately 50 per cent of the Aboriginal population of the region.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>According to Telstra coverage maps (https://www.telstra.com.au/coverage-networks/our-coverage):</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Granites mine; Barkly homestead Wayside Inn; Ali Curung (Indigenous pop. 486); Barrow Creek; Ampilawatja (Indigenous pop. 350); Urapuntja power station; Arlpara (Utopia homelands, Indigenous pop. 90); Ti Tree (Indigenous pop 61); Yuendumu (Indigenous pop. 585); Papunya (Indigenous pop. 376); Hermannsburg/Ellery Creek (Indigenous pop. 537); Erldunda Road House; Uluru/Mutitjulu (Indigenous pop. 250); Santa Teresa (Indigenous pop. 502); Lajamanu (Indigenous pop. 586); Elliot (Indigenous pop. 287); Newcastle Waters (Indigenous pop. 61).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Larger communities tend to be better serviced: Across the entire Northern Territory (including the Top End), seventy-four remote communities had a population greater than 100 in 2015 (home to approximately 45 000 people). Of these, thirty communities had ADSL, and mobile telephony was available in forty-four communities.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Northern Territory Government Department of Corporate and Information Services, ‘Submission to the Regional Telecommunications Independent Review Committee, 2015’, https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In addition, various publicly-funded social development initiatives have attempted to provide some level of internet access, such as computer rooms and training provided through the Northern Territory Libraries network and remote media organizations. Such programs have been designed to assist Aboriginal people to discover and learn about communication technology within community settings. As outstations are generally too small to be eligible for such infrastructure, the communities we worked with had not experienced the benefits of such projects.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The wide disparities in internet access between different communities sits uncomfortably with Australia’s national broadband agenda. In recent years, debates around inequities in broadband performance have centered on the National Broadband Network (NBN), with a particular focus on regional versus capital city infrastructure and speeds. The NBN is a government-funded wholesale-only broadband network that sells to retail service providers, who in turn sell services to the public. The initial rationale for the NBN was to provide a nation-building infrastructure that could provide fast broadband services to all Australians. A number of aspects of the plan were based on this objective, and satellite internet was incorporated into the NBN, as satellite connections can be received anywhere via domestic satellite receivers. As discussed in Chapter 1, the NBN was also designed with regional parity in mind, insofar as under-serviced areas were the first to receive the infrastructure. The model of a national wholesale infrastructure provider was intended to serve those outside the mainstream areas by providing a wholesale price base that would be consistent as far as possible across the country, rather than being strictly costed at the local level. Pricing was designed to ensure that entry-level prices remain at pre-NBN levels for low-income consumers, providing faster and more reliable service at the same price as ADSL.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>R. Morsillo, ‘Affordable Broadband for All Australians’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Telecommunications Journal of Australia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 62.5 (2012): 78.1-78.16.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We discuss the NBN particularly in relation to the ‘last 3 per cent’ – those households where satellite internet was considered the only economically viable option at the time the NBN plans were conceived, and still is at the time of writing. As the NBN is a wholesale model, residents in remote communities deal with the retail service providers, rather than with NBN Co. These interactions constituted a significant aspect of our research towards the latter part of the project, as residents began to enter into contracts to receive NBN services (via retail service providers) under the Interim Satellite Service. We began to see clearly the reasons why many households in remote communities are not acquiring satellite broadband, and prefer pre-paid mobile in areas where mobile reception is available. Our findings suggest that faster speeds alone, although desirable for services and business in remote Australia, will not encourage residents of remote communities to adopt broadband. We question whether household satellite internet – the government’s response to internet access in remote areas – will meet the needs of remote communities under current policy and consumer arrangements.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Australia’s telecommunications dilemma is commonly discussed as a story of market failure, where services to those within the country’s vast interior are necessarily subsidized by city customers and government programs. The outstation experience, however, reveals a more complex picture. Communications technologies are not necessarily adopted in the way that providers expect they will be. Moreover, what on the surface seems like an individual choice (adoption) can occur as a group dynamic, informed by social factors that may seem far removed from communications policy. When the movement of people within and across communities is taken into account, as well as their economic priorities, social obligations, and capacities within a particular locality, it seems unlikely that the problem of broadband adoption will be resolved through infrastructure alone. However, changes to the way that internet is sold and supported could make a significant difference.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Digital Divide and Access to Services</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When we commenced, only a few studies had looked in depth at the issue of internet adoption in remote communities. Scholars identified that there were differences in the levels and means of access, and some argued that online participation would provide a means for Aboriginal people to maintain their cultural heritage and engage young people.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>A.E. Daly, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Bridging the Digital Divide: The Role of Community Online Access Centres in Indigenous Communities</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Canberra: ANU Centre for Aboriginal Economic Policy Research (2005).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>C. Nobbs, ‘Ara Irititja: Protecting the Past, Accessing the Future: Indigenous Memories in a Digital Age’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Artlink</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 24.1 (2004): 50-51.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>H. Verran and M. Christie, ‘Postcolonial Databasing? Subverting Old Appropriations, Developing New Associations’, in J. Leach and L. Wilson (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Subversion, Conversion, Development: Diversity and the Adoption and Use of Information and Communication Technologies</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge: M.I.T. Press, 2014, pp. 57-76.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>S. Thorner, ‘Imagining an Indigital Interface: Ara Irititja Indigenizes the Technologies of Knowledge Management’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Collections</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 6.3 (2010): 125-46.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>I. Kral, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Plugged In: Remote Australian Indigenous Youth and Digital Culture,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> Canberra: ANU Centre for Aboriginal Economic Policy Research (2010).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>I. Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth Speaking out Loud’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Australian Aboriginal Studies</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 1 (2011): 4-16.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Internet access had also been acknowledged in government policy and funding programs as an area of need, although such programs were limited, as discussed in Chapter 1.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Telecommunications Action Plan for Remote Indigenous Communities (TAPRIC), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Report on the Strategic Study for Improving Telecommunications in Remote Indigenous Communities</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Canberra: Department of Communications and Arts (2002).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>At the same time, the digital divide was not a national emergency. In 2010, remote Aboriginal communities in the Northern Territory were subject to an increased level of state intervention (from 2007), intended to overcome generational social disadvantage and dysfunction. Going without the internet was towards the bottom of a long list of policy concerns, all of which could be characterized as deprivations in policy terms. Indeed, describing low rates of internet adoption as a ‘divide’ seems something of an overstatement against the Commonwealth Government’s comparatively modest-sounding </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Closing the Gap</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> agenda, which includes targets such as improving education outcomes (halve the gap in reading, writing and numeracy achievements by 2018), life expectancy (parity by 2031), and workforce participation (halve the gap by 2018).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As described throughout the following chapters, the elders invited us onto their lands and into their houses, interested in our proposal of measured introduction of computers. However, our research also brought us into contact with another, more sceptical, group of stakeholders. To reach the communities, we travelled alongside a cavalry of remote community workers, taking the ‘ideal combination of safety and speed’ that “only whitefella take”.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Camilla as quoted in Y. Musharbash, ‘“Only Whitefella Take That Road”: Culture Seen through the Intervention at Yuendumu’, in J. Altman and M. Hinkson (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Culture Crisis: Anthropology and Politics in Aboriginal Australia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Sydney: University of New South Wales Press, 2010, p. 304.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> On our visits out to the two northern communities, we talked with various shire officers, government bureaucrats, arts workers, schoolteachers, health workers and television satellite dish installers. To some, our interest in broadband connectivity must have seemed a curious, perhaps trivial, concern to justify regular visits, each comprising a 1,500-kilometer round trip from Alice Springs.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Even if it was not always apparent to those we encountered on the road, our interest in the digital divide was partly aligned with the concerns of the service agencies. The dispersed and remote nature of these communities means that residents face substantial difficulties conducting even simple transactions. In a pre-election document (2013), the Coalition parties stated that while not all government services can be delivered more efficiently online, the majority can be. It commended the US and UK governments on their ‘aggressive’ commitment to online service delivery.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Coalition. ‘The Coalition's Policy for E-Government and the Digital Economy’, Canberra, 2013.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Accessing online services can reduce the need for travel, and provide individuals and families with a level of autonomy over their personal affairs (for instance, reducing the need for phone messages, bank balances and information to be delivered through third parties such as a store keeper or government administrator). Online service delivery could also lower the costs to service agencies, such as the Centrelink officers we met, who had made the journey to check that people’s welfare payment information was up to date. For the Central Land Council (CLC) and the CAT – Indigenous organizations themselves facing logistical difficulties providing services and staying in touch with outstation residents – this was a legitimate concern worth exploring.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There are good reasons why the potential benefits of the internet need to be considered at this point in time. As the NBN brings with it new services and applications, those who are not connected now will fall further behind as the benefits for others increase. However, while recognizing the rapid transformations that are taking place at various levels of the economy and society as a result of digital technology, we urge caution to those who see broadband as a remedy for remote Australia. Commonly-held aspirations for broadband relating to better service delivery, overcoming remoteness and hardship, and cost savings, reflect a set of external priorities. The agendas of government and NGOs are not necessarily aligned with those of people living in remote communities. Moreover, the expectation that ICTs will provide those living in traditional and remote societies with greater connection to the outside world on their own terms imposes an untested assumption that such engagement is desired in the first place. Regardless of the potential good that may or may not come from this, the personal and socially-specific nature of internet use means that it may never eventuate. And just as there is the potential to provide connectivity in the social world within which these communities operate, so there is potential for it to allow communities to retreat further from the government and NGO services, and from non-Indigenous workers who serve and assist Indigenous people through face-to-face encounters.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>During the years when our research took place, outstations became the subject of intense public debate, as discussed in Chapter 2. Outstations have historically been associated with a politics of self-determination, representing the right and choice of Aboriginal people to live on country. The outstation debate has revolved around government funding for the maintenance of outstations, including basic infrastructure such as water and roads: whether these are entitlements of all Australians regardless of where they live, or whether outstations should be considered private land that residents themselves must maintain. The practical considerations of outstation maintenance have taken place against a backdrop of Indigenous policy change, which some have characterized as a shift away from self-determination towards ‘mainstreaming’. The mainstreaming approach posits that relocating residents to larger settlements with services is necessary in order to overcome the poverty and social exclusion experienced in remote communities. In Chapter 1, we outline the history of the outstation movement as well as the particular policy attempts to provide telecommunications services. Although it is the case that broadband may assist Indigenous people to live on their lands by providing access to some services online, without basic infrastructure, such as roads, power and water, the future of outstations is bleak.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Digital Divide and Digital Choices</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Digital divide debates center on whether the market can create equitable outcomes in an information society, and on what types of infrastructure and programs may help to overcome the divide. Two unresolved questions preoccupy digital divide studies. Firstly, statistical studies have drawn a link between social exclusion and digital exclusion, in that those who are least likely to have access to the internet are also least likely to have access to other resources. Does this mean that social exclusion is the cause of digital exclusion? The second concern is whether resolving digital exclusion can assist in overcoming social exclusion. Does access to digital resources enable activities and opportunities that can transform lives in positive ways?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our research uncovered interesting and unique dimensions and patterns of internet access, which took us some way towards answering these questions. As mentioned above, not all communities experience low rates of adoption, but there are pockets of significant exclusion. When we look more closely at what is occurring in places of higher adoption and those with lower adoption, this unevenness begins to make sense. As discussed in Chapters 8 and 9, we observed a reasonably high rate (over 70 per cent) of mobile broadband adoption in Ali Curung, which has mobile broadband coverage, however, in Imangara when we arrived, where the only available connection was satellite internet, there was no internet adoption. Both communities had a similar socio-economic profile. We also observed that people fell in and out of internet use, sometimes on a regular basis, particularly those whose lives were more mobile (see Chapter 4). This suggests that internet adoption is not a fixed event or a linear trajectory from non-use to advanced use. For many, internet access is desirable, but only when other factors allow for it.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Events such as visits by relatives, religious interests, car availability and death impacted on how people used computers and informed their decisions to adopt or keep hardware and internet subscriptions. Seemingly straightforward factors such as available infrastructure, maintenance and consumer concerns (retail options, pricing, assistance) became complicated when the pressures and daily rhythms of living in a remote community came into play. From these observations, we offer some explanations as to why a household, or a community, can go from little or no adoption to rapid adoption in a relatively short space of time, while other households and communities remain disconnected.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Media studies scholars have observed that some make a ‘digital choice’ not to use the internet, and that this can be related to ‘cultural factors and the social context of individuals, which influence the development of positive or negative attitudes towards technologies’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>E. Helsper, ‘A Corresponding Fields Model for the Links between Social and Digital Exclusion’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Communication Theory</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 22.4 (2012): 410.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In the case of outstations, factors such as billing difficulties (related to the distinct way that money changes hands), inconvenience in dealing with retail providers (related to language barriers or lack of other infrastructures such as home phones), were informing the digital choices of residents. We argue that the concept of digital choice, while useful, does not entirely describe what is occurring. Digital choice denotes individual decision-making, whereas in this case the social norms of the group were resulting in whole communities choosing not to adopt. Moreover, studies show that people are more likely to adopt technology if others they know are already using it, suggesting that network effects play a significant role.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>A. Goolsbee and P. Klenow, ‘Evidence on Learning and Network Externalities in the Diffusion of Home Computers’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Law and Economics</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 45.2 (2002).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> When we first met the residents, people did not know that satellite internet was an option, because no-one else they knew had chosen to subscribe. The ‘groupish’ (what we call 'demic') networked nature of internet adoption in remote Australia is explored further in Chapter 9.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>J. Hartley and J. Potts, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Cultural Science: A Natural History of Stories, Demes, Knowledge and Innovation,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> London: Bloomsbury Publishing, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Where others have discussed digital choices, we go further to examine exactly what kinds of choices are being enacted in remote communities. The choice, in this instance, is one where the choosers set targets for particular characteristics and eliminate products that don’t meet those targets completely (a ‘deal-breaker’ scenario). Many make a decision to use computers and the internet regardless of their socio-economic status, as long as the conditions of internet access suit them. Our trial – providing assistance and maintenance for home internet – changed the dynamics and conditions of satellite internet to the extent that many households chose to move to NBN satellite plans at the conclusion of the project. When available under the right conditions, home internet is entirely possible. In Chapters 8 and 9, we offer suggestions as to how to small communities can be better served.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Solving Disadvantage?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The second concern of digital divide studies is whether digital inclusion can help overcome other exclusions; for instance, whether it enables people to overcome barriers in education, employment and health. In this book we have attempted to provide an answer, with caveats. We looked at what people used the internet for, and concluded that the internet can enable a level of personal autonomy that is significant for residents of outstations, but that this does not necessarily signify a solution to social disadvantage. However, the applications and services that might assist the particular and extreme disadvantages present in remote communities did not exist in 2010-2014. Therefore, the possibility that broadband might enable a better level of service provision remained untested. Moreover, the elaborate uses required for activities such as enterprise development would require a level of training and assistance beyond the capacity of our project (see discussion on training, Chapter 6).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Anderson and Tracey speculated in 2001 that ‘applications and services delivered via the internet are not changing the way people live their lives in a simple, straightforward manner, but are supporting and enhancing their existing lifestyles, whatever those lifestyles may be’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>B. Anderson and K. Tracey, ‘Digital Living: The Impact (or Otherwise) of the Internet on Everday British Life’ in C. Haythornthwaite and B. Wellman (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Internet in Everyday Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Malden, MA, USA: Blackwell Publishers Ltd, 2002, p. 141.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As we discuss in Chapter 5, residents’ use of computers and the internet was confined to a fairly narrow set of activities: entertainment (downloading music, watching videos), social networking, games, storing photos, shopping and personal administration, including banking and managing welfare payments. Only a few people used email, and generally to receive notices of meetings or visits from external providers (including us). The uses that we observed were clearly a continuation of everyday activities, such as downloading gospel music in one community where interest in Christianity was high, checking welfare payments before making the journey into town, and browsing shopping sites for cars that were being sold cheaper interstate.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Although individuals displayed varying degrees of interest in computers and digital literacy levels, their uses reflected community norms and a particular sociality of place. What then is the hope that digital technologies might help to overcome disadvantage? With respect to activities such as banking and managing welfare payments, internet transactions reduce an individual’s need to interact with outside agencies, as well as with intermediaries such as store managers. However, the social and cultural systems that have thwarted government attempts to overcome disadvantage can themselves persist in this scenario.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When the internet arrived in these communities, it became ordinary for them in the way it is for most people. A great deal of Indigenous media studies work begins from a curiosity of whether Aboriginal people living in remote regions are enthusiastic or fearful of the advent of new communications technologies. Scholars have set out with the explicit intention of discovering whether people of traditional cultures deal with technology in unique ways (for instance, the work of Eric Michaels).</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>E. Michaels, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Aboriginal Invention of Television in Central Australia, 1982-1986: Report of the Fellowship to Assess the Impact of Television in Remote Aboriginal Communities,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> Canberra: Australian Institute of Aboriginal Studies, 1986.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>E. Michaels, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Bad Aboriginal Art and Other Essays: Tradition, Media, and Technological Horizons</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, volume 3, University of Minnesota Press, 1994.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Although we touch on the question of cultural destruction in our discussion of cyber-safety concerns (Chapter 5), it is worth stating from the outset that the internet rapidly became just another part of life – a mundane asset tied into routines and habits that brought with it some advantages, as well as some newfound frustrations. As we describe in Chapter 5, internet use is a media practice tied in with typical quests for entertainment, to connect with a friend, or a quick fix for personal administration. The priorities, joys, boredoms and obligations of life in these communities did not shift fundamentally. In Heather Horst’s words, what we observed was ‘humanity’s remarkable capacity to reimpose normativity just as quickly as digital technologies create conditions for change’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>D. Miller and H.A. Horst, ‘The Digital and the Human: A Prospectus for Digital Anthropology’ in H.A. Horst and D. Miller (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital Anthropology</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Bloomsbury Publishing, 2013, pp. 3-35.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The idea that internet access can resolve the larger problem of government failure in addressing disadvantage is therefore problematic. We can say, however, that the internet brings a level of banal administration which, due to distance, remote communities have not previously had the benefit of, and which otherwise require arduous strategies such as extended travel, going without, or waiting for service providers to make contact.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>J. Hartley and E. Rennie, ‘Show Business for Ugly people? Media Politics and E-Democracy’, Australian Electronic Governance Conference, Melbourne, 14-15 April 2004</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> How these small instances of autonomy and efficiency – basic activities that reduce otherwise complicated means of making do – can change that critical relationship between a people and the outside world is yet to be seen.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Understanding these dynamics took four years of regular engagement with three small communities, using the least invasive strategies we could manage. This book is as much about our own efforts to assist the residents to access the internet under current constraints as it is about the insights the residents of these communities shared with us. At times it was a complicated endeavour, technically and interpersonally. We went to great lengths and great expense along the way. The message of this book, however, is that the digital divide should not be seen as an intractable problem, and that costly solutions may not always be the right approach. Rather, addressing the digital divide requires understanding people’s choices and the capacities and conditions that inform those choices.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This book is divided into three parts. Part One provides the backstory to Australia’s digital divide, spanning the communications and Indigenous policy arenas (Chapter 1). We also describe the residents’ experiences of the internet before we arrived, and the methods we employed to shed light on the dynamics of internet adoption (Chapter 2). Part Two discusses the residents’ encounters with the internet and specific issues, including ownership of devices (Chapter 3); people’s mobility and travel (Chapter 4); gender dynamics (Chapter 7); training needs (Chapter 6); as well as what people used the internet for (Chapter 5). Part Three looks at other scenarios of ICT infrastructure and access in central Australia, including the shared facilities approach that has evolved out of various programs and policies, and mobile internet (Chapter 8). We conclude the book by considering digital choices in relation to the digital divide, as well as the implications for broadband policy (Chapters 9 and Conclusion).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  
+</Document>

@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>PART III</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Chapter 8: Alternative Regimes</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The outstation residents’ encounters with satellite internet, as recounted in previous chapters, was aided and shaped by our efforts. Assistance with software downloads and passwords, the cables, ink and spare parts we provided, our dealings with installers, and a myriad of other small tasks, impacted on the residents’ experience of the internet. The Home Internet Project thus involved what can be considered a unique ‘terms of use’ – albeit a consultative one – in that those who took part knowingly agreed to our involvement, and were given a set of choices and a level of guidance. In the process we observed, and were brought into, the social dimensions of computing and internet use that emerged.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The question that arises is the extent to which different arrangements for technology, provisioning and support might have resulted in a different level of engagement or experience of the internet. As mentioned in Chapter 1, a number of programs attempting to deliver internet access have been implemented in remote communities since the 1990s. These have produced highly-varied levels of infrastructure, facilities and technological approaches across different communities. A small number of larger communities have also received the kinds of infrastructure and telecommunication services widely available in metropolitan and regional areas, such as mobile broadband and ADSL. In this chapter, we discuss the resulting patchwork of internet access, and discuss the pros and cons of the various models.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We also examine how each of these arrangements impacts on issues of affordability, the different retail mechanisms they offer (where relevant), and the ongoing costs of maintaining networks and equipment. As shown in Part II, the spatial and social dimensions of internet access change according to whether the internet is accessed in public or domestic spaces, and whether these arrangements favor certain groups of users, or encourage use of a particular type of device. Some of the programs that have been implemented in remote communities provide free access, whereas others involve particular retail mechanisms (explored further in Chapter 9). An important issue is the sustainability of these various regimes, and whether they encourage reliance on outside agencies and providers through subsidies and maintenance arrangements, or rely primarily on commercial providers.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this chapter, we focus on two larger communities, one of which has a large shared internet access facility and did not receive mobile coverage until mid 2014 (Papunya, as introduced in the previous chapter), and another which has had mobile broadband for some years (Ali Curung). As we were not able to spend the same level of time engaging with the residents in these larger communities, our account is exploratory rather than being a full comparison with the satellite experience on the outstations. From interviews with residents and others connected to the communities, we were able to understand the various conveniences and difficulties that those living in the two larger communities experienced in accessing the internet, and what they were using the internet for.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>During the course of our research, information about various other infrastructures, trials and projects emerged, including WiFi hotspots in communities with satellite pay phones initiated by the Department of Broadband, Communication and the Digital Economy (now the Department of Communication). In the final part of the chapter, we consider international models and discuss why they may or may not eventuate in remote Australia.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Papunya Internet and Computer Room</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As mentioned in the previous chapter, the Papunya Computer Room (PCR) was established in early 2009 to provide alternative educative and diversionary activities for young people in the community, especially males aged 14-25 years who had been identified by the Senate Inquiry into Petrol Sniffing.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Central Australian Youth Link Up Service, ‘Papunya Computer Room’, http://caylus.org.au/papunya-computer-room/.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>The Parliament of Australia Senate Standing Committee on Community Affairs, ‘Inquiry into Petrol Sniffing and Substance Abuse in Central Australia’, Commonwealth of Australia, http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2008-10/petrol_sniffing_substance_abuse08/index.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> We followed the evolution of the PCR from 2010-2014. Even within this relatively short timeframe, the PCR underwent a series of significant transitions in adapting to available ICT, including the introduction of mobile coverage, and in attempting to meet the needs of the community. Those engaged in the development of the computer room at the Papunya community grappled with how to facilitate equitable ICT access for local community members in view of social inclusiveness, available forms of connectivity and ICT equipment, technical and training support, ongoing costs and long-term sustainability.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When we visited in 2012, the PCR comprised two rooms within a Northern Territory Department of Education (DEET NT) building in the community – a main room for community use, with eight donated iMac desktop workstations, and a Kunkgas’ room for women and children (as discussed in the previous chapter) with four iMac desktop computers and a lounge area. The computer room relied chiefly on a series of volunteers on short-term contracts to provide administrative and training/mentoring to community members who use its facilities. Use of the computers and equipment was free, so as not to discourage any community members from using the facility. The computer room possessed both an ethernet and wireless network (ADSL) in mid-2012 shortly after the study. The community received mobile coverage in late March 2014.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The main use of computers at the PCR was as a form of entertainment, rather than for communication administrative activities or formal education. Collaborative and creative industries activities featured more significantly at the PCR, but were non-existent in the project communities, which reflects the relative capacity and sophistication of the PCR and the community’s connections with creative enterprises, such as the Papunya-Tula and Papunya Tjupi arts movements, and well-known local bands such as the Warumpi Band and the Tjupi Band. Use of the internet for administrative purposes was lower than on the outstations. While some community members used computers for online shopping, relatively few people undertook tasks such as accessing banking and online services and resources on the PCR terminals. However, there was less need to use the internet at Papunya to contact service agencies, given the presence of government services and organizations such as the Central Land Council (CLC) and the Congress Aboriginal Health Service within the community. When we interviewed PCR staff in 2014, they said that the computers were still being used mainly for entertainment, although Facebook had emerged as a new significant usage. While the coordinator had ‘set up a lot of online banking and things like that’, people generally accessed bank and Centrelink accounts at terminals available for those purposes at the community store, the Centrelink and Shire offices at Papunya.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Evolution of the Maku Shed</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In September 2013, the PCR transitioned to the Maku Shed, a multi-purpose hub that provides a range of social engagement activities for the community. The Maku Shed is a large Nissen hut at Papunya, which had been re-purposed as a men’s social club with pool tables and large screens for watching sport. The computers were moved into the Maku Shed to provide additional activities as part of an overarching exercise in community development that sought to take the computer room to the next level as a self-sufficient enterprise. It was also fuelled by the need to find a larger space for the computer facility, and to support other popular community activities, such as a cooking and nutrition program, and to address the long-term sustainability of the PCR, which had been surviving on a patchwork of philanthropic funds sourced by the Central Australian Youth Link Up Service (CAYLUS).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Papunya store, which is required to put half its profits into community development, supported the transition to the Maku Shed as their main community development project for 2014. At the time, the Papunya store was paying the PCR coordinator’s salary, as well as the Maku Shed’s power and water bills. Internet and computer use at the Maku Shed was made available on a ticketing system, priced from $0.50 to $1, with tickets supplied by the Northern Territory Remote Indigenous Public Internet Access (RIPIA). Soft drinks and evening meals were also sold. While the funds raised by these sales only covered the internet plan, the idea was to give people an understanding of what is involved in running a small business, and to encourage a greater sense of community ownership.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Co-author Eleanor visited Papunya in June 2014 for an update on the transition to the Maku Shed, and on the use of mobile phones after coverage had been extended to the community. The Maku Shed was still using the computers that had been donated to the PCR in 2009 by a youth organization in Melbourne, although some were ‘dying a little’. CAYLUS had given Papunya several more computers since the Shed’s opening, and in June 2014, there were eleven functional computers at the Maku Shed, with three in for repair.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Access and Participation at the Maku Shed</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the previous chapter, we discussed how, with the move into a larger, multi-purpose space at the Maku Shed, the PCR staff found there were fewer issues involving avoidance relationships and gender segregation. Ensuring that the computer room was open during hours that were suited to different age groups in the community became a key factor in facilitating greater access.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Maku Shed hours were changed to a later time slot (1-9 pm) to cater for the use of the facility for youth activities, and so that people could avoid the extremes in temperature by visiting later in the day. The computers were popular with primary school-age kids and teenagers after school, with 17-30-year olds being their main users at night. Consequently, older adults, especially those who were working, were less likely to use the computers. The Maku Shed supervisor commented: ‘There are so many kids in here, from 3:30 to 6 pm; it's so intense the adults don't want to be in here.’ It was rare for anyone over 60 to use the Maku Shed, although middle-aged community members occasionally visited.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>CAYLUS and the Papunya store were initially concerned that particular family groups might dominate, as they had at other facilities in the community. We also heard of this occuring in other communities where shared internet facilities were operating. However, the Maku Shed supervisor thought that avoidance relationships had proved to be less of an issue with the move of the shared facility into a larger space, suggesting that it was more likely that particular family members would commandeer the computer in smaller spaces, including households. She gave an example of a family who’d had a computer at home, but had ended up coming to the Maku Shed because one person had monopolized use of the computer. By contrast, the emphasis of the Maku Shed was ‘more about sharing with community’, rather than being family-oriented. People even came to the Maku Shed to ‘sit on the couch, using their phones because it's a lot more exciting than being at home’.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Supervision, Training and Mentoring at the Maku Shed</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Staffing arrangements, training and mentoring activities played a further role in increasing social inclusion at the shared facility in both of its versions as the PCR and the Maku Shed. When the computer room was located in the smaller DEET NT building, there really needed to be staff of the same sex as users in each of the main and Kungkas’ rooms to ensure that members of both sexes would patronize the facility, and would receive digital literacy training and support.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>CAYLUS and PCR staff mooted that whitefella involvement would always be necessary at a remote community computer facility, because of kinship obligations and avoidance relationships (‘Family relationships get the better of people, because of the level of humbug from kids and so on’). However, greater engagement of community members of both sexes and from different family groups, including autonomously for short periods of time, occurred with the transition to a larger space at the Maku Shed, along with the development of greater ICT skills amongst community members over time. A team of ten local residents supported the Maku Shed supervisor in overseeing use of the computers, but also in running the facility when she was absent from Papunya. In order to deal with any avoidance relationship issues, a male and a female, usually a member of one of the community’s prominent families and someone from another family, were normally left in charge of the Maku Shed.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Scheduling training at appropriate times was mentioned as a significant issue. The Maku Shed supervisor observed external training providers: ‘They choose to do it at the wrong time. If you want to engage people, I think it should be done at nighttime, for one. That's when people are most active around here as well, particularly in summer.’ She stressed that, in providing training to remote community members, it was necessary ‘to be flexible with time. And be really opportunistic. Just grab people when you can. Form those relationships with people so they'll want to attend your class, rather than just say when it's on’. The need for flexibility, along with an individual focus and the development of relationships with community members to understand their learning needs, also accords with aspects of our experience of delivering training to communities in the project.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By contrast, when an outside organization had offered a computer skills course at Papunya – which was held only for a specific week – attendance rates were low, with the ‘usual suspects’ participating and receiving certificates. This outcome was not unusual; organized training had poor participation and success rates across the board at Papunya. ‘Last time anyone tried to do training on an organized scale, only four people got certificates’, the PCR co-ordinator remarked to us in July 2014, ‘and they were four people who were pretty much guaranteed to get certificates anyway’. Community members also perceived a lack of purpose to the organized training delivered at Papunya – that it was unlikely to provide a pathway to local employment. ‘People have been trained in a thousand things’, the PCR co-ordinator observed, ‘but there's no capacity to work [for employment – i.e. very few jobs available locally].’ Likewise, the trainers delivering courses generally did not canvas what community members wished to learn, how they wished to learn, or build relationships through which they might gain some idea of people’s learning needs.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>For a discussion of over-training in Indigenous communities, see H. Hughes and M. Hughes, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Indigenous Education 2012,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> Sydney: Centre for Independent Studies, 2012.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shared Facilities and Long-term Sustainability</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Of the ICT access models available, the shared facility approach, of which the PCR/Maku Shed is the most highly developed, offers the lowest implementation costs, because all the facilities are centralized and shared. However, the operational costs can be very high. These may include the cost for renting secure building space (assuming that is available, which is often not the case), or the expensive alternative of constructing a new building, and of providing and accommodating a supervisor for the Centre.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The access center model will always be constrained by the need for the security of the facility and the availability of a supervisor, and for these reasons most centers only open during business hours, and sometimes for only a few days per week. Supervision brings the obvious benefit that a skilled person is on hand to assist users in using unfamiliar applications, providing ICT training, and solving particular support problems. The access center can also be an effective vehicle for supporting school-based computing activities, provided there is effective collaboration between the schoolteachers and the center supervisor. However, subsidizing the costs associated with engaging a supervisor can be difficult. While these supervisory positions are often staffed by one or more volunteers to reduce costs, that approach introduces a greater than normal administrative overhead to recruit, orientate and manage volunteers who may only stay in the community for one or two months. In the transition from the PCR to the Maku Shed, introducing a fee-for-access model and sales of small items, was insufficient to support a supervisor’s salary, and funds had to be sourced from other community development enterprises within Papunya – an arrangement unlikely to be feasible in a minor community.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Community WiFi Model</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Since the Home Internet Project commenced, another ICT option has been introduced into the remote Northern Territory Aboriginal context: access to community WiFi points and networks. One of the first versions of this approach accompanied the development of the solar-powered satellite community phone in 2009 by APN (the owners of ISP Activ8) for use at small outstations in remote areas. Approximately 300 of these Commonwealth government-funded phones are now in service at remote locations with a population of less than fifty people, and have all been enhanced to provide WiFi access points. This arrangement operates on a ‘BYOD’ (Bring Your Own Device) basis in which individual users supply their own WiFi-equipped laptop, tablet or smartphone computing device to connect to the internet. In 2014, one of the women in Imangara told us she had been using one of these WiFi points when visiting a family outstation. She was very pleased that it was available.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Most versions of the Community WiFi model implemented in remote communities to date are similar to the enhanced solar-powered satellite community phone one, insofar as they are BYOD and consist of a single WiFi access point, which concentrates all ICT users, and hence traffic, around a single point and internet source in the community. But unless the community is small (for example, a family-sized outstation), a single domestic National Broadband Network (NBN) satellite service is unlikely to have the capacity to provide sufficient broadband speed for all the users who may wish to connect simultaneously. WiFi is technically limited to a radius of about 50 meters from the access point, and coverage typically diminishes further with obstacles such as vegetation and building walls (particularly metal-clad walls) in the way, making use within community buildings and houses unreliable. The larger the community, the more access points are needed to provide realistic coverage, particularly if equity of access for all residents is to be ensured.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The potential benefits of WiFi include the ability to install filters and to restrict access when individuals are found to be causing harm online. The spatial consequences of WiFi – how and where individuals access the internet – is an area that requires further investigation. For instance, in April 2015, CAYLUS called for free WiFi to be installed in Alice Springs town camps as a diversionary activity for young people (2015b). A news article quoted Nicholas Williams, a youth worker at CAYLUS, observing that before WiFi was available in Hermannsburg, kids were more likely to be ‘breaking in areas, hanging around where they’re not supposed to’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>R. Ellen and R. Herrick, ‘John Elferink Dismisses Idea for Free Wi-Fi in Alice Springs Town Camps to Reduce Youth Crime’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>ABC News</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Since the WiFi became available, kids tended to use that area, knowing it is ‘their area’, even after hours.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>An example of a community WiFi network which seeks to respond to equity of access issues is that at Milyakburra, a remote settlement on Bickerton Island. This arrangement was set up under the Commonwealth government-funded RIPIA scheme, which at the time was mostly supporting ICT access via library facilities in Northern Territory Top End communities; however, RIPIA installed a WiFi network at Milyakburra because it was so small that it lacked a library or other suitable community building. The network consisted of two wireless access points installed on high points (the roof of the business center and a centrally-located radio mast) within the community, and in-home wireless repeaters were installed in each dwelling so that internet access could be extended to premises at the edge of the community, thus ensuring equity of access on a household basis. Reports from the Northern Territory RIPIA scheme indicated that WiFi access at hubs such as libraries in Top End communities were likewise well-patronized, day and night, by users with mobile devices inside or outside the buildings.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>A. Gray, personal communication, 3 July 2013.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In order to access WiFi hotspots, residents need mobile devices such as smart phones, tablets or laptops. However, the prices of iPads, laptops and other mobile devices can be prohibitive if bought at community stores rather than at electronics shops in regional centers and cities. We observed a number of people purchasing devices on rent-to-buy plans, spending as much as $1,500 in total on an iPad in 2013. The expense and lack of availability of such devices in some very remote locations could undermine the social inclusiveness of this model.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mobile Telephony</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>By mid 2015, mobile broadband coverage for Indigenous residents of central Australia was limited to about 8,500 people in fourteen discrete locations (another four locations were identified as roadhouses and mines), which constituted approximately half the total Indigenous population of the region. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Communities with Telstra mobile coverage in the region as of August 2015: Ali Curung, Ampilawatja, Arlpara, Ti Tree, Yuendumu, Papunya, Hermannsburg, Mutitjulu, Santa Teresa, Lajamanu, Elliot, and Newcastle Waters, as well as the townships of Alice Springs and Tennant Creek, including town camps. The community of Amoonguna had coverage due to its proximity to Alice Springs. Other non-community sites included Granites mine, Barkly homestead/Wayside Inn, Barrow Creek, Urapunja power station, and the Erldunda road house.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Bureau of Statistics, ‘Macdonnel and Barkly Statistical Area 3, Indigenous Profile, by Household’, www.abs.gov.au/websitedbs/censushome.nsf/home.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Four of these sites were completed in 2014 as a joint project between Telstra and the Northern Territory government.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Ampilatwatja, Arlparra, Newcastle Waters, Papunya and Mutijulu. Mutijulu had some coverage prior to this due to its proximity to Yulara (Uluru tourist township).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A number of studies have noted the high rates of mobile phone adoption in remote communities since 2007. Early studies focused on mobile telephony as a substitute for basic telephony services, and therefore did not cover internet use – unsurprising given that smart phone use was lower in general at that time (30 per cent of mobile telephone services in operation allowed internet connectivity in 2010).</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Communications and Media Authority, ‘Communications Report 2009-10’, http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Moreover, data rates for prepaid mobile broadband were high at that point in time, and iPhone and Android phones, which provided the first easy icon-based access to applications rather than internet web browsers, were released in 2007 and 2008 respectively. However, these studies do provide useful insights into the social aspects of early mobile phone adoptions and use. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ingerrekenhe Antirrkweme</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, a 2007 study of mobile phone use amongst low-income Aboriginal people in Alice Springs and town camps, found that 56 per cent owned mobile phones.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Tangentyere Council Research Hub and Central Land Council, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Ingerrekenhe Antirrkweme: Mobile Phone Use among Low Income Aboriginal People - a Central Australian Snapshot</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Alice Springs: Tangentyere Council Research Hub and Central Land Council, 2007, p. 6.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Of the respondents, 72 per cent lived in town (including 33 per cent who lived in town camps where mobile coverage is available), and 25 per cent lived in remote communities. In terms of mobile phone ownership, 69 per cent of those who lived in town had a mobile phone, compared with only 35 per cent of those who lived in remote communities. Participants who were on Centrelink benefits were spending 13.5 per cent of their income on their mobile phone.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Researchers Brady, Dyson and Asela also noted ‘the very high rate of mobile adoption’ amongst remote-living Indigenous people where there was mobile coverage.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>F.R. Brady, L.E. Dyson and T. Asela, ‘Indigenous Adoption of Mobile Phones and Oral Culture’, Cultural Attitudes Towards Technology and Communications, Murdoch University, Perth, 2008, p. 393.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Their study of the Indigenous take-up of mobile telephony on an island in the Torres Strait, published in 2008, attributed the mobile phone’s popularity amongst the Aboriginal population to its relative cheapness and portability, especially in remote contexts where people frequently travel long distances. Mobile phones are also valuable for remote-living people in maintaining family and social contacts, especially given the significance of kinship networks in Aboriginal culture.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and Oral Culture’, pp. 393-4.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The near-ubiquity of mobile phone ownership amongst Aboriginal people in remote Australia, in contrast to the relatively-low uptake of other communications arrangements in these communities, led Brady, Dyson and Asela to conclude that mobile telephony is the most appropriate ‘fit’ for this population. They state: ‘Contrasting the enthusiasm for mobile phones and other ICT deemed valuable by the community […] versus technologies which have been used only with reluctance or for the limited life of one-off projects convinces us that the Indigenous people are making informed choices about their ICT adoption.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and Oral Culture’, p. 396.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>They attribute the preference for mobile telephony to its compatibility with the ‘inherent strengths of the culture’ – communicating by text and calls meshes with the orality of Indigenous tradition – and the degree of ‘motivation’ that this form of communication elicits: that is, ‘motivation is created by fulfilling obligations to family and friends, such as by communication and keeping in contact’. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and Oral Culture’, p. 396.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, the availability of mobile telephones also caused financial problems for some, particularly in relation to data usage. In September 2009, Johnny Namayiwa of Goulburn Island, 300 kilometers northeast of Darwin, went to the media to expose what he saw as an unfair economic issue facing Indigenous people living in remote Australia.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>I. Razak, ‘Telstra Accused of Ripping Off Aborigines’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>ABC News</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, http://www.abc.net.au/news/stories/2009/09/09/2680645.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Mr Namayiwa was alarmed that residents had been phoned by the telecommunications provider, Telstra, and sold $49 mobile plans, but were now facing bills in excess of $1,000. A few days later, having investigated the issue, Telstra stated publicly that they were aware of two such cases, and that much of the cost for the capped plans related to internet use through the mobile phones. In this instance, Tesltra eventually waived the bills.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Access to Mobile Broadband in Ali Curung</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Towards the end of 2013, we undertook two trips to Ali Curung, a town of approximately 500 people near Imangara, to interview residents on their internet use, assisted by two local women and one local man (see description of method in Chapter 2). We spoke to eighty-five people from forty-five households, representing 58 per cent of Ali Curung’s total Indigenous households.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When asked, ‘Do you use the internet?’ only twenty-three (27 per cent) were </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>not</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> using the internet when we spoke to them, and ten of those had used it at some point in the past. Therefore, almost 1 in 7 people who had used the internet at some time were </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>not</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> using it at the time of the interview, demonstrating that some will fall in and out of internet connectivity. Only thirteen people (10.5 per cent) had either never used the internet or were not sure if they had.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Age was not a significant factor in non-use. However, younger people were engaging with more applications and online tasks than older people, and those with mobile broadband were doing more online than those who accessed it only once a week or once a month. The latter group’s uses were confined to Centrelink and checking bank balances.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As Ali Curung is only a twenty-minute drive from Imangara, we were struck by the comparatively high rates of internet use in this larger town, given that Imangara had such low rates when we commenced our research. There were two possible explanations: either Ali Curung, and possibly other communities, had experienced a sudden rise in internet use since 2010, or factors particular to Ali Curung were influencing people’s decision to use the internet. If most people in Ali Curung had started using the internet in recent years, is it possible that Imangara would have done so without our involvement? Both communities have a similar socio-economic profile, suggesting that affordability was not the reason for the difference, even though Imangara residents had indicated that ‘money’ was a reason they did not have internet connections at the start of the project. Some Imangara residents appeared to spend time in Ali Curung on occasion (one Imangara resident relocated to Ali Curung during the course of our research), suggesting that some level of knowledge transfer between the communities was likely.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We asked the residents of Ali Curung how long they had been using the internet or had owned particular devices, and found that 65 per cent of users had first started using the internet three years ago or less. Ali Curung received mobile phone reception prior to 2009, and mobile phones were the most common means of accessing the internet: 67.4 per cent of those interviewed owned a mobile phone (or possibly had easy access to a family member’s), and 57 per cent of those were using their mobile phone to access the internet. However, when asked, ‘How long have you had a mobile phone for?’, 60 per cent told us that they had possessed a mobile phone for three years or less, suggesting that smart phone adoption and internet use through the mobile phone had occurred in recent years in Ali Curung, and somewhat rapidly. Only 32 per cent of people had owned a mobile for between five and ten years, while just over 5 per cent had owned a mobile phone for more than ten years. Tablet devices were reasonably popular with just over 30 per cent of people in possession of one. However, 70 per cent of those who had a tablet device had owned it for six months or less. Of the forty-five houses, seven had a desktop computer, only one of which was connected to the internet by a USB 3G mobile broadband stick modem. No households had a satellite internet connection. In addition, thirteen people were using the desktop computer at the Shire office, but only for Centrelink and internet banking. Nineteen people (22 per cent) told us that they had a laptop computer, although some of these may have been shared.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Importantly, none of those who were using the internet at the time were paying for the internet through post-paid billing. All who were paying for the internet (forty-five in total) were purchasing pre-paid mobile broadband credit, which was available for purchase at the store. The decision to choose pre-paid over post-paid plans enables people to avoid the bill shock experienced by Mr Namayiwa in the above example. One consequence that we observed in the Ali Curung study is that people are regularly without internet when their pre-paid credit expires, and some were topping up credit frequently. Sharing of devices, and hence sharing of credit, appeared to be common. One-third of those with an internet connection stated that they sometimes shared the cost with others.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>So as it turns out, internet use in Ali Curung was probably much lower in 2010 when our first interviews in Imangara were occurring. However, when we analyzed the evidence from the Ali Curung study in relation to the broader findings of the home internet project, we concluded that Imangara might not have experienced the sudden rise in internet adoption in the absence of an assistance program. Without deliberate substitutes (including initiatives such as community WiFi or the assistance offered by us in the outstations), the way in which mobile broadband is sold, as well as the simplicity of connectivity through mobile broadband devices, circumvents some of the obstacles we observed in relation to satellite internet on the outstations. In Chapter 9, we discuss further the ‘digital choices’ being made in remote communities, and provide a theoretical framework for thinking through the unevenness of internet access between communities and regions.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Dish</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2014, co-author Andrew developed a low-cost means of extending mobile coverage to locations within 40 kilometers of mobile reception. The invention was to become the Centre for Appropriate Technology’s (CAT’s) mobile hotspots project. Each hotspot consists of a re-purposed domestic satellite dish, which is used to amplify a nearby mobile signal. The structure uses no power or software to operate, and needs no maintenance, requiring only to be placed at a suitable height within the (extended) range. The first hotspot was placed in Boggy Hole, established in conjunction with the CLC, and allows tourists and locals who have become stuck on the notoriously-bad road to the Finke National Park to call for help.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>E. Sleath and N. Maloney, ‘Mobile Phone Hotspots Trialled in the Outback’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>ABC News</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, http://www.abc.net.au/local/stories/2015/03/16/4198439.htm.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The hotspot is now also being used in communities just outside of mobile range, and at other highway spots where people can be stranded waiting for a lift or bus. In 2015, the Northern Territory government and the Aboriginals Benefit Account funded a total of thirty dishes in the central Australia region. Among the first sites to get a dish were Imangara, which receives a signal from Ali Curung; Tara, which now benefits from the Barrow Creek mobile phone tower (Chapter 1); and the bus stop on the Stuart Highway at the turnoff to Ali Curung.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>International Developments: Microtelcos</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2013, an independent ISP in Papua, Indonesia, turned their existing network into mobile broadband using a low-cost, open source base station technology created by US start-up company Endaga, created by PhD student Kurtis Heimerl at the University of California, Berkeley. The ability to access voice, SMS and data over mobile phones meant that those living in the village could easily reach people who were gathering supplies in town, a two-day trip by road.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Endaga sales material, endaga.com.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Endaga provides a retail mechanism, including SIM cards and internationally-recognizable phone numbers that enable entrepreneurs to establish their own ‘microtelco’ and charge users for calls. The technology is robust, does not require expensive protection from the elements and airconditioning, and can be mounted in trees or on water towers as long as there is a power source.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A number of remote Indigenous communities in Mexico have also installed low-cost mobile base stations, and are transmitting using spectrum that is made available for Indigenous community radio in places where that spectrum is neglected by national spectrum licensees (under Mexico’s constitution).</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>‘DIY Telecoms’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Economist</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (March 7 2015</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>)</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The Mexican network was established through Rhizomatica, an NGO with a mission to ‘increase access to mobile telecommunications to the over 2 billion people without affordable coverage and the 700 million with none at all’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rhizomatica, ‘About’, http://rhizomatica.org/about-2/.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Previously, residents were using landlines that charged a per-minute fee, required standing in line, and using runners to inform each other of incoming calls. Following years of unsuccessful lobbying to get telecommunication companies to provide mobile broadband services, the communities decided to use their municipal money to establish their own community-owned and operated micro-telecommunications enterprises in rural Oaxaca, Mexico, with each base station costing approximately $US7,500.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>T. Hatt, K. Okeleke and M. Meloan, ‘Closing the Coverage Gap - a View from Asia’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>GSMA Intelligence</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (June 2015</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>)</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In January 2015, Mexico assigned radiospectrum ‘cellular’ bands for ‘social use’, and created fifteen-year not-for-profit licences.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mobile telephony has become a significant enabler in the developing world, used for financial transactions such as remittance payments from migrant workers to their home families, or assisting small-scale farmers and traders to share information. Often the ‘everyday’ means of being informed and communicating, write Goggin and Clark, can result in economic and social opportunities, ‘activating important dimensions of human rights in development, building upon and extending the well-recognised contribution of telecommunications’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>G. Goggin and J. Clark. ‘Mobile Phones and Community Development: A Contact Zone between Media and Citizenship’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Development in Practice</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 19:4-5 (2009): 595.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Great Indian Phone Book: How Cheap Mobile Phones Change Business, Politics and Daily Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Robin Jeffrey and Assa Doron describe how telecommunications companies competed with each other during the early 2000s to capture the large population base of poor and illiterate people in India as a market in order to ensure the viability of the roll-out of mobile telephone infrastructure. Thus: ‘[T]ens of millions of people had to acquire telephones if mobile telephony was to reward the huge investment required to build and maintain vast networks of mobile cell-towers.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Doron and Jeffrey, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Great Indian Phone Book: How the Cheap Cell Phone Changes Business, Politics, and Daily Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 72.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The competition between companies resulted in dramatic cuts to the cost of calls and phones in an effort to make prepaid mobile phone plans affordable ‘even [for] those who could make only a small investment’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Doron and Jeffrey, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Great Indian Phone Book: How the Cheap Cell Phone Changes Business, Politics, and Daily Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 72.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> However, a further aspect of courting this low-socio-economic-status market base involved tailoring their customer service experience so that it was ‘cheap, easy and fast’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Doron and Jeffrey, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Great Indian Phone Book: How the Cheap Cell Phone Changes Business, Politics, and Daily Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 72.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> One company, Bharti Airtel, tried to incorporate a range of retail outlets into their sales chain, and to demystify the processes around obtaining and using mobile phones by training a network of dealers to sell and install SIM cards on new customers’ phones: ‘To the uninitiated, the procedure seemed difficult, though it took only a few experiments with phones to learn how to change SIM cards confidently.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Doron and Jeffrey, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Great Indian Phone Book: How the Cheap Cell Phone Changes Business, Politics, and Daily Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 72.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This simple process, however, involved a significant outlay of financial and training resources, as ‘it took thousands of hours of training to bring tens of thousands of hours of training to bring tens of thousands of distributors, travelling salespersons and small shopkeepers to a basic level of confidence’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Doron and Jeffrey, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Great Indian Phone Book: How the Cheap Cell Phone Changes Business, Politics, and Daily Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 74.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> While that scale of operation would not be required to train an ISP’s customer service representatives to broker satellite broadband access and plan payment for remote Indigenous consumers, the market drivers stimulating competition between the Indian telecommunications companies to create cheaper phone packages and more user-friendly processes for a low socio-economic status group do not exist to the same degree in remote Indigenous Australia.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Galperin and Girard see potential in microtelcos, defined by Galperin as ‘small-scale telecom operators that combine local entrepreneurship, innovative business models, and low-cost technologies to offer an array of ICT services in areas of little interest to traditional operators’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>H. Galperin, and F. Bar, ‘The Microtelco Opportunity: Evidence from Latin America’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Information Technologies &amp; International Development</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 3.2 (2006): 73.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Microtelcos promise to overcome inequities in mobile broadband access due to their creative approaches to capital, labor and technology that ‘maximize returns based on their knowledge of local conditions and demand preferences’. Microtelcos are thus capable of ‘finding business models (including payment collection mechanisms) appropriate to local conditions’ where large operators are reluctant to go.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>H. Galperin and J. Mariscal, ‘Digital Poverty: Latin American and Caribbean Perspectives’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Practical Publishing</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (2007), http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html, p. 96.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What are the prospects for microtelcos in Australia’s remote Indigenous communities? Australian telecommunications spectrum regulation does not allow for ‘use it or lose it’ style spectrum access that Indigenous communities in Mexico exploited. However, in Australia, individuals and organizations can apply to the ACMA for a public telecommunications service licence using various paired frequency ranges.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The cost of a microcell itself is perhaps affordable for small communities that have access to mining royalties and the like (within the range of USD$3,000-6,000, although electricity and maintenance costs would also need to be factored in). Microtelcos can operate to a reasonable standard using non-geostationary satellite backhaul.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Such as the O3B non-geostationary satellites (backed by Google and other investors), which orbit close to earth and therefore offer low latency speeds – making voice connections acceptable – and fast loading for data services. O3B was designed to serve the ‘Other 3 Billion’ who do not have internet connections, and is providing satellite backhaul for mobile broadband in countries such as the Solomon Islands.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> However, the costs of backhaul can be high in Australia. It is also worth noting that although companies such as Endaga provide phone numbers and interconnection to service providers, in 2015 the wholesale price of a single phone number (purchased by the service provider and presumably factored into call charges) is currently six times that of a phone number in the US, and incurs incoming call costs. Therefore, although microtelcos could emerge in remote Australia, providing a competitive call charge rate to consumers could be a challenge.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As discussed in Chapter 1, Australia’s Universal Obligation provides subsidies to the Universal Service Obligations (USO) provider (Telstra) for standard telephone services and payphones only. As Stuart Corner writes, when the Labor government made changes to the USO 2012 (in order to accommodate the NBN), many believed that an opportunity for radical reform was missed, including the possibility of a USO that would take account of the ‘popularity and reliance on mobile telephony’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>S. Corner, ‘Universal Telecommunications Services: A Brief History and Analysis of the Issues Surrounding the New Australian Legislation on the Universal Service Obligation’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Telecommunications Journal of Australia</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 62.2 (2012): 22.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> If the USO was adapted to encompass mobile voice services, then subsidies could be directed towards the most socially-desirable infrastructure, perhaps paving the way for greater penetration of mobile coverage in remote Australia.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Conclusion</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In Chapter 1, we discussed the history of telecommunications in remote Australia as being defined by the consequences of low population density, where metropolitan areas have subsidized infrastructure to regional and rural areas.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Corner, ‘Universal Telecommunications Services: A Brief History and Analysis of the Issues Surrounding the New Australian Legislation on the Universal Service Obligation’.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>S. Davies, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Urban Based Support for Rural and Remote Australian Telecommunications</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Broadband for the Bush Alliance, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The various scenarios outlined above, including computer centers and public WiFi, are attempts to provide some means of access in conditions of market failure. Public WiFi, which in other contexts is a transitory solution for people when away from home and work, is intended as a first level of service in some remote communities, making up for the lack of fibre optic and mobile broadband infrastructure. Remote communities, such as the Maku Shed in Papunya, have been experimenting with how to make public WiFi sustainable. However, there is no clear path to ensuring that WiFi or mobile broadband are possible in communities of all sizes, or how these might tie in with existing infrastructure and legislative technologies such as the NBN and the USO.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Chapter 9: Digital Choices</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2010 we presented the outstation residents with a list of reasons that might explain why they had not already purchased internet subscriptions, based on what they had told us in earlier consultations. We then asked them to rank the reasons in order of significance. The greatest barrier to internet adoption turned out to be what we, for the sake of language simplicity, had called ‘no cash/too costly/$’. Other reasons included ‘Not important’; ‘No-one to help fix them’; ‘Don’t know how to use it’; ‘English too hard to read’ (we verbally explained the list for those for whom English was indeed too hard to read). By the end of the project when residents were given the option to maintain the internet at their own expense, ‘no cash’ emerged again as the major factor. However, ‘no cash’ was not necessarily just a matter of affordability, but of a more complex and intertwined set of issues to do with the flow of money within and out of the community, time-specific spending priorities, and – most importantly – the difficulties of paying for internet and navigating payment systems. Some of the other barriers identified at the start of the project were also likely to have related to the broad category of money, such as poor English language inhibiting people from understanding the various contracts on offer.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Thus the problem of money was not necessarily a matter of what one was prepared to pay, but of how things were paid for. As discussed in the previous chapter, satellite broadband was available at cheaper rates than mobile broadband in Ali Curung, and yet none of the households we spoke to (half of all houses in that community) had a satellite internet subscription at the time, while around 70 per cent of people had mobile broadband. Not everyone managed to maintain a prepaid mobile broadband all the time, which indicates that affordability was indeed an issue. However, it was clear that people were willing to pay for the internet when they could, but only under circumstances that suited them.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The concept of the digital divide is based on the idea that consumer choice alone will not create an equitable society (see Chapter 2). However, what if the choices on offer – including the retail mechanism and devices – were to change or expand? Some of these offerings might meet the needs of those who were formerly not able, or not inclined, to adopt. Moreover, once some people acquire the internet, they may influence others to do the same. In this chapter, we explore the social dimensions of ‘digital choices’ in relation to the digital divide in remote Australia. In the final part of the chapter, we provide a theory to explain the digital divide in remote Australia, which we call ‘the demic dealbreaker’, expanding on economic choice theory to take into account how the sociality of place and network effects can lead entire communities and groups to adopt or not to adopt. The theory provides a means for thinking through different arrangements and policy approaches that may help to resolve the digital divide in remote Australia.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Digital Divide and Disadvantage</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Two decades of digital divide studies tell us that internet adoption falls along socio-economic lines, relating variation in the use of digital and online resources to differential social advantage.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>K.R. Wilson, J.S. Wallin and C. Reiser, ‘Social Stratification and the Digital Divide’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Social Science Computer Review</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 21.2 (2003).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and Dynamic Phenomenon’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Information Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 19.4 (2003).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Norris, Pippa. ‘The Worldwide Digital Divide’, Annual Meeting of the Political Studies Association of the UK, London School of Economics and Political Science, 2000.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>N. Selwyn, ‘Reconsidering Political and Popular Understandings of the Digital Divide’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>New Media &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 6.3 (2004).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Early studies revealed that those who were quick to adopt the internet were earning more, and had higher levels of schooling, than those who were not. The trend continued, with those least likely to use the internet also the most socially excluded.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Dutton, Shepherd C. Di Gennaro, ‘Digital Divides and Choices Reconfiguring Access: National and Cross National Patterns of Internet Diffusion and Use’.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> For instance, Helsper’s analysis of three major datasets in the UK revealed that three out of four of those who suffer ‘deep’ social exclusion have only limited engagement with internet-based services, and are seven times more likely to be disengaged from the internet than those who are socially advantaged.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Helsper, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital Inclusion: An Analysis of Social Disadvantage and the Information Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, p. 9.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The ‘stratification hypothesis’ is also supported in the World Internet Project, which revealed that the internet is used more by the highest-income quartiles in twelve participating countries. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices Reconfiguring Access: National and Cross National Patterns of Internet Diffusion and Use’, p. 33.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the case of Indigenous Australia, it is possible to draw a correlation between the digital divide and disadvantage. A series of studies by the Centre for Aboriginal Economic Policy Research has found that, overall, Indigenous people living in urban and town locations are better off than those living in remote areas. In all parts of the country (remote and non-remote, with a significant Indigenous population), Indigenous people were also found to be worse off than non-Indigenous Australians living nearby across a range of socio-economic measures, including educational attainment, income, labor force participation and housing.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>N. Biddle, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>CAEPR Indigenous Population Project 2011 Census Papers</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Canberra: ANU Centre for Aboriginal Economic Policy Research, 2013.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> They are also the least likely to have an internet connection at home, seemingly supporting the hypothesis that social exclusion and digital exclusion influence each other.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Bureau of Statistics, ‘Patterns of Internet Access in Australia’, http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In an analysis of the 2006 census data, the Australian Bureau of Statistics suggested that ‘the lower rate of connectivity for Indigenous people might be attributed to a range of several socio-economic factors’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Australian Bureau of Statistics, ‘Patterns of Internet Access in Australia’.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The statistics reflect significant hardship experienced by many living in remote communities, hardships that many of households in this book experienced to varying degrees, from subtle to extreme.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, as discussed in Chapter 8, by 2013, broadband adoption was high in Ali Curung, where there were different choices on offer through mobile broadband retail. We confirmed this observation through a close analysis of 2011 census data. The result aligned with our own observations of differences between Ali Curung and outstations where satellite was the only option: where there was mobile broadband, people were far more willing or able to have an internet connection.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2011, only 11 locations in the southern half of the Northern Territory (south of 19 degrees South) had mobile phone coverage. These were the townships of Alice Springs and Tennant Creek (including town camps), the tourist resort of Yulara (near Uluru), three highway stops, and five remote Indigenous communities (Yuendumu, Hermannsburg, Ti Tree, Santa Teresa and Ali Curung). The towns, their town camps (Indigenous housing estates), and the five remote communities can be identified in the census data using the Indigenous Structure of the Australian Statistical Geography Standard, which enables analysis of discreet communities, or of a group of small communities in a given area.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>It is possible to do this analysis by aggregating populations at a more nuanced level by mobile reception coordinates rather than ILOCs. However, Telstra was unable to provide accurate coordinates for mobile coverage in 2011.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Where the boundaries correspond to a particular community or town with mobile reception, it can be assumed that most of the houses in that Indigenous Location (ILOC) have coverage, or are in close enough proximity to mobile reception for it to be a viable option for broadband consumers. This is not the case with three ILOCs that cover large areas, and where there were likely only to be pockets of reception: ‘Julalikari – Outstations’ (forty Indigenous households, some of which may be in close proximity to Tennant Creek), ‘South MacDonnell Ranges’ (seventy-two Indigenous households, some of which may be in close proximity to Alice Springs), and ‘Tjuwanpa Outstations’ (thirty-eight Indigenous households, some of which may be within range of Hermannsburg mobile reception).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We found that across all ILOCs known to have mobile reception in 2011, at least 40 per cent of households had an internet connection of some kind (13 percent were not stated and 47 per cent reported they had no internet connection). This compares with only 4 per cent of households with an internet connection in areas that did not have mobile reception. (The number increases to 7 per cent when the Julalikari, South MacDonnell Ranges and Twanpa Outstations are included – nonetheless a striking difference).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is worth noting that although it should be possible to tell from the census data what kind of connection people were using, we decided that this particular information was unreliable, and therefore used only the ‘internet/no internet’ figures.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Peculiarities in the data relating to the type of internet connection are likely to have been the result of the way in which the survey was administered. The census is completed in remote communities with the assistance of ABS staff, who administer the survey door-to-door, whereas elsewhere it is completed by household members either online or on paper. The census asked residents what type of internet connection was available at the dwelling. The options included ‘broadband’, ‘dial-up’ and ‘other’, with an explanatory note that ‘other’ includes ‘internet access through mobile phones etc’. However, in Santa Teresa, a community with mobile coverage, no dwellings were identified as having an ‘other’ internet connection, while thirty houses chose ‘not stated’. In Yuendumu, twenty-seven houses stated that they had an ‘other’ connection and only three were not stated. There are a number of possible explanations for these inconsistencies, including whether the question was adequately explained to the participant, as well as confusion as to whether individual access to the internet via a mobile device is considered to belong to a dwelling or not. Despite these discrepancies, when grouped into ILOCs with mobile coverage and those without, the differences in internet adoption appear to be statistically significant.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> As Indigenous households in many of these communities share a similar socio-economic profile, we can conclude that social exclusion is not necessarily the cause of digital exclusion. Even when money is tight, we found that many people are prepared to pay for the internet when they have experienced it on an ongoing basis. Internet adoption is not ‘determined’ by one’s socio-economic status, but can be a choice that is made when various factors of convenience and motivation are weighed up. The reasons underpinning the decision to purchase internet services, and the circumstances that inform that choice, are intricately tied up in contemporary and traditional obligations and patterns, and the pressures and preoccupations of daily life. We return to this point at the end of the chapter, discussing how the decisions of some can, through network effects, slow down internet adoption for the community or group. First, however, it is necessary to examine the ‘digital choices’ informing internet adoption in remote communities.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>‘Worry About the Internet’</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We returned to the communities four months after the transition to self-funded internet access arrangements to see how they’d fared. We planned to drive from Alice to Tennant Creek, visiting Mungalawurru first, but we stopped off at Imangara en route to remind them we’d be visiting later in the week.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When we drove into the community, Mary hurried out onto her verandah and said there’d been 'worry about the internet'. She was particularly concerned about not being able to access her bank account. We then talked to another woman, Louise, who told us that her internet connection was still working – she’d been checking Westpac and Gumtree but she hadn't been able to use her email account. She produced a letter she’d received from the internet service provider (ISP), which she didn’t understand, and showed it to us. The letter was dated four months previously, and it said that the ISP had changed her password to protect her privacy, and that she would have to ring them to get the new one. She also told us that Emily’s WiFi wasn't working; she wasn't sure why, but she thought Emily mightn’t have paid the bill.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We weren’t totally surprised by these developments, because co-author Andrew had noticed problems with payment of some accounts before we’d left Alice Springs. Mary had also rung him a couple of times, wanting to know what had happened to her internet access. When we stopped off at the store near Imangara, the storekeeper told us she thought some community members’ accounts had lapsed after three months because they hadn’t paid their bills. She observed that most people in the community seemed to spend their money quickly, on or just after ‘payday’, when they received either wages or social security payments. The older people in particular tended to swipe through as many purchases as possible, often for younger family members, until their available credit was exhausted. The absence of money in their accounts so soon after payday would also explain why so many of the ISP’s direct debits bounced, because the monthly billing date would not necessarily coincide with the fortnightly wage and social security payments community members received.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We encountered a similar situation at Mungalawurru the next morning. One family had been using their computer to lodge their Centrelink forms until one day in February, when the internet had stopped working. The husband had intended to submit his form that day, but lodged it in town instead because ‘the internet was closed’. They’d tried a neighbour’s house but the internet was not working there either. 'Everyone's using the phone now’ to lodge their Centrelink forms, the wife told us. When we rang the ISP later, they confirmed that they would give customers three months' grace to pay bills before cutting them off. Payments had been going through to their account for a time, but when the payments stopped, the ISP eventually cut them off.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When we saw the neighbour the next day in Tennant Creek, she told us that although she was having problems accessing the internet on her home computer, payment wasn’t the issue: she was up to date with her account. Andrew checked online on their behalf, and made a list of who was not up to date with payments, and the neighbour wasn’t one of them.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The following morning, we visited Karen, who’d been living in a town camp in Tennant Creek (since moving from Mungalawurru) to be with her eldest son when he started school. She was using a prepaid mobile phone plan ($40) to access the internet on her computer, which she topped up regularly: ‘I’d never want it to run out because I like the internet.’ She was still the main computer user in the house, and downloaded music onto USB keys for other family members. Although she kept the computer in a ‘special place’, she preferred using it in Mungalwurru where it was ‘okay’ – that is, safer because she had more control over it.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the afternoon, we drove back to Imangara and organized a meeting at the Women’s Centre the next day, so people could ring the ISP and sort out their billing situation. It had been raining heavily in the Barkly the week before our visit, and people were more comfortable sitting outside the Centre on plastic chairs rather than clustering around a telephone booth in the mud. A group of people joined us, and Andrew rang the ISP. He told the support person that we were ringing from a remote community in the Northern Territory, then put one of the residents on the phone. She had had problems reading the original letter from the ISP; it wasn’t clear whether this was because of sight or literacy issues, or a combination of both. The ISP representative gave the woman an email ID and a new password, which Andrew recorded for her. Another woman spoke to the ISP about her billing situation and the debt on her account. When we’d spoken to her the previous day, it wasn’t clear whether she realized her internet connection had stopped working because she hadn’t paid, or for some other technical reason. The ISP was prepared to waive her bill if she paid $40 in the next couple of days.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>After the meeting outside the Women’s Centre, we visited Mary to discuss her billing situation. We suggested to her that she ask some of her grandsons to contribute to the bill, which by then had accrued to $140, because it wasn’t fair that she should pay the whole thing when they were using the internet too. We weren’t sure whether Mary would run with this idea, but she said, ‘No, it’s not fair’, and, nodding at her grandson, ‘Don’t worry, I’ll deal with this’. She addressed him in language; he looked uncomfortable, but agreed that he would make a contribution to the bill. Mary wanted to alternate the direct debit payments between herself and the grandson on a monthly basis, but we told her this wouldn’t be possible, and that he’d have to organize a transfer from his account or pay her $20 in cash per month. The man’s wife agreed; she’d been quietly following the conversation, in deference to Mary as a senior woman perhaps, but she seemed to be on top of the detail.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We saw Mary later that day. She’d been down to check her account at the store, but discovered she didn’t have enough money to pay the outstanding amount. We said it was possible the ISP might waive her bill with a part payment, as they’d done with others’. In any case, she seemed keen to maintain internet access so she could check her Centrelink and bank balances, but also for her adult children’s and grandchildren’s use.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As mentioned at the start of the chapter, we expected that ‘billing and household economics [would] play a role’, and speculated that the interplay of factors such as low incomes, high unemployment rates, and higher-than-average numbers of dependents living in remote community households would have some impact on affordability, though we did not know which factors would prove most significant.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rennie et al., ‘At Home on the Outstation: Barriers to Home Internet in Remote Indigenous Communities’, p. 590.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> While cost did not impact greatly on community members’ choices to continue internet access during the transition period, billing and management of payment of plans emerged within several months of the introduction of self-funded internet arrangements as a decisive factor affecting their capacity to maintain internet access on the home computers.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In particular, the incapacity of the ISP’s billing mechanisms to accommodate aspects of the remote community members’ circumstances proved problematic, such as their style of social organization, along with the level of English literacy and whitefella administrative facility required to negotiate interactions with the ISP’s processes and customer service representatives.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Facilitating Equitable ICT Access in Remote Indigenous Communities</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The immediate change for householders after the transition was the need to pay for their own individual internet accounts. However, since the services and facilities were already in place in the communities, affordability was not such a major factor, because the actual amounts people chose to pay for internet plans were fairly modest ($3540 per month). Generally, those households who prioritized ICT access were likely to be able to find the resources to keep an individual internet service operational, even though it was not subsidized. Residents were also aware of the costs associated with appliances and energy consumption, and knew that computer usage could increase their power bills (already averaging around $50 a month). This awareness of the need to manage increased household service costs was also reflected by some residents’ attempts to limit other community members’ and visitors’ computer and internet access through the use of passwords, and thus control their power bills.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Despite the willingness of some community members to allocate a portion of household budgets to internet services, navigating and managing the ISP’s billing mechanisms proved problematic for them. About half the householders struggled over the first six months to maintain sufficient balances in their nominated bank accounts to support the monthly payments when they became due, resulting in temporary loss of internet access in some cases, and much larger withdrawals when the accrued fee was eventually debited. While in theory the ISP offers a pre-paid account option that might relieve this situation, it requires payment for six months’ usage in advance, which is too high a lump sum payment for remote community residents operating on very low incomes. One obvious improvement would be a ‘pay by the Gigabyte’ pre-paid satellite broadband option, analogous to the well-established pre-paid SIM option for mobile phones, which would overcome the need to involve the customer’s financial institution in both the application process and monthly billing. However, in our conversations with retail service providers, we learnt that such arrangements are thwarted by the way in which they are required to purchase satellite capacity from the wholesaler, the National Broadband Network (NBNCo).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Central Australian Youth Link Up Service (CAYLUS) has documented similar situations that have emerged in other central Australian communities without mobile coverage, in which local families applied with the assistance of the local regional council for satellite accounts under the NBN so that they could have internet access on a household basis.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Central Australian Youth Link Up Service, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Proposal Re: Better Way of Providing Broadband in Remote Communities</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Alice Springs: Tangentyere Council, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> These internet services have since fallen into disuse after families defaulted on payment for broadband plans. Households were unable to pay the bills because their resources were spread too thinly amongst a large number of highly-mobile residents, making regular payment almost impossible. As in the post-transition phase at the communities, these residents struggled with the administrative processes required to terminate the direct debit arrangements, because of the level of ‘English legalese’ needed to negotiate with service providers. Some people who signed up for direct debit for internet plan charges were still being billed, even though they no longer received a service. There was no onsite or external expertise available to repair or replace any computer equipment that was damaged. Essentially, this household computing arrangement languished because of a lack of ongoing IT technical support to assist community members with maintenance and administrative issues. The only conclusion to draw from these experiences is that subsidies for satellite broadband connection in remote areas are not sufficient to support ongoing home computer and internet access for remote Aboriginal communities without external assistance for the installation process, and for more complex technical and maintenance support issues.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>At the start of the project, we speculated that provision of broadband on a household basis might be incompatible with remote Indigenous people’s social and economic modes of organization, because in ‘smaller communities, the extra-household economy may be more important than the individual household, whereby linked households share resources’, and thus ‘[r]esidents might seek contributions to bills quickly from a number of people who are not necessarily residents of that household’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Rennie et al., ‘At Home on the Outstation: Barriers to Home Internet in Remote Indigenous Communities’, pp. 591.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Hogan et al., </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Submission to the Inquiry into Issues Surrounding Cyber-Safety for Indigenous Australians</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, as discussed in Chapter 3, households tended to be fairly autonomous in their ownership and usage of the home computers and internet access. Instead, the trend was towards discrete family/household, even highly-personalized use of the PCs, even those situated in shared, public spaces. Additionally, as the trial progressed, there was increasing recognition of personal ownership, particularly as people became more aware that the financial costs of maintaining the ICT and internet access were being borne by the owners. This in turn seems to have impacted on the extent to which, and circumstances in which, owners were prepared to allow others to use their computers, with people becoming less inclined to share their PCs and internet access with individuals outside of their immediate family/household.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As they transitioned to self-maintained services, the majority of households opted for individual internet services and accounts (as in the story in Chapter 3 recounted about Mary’s family’s negotiation of ICT arrangements), with most householders being unenthusiastic about paying for their neighbours’ use. We saw a similar trend across households, whereby usage was confined to immediate family members rather than shared with the community. Consequently, participants opted to pay for internet use on a household basis, with payments made from the account of the resident within the house who was generally the most active in the project.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In their research into the social and economic composition of Aboriginal households at Kuranda in north Queensland, Finlayson and Auld found similar trends within household financial management to those discovered by Smith:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Economic units within households do not necessarily share resources and do not all contribute to the common financial costs of managing the dwelling itself. Even amongst core residents, joint contributions to household finances are not regularly given. Most household members take the attitude that their incomes (welfare in large part) belong exclusively to themselves […] People without cash incomes may be financially supported to a certain extent by others, but such support cannot be relied upon for long periods.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>J. Finlayson and A.J. Auld, ‘Shoe or Stew?: Balancing Wants and Needs in Indigenous Households: A Study of Appropriate Income Support Payments and Policies for Families’, ANU Centre for Aboriginal Economic Policy Research Discussion Paper No. 182, 1999.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>D.E. Smith, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Toward an Aboriginal Household Expenditure Survey: Conceptual, Methodological and Cultural Considerations</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Canberra: ANU Centre for Aboriginal Economic Policy Research, 1991, p. 13.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We observed that the burden of payment for household internet access often fell heavily on the individual whose account was used, as in the case of a participant like Mary, who paid for her household’s internet and computer use without receiving financial contributions from them, or without having any straightforward way of doing so through online billing. Ultimately, her internet plan was suspended, because the demands from family on her finances were such that her bank account was empty soon after payday, which meant that funds were unavailable on the internet plan’s monthly payment date.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, those with responsibility for the computers did come up with some quite innovative solutions, such as those mentioned above (monthly payments to alternate between different people’s accounts, or setting up a separate account solely for internet plan payments). A facility to synchronize internet plan direct debits with payment of wages or social security benefits, potentially as a BasicsCard essential service deduction, could also be an arrangement more suited to remote community members. However, at the time when these particular houses were attempting self-funded arrangements, only limited payment options were available, and the ISP was not flexible enough to accommodate arrangements that would be more amenable to remote community members’ financial and social circumstances.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Additionally, in Chapter 3, we noted that although the computers and internet access were valued at a broad level by the residents, the extent to which they were valued varied among individuals and changed over time, and fluctuated according to circumstances. For example, there may be instances whereby people prioritize expenditure on other items, such as fixing a car or paying for a funeral. Billing and payment methods not only need to be more flexible to accommodate greater residential mobility than is the case in the mainstream, but also in order to recognize the financial circumstances that surround many individuals living in remote communities.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Communication Challenges: Negotiating Whitefella Systems</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The difficulties the residents encountered with the administrative aspects of managing their internet plan and email accounts after the transition to self-funded arrangements were not surprising. As discussed in Chapter 2, we experienced some arduous processes when setting up the accounts ourselves. The technical team’s facilitation of the application for NBNCo Interim Satellite Service (ISS) services, and their implementation on behalf of twelve households, was also a resource-intensive experience. Each instance required a mixture of online, postal, text message, email, and phone transactions, including obtaining the householder’s signatures for the registration, service application and payment forms. While the majority of such transactions proceeded smoothly, they required regular liaison between the facilitator, the customer and the provider to ensure that the customer would be at home when signatures were needed, or when the installer was due to arrive onsite. It is unlikely that the residents would have been successful in carrying out the various steps required for the transition to occur with their limited telecommunications options and knowledge of the processes, combined with the NBNCo and ISP staff’s relatively uninformed perceptions of remote community realities.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A further example of the communication issues that can emerge between ISPs and remote community residents was the confusion caused by the password changes the ISP made to the residents’ email accounts after the transition. The residents’ applications for their new internet services during the transition included the technical team’s contact details for coordinating the installation process; the technical team members then informed the residents of their new email addresses and passwords. However, a couple of months after the transition occurred, the ISP decided that the provision of these passwords to the technical team was a security breach, because the team members were ‘not authorised contacts for the residents’. Consequently, the ISP unilaterally changed most of the passwords, cutting the technical team, and therefore the residents, most of whom could not be contacted except by post, out of the dialogue. Despite now having their new internet service, the residents could not use email, and could not access their online account details to make contact with the ISP. A letter arrived in the post from the ISP some time later advising them to phone in for their new password, but this left most residents in a state of confusion. Even Louise, who had more facility and confidence in relating to whitefellas and their forms of administration than most other participants, struggled to understand the letter, because of the level of ‘legalese’ used.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The fact that even the more ICT- and financially-adept residents had not made any attempts to contact the ISP to resolve their respective internet and email account problems indicates how incomprehensible and daunting the residents found aspects of the ISP’s administrative processes to negotiate without the assistance of an intermediary. The series of actions that ISPs require customers to go through to obtain satellite broadband service and manage payment of an internet plan is reasonably straightforward if the customer is readily contactable by phone, has a good grasp of English, and has sufficient knowledge about broadband services to be able to make an informed choice of service plan. However, the process is much less straightforward when the customer does not meet all of these criteria, as is often the case for remote community residents where the only external communications option is a single payphone.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These challenges can be further compounded by the prevalence of hearing and eyesight issues in remote communities. For example, a woman in Mungalawurru made the quite reasonable suggestion of dealing with potential internet plan payment issues by setting up a separate bank account; however, this option would not have been easy for her to manage without the assistance formerly provided by the technical team. As well as having to negotiate barriers such a lower level of English literacy and the ISP’s convoluted administrative procedures, she would probably struggle to understand a conversation with a customer service representative because of her degree of hearing loss.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The communication issues surrounding remote community members’ self-management of internet and email accounts that emerged after the transition to self-managed services highlight, on one hand, their limited knowledge of, and facility with, these administrative processes, but also the ISP’s lack of knowledge of the remote community context, and how factors such as limited availability of telecommunications avenues for contact, as well as low English literacy, are likely to impact on their service’s accessibility to these populations.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>An analogous situation existed at the Papunya Computer Room (PCR), where CAYLUS managed the physical and financial aspects of the community’s access to the internet via a shared facility, along with the provision of technical and training support. Notably, such cultural brokerage is facilitated within the remote Indigenous context by Aboriginal community-controlled organizations, which frequently draw on piecemeal funding support from available government programs and voluntary organizations for capital, connectivity and human resources. Without this support, the relative smallness of remote Indigenous communities, along with their geographical isolation and differences in language and culture, would likely render these populations largely invisible to government policymakers and service providers. In the case of telecommunications providers, the invisibility of remote Indigenous populations, and the limited demand they represent as a consumer base, means they are unlikely to address even relatively simple communication and administrative barriers to ICT take-up. In other words, there is little incentive for telecommunications providers to develop financial and administrative services and processes tailored to capturing this market, except without invoking goodwill platforms such as ‘equity of access’, ‘global citizenship’ and ‘social inclusion’.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Digital Choices and Demic Deal-breakers</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The digital divide, at the most basic level, fits within broader theories of innovation diffusion, in that it describes how technologies are communicated through networks, resulting in particular patterns of distribution. As Hilbert writes, the digital divide is an inevitable fact when seen as the diffusion of innovation:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Independent of the kind of network, the diffusion through a social network is never immediate. While the innovation spreads through the network and the diffusion curve unfolds, some are included and others excluded from the benefits of the new innovation. The result is an unavoidable divide. This divide is inevitable. It is the inescapable result of the fact that it takes a certain amount of time for innovations to spread through social networks with particular shapes and characteristics.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>M. Hilbert, ‘The End Justifies the Definition: The Manifold Outlooks on the Digital Divide and Their Practical Usefulness for Policy-Making’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Telecommunications Policy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 35.8 (2011): 718.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The inevitability of the divide exists in relation to the presence or absence of information, in that those without information about the technology are unable to acquire or use it. Once that information becomes available, then presumably the divide begins to diminish. However, even with information, some will choose not to adopt. In their study of mobile phone adoption (discussed in Chapter 8), Brady and Dyson write:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Contrasting the enthusiasm for mobile phones and other ICT deemed valuable by the community […] versus technologies which have been used only with reluctance or for the limited life of one-off projects convinces us that the Indigenous people are making informed choices about their ICT adoption. Recognition of the factors behind these choices may well lead to better ICT investment and implementation decisions in the future.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>F. Brady, L.E. Dyson and Wujal Wujal Aboriginal Shire Council, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Report to Wujal Wujal Aboriginal Shire Council on Mobile Technology in the Bloomfield River Valley</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 2009, p. 396.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In this final section of the chapter, we consider the importance of ‘digital choices’ as they occur in relation to community norms and social networks. We posit a theory of why and how the digital divide is occurring in remote Australia, which we call the ‘demic dealbreaker’.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In her study of UK data sets, Helsper noticed that particular groups were unexpectedly connected, defying predictors such as low socio-economic status: ‘Some individuals within socially disadvantaged groups are capable of overcoming barriers to digital engagement.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Helsper, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital Inclusion: An Analysis of Social Disadvantage and the Information Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> For instance, disadvantaged people from Afro-Caribbean origins tended to be more highly engaged than expected given their social disadvantages. Helsper’s conclusion was that digital choices can be ‘driven by cultural factors and the social context of individuals, which influence the development of positive or negative attitudes towards technologies’, and that ‘innovative and creative approaches’ might be required to tackle attitudinal and cultural barriers’.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Helsper, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital Inclusion: An Analysis of Social Disadvantage and the Information Society,</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> p. 10-11.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The high rates of internet adoption in Ali Curung also fit within this category of the ‘unexpectedly connected’.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Our qualitative work, as well as our analysis of the 2011 census data for the region, suggests that it is not necessarily attitudes to technologies that are influencing digital choices in remote Indigenous communities, but the conditions under which technologies are made accessible. When remote Indigenous sociality is taken into account, the choice to purchase mobile broadband or nothing (i.e. the absence of substitution at the margin) makes sense. Factors such as difficulties with billing systems, inconvenience in dealing with retail providers (related to language barriers, or lack of other infrastructures such as home phones) are significant reasons to stay offline.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The economic choice theory of characteristic filtering (also known as behavioural lexicographical choice theory) describes instances where choosers set targets for particular characteristics, and eliminate products that don’t meet those targets completely. In other words, the chooser decides: ‘If x does not do y then I will not have anything at all’, deciding that the missing characteristic is too important to substitute for something else; for the chooser the missing piece is the deal-breaker. The theory is useful for explaining some instances where choosers do not appear to be maximizing their outcomes – choosing to discount seemingly adequate options.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>P.E. Earl, ‘Economics and Psychology: A Survey’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Economic Journal</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 100.402 (1990).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> However, the economic theory of characteristic filtering only considers individuals’ decision-making; it does not explain how the cultural norms of a group might play a role in why some technologies are adopted and others are not.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Two further concepts are useful for expanding on choice theory to explain how the ‘deal-breaker’ all-or-nothing decision can result in exclusion of an entire group or community. Firstly, in the broadest sense, Indigenous communities, like all communities, are a knowledge group, whereby the group shares its information, stories and culture, forming a particular set of social norms and influencing knowledge flows. Hartley and Potts (2014) call these ‘we’ groups demes (stemming from the Greek ‘demos’, meaning polity). The ‘demic’ aspect of the ‘deal-breaker’ scenario describes the way in which the decision only makes sense when seen in relation to group actions, norms and knowledge-sharing systems. We, the authors, had lengthy discussions as to the extent to which cultural norms are a significant factor in internet adoption, or whether practical issues (such as ability to call the ISP) are the main reason for the choices being made. While we did not reach an agreement on the specifics, as previous chapters have highlighted, life in Indigenous communities involves particular dynamics and ways of doing that influence ICT adoption and use generally.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Secondly, at the individual level, the decision not to adopt can be based on the decision-maker’s circumstances, or attributable to a range of factors, including whether others in the group are using digital technologies. For some, no obvious decision is made, but they might accept the status quo based upon what others are doing or not doing. Those who might have little or no digital skills (for instance, those residents who went to school prior to the introduction of computers in classrooms) are unlikely to receive the information required to consider internet adoption unless those they know share it with them. Therefore, if those who might be considered (comparatively) early adopters choose not to purchase the internet – or choose only to use it in town, for instance – then other potential users do not get exposed to the technology.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Social networks thus affect the quality and flow of information, and create community norms (shared ideas about the proper way to behave). Granovetter’s influential work on the ‘strength of weak ties’ is useful for considering how tightly-knit communities can come to be without internet.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>M.S. Granovetter, ‘The Strength of Weak Ties’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>American Journal of Sociology</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 78.6 (1973).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Granovetter argues that our acquaintances – weak social ties – are more likely to give us new information than our close friends and family, as those who we know already share similar knowledge. For Indigenous communities, it is entirely possible that adoption doesn’t begin to occur and spread until an outsider (for instance, a youth worker) assists some people within the community with the means to acquire internet. This might also apply to those who understand that satellite internet is available, but have decided that it is too difficult to acquire, but those who have no knowledge of it will remain in the dark. Dense community ties can therefore restrict information, and be an obstacle to technology diffusion and development more generally.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>M. Woolcock and D. Narayan, ‘Social Capital: Implications for Development Theory, Research, and Policy’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The World Bank Research Observer</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 15.2 (2000).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Even if some level of adoption occurs, places such as Imangara and Mungalawurru, which do not have a permanent youth worker or media center, are likely to have fewer of the ‘weak ties’ that might provide particular digital literacies and skills, such as Garage Band, which have become popular elsewhere.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth Speaking out Loud’.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Uses, and not just adoption, can thus be defined by the absence of weak ties.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Shifting the discussion of digital exclusion to ‘digital choices’ restores some agency for those for whom the decision not to adopt is a practical choice, weighed up against a host of trade-offs and inconveniences. When group dynamics are taken into account, broadband adoption is not only a matter of individual choice, but a socially-situated understanding of what will work and what will not, where the parameters are understood within that group in ways that might not be obvious to outsiders.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Conclusion: the Consequences of Digital Choices</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>As discussed in Chapter 2, digital exclusion – like social exclusion – needs to be understood in terms of the causal process. During our time on the outstations, it also became apparent that digital exclusion is not a clear-cut case of ‘haves’ and ‘have nots’. Some residents were not using the internet as the result of a considered choice. For instance, the man who ran the youth project in Kwale Kwale was disinclined to use a computer, but he took up our offer to have one at his place, as other people who assisted him on the project were able to use it. He still experienced the benefits, and it is likely that the computer enabled other capacities (for him and others) flowing from a more efficient management of the records of the youth service. Such instances show there are gradations of use, including those, known as proxy users, who choose to access online services with the help of others.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>B. Crump, and A. McIlroy, ‘The Digital Divide: Why the &quot;Don't-Want-Tos&quot; Won't Compute: Lessons from a New Zealand ICT Project, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>First Monday</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 8.12 (2003).</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When the digital divide is seen as a matter of digital choice rather than social exclusion, policies and programs can emerge that provide acceptable systems or incentives for participation. Although the statistics show that internet adoption is higher where there is mobile coverage, unfortunately universal mobile coverage has been deemed too costly by telecommunications companies, and does not fall within current government policy and funding (the Universal Service Obligations [USO], as discussed in Chapter 1). However, alternative billing options for satellite services may increase adoption in areas where mobile is not available. Another response can be the provision of public WiFi in communities (free or through a token system), as discussed in the previous chapter. Understanding digital choices can also help to anticipate what responses are unlikely to succeed, particularly where they do not align with the socially-embedded decision-making that is occurring. For instance, the experience of the outstations in this book suggests that government investment in faster satellite speeds – as has been the focus thus far of the NBN in remote areas – is unlikely in itself to make sufficient difference for Indigenous families living in small, traditional communities, as it does not address the ‘deal-breaker’ problem of account set-up and billing. These policy options are discussed further in the final chapter.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The digital choices being made in remote communities should also give us pause to consider the relationship of digital exclusion to social exclusion. If social exclusion is not the determinant of digital exclusion, then digital exclusion is less intractable than we might otherwise believe. In other words, overcoming digital exclusion does not require resolving Indigenous disadvantage more generally. In an article on Indigenous social exclusion, Boyd Hunter makes the point that when Indigenous social issues are seen through the lens of social exclusion, they appear so interlinked as to seem insolvable: ‘There is a risk that the notions of social inclusion, and to a lesser extent cumulative causation, can lead to a sort of policy nihilism where the magnitude of the task seems too complex and too hard. Unfortunately, there is not much one can do about this if the dimensions of disadvantage are inextricably linked.’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>B. Hunter, ‘Indigenous Social Exclusion: Insights and Challenges for the Concept of Social Inclusion’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Family Matters</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 82 (2009): 52.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Digital exclusion in remote Indigenous communities has been too often left in the ‘too hard’ basket, alongside tasks that seem both more urgent and incredibly complex. However, we think that there are solutions to digital exclusion, and that, with time, the broader benefits may begin to take the burden off other services attempting to improve health and education. Our conclusion is therefore ultimately a positive one: the digital divide in remote Australia can be gradually closed, and there are clear strategies for addressing it. We now turn our attention to some concrete policy approaches emerging from this book.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  
+</Document>
