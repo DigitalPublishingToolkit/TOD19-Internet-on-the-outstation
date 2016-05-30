@@ -2920,10 +2920,7 @@ communities.
     Australia,* Canberra: Department of Communications, Information
     Technology and the Arts, 2002, p. 7.
 
-[^2]: Daly, *Bridging the Digital Divide: The Role of Community Online
-    Access Centres in Indigenous Communities*.
-
-    Telecommunications Action Plan for Remote Indigenous Communities
+[^2]: Daly, *Bridging the Digital Divide*; Telecommunications Action Plan for Remote Indigenous Communities
     (TAPRIC), *Report on the Strategic Study for Improving
     Telecommunications in Remote Indigenous Communities.*
 
@@ -2939,20 +2936,18 @@ communities.
     Economic Policy Research, 1995, p. 7.
 
 [^6]: L. Hiatt, ‘Traditional Attitudes to Land Resources’ in R. M.
-    Berndt (ed.(ed.)) *Aboriginal Sites: Rites and Resource Development*,
+    Berndt (ed.) *Aboriginal Sites: Rites and Resource Development*,
     Perth: University of Western Australia Press, 1982, pp. 14–15.
 
 [^7]: A.V. Nicholls, *The Social Life of the Computer in Ramingining,*
-    Darwin: Charles Darwin University, 2009, p. 45.
-
-    D. Featherstone, ‘The Aboriginal Invention of Broadband: How
+    Darwin: Charles Darwin University, 2009, p. 45; D. Featherstone, ‘The Aboriginal Invention of Broadband: How
     Yarnangu Are Using ICTs in the Ngaanyatjarra Lands of Western
     Australia’ in L. Ormond-Parker, A. Corn, C. Fforde, K. Obata and S.
     O’Sullivan (eds) *Information Technologies and Indigenous
     Communities,* Canberra: AIATSIS Research Publications, 2013, p. 43.
 
 [^8]: N. Peterson, ‘Demand Sharing: Reciprocity and the Pressure for
-    Generosity among Foragers’, *American Anthropologist* 95.4 (1993):190.
+    Generosity among Foragers’, *American Anthropologist* 95.4 (1993): 190.
 
 [^9]: See J. Altman, ‘A Genealogy of “Demand Sharing”: From Pure
     Anthropology to Public Policy’ in Y. Musharbash and M. Barber (eds)
@@ -2961,7 +2956,7 @@ communities.
 
 [^10]: Elsewhere Myers (1986: 109) states that the word *walytja* is
     used to refer to a sense of belonging or shared identity,
-    possessions, kin, ‘one’s own (my own), and oneself.
+    possessions, kin, one’s own (my own), and oneself.
 
 [^11]: F. Myers, ‘Place, Identity and Exchange in a Totemic System:
     Nurturance and the Process of Social Reproduction in Pintupi
@@ -2970,33 +2965,21 @@ communities.
 
 [^12]: F. Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
     Politics Among Western Desert Aborigines,* Berkeley, Los Angeles:
-    University of California Press, 1986, p. 145.
+    University of California Press, 1986, p. 145; Myers, ‘Place, Identity and Exchange in a Totemic System’, p. 38.
 
-    Myers, ‘Place, Identity and Exchange in a Totemic System: Nurturance
-    and the Process of Social Reproduction in Pintupi Society’, p. 38.
-
-[^13]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*, p. 109.
-
-    F. Myers, ‘Some Properties of Culture and Persons’ in R. A. Ghosh (ed.)
+[^13]: Myers, *Pintupi Country, Pintupi Self*, p. 109; F. Myers, ‘Some Properties of Culture and Persons’ in R.A. Ghosh (ed.)
     *Code: Collaborative Ownership and the Digital Economy*, Cambridge: MIT Press, 2005, pp. 47-48.
 
-[^14]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*, p. 109.
+[^14]: Myers, *Pintupi Country, Pintupi Self*, p. 109.
 
-[^15]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*.
-
-    Myers, ‘Burning the Truck and Holding the Country: Pintupi Forms of
-    Property and Identity’ in E. N. Wilmsen (ed.) *We Are Here: Politics
+[^15]: Myers, *Pintupi Country, Pintupi Self*; F. Myers, ‘Burning the Truck and Holding the Country: Pintupi Forms of
+    Property and Identity’ in E.N. Wilmsen (ed.) *We Are Here: Politics
     of Aboriginal Land Tenure,* Los Angeles: University of California
     Press, 1989.
 
-[^16]: Myers, ‘Burning the Truck and Holding the Country: Pintupi Forms
-    of Property and Identity’.
+[^16]: Myers, ‘Burning the Truck and Holding the Country’.
 
-[^17]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*, p. 111.
+[^17]: Myers, *Pintupi Country, Pintupi Self*, p. 111.
 
 [^18]: G. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
     Wiradjuri of New South Wales’ in G. Wenzel, G. Hovelsrud-Broda and
@@ -3007,11 +2990,10 @@ communities.
     Crusade,* Menlo Park, California: Cummings Publishing Company, 1974,
     p. 106.
 
-[^20]: Compare also: A. B. Weiner, ‘Cultural Difference and the Density
+[^20]: Compare also: A.B. Weiner, ‘Cultural Difference and the Density
     of Objects’, *American Ethnologist* 212 (1994).
 
-[^21]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*, p. 171.
+[^21]: Myers, *Pintupi Country, Pintupi Self*, p. 171.
 
 [^22]: B. Sansom, *The Camp at Wallaby Cross: Aboriginal Fringe Dwellers
     in Darwin,* Canberra: Australian Institute of Aboriginal Studies,
@@ -3028,20 +3010,15 @@ communities.
     Mobile Service-Provision in Remote Indigenous Australia,* Canberra:
     ANU Centre for Aboriginal Economic Policy Research, 2005.
 
-[^26]: Fogarty, *‘You Got Any Truck?’ Vehicles and Decentralised Mobile
-    Service-Provision in Remote Indigenous Australia*, p. 3.
+[^26]: Fogarty, *‘You Got Any Truck?’*, p. 3.
 
-[^27]: Musharbash, *Yuendumu Everyday: Contemporary Life in Remote
-    Aboriginal Australia*, p. 55.
+[^27]: Musharbash, *Yuendumu Everyday*, p. 55.
 
-[^28]: Musharbash, *Yuendumu Everyday: Contemporary Life in Remote
-    Aboriginal Australia*, p. 55.
+[^28]: Musharbash, *Yuendumu Everyday*, p. 55.
 
-[^29]: For example of flour, see also Musharbash, *Yuendumu Everyday:
-    Contemporary Life in Remote Aboriginal Australia*.
+[^29]: For example of flour, see also Musharbash, *Yuendumu Everyday*.
 
-[^30]: Myers, ‘Burning the Truck and Holding the Country: Pintupi Forms
-    of Property and Identity’, pp. 23–25.
+[^30]: Myers, ‘Burning the Truck and Holding the Country’, pp. 23–25.
 
 [^31]: J.F. O’Connell, ‘Room to Move: Contemporary Alyawara Settlement
     Patterns and Their Implications for Aboriginal Housing Policy’ in M.
@@ -3049,8 +3026,7 @@ communities.
     Remote Australia*, Canberra: Australian Institute of Aboriginal
     Studies, 1979.
 
-[^32]: O’Connell, ‘Room to Move: Contemporary Alyawara Settlement
-    Patterns and Their Implications for Aboriginal Housing Policy’.
+[^32]: O’Connell, ‘Room to Move’.
 
 [^33]: J. Taylor, ‘Housing Programs at Edward River and Mitchell River
     Aboriginal Reserves’ in M. Heppell (ed.) *A Black Reality: Aboriginal
@@ -3063,9 +3039,7 @@ communities.
 [^35]: C. Renfrew, ‘Varna and the Emergence of Wealth in Prehistoric
     Europe’ in A. Appadurai (ed.) *The Social Life of Things: Commodities
     in Cultural Perspective*, Cambridge: Cambridge University Press,
-    1988.
-
-    W.H. Davenport, ‘Two Kinds of Value in the Eastern Solomon Islands’
+    1988; W.H. Davenport, ‘Two Kinds of Value in the Eastern Solomon Islands’
     in A. Appadurai (ed.) *The Social Life of Things: Commodities in
     Cultural Perspective*, Cambridge: Cambridge University Press, 1988,
     p. 108.
@@ -3076,8 +3050,7 @@ communities.
 
 [^37]: S.A. Brown, V. Venkatesh and H. Bala, ‘Household Technology Use:
     Integrating Household Life Cycle and the Model of Adoption of
-    Technology in Households’, *The Information Society* 22.4 (2006):.
-    216.
+    Technology in Households’, *The Information Society* 22.4 (2006): 216.
 
 [^38]: J.L. Pierce, T. Kostova, and K.T. Dirks. ‘The State of
     Psychological Ownership: Integrating and Extending a Century of
@@ -3092,9 +3065,7 @@ communities.
 
 [^41]: See P. Sutton, *The Politics of Suffering: Indigenous Australia
     and the End of the Liberal Consensus,* Carlton: Melbourne University
-    Publishing, 2009.
-
-    N. Pearson, *Radical Hope: Education and Equality in Australia,*
+    Publishing, 2009; N. Pearson, *Radical Hope: Education and Equality in Australia,*
     Melbourne: Schwartz Publishing Pty Ltd, 2011.
 
 [^42]: Such as: Kerins, *The First-Ever Northern Territory
@@ -3125,19 +3096,14 @@ communities.
     Emerging Indigenous Demographic Trends*, Canberra: Centre for
     Aboriginal Economic Policy Research, 2006, p. 64.
 
-[^48]: Taylor, *Population and Diversity: Policy Implications of
-    Emerging Indigenous Demographic Trends*, p. 32.
+[^48]: Taylor, *Population and Diversity*, p. 32.
 
-[^49]: Taylor, *Population and Diversity: Policy Implications of
-    Emerging Indigenous Demographic Trends. *
+[^49]: Taylor, *Population and Diversity*.
 
-[^50]: A. Van Deursen, J. Van Dijk and M. Ten Klooster, ‘Increasing
-    Inequalities in What We Do Online: A Longitudinal Cross Sectional
-    Analysis of Internet Activities Among the Dutch Population (2010 to
-    2013) over Gender, Age, Education, and Income’.
+[^50]: Van Deursen, Van Dijk and Ten Klooster, ‘Increasing
+    Inequalities in What We Do Online’.
 
-[^51]: Helsper, *Digital Inclusion: An Analysis of Social Disadvantage
-    and the Information Society*, p. 31.
+[^51]: Helsper, *Digital Inclusion*, p. 31.
 
 [^52]: Although Kimberly Christen has produced innovative digital
     content and databases for Warumungu.
@@ -3149,9 +3115,7 @@ communities.
     Indigenous Australia,* Melbourne: RMIT University, 2014, p. 8.
 
 [^55]: Godinho, *Money, Financial Capability and Well-Being in
-    Indigenous Australia,* p. 2.
-
-    See also L. Hems, C. Connolly and M. Georgouras, ‘Measuring
+    Indigenous Australia,* p. 2; See also L. Hems, C. Connolly and M. Georgouras, ‘Measuring
     Financial Exclusion in Australia’ for National Australia Bank,
     Sydney: Centre for Social Impact (CSI), University of New South
     Wales, 2012.
@@ -3186,11 +3150,9 @@ communities.
     Cheap Cell Phone Changes Business, Politics, and Daily Life*,
     Cambridge: Harvard University Press, 2013, pp. 222, 224.
 
-[^64]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
-    Cell Phone Changes Business, Politics, and Daily Life*.
+[^64]: Doron and Jeffrey, *The Great Indian Phone Book*.
 
-[^65]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
-    Cell Phone Changes Business, Politics, and Daily Life*, p. 224.
+[^65]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 224.
 
 [^66]: See J. Altman, ‘Development Options on Aboriginal Land:
     Sustainable Indigenous Hybrid Economies in the Twenty-First Century’
@@ -3244,21 +3206,15 @@ communities.
     Parents: Connecting Parents to Cyber-Safety Resources’, Canberra:
     Australian Media and Communications Authority, 2010, p. 6.
 
-[^78]: ACMA, ‘Cybersmart Parents: Connecting Parents to Cyber-Safety
-    Resources’, p. 6.
+[^78]: ACMA, ‘Cybersmart Parents’, p. 6.
 
-[^79]: ACMA, ‘Cybersmart Parents: Connecting Parents to Cyber-Safety
-    Resources’, p. 52.
+[^79]: ACMA, ‘Cybersmart Parents’, p. 52.
 
 [^80]: S. Livingstone and L. Haddon, *EU Kids Online: Final Report,*
-    London: EU Kids Online, 2009.
-
-    L. Green, D. Brady, K. Olafsson, J. Hartley and C. Lumby, ‘Risks and
+    London: EU Kids Online, 2009; L. Green, D. Brady, K. Olafsson, J. Hartley and C. Lumby, ‘Risks and
     Safety for Australian Children on the Internet: Full Findings from
     the Au Kids Online Survey of 9-16 Year Olds and Their Parents’,
-    *Cultural Science Journal* 4.1 (2011).
-
-    Joint Select Committee on Cyber-Safety, ‘High-Wire Act: Cyber-Safety
+    *Cultural Science Journal* 4.1 (2011); Joint Select Committee on Cyber-Safety, ‘High-Wire Act: Cyber-Safety
     and the Young’, *Interim Report,* Canberra, 2011.
 
 [^81]: G. Shaw and P. D’Abbs, *Community Safety and Wellbeing
@@ -3272,14 +3228,10 @@ communities.
 
 [^83]: Central Land Council (CLC), ‘Divas Chat Causing Social Chaos’,
     *Land Rights News*, Alice Springs: Central Land Council, 2012, pp.
-    4-6.
-
-    Human Rights Equal Opportunity Commission, *Social Justice Report
+    4-6; Human Rights Equal Opportunity Commission, *Social Justice Report
     2011,* Sydney: Commonwealth of Australia, 2011.
 
-[^84]: See E. Hogan, ‘Behind the Mulga Curtain’, *Inside Story*, 2014.
-
-    E. Hogan, E. Rennie, A. Crouch, A. Wright, R. Gregory and J. Thomas,
+[^84]: See E. Hogan, ‘Behind the Mulga Curtain’, *Inside Story*, 2014; E. Hogan, E. Rennie, A. Crouch, A. Wright, R. Gregory and J. Thomas,
     *Submission to the Inquiry into Issues Surrounding Cyber-Safety for
     Indigenous Australians*, Brisbane: ARC Centre of Excellence for
     Creative Industries and Innovation, Queensland University of
@@ -3312,9 +3264,7 @@ communities.
 [^93]: The Council was not running in 2015, as its funding had ceased,
     although informal arrangements were in place.
 
-[^94]: Hogan, ‘Behind the Mulga Curtain’.
-
-    Hogan et al., *Submission to the Inquiry into Issues Surrounding
+[^94]: Hogan, ‘Behind the Mulga Curtain’; Hogan et al., *Submission to the Inquiry into Issues Surrounding
     Cyber-Safety for Indigenous Australians*.
 
 [^95]: Iten, *Cyber Safety Program Report*, p. 12.
@@ -3333,9 +3283,7 @@ communities.
     Exploring Adults’ (Non) Use of the Internet in Everyday Life’.
 
 [^100]: The Murray Downs school had an attendance rate of around 75 per
-    cent in 2013 and 2014 although enrolments had dwindled to twenty-three students in 2014, down from the forty-three in 2010.
-
-    Northern Territory Department of Education, ‘Enrolment and
+    cent in 2013 and 2014 although enrolments had dwindled to twenty-three students in 2014, down from the forty-three in 2010; Northern Territory Department of Education, ‘Enrolment and
     Attendance Statistics’,
     http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics.
 
@@ -3363,22 +3311,15 @@ communities.
     Educational Outcomes: Evidence from the NLSY97 and CPS\*’, *Economic
     Inquiry* 48.3 (2010).
 
-[^104]: Howard and Rennie, ‘Free for All: A Case Study Examining
-    Implementation Factors of One-to-One Device Programs’.
+[^104]: Howard and Rennie, ‘Free for All’.
 
 [^105]: S. Harris and J. Kinslow-Harris, *Culture and Learning:
     Tradition and Education in North-East Arnhem Land,* Canberra:
     Australian Institute of Aboriginal and Torres Strait Islander
-    Studies, 1980.
-
-    P. Hughes and A.J. More, *Aboriginal Ways of Learning,* Adelaide:
-    Paul Hughes, 2004.
-
-    P. Hughes and A.J. More, ‘Aboriginal Ways of Learning and Learning
+    Studies, 1980; P. Hughes and A.J. More, *Aboriginal Ways of Learning,* Adelaide:
+    Paul Hughes, 2004; P. Hughes and A.J. More, ‘Aboriginal Ways of Learning and Learning
     Styles’, Brisbane: Australian Association for Research in
-    Education, 1997.
-
-    J.A. Robinson and R.M. Nichol, ‘Building Bridges Between Aboriginal
+    Education, 1997; J.A. Robinson and R.M. Nichol, ‘Building Bridges Between Aboriginal
     and Western Mathematics: Creating an Effective Mathematics Learning
     Environment’, *Education in Rural Australia* 8.2 (1998).
 
@@ -3392,34 +3333,20 @@ communities.
 
 [^108]: J. Byrnes, ‘Aboriginal Learning Styles and Adult Education: Is a
     Synthesis Possible?’, *Australian Journal of Adult and Community
-    Education* 33.3 (1993).
-
-    M. Donovan, ‘Can Information Communication Technological Tools Be
+    Education* 33.3 (1993); M. Donovan, ‘Can Information Communication Technological Tools Be
     Used to Suit Aboriginal Learning Pedagogies’, *Information
-    Technology and Indigenous People* (2007), p. 96.
-
-    M. Eady and S. Woodcock, ‘Understanding the Need: Using
+    Technology and Indigenous People* (2007), p. 96; M. Eady and S. Woodcock, ‘Understanding the Need: Using
     Collaboratively Created Draft Guiding Principles to Direct Online
     Synchronous Learning in Indigenous Communities’, *International
-    Journal for Educational Integrity* 6.2 (2010).
-
-    I. Kral and I. Falk, *What Is All That Learning For? Indigenous
+    Journal for Educational Integrity* 6.2 (2010); I. Kral and I. Falk, *What Is All That Learning For? Indigenous
     Adult English Literacy Practices, Training, Community Capacity and
-    Health*, Adelaide: NCVER, 2004, p. 56.
-
-    M. Malin and D. Maidment, ‘Evaluation of Irrkerlantye Learning
+    Health*, Adelaide: NCVER, 2004, p. 56; M. Malin and D. Maidment, ‘Evaluation of Irrkerlantye Learning
     Centre’ (unpublished report), Darwin: Cooperative Research Centre
-    for Aboriginal and Tropical Health, 2003, p. 97.
-
-    Northern Territory Department of Education, *Learning Lessons: An
+    for Aboriginal and Tropical Health, 2003, p. 97; Northern Territory Department of Education, *Learning Lessons: An
     Independent Review of Indigenous Education in the Northern
     Territory*, Darwin: Northern Territory Department of Education,
     1999,
-    http://www.education.nt.gov.au/\_\_data/assets/pdf\_file/0005/7475/learning\_lessons\_review.pdf.
-
-    T. Yunkaporta, *Aboriginal Pedagogies at the Cultural Interface*.
-
-    A. Mahon, *Deadly Dreaming: Bi-Cultural Strategies for Working with
+    http://www.education.nt.gov.au/\_\_data/assets/pdf\_file/0005/7475/learning\_lessons\_review.pdf; T. Yunkaporta, *Aboriginal Pedagogies at the Cultural Interface*; A. Mahon, *Deadly Dreaming: Bi-Cultural Strategies for Working with
     Indigenous Adults in Education*, Australian Council for Adult
     Literacy conference, Surfers Paradise, Australia, 3-4 October, 2008,
     http://www.acal.edu.au/conference/08/Deadly\_Dreaming\_Mahon.pdf.
@@ -3431,9 +3358,7 @@ communities.
 [^110]: M. Donovan, ‘Is It a Digital Divide Because It’s No Good When
     Talking from an Aboriginal Point? Giving Aboriginal Design to
     Educational Practices’,
-    http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf.
-
-    N. Harrison, *Teaching and Learning in Aboriginal Education*, Melbourne: Oxford University Press, 2011, pp. 53-54.
+    http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf; N. Harrison, *Teaching and Learning in Aboriginal Education*, Melbourne: Oxford University Press, 2011, pp. 53-54.
 
 [^111]: O’Donogue 1992 and Steen 1997, as cited in Donovan, ‘Can
     Information Communication Technological Tools Be Used to Suit
@@ -3466,9 +3391,7 @@ communities.
 [^117]: S. Huyer and T. Sikoska, *Overcoming the Gender Digital Divide:
     Understanding ICTs and Their Potential for the Empowerment of
     Women,* Santo Domingo, Dominican Republic: UN-INSTRAW, 2003, pp. 2,
-    12.
-
-    A. Thas, C. Ramilo and C. Cinoco, ‘Gender and ICT’, *UNDP
+    12; A. Thas, C. Ramilo and C. Cinoco, ‘Gender and ICT’, *UNDP
     Asia-Pacific Development Information Programme E-Primer,* New Delhi:
     Elsevier, 2007, p. 2.
 
@@ -3477,24 +3400,14 @@ communities.
     Internet Diffusion and Use’, p. 42.
 
 [^119]: See for example: D. Bell, *Daughters of the Dreaming,*
-    Melbourne: Allen and Unwin, 1983.
-
-    G. Cowlishaw, ‘Infanticide in Aboriginal Australia’, *Oceania* 48.4
-    (1978): 262-283.
-
-    G. Cowlishaw, ‘Socialisation and Subordination among Australian
-    Aborigines’ *Man* 17.3 (September, 1982): 492-507.
-
-    G. Cowlishaw, *Women’s Realm: A Study of Socialization, Sexuality
+    Melbourne: Allen and Unwin, 1983; G. Cowlishaw, ‘Infanticide in Aboriginal Australia’, *Oceania* 48.4
+    (1978): 262-283; G. Cowlishaw, ‘Socialisation and Subordination among Australian
+    Aborigines’ *Man* 17.3 (September, 1982): 492-507; G. Cowlishaw, *Women’s Realm: A Study of Socialization, Sexuality
     and Reproduction Among Australian Aborigines,* PhD diss., University
-    of Sydney, Australia, 1979.
-
-    A. Hamilton, ‘A Complex Strategical Situation: Gender and Power in
+    of Sydney, Australia, 1979; A. Hamilton, ‘A Complex Strategical Situation: Gender and Power in
     Aboriginal Australia’ in N. Grieve and P. Grimshaw (eds) *Australian
     Imjmen: Feminist Perspectives,* Melbourne: Oxford University Press,
-    1981.
-
-    P. M. Kaberry, *Aboriginal Women,* London: George Routledge and Sons
+    1981; P.M. Kaberry, *Aboriginal Women,* London: George Routledge and Sons
     Pty Ltd, 1939.
 
 [^120]: F. Merlan, ‘Gender in Aboriginal Society: A Review’ in R. M.
@@ -3502,38 +3415,22 @@ communities.
     Aboriginal Studies*, Canberra: Aboriginal Studies Press, 1988, p.
     20.
 
-[^121]: Merlan, ‘Gender in Aboriginal Society: A Review’, p. 29.
+[^121]: Merlan, ‘Gender in Aboriginal Society’, p. 29.
 
-[^122]: Cowlishaw, ‘Infanticide in Aboriginal Australia’.
+[^122]: Cowlishaw, ‘Infanticide in Aboriginal Australia’; Cowlishaw, ‘Socialisation and Subordination Among Australian
+    Aborigines’; Cowlishaw, *Women’s Realm: A Study of Socialization, Sexuality and
+    Reproduction among Australian Aborigines*; Hamilton, ‘A Complex Strategical Situation: Gender and Power in
+    Aboriginal Australia’; D. Bell, *Daughters of the Dreaming,* Melbourne: Allen and Unwin,
+    1983; Kaberry, *Aboriginal Women*.
 
-    Cowlishaw, ‘Socialisation and Subordination Among Australian
-    Aborigines’.
-
-    Cowlishaw, *Women’s Realm: A Study of Socialization, Sexuality and
-    Reproduction among Australian Aborigines*.
-
-    Hamilton, ‘A Complex Strategical Situation: Gender and Power in
-    Aboriginal Australia’.
-
-    D. Bell, *Daughters of the Dreaming,* Melbourne: Allen and Unwin,
-    1983.
-
-    Kaberry, *Aboriginal Women*.
-
-[^123]: Merlan, ‘Gender in Aboriginal Society: A Review’ p. 30.
-
-    cf. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
-    Wiradjuri of New South Wales’.
-
-    N. Peterson, ‘Demand Sharing: Reciprocity and the Pressure for
-    Generosity Among Foragers’, *American Anthropologist* 95.4 (1993).
-
-    G. Robinson, ‘Families, Generations, and Self: Conflict, Loyalty,
+[^123]: Merlan, ‘Gender in Aboriginal Society’ p. 30; cf. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
+    Wiradjuri of New South Wales’; N. Peterson, ‘Demand Sharing: Reciprocity and the Pressure for
+    Generosity Among Foragers’, *American Anthropologist* 95.4 (1993); G. Robinson, ‘Families, Generations, and Self: Conflict, Loyalty,
     and Recognition in an Australian Aboriginal Society’, *Ethos* 25.3
     (1997): 304.
 
 [^124]: McClintock 1995 as cited in Merlan, ‘Gender in Aboriginal
-    Society: A Review’ p. 30.
+    Society’ p. 30.
 
 [^125]: McClintock 1995 as cited in J. Lydon, ‘‘‘Our Sense of Beauty”:
     Visuality, Space and Gender on Victoria’s Aboriginal Reserves,
@@ -3549,30 +3446,22 @@ communities.
 [^129]: Karen moved from Mungalawurru to Tennant Creek once her oldest
     child turned five, to support him while he attended school.
 
-[^130]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*, p. 145.
+[^130]: Myers, *Pintupi Country, Pintupi Self*, p. 145.
 
-[^131]: Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
-    Politics Among Western Desert Aborigines*, p. 238.
+[^131]: Myers, *Pintupi Country, Pintupi Self*, p. 238.
 
 [^132]: K.W. Seemann, M. Parnell, S. McFallan and S. Tucker, *Housing
     for Livelihoods: The Lifecycle of Housing and Infrastructure Through
     a Whole-of-System Approach in Remote Aboriginal Settlements*, Vol.
     29, Alice Springs: Desert Knowledge CRC, 2008, p. 16.
 
-[^133]: Seemann et al., *Housing for Livelihoods: The Lifecycle of
-    Housing and Infrastructure Through a Whole-of-System Approach in
-    Remote Aboriginal Settlements*, p. 17.
+[^133]: Seemann et al., *Housing for Livelihoods*, p. 17.
 
-[^134]: Seemann et al, *Housing for Livelihoods: The Lifecycle of
-    Housing and Infrastructure Through a Whole-of-System Approach in
-    Remote Aboriginal Settlements*, pp. 17-18.
+[^134]: Seemann et al., *Housing for Livelihoods*, pp. 17-18.
 
-[^135]: Seemann et al., *Housing for Livelihoods: The Lifecycle of
-    Housing and Infrastructure through a Whole-of-System Approach in
-    Remote Aboriginal Settlements*, p. 18.
+[^135]: Seemann et al., *Housing for Livelihoods*, p. 18.
 
-[^136]: Merlan, ‘Gender in Aboriginal Society: A Review’, p. 36.
+[^136]: Merlan, ‘Gender in Aboriginal Society’, p. 36.
 
 [^137]: Australian Communications and Media Authority, ‘Communications
     Report 2009-10’,
