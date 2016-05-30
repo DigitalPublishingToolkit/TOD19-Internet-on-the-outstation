@@ -3396,8 +3396,7 @@ communities.
     Elsevier, 2007, p. 2.
 
 [^118]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
-    Reconfiguring Access: National and Cross National Patterns of
-    Internet Diffusion and Use’, p. 42.
+    Reconfiguring Access’, p. 42.
 
 [^119]: See for example: D. Bell, *Daughters of the Dreaming,*
     Melbourne: Allen and Unwin, 1983; G. Cowlishaw, ‘Infanticide in Aboriginal Australia’, *Oceania* 48.4

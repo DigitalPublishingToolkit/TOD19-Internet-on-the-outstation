@@ -12,12 +12,12 @@ Canberra: ANU Centre for Aboriginal Economic Policy Research, 2009.
 
 Altman, J. ‘Development Options on Aboriginal Land: Sustainable
 Indigenous Hybrid Economies in the Twenty-First Century’, in L. Taylor,
-G. Ward, G. Henderson, R. Davis and L. Wallis (eds.) *The Power of
+G. Ward, G. Henderson, R. Davis and L. Wallis (eds) *The Power of
 Knowledge, the Resonance of Tradition*, Canberra: Aboriginal Studies
 Press, 2005.
 
 ———. ‘A Genealogy of “Demand Sharing”: From Pure Anthropology to Public
-Policy’, in Y. Musharbash and M. Barber (eds.) *Ethnography and the
+Policy’, in Y. Musharbash and M. Barber (eds) *Ethnography and the
 Production of Anthropological Knowledge: Essays in Honour of Nicolas
 Peterson*, ANU E Press, 2011, pp. 187-200.
 
@@ -33,7 +33,7 @@ Media Platform Conversions’, *Social Media + Society* 1.1 (2015): 1-3.
 
 Anderson, B. and K. Tracey. ‘Digital Living: The Impact (or Otherwise)
 of the Internet on Everday British Life’ in C. Haythornthwaite and B.
-Wellman (eds.) *The Internet in Everyday Life*, Malden, MA, USA:
+Wellman (eds) *The Internet in Everyday Life*, Malden, MA, USA:
 Blackwell Publishers Ltd, 2002, pp. 139-163.
 
 ARC Centre of Excellence for Creative Industries and Innovation. ‘World
@@ -116,7 +116,7 @@ Bell, D. *Daughters of the Dreaming*, Melbourne: Allen and Unwin, 1983.
 
 Best, M.L. and C.M. Maclay. ‘Community Internet Access in Rural Areas:
 Solving the Economic Sustainability Puzzle’ in G.S. Kirkman, P.K.
-Cornelius, J.D. Sachs and K. Schwab (eds.) *The Global Information
+Cornelius, J.D. Sachs and K. Schwab (eds) *The Global Information
 Technology Report: Readiness for the Networked World*, Oxford: Oxford
 University Press, 2002, pp. 76-89.
 
@@ -153,7 +153,7 @@ Synthesis Possible?’, *Australian Journal of Adult and Community
 Education* 33.3 (1993): 157-171.
 
 Carlson, B. ‘The “New Frontier”: Emergent Indigenous Identities and
-Social Media’ in M. Harris, M. Nakata and B. Carlson (eds.) *The Politics
+Social Media’ in M. Harris, M. Nakata and B. Carlson (eds) *The Politics
 of Identity: Emerging Indigeneity*, Sydney: University of Technology
 Sydney E-Press, 2013, pp. 147-168.
 
@@ -250,7 +250,7 @@ Harvard University Press, 2013.
 Dutton, W.H., A. Shepherd and C. Di Gennaro. ‘Digital Divides and
 Choices Reconfiguring Access: National and Cross National Patterns of
 Internet Diffusion and Use’, in B. Anderson, M. Brynin, Y. Raban and J.
-Gershuny (eds.) *Information and Communication Technologies in Society
+Gershuny (eds) *Information and Communication Technologies in Society
 E-Living in a Digital Europe*, London: Routledge, 2007, pp. 31-45.
 
 Dyson, L.E. ‘Design for a Culturally Affirming Indigenous Computer
@@ -283,7 +283,7 @@ Fairlie, R.W., D.O. Beltran and K.K. Das. ‘Home Computers and Educational Outc
 
 Featherstone, D. ‘The Aboriginal Invention of Broadband: How Yarnangu
 Are Using ICTs in the Ngaanyatjarra Lands of Western Australia’ in L.
-Ormond-Parker, A. Corn, C. Fforde, K. Obata and S. O’sullivan (eds.)
+Ormond-Parker, A. Corn, C. Fforde, K. Obata and S. O’sullivan (eds)
 *Information Technologies and Indigenous Communities*, Canberra: AIATSIS
 Research Publications, 2013, pp. 27-52.
 
@@ -316,7 +316,7 @@ Latin America’, *Information Technologies & International Development*
 3.2 (2006): 73-86.
 
 Ginsburg, F. ‘Rethinking the Digital Age’ in D. Hesmondhalgh and J.
-Toynbee (eds.) *The Media and Social Theory,* New York: Routledge, 2008:
+Toynbee (eds) *The Media and Social Theory,* New York: Routledge, 2008:
 127-144.
 
 Godinho, *V. Money, Financial Capability and Well-Being in Indigenous
@@ -349,7 +349,7 @@ Multiple Methods in Randomized Controlled Trials to Assess Intervention
 Effects*, Washington, DC: American Psychological Association*,* 2009.
 
 Hamilton, A. ‘A Complex Strategical Situation: Gender and Power in
-Aboriginal Australia’ in N. Grieve and P. Grimshaw (eds.) *Australian
+Aboriginal Australia’ in N. Grieve and P. Grimshaw (eds) *Australian
 Imjmen: Feminist Perspectives*, Melbourne: Oxford University Press,
 1981, pp. 69-85.
 
@@ -467,7 +467,7 @@ Policy’, *CAEPR Topical Issue No. 09/2009*, Canberra: ANU Centre for
 Aboriginal Economic Policy Research, 2009.
 
 Kowal, E. ‘Is Culture the Problem or the Solution? Outstation Health and
-the Politics of Remoteness’ in J. Altman and M. Hinkson (eds.) *Culture
+the Politics of Remoteness’ in J. Altman and M. Hinkson (eds) *Culture
 Crisis: Anthropology and Politics in Aboriginal Australia*, Sydney:
 University of New South Wales Press, 2010, pp. 253-276.
 
@@ -486,7 +486,7 @@ English Literacy Practices, Training, Community Capacity and Health*,
 Adelaide: NCVER, 2004.
 
 Lattas, A. and B. Morris. ‘The Politics of Suffering and the Politics of
-Anthropology’ in J. Altman and M. Hinkson (eds.) *Culture Crisis:
+Anthropology’ in J. Altman and M. Hinkson (eds) *Culture Crisis:
 Anthropology and Politics in Aboriginal Australia*, Sydney: University
 of New South Wales Press, 2010, pp. 97-133.
 
@@ -519,7 +519,7 @@ Anthropology* 16.2 (2005): 211-233.
 
 Macdonald, G. ‘Economies and Personhood: Demand Sharing among the
 Wiradjuri of New South Wales’ in G. Wenzel, G. Hovelsrud-Broda and N.
-Kishigami (eds.) *The Social Economy of Sharing: Resource Allocation and
+Kishigami (eds) *The Social Economy of Sharing: Resource Allocation and
 Modern Hunter-Gatherers*, Osaka: National Museum of Ethnology, 2000, pp.
 87-111.
 
@@ -555,7 +555,7 @@ McGregor, R. *Indifferent Inclusion: Aboriginal People and the
 Australian Nation*, Canberra: Canberra Aboriginal Studies Press, 2011.
 
 Merlan, F. ‘Gender in Aboriginal Society: A Review’, in R.M. Berndt and
-R. Tonkinson (eds.) *Social Anthropology and Australian Aboriginal
+R. Tonkinson (eds) *Social Anthropology and Australian Aboriginal
 Studies*, Canberra: Aboriginal Studies Press, 1988, pp. 15-76.
 
 Michaels, E. *The Aboriginal Invention of Television in Central
@@ -568,7 +568,7 @@ Technological Horizons*, Vol. 3, Minneapolis: University of Minnesota
 Press, 1994.
 
 Miller, D. and H.A. Horst. ‘The Digital and the Human: A Prospectus for
-Digital Anthropology’ in H. A. Horst and D. Miller (eds.) *Digital
+Digital Anthropology’ in H. A. Horst and D. Miller (eds) *Digital
 Anthropology*, London: Bloomsbury Publishing, 2013, pp. 3-35.
 
 Moran, M. ‘The Viability of “Hub” Settlements’, *Dialogue* 29.1 (2010):
@@ -578,7 +578,7 @@ Morsillo, R. ‘Affordable Broadband for All Australians’,
 *Telecommunications Journal of Australia* 62.5 (2012): 78.1-78.16.
 
 Musharbash, Y. ‘“Only Whitefella Take That Road”: Culture Seen Through
-the Intervention at Yuendumu’, in Hinkson (eds.) *Culture Crisis:
+the Intervention at Yuendumu’, in Hinkson (eds) *Culture Crisis:
 Anthropology and Politics in Aboriginal Australia*, Sydney: University
 of New South Wales Press, 2010, pp. 302-318.
 
@@ -586,7 +586,7 @@ of New South Wales Press, 2010, pp. 302-318.
 Australia*, Canberra: Aboriginal Studies Press, 2009.
 
 Myers, F. ‘Burning the Truck and Holding the Country: Pintupi Forms of
-Property and Identity’, in E.N. Wilmsen (eds.) *We Are Here: Politics of
+Property and Identity’, in E.N. Wilmsen (eds) *We Are Here: Politics of
 Aboriginal Land Tenure*, Los Angeles: University of California Press,
 1989, pp. 15-42.
 
@@ -648,7 +648,7 @@ Canberra: Australian Institute of Aboriginal Studies, 1979, pp. 97-120.
 Olsen, P. ‘Teenagers Say Goodbye to Facebook and Hello to Messenger
 Apps’, *The Guardian*, 10 November 2013.
 
-Ormond-Parker, L., A. Corn, K. Obata and S. O’Sullivan, (eds.).
+Ormond-Parker, L., A. Corn, K. Obata and S. O’Sullivan, (eds).
 *Information Technology and Indigenous Communities,* AIATSIS National
 Indigenous Studies Conference, 2009 and Information Technologies and
 Indigenous Communities Symposium, 2010, Canberra: AIATSIS, 2013.
@@ -734,7 +734,7 @@ Rogers, E.M. *Diffusion of Innovations*, 5th ed, New York: Free Press,
 2003.
 
 Rowse, T, ‘Re-figuring “Indigenous culture”’ in J. Altman and M. Hinkson
-(eds.) *Culture Crisis: Anthropology and Politics in Aboriginal
+(eds) *Culture Crisis: Anthropology and Politics in Aboriginal
 Australia*, Kensington: UNSW Press, 2010, pp. 153-178.
 
 Sanders, W. *Working Future: A Critique of Policy by Numbers*, Canberra:
@@ -853,7 +853,7 @@ Zealand School of Government, Australian National University, Canberra,
 
 Verran, H. and M. Christie. ‘Postcolonial Databasing? Subverting Old
 Appropriations, Developing New Associations’ in J. Leach and L. Wilson
-(eds.) *Subversion, Conversion, Development: Diversity and the Adoption
+(eds) *Subversion, Conversion, Development: Diversity and the Adoption
 and Use of Information and Communication Technologies*, Cambridge: MIT
 Press, 2014, pp. 57-76.
 

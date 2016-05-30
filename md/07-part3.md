@@ -1388,9 +1388,7 @@ our attention to some concrete policy approaches emerging from this
 book.
 
 [^1]: Central Australian Youth Link Up Service, ‘Papunya Computer Room’,
-    http://caylus.org.au/papunya-computer-room/.
-
-    The Parliament of Australia Senate Standing Committee on Community
+    http://caylus.org.au/papunya-computer-room/; The Parliament of Australia Senate Standing Committee on Community
     Affairs, ‘Inquiry into Petrol Sniffing and Substance Abuse in
     Central Australia’, Commonwealth of Australia,
     http://www.aph.gov.au/Parliamentary\_Business/Committees/Senate/Community\_Affairs/Completed\_inquiries/2008-10/petrol\_sniffing\_substance\_abuse08/index.
@@ -1413,9 +1411,7 @@ book.
     Tennant Creek, including town camps. The community of Amoonguna had
     coverage due to its proximity to Alice Springs. Other non-community
     sites included Granites mine, Barkly homestead/Wayside Inn, Barrow
-    Creek, Urapunja power station, and the Erldunda road house.
-
-    Australian Bureau of Statistics, ‘Macdonnell and Barkly Statistical
+    Creek, Urapunja power station, and the Erldunda road house; Australian Bureau of Statistics, ‘Macdonnell and Barkly Statistical
     Area 3, Indigenous Profile, by Household’,
     www.abs.gov.au/websitedbs/censushome.nsf/home.
 
@@ -1460,8 +1456,7 @@ book.
 
 [^17]: Rhizomatica, ‘About’, http://rhizomatica.org/about-2/.
 
-[^18]: T. Hatt, K. Okeleke and M. Meloan, ‘Closing the Coverage Gap - a
-    View from Asia’, *GSMA Intelligence* (June 2015),
+[^18]: T. Hatt, K. Okeleke and M. Meloan, ‘Closing the Coverage Gap: A View from Asia’, *GSMA Intelligence* (June 2015),
     https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download.
 
 [^19]: G. Goggin and J. Clark. ‘Mobile Phones and Community Development:
@@ -1471,17 +1466,13 @@ book.
 [^20]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
     Cell Phone Changes Business, Politics, and Daily Life*, p. 72.
 
-[^21]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
-    Cell Phone Changes Business, Politics, and Daily Life*, p. 72.
+[^21]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
 
-[^22]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
-    Cell Phone Changes Business, Politics, and Daily Life*, p. 72.
+[^22]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
 
-[^23]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
-    Cell Phone Changes Business, Politics, and Daily Life*, p. 72.
+[^23]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
 
-[^24]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
-    Cell Phone Changes Business, Politics, and Daily Life*, p. 74.
+[^24]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 74.
 
 [^25]: H. Galperin, and F. Bar, ‘The Microtelco Opportunity: Evidence
     from Latin America’, *Information Technologies & International
@@ -1507,35 +1498,24 @@ book.
 
 [^29]: Corner, ‘Universal Telecommunications Services: A Brief History
     and Analysis of the Issues Surrounding the New Australian
-    Legislation on the Universal Service Obligation’.
-
-    S. Davies, *Urban Based Support for Rural and Remote Australian
+    Legislation on the Universal Service Obligation’; S. Davies, *Urban Based Support for Rural and Remote Australian
     Telecommunications*, Broadband for the Bush Alliance, 2014.
 
 [^30]: K.R. Wilson, J.S. Wallin and C. Reiser, ‘Social Stratification
     and the Digital Divide’, *Social Science Computer Review* 21.2
-    (2003).
-
-    J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
-    Dynamic Phenomenon’, *The Information Society* 19.4 (2003).
-
-    P. Norris. ‘The Worldwide Digital Divide’, Annual Meeting of the
+    (2003); J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
+    Dynamic Phenomenon’, *The Information Society* 19.4 (2003); P. Norris. ‘The Worldwide Digital Divide’, Annual Meeting of the
     Political Studies Association of the UK, London School of Economics
-    and Political Science, 2000.
-
-    N. Selwyn, ‘Reconsidering Political and Popular Understandings of
+    and Political Science, 2000; N. Selwyn, ‘Reconsidering Political and Popular Understandings of
     the Digital Divide’, *New Media & Society* 6.3 (2004).
 
 [^31]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
-    Reconfiguring Access: National and Cross National Patterns of
-    Internet Diffusion and Use’.
+    Reconfiguring Access’.
 
-[^32]: Helsper, *Digital Inclusion: An Analysis of Social Disadvantage
-    and the Information Society*, p. 9.
+[^32]: Helsper, *Digital Inclusion*, p. 9.
 
 [^33]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
-    Reconfiguring Access: National and Cross National Patterns of
-    Internet Diffusion and Use’, p. 33.
+    Reconfiguring Access’, p. 33.
 
 [^34]: N. Biddle, *CAEPR Indigenous Population Project 2011 Census
     Papers*, Canberra: ANU Centre for Aboriginal Economic Policy
@@ -1575,25 +1555,19 @@ book.
     and those without, the differences in internet adoption appear to be
     statistically significant.
 
-[^39]: Rennie et al., ‘At Home on the Outstation: Barriers to Home
-    Internet in Remote Indigenous Communities’, p. 590.
+[^39]: Rennie et al., ‘At Home on the Outstation’, p. 590.
 
 [^40]: Central Australian Youth Link Up Service, *Proposal Re: Better
     Way of Providing Broadband in Remote Communities*, Alice Springs:
     Tangentyere Council, 2014.
 
-[^41]: Rennie et al., ‘At Home on the Outstation: Barriers to Home
-    Internet in Remote Indigenous Communities’, pp. 591.
-
-    Hogan et al., *Submission to the Inquiry into Issues Surrounding
+[^41]: Rennie et al., ‘At Home on the Outstation’, pp. 591; Hogan et al., *Submission to the Inquiry into Issues Surrounding
     Cyber-Safety for Indigenous Australians*.
 
 [^42]: J. Finlayson and A.J. Auld, ‘Shoe or Stew?: Balancing Wants and
     Needs in Indigenous Households: A Study of Appropriate Income
     Support Payments and Policies for Families’, ANU Centre for
-    Aboriginal Economic Policy Research Discussion Paper No. 182, 1999.
-
-    D.E. Smith, *Toward an Aboriginal Household Expenditure Survey:
+    Aboriginal Economic Policy Research Discussion Paper No. 182, 1999; D.E. Smith, *Toward an Aboriginal Household Expenditure Survey:
     Conceptual, Methodological and Cultural Considerations*, Canberra:
     ANU Centre for Aboriginal Economic Policy Research, 1991, p. 13.
 
@@ -1605,11 +1579,9 @@ book.
     *Report to Wujal Wujal Aboriginal Shire Council on Mobile Technology
     in the Bloomfield River Valley*, 2009, p. 396.
 
-[^45]: Helsper, *Digital Inclusion: An Analysis of Social Disadvantage
-    and the Information Society*.
+[^45]: Helsper, *Digital Inclusion*.
 
-[^46]: Helsper, *Digital Inclusion: An Analysis of Social Disadvantage
-    and the Information Society,* p. 10-11.
+[^46]: Helsper, *Digital Inclusion*, p. 10-11.
 
 [^47]: P.E. Earl, ‘Economics and Psychology: A Survey’, *The Economic
     Journal* 100.402 (1990).
