@@ -689,8 +689,7 @@ broadband policy (Chapter 9 and Conclusion).
     ‘Telecommunications in Remote Indigenous Communications’,
     http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities.
 
-[^12]: According to Telstra coverage maps
-    (https://www.telstra.com.au/coverage-networks/our-coverage): Granites mine; Barkly homestead Wayside Inn; Ali Curung (Indigenous
+[^12]: According to Telstra coverage maps (https://www.telstra.com.au/coverage-networks/our-coverage): Granites mine; Barkly homestead Wayside Inn; Ali Curung (Indigenous
     pop. 486); Barrow Creek; Ampilawatja (Indigenous pop. 350);
     Urapuntja power station; Arlpara (Utopia homelands, Indigenous pop.
     90); Ti Tree (Indigenous pop. 61); Yuendumu (Indigenous pop. 585);
@@ -710,26 +709,16 @@ broadband policy (Chapter 9 and Conclusion).
 
 [^15]: A.E. Daly, *Bridging the Digital Divide: The Role of Community
     Online Access Centres in Indigenous Communities*, Canberra: ANU
-    Centre for Aboriginal Economic Policy Research (2005).
-
-    C. Nobbs, ‘Ara Irititja: Protecting the Past, Accessing the Future:
-    Indigenous Memories in a Digital Age’, *Artlink* 24.1 (2004): 50-51.
-
-    H. Verran and M. Christie, ‘Postcolonial Databasing? Subverting Old
+    Centre for Aboriginal Economic Policy Research (2005); C. Nobbs, ‘Ara Irititja: Protecting the Past, Accessing the Future:
+    Indigenous Memories in a Digital Age’, *Artlink* 24.1 (2004): 50-51; H. Verran and M. Christie, ‘Postcolonial Databasing? Subverting Old
     Appropriations, Developing New Associations’, in J. Leach and L.
     Wilson (eds) *Subversion, Conversion, Development: Diversity and the
     Adoption and Use of Information and Communication Technologies*,
-    Cambridge: M.I.T. Press, 2014, pp. 57-76.
-
-    S. Thorner, ‘Imagining an Indigital Interface: Ara Irititja
+    Cambridge: M.I.T. Press, 2014, pp. 57-76; S. Thorner, ‘Imagining an Indigital Interface: Ara Irititja
     Indigenizes the Technologies of Knowledge Management’, *Collections*
-    6.3 (2010): 125-146.
-
-    I. Kral, *Plugged In: Remote Australian Indigenous Youth and Digital
+    6.3 (2010): 125-146;  I. Kral, *Plugged In: Remote Australian Indigenous Youth and Digital
     Culture,* Canberra: ANU Centre for Aboriginal Economic Policy
-    Research, 2010.
-
-    I. Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth
+    Research, 2010; I. Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth
     Speaking out Loud’, *Australian Aboriginal Studies*, 1 (2011): 4-16.
 
 [^16]: Telecommunications Action Plan for Remote Indigenous Communities
@@ -766,9 +755,7 @@ broadband policy (Chapter 9 and Conclusion).
 [^23]: E. Michaels, *The Aboriginal Invention of Television in Central
     Australia, 1982-1986: Report of the Fellowship to Assess the Impact
     of Television in Remote Aboriginal Communities,* Canberra:
-    Australian Institute of Aboriginal Studies, 1986.
-
-    E. Michaels, *Bad Aboriginal Art and Other Essays: Tradition, Media,
+    Australian Institute of Aboriginal Studies, 1986; E. Michaels, *Bad Aboriginal Art and Other Essays: Tradition, Media,
     and Technological Horizons*, Vol. 3, University of Minnesota
     Press, 1994.
 

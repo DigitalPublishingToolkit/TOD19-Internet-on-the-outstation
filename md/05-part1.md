@@ -1662,9 +1662,7 @@ the most, and what they were used for.
 
 [^5]: H. Raiche, ‘Universal Communications in a Broadband World: Working
     Paper’, Inaugural Australian Communications Consumer Action Network
-    (ACCAN) Conference, Melbourne, 2010.
-
-    McElhinney, ‘Telecommunications Liberalisation and the Quest for
+    (ACCAN) Conference, Melbourne, 2010; McElhinney, ‘Telecommunications Liberalisation and the Quest for
     Universal Service in Australia’.
 
 [^6]: E. Rennie and J. Potts, ‘Auction Subsidies and the Universal
@@ -1681,9 +1679,7 @@ the most, and what they were used for.
     http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html).
     Telstra’s competitors have argued that the USO subsidy would be
     better directed at extending the NBN and utilizing it to expand
-    mobile services in particular.
-
-    Vodafone Hutchison Australia, ‘Regional Telecommunications Review
+    mobile services in particular; Vodafone Hutchison Australia, ‘Regional Telecommunications Review
     2015: Submission by Vodafone Hutchison Australia’, 2015,
     http://www.rtirc.gov.au/submissions/.
 
@@ -1696,11 +1692,9 @@ the most, and what they were used for.
     A New Remote Indigenous Housing Strategy’,
     http://www.budget.gov.au/2015-16/content/bp2/html/bp2\_expense-19.htm.
 
-[^10]: Daly, *Bridging the Digital Divide: The Role of Community Online
-    Access Centres in Indigenous Communities*.
+[^10]: Daly, *Bridging the Digital Divide*.
 
-[^11]: Rennie et al., ‘Beyond Public Access? Reconsidering Broadband for
-    Remote Indigenous Communities’.
+[^11]: Rennie et al., ‘Beyond Public Access?’.
 
 [^12]: Peter Farr Consultants Australasia, *Connecting Our Communities:
     Sustainable Networking Strategies for Australian Remote Indigenous
@@ -1730,8 +1724,7 @@ the most, and what they were used for.
 [^18]: Amnesty International, *The Land Holds Us: Aboriginal Peoples’
     Right to Traditional Homelands in the Northern Territory,* Broadway, NSW: Amnesty International, 2011, p. 13.
 
-[^19]: Blanchard, *Return to Country: The Aboriginal Homelands Movement
-    in Australia*.
+[^19]: Blanchard, *Return to Country*.
 
 [^20]: Northern Territory Department of Education, ‘Enrolment and
     Attendance Statistics’,
@@ -1740,9 +1733,7 @@ the most, and what they were used for.
 
 [^21]: J. Altman, *In Search of an Outstations Policy for Indigenous
     Australians,* Canberra: Centre for Aboriginal Economic Policy
-    Research, 2006.
-
-    See also: E. Kowal, ‘Is Culture the Problem or the Solution?
+    Research, 2006; See also: E. Kowal, ‘Is Culture the Problem or the Solution?
     Outstation Health and the Politics of Remoteness’ in J. Altman and
     M. Hinkson (eds) *Culture Crisis: Anthropology and Politics in
     Aboriginal Australia*, Sydney: University of New South Wales Press,
@@ -1760,26 +1751,19 @@ the most, and what they were used for.
     Territory government (CLP at the time) might be hostile to the
     intentions of land rights.
 
-[^24]: For instance: Beadman, ‘“A Tortuous Trail”: Bob Beadman’s Short
-    History of Outstations’.
+[^24]: For instance: Beadman, ‘“A Tortuous Trail”’.
 
 [^25]: P. Mares, ‘Homeland Security: NT Indigenous Affairs Minister
     Outlines Policy’,
-    http://www.abc.net.au/radionational/programs/nationalinterest/homeland-security-nt-indigenous-affairs-minister/3147812\#transcript.
-
-    See also: Altman, *In Search of an Outstations Policy for Indigenous
-    Australians*.
-
-    S. Kerins, *The First-Ever Northern Territory Homelands/Outstations
+    http://www.abc.net.au/radionational/programs/nationalinterest/homeland-security-nt-indigenous-affairs-minister/3147812\#transcript; See also: Altman, *In Search of an Outstations Policy for Indigenous
+    Australians*; S. Kerins, *The First-Ever Northern Territory Homelands/Outstations
     Policy*, CAEPR Topical Issue No. 09/2009, Canberra: ANU Centre for
     Aboriginal Economic Policy Research, 2009.
 
 [^26]: A. Vanstone, ‘Beyond Conspicuous Compassion: Indigenous
     Australians Deserve More Than Good Intentions’, Address to the
     Australia and New Zealand School of Government, Australian National
-    University, Canberra, 7 December 2005.
-
-    H. Hughes, *Lands of Shame: Aboriginal and Torres Strait Islander
+    University, Canberra, 7 December 2005; H. Hughes, *Lands of Shame: Aboriginal and Torres Strait Islander
     ‘Homelands’ in Transition,* Sydney: Centre for Independent Studies,
     2007.
 
@@ -1830,9 +1814,7 @@ the most, and what they were used for.
     the Digital Divide’, *New Media & Society* 6.3 (2004): 345.
 
 [^40]: J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
-    Dynamic Phenomenon’, *The Information Society* 19.4 (2003).
-
-    P. DiMaggio and E. Hargittai, ‘From the “Digital Divide” to “Digital
+    Dynamic Phenomenon’, *The Information Society* 19.4 (2003); P. DiMaggio and E. Hargittai, ‘From the “Digital Divide” to “Digital
     Inequality”: Studying Internet Use as Penetration Increases’
     *Princeton Center for Arts and Cultural Policy Studies* 4.1 (2001):
     4-2.
@@ -1841,9 +1823,7 @@ the most, and what they were used for.
     the Digital Divide’: 346.
 
 [^42]: M. Warschauer, ‘Dissecting the “Digital Divide”: A Case Study in
-    Egypt’, *The Information Society* 194 (2003): 297-304.
-
-    P. Norris, ‘The Worldwide Digital Divide’, Annual Meeting of the
+    Egypt’, *The Information Society* 194 (2003): 297-304; P. Norris, ‘The Worldwide Digital Divide’, Annual Meeting of the
     Political Studies Association of the UK, London School of Economics
     and Political Science, 2000.
 
@@ -1862,9 +1842,7 @@ the most, and what they were used for.
     Media & Society* 9.4 (2007).
 
 [^46]: E.M. Rogers, *Diffusion of Innovations,* 5th edition, New York:
-    Free Press, 2003.
-
-    K.E. Pearce and R.E. Rice, ‘Digital Divides from Access to
+    Free Press, 2003; K.E. Pearce and R.E. Rice, ‘Digital Divides from Access to
     Activities: Comparing Mobile and Personal Computer Internet Users’,
     *Journal of Communication* 63.4 (2013).
 
@@ -1879,16 +1857,12 @@ the most, and what they were used for.
 
 [^49]: ARC Centre of Excellence for Creative Industries and Innovation,
     ‘World Internet Project (Australia)’,
-    http://www.cci.edu.au/projects/world-internet-project-australia.
-
-    See also: Australian Communications and Media Authority,
+    http://www.cci.edu.au/projects/world-internet-project-australia; See also: Australian Communications and Media Authority,
     *Communications Report 2012-13*, Canberra: Commonwealth of
     Australia, 2013.
 
 [^50]: R. Morsillo, ‘Affordable Broadband for All Australians’,
-    *Telecommunications Journal of Australia* 62.5 (2012): 78.1-78.16.
-
-    S. Ewing and J. Thomas, *The Internet in Australia*, Brisbane: ARC
+    *Telecommunications Journal of Australia* 62.5 (2012): 78.1-78.16; S. Ewing and J. Thomas, *The Internet in Australia*, Brisbane: ARC
     Centre of Excellence for Creative Industries and Innovation, 2010.
 
 [^51]: Administered by the former Department of Families, Housing,
@@ -1907,30 +1881,22 @@ the most, and what they were used for.
 [^54]: A. Sen, *Social Exclusion: Concept, Application, and Scrutiny,*
     Manila: Asian Development Bank, 2000.
 
-[^55]: Sen, *Social Exclusion: Concept, Application, and Scrutiny*.
-
-    M. Nussbaum, ‘Capabilities as Fundamental Entitlements: Sen and
-    Social Justice’, *Feminist Economics* 9.2-3 (2003).
-
-    J. Bath and N. Biddle, ‘Measures of Indigenous Wellbeing and Their
+[^55]: Sen, *Social Exclusion*; M. Nussbaum, ‘Capabilities as Fundamental Entitlements: Sen and
+    Social Justice’, *Feminist Economics* 9.2-3 (2003); J. Bath and N. Biddle, ‘Measures of Indigenous Wellbeing and Their
     Determinants Across the Life Course’, CAEPR Lecture Series, The
     Australian National University, 2011.
 
-[^56]: A. Sen, *Social Exclusion: Concept, Application, and Scrutiny*,
+[^56]: Sen, *Social Exclusion*,
     p. 29.
 
-[^57]: Rowse, ‘Re-Figuring “Indigenous Culture’’’, p. 156.
+[^57]: Rowse, ‘Re-Figuring “Indigenous Culture”’, p. 156.
 
-[^58]: K. L. Kraemer, Jason Dedrick and Prakul Sharma, ‘One Laptop
+[^58]: K.L. Kraemer, J. Dedrick and P. Sharma, ‘One Laptop
     Per Child: Vision Vs. Reality’, *Communications of the ACM* 52.6
-    (2009): 66-73.
-
-    David W. Grissmer, Rena F. Subotnik, and Martin Orland, *A Guide to
+    (2009): 66-73; D.W. Grissmer, R.F. Subotnik, and M. Orland, *A Guide to
     Incorporating Multiple Methods in Randomized Controlled Trials to
     Assess Intervention Effects*, Washington, DC: American Psychological
-    Association (2009).
-
-    Abhijit V. Bannerjee, and Esther Duflo, *Poor Economics: A Radical
+    Association (2009); Abhijit V. Bannerjee, and Esther Duflo, *Poor Economics: A Radical
     Rethinking of the Way to Fight Global Poverty*, New York: Public
     Affairs (2011).
 
@@ -1940,9 +1906,7 @@ the most, and what they were used for.
 
 [^61]: See F. Enghel and K. Wilkins, ‘Communication, Media and
     Development: Problems and Perspectives’, *Nordicom Review* 33
-    (Special Issue) (2012).
-
-    J. Servaes, ‘Introduction’ in J. Servaes (ed.) *Communication for
+    (Special Issue) (2012); J. Servaes, ‘Introduction’ in J. Servaes (ed.) *Communication for
     Development and Social Change,* New Delhi: Sage, 2008.
 
 [^62]: P. Chakravartty, ‘Rebranding Development Communications in
@@ -1957,13 +1921,12 @@ the most, and what they were used for.
     Global Information Technology Report: Readiness for the Networked
     World*, Oxford: Oxford University Press, 2002, p. 83.
 
-[^65]: F. Ginsburg, ‘Rethinking the Digital Age’ in D. Hesmondhalgh and J. Toynbee, *The Media and Social Theory*, New York: Routledge, 2008, pp. 129–44. 
+[^65]: F. Ginsburg, ‘Rethinking the Digital Age’ in D. Hesmondhalgh and J. Toynbee, *The Media and Social Theory*, New York: Routledge, 2008, pp. 129-44. 
 
 [^66]: W. Mazzarella, ‘Beautiful Balloon: The Digital Divide and the
     Charisma of New Media in India’, *American Ethnologist* 37.4 (2010).
 
-[^67]: Mazzarella. ‘Beautiful Balloon: The Digital Divide and the
-    Charisma of New Media in India’.
+[^67]: Mazzarella. ‘Beautiful Balloon’.
 
 [^68]: See A. Crouch, ‘The Community Phone Project: An Overview’, DKCRC
     Working Paper 46, Alice Springs: Desert Knowledge CRC, 2009.
@@ -1975,15 +1938,12 @@ the most, and what they were used for.
 [^70]: See P. Batty, *Governing Cultural Difference: The Incorporation
     of the Aboriginal Subject into the Mechanisms of Government with
     Reference to the Development of Aboriginal Radio and Television in
-    Central Australia,* Adelaide: University of South Australia, 2003.
-
-    M. Hinkson, ‘What's in a Dedication? On Being a Warlpiri DJ’, *The
+    Central Australia,* Adelaide: University of South Australia, 2003; M. Hinkson, ‘What's in a Dedication? On Being a Warlpiri DJ’, *The
     Australian Journal of Anthropology* 15.2 (2004).
 
-[^71]: Hinkson, ‘What's in a Dedication? On Being a Warlpiri DJ’:110.
+[^71]: Hinkson, ‘What's in a Dedication?’:110.
 
-[^72]: Rennie et al., ‘At Home on the Outstation: Barriers to Home
-    Internet in Remote Indigenous Communities’.
+[^72]: Rennie et al., ‘At Home on the Outstation’.
 
 [^73]: C. Sandvig, ‘The Internet as an Infrastructure’ in W.H. Dutton
     (ed.) *The Oxford Handbook of Internet Studies*, Oxford:
@@ -2000,7 +1960,5 @@ the most, and what they were used for.
     Aboriginal Australia*, Canberra: Aboriginal Studies Press, 2009.
 
 [^77]: Lenovo, ‘TBR Quality Project’,
-    http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf.
-
-    Crouch, *Home Internet for Remote Indigenous Communities: Technical
+    http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf; Crouch, *Home Internet for Remote Indigenous Communities: Technical
     Report.*
