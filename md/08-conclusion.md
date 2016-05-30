@@ -16,14 +16,14 @@ The strikingly uneven patterns of internet adoption between remote
 communities correspond to the availability of mobile broadband and other
 government programs. Public-private partnerships in some regions have
 extended mobile coverage to larger remote communities. In addition,
-various publicly-funded initiatives have provided a level of internet
+various publicly funded initiatives have provided a level of internet
 access, including computer rooms and training provided through the
 Northern Territory Libraries network and remote media organizations.
 Such programs have been designed to assist Aboriginal people to discover
-and learn about communication technology within community settings.
+and learn about communications technology within community settings.
 Community payphones, provided through the former Indigenous
 Communications Program, are delivering internet to over 300 small
-communities (with populations under 50 people). The expectation
+communities (with populations under fifty people). The expectation
 underpinning such programs is that once people are given basic levels of
 internet skills and experience, they will eventually acquire internet
 services of their own accord. An unstated assumption is that those
@@ -37,13 +37,13 @@ and out of when coverage and pre-paid credit permit. Affordability is an
 issue, in that the relative value of internet ICTs is likely to
 fluctuate depending on an individual’s life circumstances; for example,
 when money is short, basics such as food, power and transport may take
-priority rather than fixing a computer/device or paying for
+priority over fixing a computer/device or paying for
 subscriptions/data. Particular groups, including older people and those
 living in small communities, can remain completely excluded, or only
 experience the benefits of internet use through others (making them
 users by proxy). Factors such as an individual’s mobility and avoidance
 relationships can play a role in internet adoption, use and skills
-transferral.
+transferal.
 
 ### Digital Choices and the National Broadband Network (NBN)
 
@@ -82,7 +82,7 @@ the internet. Internet shopping, entertainment and staying in touch with
 family via social networking were also common – made more significant
 when we consider how difficult it can be for those living in remote
 communities to undertake these activities through other means, given
-their limited transport and telecommunication options. As very few
+their limited transport and telecommunications options. As very few
 organizations or agencies attempted to use online communication to reach
 the residents over the four-year period, we were unable to determine
 whether internet access can reduce the costs of service provision to
@@ -102,7 +102,7 @@ different age groups is also crucial to empowering remote community
 members to manage these issues. Implementing policies that prevent or
 discourage internet provision and access, as has occurred under the
 Northern Territory Emergency Response in relation to the surveillance
-and supervision of publicly-provided computers (2007-2012), is not a
+and supervision of publicly provided computers (2007–2012), is not a
 viable or equitable solution to cyber-safety issues.
 
 ### Factors Influencing the Adoption of Paid Internet Services
@@ -119,7 +119,7 @@ Indigenous communities would manage to arrange NBN satellite services.
 It is unrealistic to expect households to carry out the various steps
 independently, given their limited access to telephones and knowledge of
 the processes, combined with the NBNCo and (some) ISP staff’s
-relatively-uninformed perceptions of remote community circumstances.
+relatively uninformed perceptions of remote community circumstances.
 
 In particular, billing proved to be one of the biggest obstacles to
 satellite internet services. Despite the willingness of some community
@@ -143,14 +143,14 @@ available at cheaper rates.
 When we commenced the project, there was an assumption in policy and
 academic analysis that shared facilities were the most appropriate form
 of internet access for remote communities. In the intervening years,
-government-funded and NGO programs (including Remote Indigenous Public
+government-funded and NGO programs – including Remote Indigenous Public
 Internet Access (RIPIA), the community phones project, and work by
 organizations such as the Central Australian Youth Link Up Service
-(CAYLUS) have moved increasingly towards public WiFi.
+(CAYLUS) – have moved increasingly towards public WiFi.
 
 A core focus of our work was whether home internet (the norm for
 mainstream Australia) was viable, particularly for communities too small
-to justify telecenters. We also tested shared, community-managed WiFi by
+to justify community internet centers. We also tested shared, community-managed WiFi by
 placing some computers in communal spaces (at the residents’ request),
 and monitoring how they were shared and maintained. We considered
 practical matters to do with housing, including living arrangements, the
@@ -169,13 +169,13 @@ household/immediate family members, with the owner determining who could
 use the PC. Avoidance relationships between families, and the emphasis
 on discrete family ownership and use of ICT, resulted in certain family
 groups often dominating access to computers in shared spaces and
-excluding others, a finding that was corroborated at the telecenter at
+excluding others, a finding that was corroborated at the computer room at
 Papunya. Location, access and usage are therefore important
 considerations for remote Aboriginal owners.
 
 These findings have implications in considering models for the provision
 of ICT and internet access in remote communities. Specifically,
-telecenter or ‘internet café’-type arrangements which are run by
+computer room or ‘internet café’-type arrangements which are run by
 Indigenous community members may not be the most suitable mechanism for
 providing equitable access to the broader community, owing to family and
 other cultural obligations (kinship). For example, in one of the larger
@@ -184,15 +184,15 @@ supervising a computer center meant that some others in that kinship
 network were unwilling to use it.
 
 While in theory the home computing model provided ICT access for the
-whole family, ranging from grandparents to young, pre-school children,
+whole family, ranging from grandparents to young, preschool children,
 the dynamics of inter-familial, gender and age relationships influenced
 community members’ access to and use of the ICTs. The higher profile and
 level of participation of women in the home computing model suggests
 that locating computers and internet access within household spaces
 might lead to a stronger association of digital technology with a
-female-coded domain and technical activities, with positive flow-on
+female-coded domains and technical activities, with positive flow-on
 effects in facilitating greater ICT usage by women and children. By
-contrast, at the Papunya telecenter, the main room became so closely
+contrast, at the Papunya computer center, the main room became so closely
 identified with young men that a separate space was created for women to
 access computers and the internet. To ensure equitable ICT access, the
 ways that different age, gender and family groups became aligned with
@@ -201,7 +201,7 @@ considered in ICT planning.
 
 Residents’ degree of mobility, both within and outside the community,
 has implications for ICT provision in relation to access, ownership,
-management of billing and sustainability. ICT arrangements need to be
+management of billing, and sustainability. ICT arrangements need to be
 flexible in response to residential mobility, and some devices and
 equipment may be more suitable than others depending on community
 members’ degree of mobility. For instance, residents moved houses within
@@ -218,17 +218,17 @@ mobile devices.
 ### Equitable IT Maintenance and Training Support
 
 Much less sharing and helping occurred between households than we
-anticipated, not only in relation to access and use, but in overcoming
+anticipated, not only in relation to access and use, but also in overcoming
 ICT issues and sharing skills and knowledge. A critical mass of ICT
 users and hardware is not sufficient to ameliorate the digital divide
 without providing ICT support and training. The tendency towards
-discrete family/household and even highly-personalized use, together
+discrete family/household and even highly personalized use, together
 with the social and cultural relationships between different groups,
 needs to be considered in providing ICT education and training to ensure
 equity of access in remote communities.
 
 Contrary to views that Aboriginal people prefer group learning because
-they are communally-oriented, we found that community members generally
+they are communally oriented, we found that community members generally
 preferred learning opportunities that were flexible enough to
 accommodate their lifestyle and priorities, and were provided within
 their homes, often on an individual basis. Individual or home-based
@@ -238,8 +238,7 @@ embarrassment (shame). Although logistically challenging and resource
 intensive, a flexible, opportunistic approach that tailors learning
 opportunities to the individual’s needs and takes place within private,
 safe spaces rather than formal, structured group learning is more likely
-to be effective. These observations were supported by the experience of
-Papunya Computer Room (PCR), which mostly offered one-on-one training in
+to be effective. These observations were supported by the experience of the Papunya Computer Room (PCR), which mostly offered one-on-one training in
 response to the failure of attempts at group program delivery.
 
 ### Overcoming the Digital Divide
@@ -248,11 +247,11 @@ Digital exclusion in remote Australia should not be seen as an
 intractable problem. In communities where satellite internet is the only
 available internet, innovative solutions are still possible.
 
-For instance, externally-maintained WiFi services that provide
+For instance, externally maintained WiFi services that provide
 satellite-delivered internet within communities are possible under
 current regulatory and retail arrangements. Such services overcome the
 need for a fixed connection to the home, resolving access for those who
-may not reside in the community on a permanent basis, or where post-paid
+may not reside in the community on a permanent basis, and addressing situations where post-paid
 billing is not feasible for households. Such services would need to be
 managed by an intermediary organization or commercial enterprise with
 experience working in remote communities. Sustainable models might
@@ -274,7 +273,7 @@ develop programs with Indigenous communities.
 
 At a more fundamental level, issues such as internet infrastructure,
 affordability and programs are important, not just for the daily
-communication activities of those who access these services, but for the
+communication activities of those who access these services, but also for the
 services, shires, schools and organizations that interact with
 communities on an ongoing basis. Nurturing connections between these
 groups and the organizations that are working at solving communication
@@ -285,7 +284,7 @@ exchange.[^3] As for research, on-the-ground experience is necessary
 when it comes to understanding the digital divide. There is a serious
 need for ongoing collection of data on remote community ICT
 infrastructures, as well as basic consumer information including
-expenditure, device preferences and sharing behaviours. However,
+expenditure, device preferences and sharing behaviors. However,
 internet adoption and use is inherently tied to everyday practices,
 priorities, needs and capacities. Only by understanding the social and
 cultural aspects of life in remote communities can we begin to know the
@@ -298,7 +297,7 @@ in the communities. The residents had not rushed to replace broken
 machines, although the women we met with all continued to see value in
 having the internet. 
 
-At Imangara, both Emily's and Mary’s computers needed repairs. They were
+At Imangara, both Emily’s and Mary’s computers needed repairs. They were
 paying for the internet, even though they could not use it, and were
 planning on calling the internet service provider to get it suspended.
 Louise was using her internet connection with her iPad, as her PC had
@@ -307,10 +306,10 @@ also died. 
 Many of the computers had been moved out of Mungalawurru. Only the
 middle-aged couple at Mungalawurru had kept the internet, which we were
 told had become slow, either because of the NBN satellite connection, or
-because their machine was getting old. The woman was paying her bills by
-cheque now, an arrangement that suited her much better than direct
+because their machine was getting old. The woman was paying her ISP bills by
+check now, an arrangement that suited her much better than direct
 debit. Karen was still living in Tennant Creek, and was using the
-internet on her husband's phone and on her daughter's iPad, as the
+internet on her husband’s phone and on her daughter’s iPad, as the
 computer had finally stopped working.
 
 The senior woman from Mungalawurru, who had been living and working in
@@ -326,13 +325,13 @@ Rhonda’s time was taken up with working in Alice Springs, but her plans
 to create stories for bilingual education for small children had
 developed rather than diminished. She said she also hopes to produce
 books on the wildlife at Tjoritja. She still had her computer and was
-planning on getting an internet connection in the near future. Rhonda's
+planning on getting an internet connection in the near future. Rhonda’s
 family were now making their own plans for enterprise at Kwale Kwale,
 and her mother had recently purchased nine baby peacocks.  
 
 [^1]: With the exception of the Central Land Council (CLC).
 
-[^2]: The research involved interviews with approximately 100 people in
+[^2]: The research involved interviews with approximately one hundred people in
     Ali Curung in late 2013, with representation from half of all
     households.
 

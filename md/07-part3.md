@@ -5,7 +5,7 @@
 The outstation residents’ encounters with satellite internet, as
 recounted in previous chapters, was aided and shaped by our efforts.
 Assistance with software downloads and passwords, the cables, ink and
-spare parts we provided, our dealings with installers, and a myriad of
+spare parts we provided, our dealings with installers, and myriad 
 other small tasks, impacted on the residents’ experience of the
 internet. The Home Internet Project thus involved what can be considered
 a unique ‘terms of use’ – albeit a consultative one – in that those who
@@ -19,7 +19,7 @@ for technology, provisioning and support might have resulted in a
 different level of engagement or experience of the internet. As
 mentioned in Chapter 1, a number of programs attempting to deliver
 internet access have been implemented in remote communities since the
-1990s. These have produced highly-varied levels of infrastructure,
+1990s. These have produced highly varied levels of infrastructure,
 facilities and technological approaches across different communities. A
 small number of larger communities have also received the kinds of
 infrastructure and telecommunication services widely available in
@@ -43,7 +43,7 @@ primarily on commercial providers.
 
 In this chapter, we focus on two larger communities, one of which has a
 large shared internet access facility and did not receive mobile
-coverage until mid 2014 (Papunya, as introduced in the previous
+coverage until mid-2014 (Papunya, as introduced in the previous
 chapter), and another which has had mobile broadband for some years (Ali
 Curung). As we were not able to spend the same level of time engaging
 with the residents in these larger communities, our account is
@@ -57,8 +57,7 @@ using the internet for.
 During the course of our research, information about various other
 infrastructures, trials and projects emerged, including WiFi hotspots in
 communities with satellite pay phones initiated by the Department of
-Broadband, Communication and the Digital Economy (now the Department of
-Communication). In the final part of the chapter, we consider
+Broadband, Communications and the Digital Economy (now the Department of Communications and the Arts). In the final part of the chapter, we consider
 international models and discuss why they may or may not eventuate in
 remote Australia.
 
@@ -67,9 +66,9 @@ remote Australia.
 As mentioned in the previous chapter, the Papunya Computer Room (PCR)
 was established in early 2009 to provide alternative educative and
 diversionary activities for young people in the community, especially
-males aged 14-25 years who had been identified by the Senate Inquiry
+males aged 14–25 years who had been identified by the Senate Inquiry
 into Petrol Sniffing.[^1] We followed the evolution of the PCR from
-2010-2014. Even within this relatively short timeframe, the PCR
+2010–2014. Even within this relatively short time frame, the PCR
 underwent a series of significant transitions in adapting to available
 ICT, including the introduction of mobile coverage, and in attempting to
 meet the needs of the community. Those engaged in the development of the
@@ -80,7 +79,7 @@ technical and training support, ongoing costs and long-term
 sustainability.
 
 When we visited in 2012, the PCR comprised two rooms within a Northern
-Territory Department of Education (DEET NT) building in the community –
+Territory Department of Education (DoE NT) building in the community –
 a main room for community use, with eight donated iMac desktop
 workstations, and a Kunkgas’ room for women and children (as discussed
 in the previous chapter) with four iMac desktop computers and a lounge
@@ -89,11 +88,11 @@ short-term contracts to provide administrative and training/mentoring to
 community members who use its facilities. Use of the computers and
 equipment was free, so as not to discourage any community members from
 using the facility. The computer room possessed both an ethernet and
-wireless network (ADSL) in mid-2012 shortly after the study. The
+wireless network (ADSL) in mid-2012. The
 community received mobile coverage in late March 2014.
 
 The main use of computers at the PCR was as a form of entertainment,
-rather than for communication administrative activities or formal
+rather than for administrative activities or formal
 education. Collaborative and creative industries activities featured
 more significantly at the PCR, but were non-existent in the project
 communities, which reflects the relative capacity and sophistication of
@@ -131,10 +130,10 @@ and to address the long-term sustainability of the PCR, which had been
 surviving on a patchwork of philanthropic funds sourced by the Central
 Australian Youth Link Up Service (CAYLUS).
 
-Papunya store, which is required to put half its profits into community
-development, supported the transition to the Maku Shed as their main
+The Papunya store, which is required to put half its profits into community
+development, supported the transition to the Maku Shed as its main
 community development project for 2014. At the time, the Papunya store
-was paying the PCR coordinator’s salary, as well as the Maku Shed’s
+was paying the PCR coordinator’s salary, as well as in the Maku Shed’s
 power and water bills. Internet and computer use at the Maku Shed was
 made available on a ticketing system, priced from \$0.50 to \$1, with
 tickets supplied by the Northern Territory Remote Indigenous Public
@@ -162,20 +161,20 @@ Ensuring that the computer room was open during hours that were suited
 to different age groups in the community became a key factor in
 facilitating greater access.
 
-The Maku Shed hours were changed to a later time slot (1-9 pm) to cater
+The Maku Shed hours were changed to a later time slot (1–9 pm) to cater
 for the use of the facility for youth activities, and so that people
 could avoid the extremes in temperature by visiting later in the day.
 The computers were popular with primary school-age kids and teenagers
-after school, with 17-30-year olds being their main users at night.
+after school, with 17–30-year olds being their main users at night.
 Consequently, older adults, especially those who were working, were less
 likely to use the computers. The Maku Shed supervisor commented: ‘There
-are so many kids in here, from 3:30 to 6 pm; it's so intense the adults
-don't want to be in here.’ It was rare for anyone over 60 to use the
+are so many kids in here, from 3:30 to 6 pm; it’s so intense the adults
+don’t want to be in here.’ It was rare for anyone over 60 to use the
 Maku Shed, although middle-aged community members occasionally visited.
 
 CAYLUS and the Papunya store were initially concerned that particular
 family groups might dominate, as they had at other facilities in the
-community. We also heard of this occuring in other communities where
+community. We also heard of this occurring in other communities where
 shared internet facilities were operating. However, the Maku Shed
 supervisor thought that avoidance relationships had proved to be less of
 an issue with the move of the shared facility into a larger space,
@@ -184,16 +183,16 @@ commandeer the computer in smaller spaces, including households. She
 gave an example of a family who’d had a computer at home, but had ended
 up coming to the Maku Shed because one person had monopolized use of the
 computer. By contrast, the emphasis of the Maku Shed was ‘more about
-sharing with community’, rather than being family-oriented. People even
+sharing with community’, rather than being family oriented. People even
 came to the Maku Shed to ‘sit on the couch, using their phones because
-it's a lot more exciting than being at home’.
+it’s a lot more exciting than being at home’.
 
 ### Supervision, Training and Mentoring at the Maku Shed
 
 Staffing arrangements, training and mentoring activities played a
 further role in increasing social inclusion at the shared facility in
 both of its versions as the PCR and the Maku Shed. When the computer
-room was located in the smaller DEET NT building, there really needed to
+room was located in the smaller DoE NT building, there really needed to
 be staff of the same sex as users in each of the main and Kungkas’ rooms
 to ensure that members of both sexes would patronize the facility, and
 would receive digital literacy training and support.
@@ -216,12 +215,12 @@ family, were normally left in charge of the Maku Shed.
 Scheduling training at appropriate times was mentioned as a significant
 issue. The Maku Shed supervisor observed external training providers:
 ‘They choose to do it at the wrong time. If you want to engage people, I
-think it should be done at nighttime, for one. That's when people are
+think it should be done at nighttime, for one. That’s when people are
 most active around here as well, particularly in summer.’ She stressed
 that, in providing training to remote community members, it was
 necessary ‘to be flexible with time. And be really opportunistic. Just
 grab people when you can. Form those relationships with people so
-they'll want to attend your class, rather than just say when it's on’.
+they’ll want to attend your class, rather than just say when it’s on’.
 The need for flexibility, along with an individual focus and the
 development of relationships with community members to understand their
 learning needs, also accords with aspects of our experience of
@@ -238,10 +237,10 @@ they were four people who were pretty much guaranteed to get
 certificates anyway’. Community members also perceived a lack of purpose
 to the organized training delivered at Papunya – that it was unlikely to
 provide a pathway to local employment. ‘People have been trained in a
-thousand things’, the PCR co-ordinator observed, ‘but there's no
+thousand things’, the PCR co-ordinator observed, ‘but there’s no
 capacity to work \[for employment – i.e. very few jobs available
 locally\].’ Likewise, the trainers delivering courses generally did not
-canvas what community members wished to learn, how they wished to learn,
+canvas what community members wished to learn or how they wished to learn,
 or build relationships through which they might gain some idea of
 people’s learning needs.[^2]
 
@@ -252,16 +251,16 @@ which the PCR/Maku Shed is the most highly developed, offers the lowest
 implementation costs, because all the facilities are centralized and
 shared. However, the operational costs can be very high. These may
 include the cost for renting secure building space (assuming that is
-available, which is often not the case), or the expensive alternative of
-constructing a new building, and of providing and accommodating a
-supervisor for the Centre.
+available, which is often not the case) or the expensive alternative of
+constructing a new building, and the cost of providing and accommodating a
+supervisor for the center.
 
 The access center model will always be constrained by the need for the
 security of the facility and the availability of a supervisor, and for
 these reasons most centers only open during business hours, and
 sometimes for only a few days per week. Supervision brings the obvious
 benefit that a skilled person is on hand to assist users in using
-unfamiliar applications, providing ICT training, and solving particular
+unfamiliar applications, provide ICT training, and solve particular
 support problems. The access center can also be an effective vehicle for
 supporting school-based computing activities, provided there is
 effective collaboration between the schoolteachers and the center
@@ -293,12 +292,12 @@ connect to the internet. In 2014, one of the women in Imangara told us
 she had been using one of these WiFi points when visiting a family
 outstation. She was very pleased that it was available.
 
-Most versions of the Community WiFi model implemented in remote
+Most versions of the community WiFi model implemented in remote
 communities to date are similar to the enhanced solar-powered satellite
 community phone one, insofar as they are BYOD and consist of a single
 WiFi access point, which concentrates all ICT users, and hence traffic,
 around a single point and internet source in the community. But unless
-the community is small (for example, a family-sized outstation), a
+the community is small (for example, a family sized outstation), a
 single domestic National Broadband Network (NBN) satellite service is
 unlikely to have the capacity to provide sufficient broadband speed for
 all the users who may wish to connect simultaneously. WiFi is
@@ -315,8 +314,7 @@ and to restrict access when individuals are found to be causing harm
 online. The spatial consequences of WiFi – how and where individuals
 access the internet – is an area that requires further investigation.
 For instance, in April 2015, CAYLUS called for free WiFi to be installed
-in Alice Springs town camps as a diversionary activity for young people
-(2015b). A news article quoted Nicholas Williams, a youth worker at
+in Alice Springs town camps as a diversionary activity for young people. A news article quoted Nicholas Williams, a youth worker at
 CAYLUS, observing that before WiFi was available in Hermannsburg, kids
 were more likely to be ‘breaking in areas, hanging around where they’re
 not supposed to’.[^3] Since the WiFi became available, kids tended to
@@ -331,7 +329,7 @@ communities; however, RIPIA installed a WiFi network at Milyakburra
 because it was so small that it lacked a library or other suitable
 community building. The network consisted of two wireless access points
 installed on high points (the roof of the business center and a
-centrally-located radio mast) within the community, and in-home wireless
+centrally located radio mast) within the community, and in-home wireless
 repeaters were installed in each dwelling so that internet access could
 be extended to premises at the edge of the community, thus ensuring
 equity of access on a household basis. Reports from the Northern
@@ -364,7 +362,7 @@ telephony as a substitute for basic telephony services, and therefore
 did not cover internet use – unsurprising given that smart phone use was
 lower in general at that time (30 per cent of mobile telephone services
 in operation allowed internet connectivity in 2010).[^7] Moreover, data
-rates for prepaid mobile broadband were high at that point in time, and
+rates for pre-paid mobile broadband were high at that time, and
 iPhone and Android phones, which provided the first easy icon-based
 access to applications rather than internet web browsers, were released
 in 2007 and 2008 respectively. However, these studies do provide useful
@@ -391,7 +389,7 @@ phones are also valuable for remote-living people in maintaining family
 and social contacts, especially given the significance of kinship
 networks in Aboriginal culture.[^10] The near-ubiquity of mobile phone
 ownership amongst Aboriginal people in remote Australia, in contrast to
-the relatively-low uptake of other communications arrangements in these
+the relatively low uptake of other communications arrangements in these
 communities, led Brady, Dyson and Asela to conclude that mobile
 telephony is the most appropriate ‘fit’ for this population. They state:
 ‘Contrasting the enthusiasm for mobile phones and other ICT deemed
@@ -415,9 +413,9 @@ issue facing Indigenous people living in remote Australia.[^13] Mr
 Namayiwa was alarmed that residents had been phoned by the
 telecommunications provider, Telstra, and sold \$49 mobile plans, but
 were now facing bills in excess of \$1,000. A few days later, having
-investigated the issue, Telstra stated publicly that they were aware of
+investigated the issue, Telstra stated publicly that it was aware of
 two such cases, and that much of the cost for the capped plans related
-to internet use through the mobile phones. In this instance, Tesltra
+to internet use through the mobile phones. In this instance, Telstra
 eventually waived the bills.
 
 ### Access to Mobile Broadband in Ali Curung 
@@ -434,7 +432,7 @@ were *not* using the internet when we spoke to them, and ten of those
 had used it at some point in the past. Therefore, almost 1 in 7 people
 who had used the internet at some time were *not* using it at the time
 of the interview, demonstrating that some will fall in and out of
-internet connectivity. Only thirteen people (10.5 per cent) had either
+internet connectivity. Only thirteen people had either
 never used the internet or were not sure if they had.
 
 Age was not a significant factor in non-use. However, younger people
@@ -500,7 +498,7 @@ connection stated that they sometimes shared the cost with others.
 So as it turns out, internet use in Ali Curung was probably much lower
 in 2010 when our first interviews in Imangara were occurring. However,
 when we analyzed the evidence from the Ali Curung study in relation to
-the broader findings of the home internet project, we concluded that
+the broader findings of the Home Internet project, we concluded that
 Imangara might not have experienced the sudden rise in internet adoption
 in the absence of an assistance program. Without deliberate substitutes
 (including initiatives such as community WiFi or the assistance offered
@@ -523,7 +521,7 @@ structure uses no power or software to operate, and needs no
 maintenance, requiring only to be placed at a suitable height within the
 (extended) range. The first hotspot was placed in Boggy Hole,
 established in conjunction with the CLC, and allows tourists and locals
-who have become stuck on the notoriously-bad road to the Finke National
+who have become stuck on the notoriously bad road to the Finke National
 Park to call for help.[^14] The hotspot is now also being used in
 communities just outside of mobile range, and at other highway spots
 where people can be stranded waiting for a lift or bus. In 2015, the
@@ -536,17 +534,17 @@ to Ali Curung.
 
 ### International Developments: Microtelcos
 
-In 2013, an independent ISP in Papua, Indonesia, turned their existing
-network into mobile broadband using a low-cost, open source base station
+In 2013, an independent ISP in Papua, Indonesia, turned its existing
+network into mobile broadband using a low-cost, open-source base station
 technology created by US start-up company Endaga, created by PhD student
 Kurtis Heimerl at the University of California, Berkeley. The ability to
 access voice, SMS and data over mobile phones meant that those living in
 the village could easily reach people who were gathering supplies in
 town, a two-day trip by road.[^15] Endaga provides a retail mechanism,
-including SIM cards and internationally-recognizable phone numbers that
+including SIM cards and internationally recognizable phone numbers which
 enable entrepreneurs to establish their own ‘microtelco’ and charge
 users for calls. The technology is robust, does not require expensive
-protection from the elements and airconditioning, and can be mounted in
+protection from the elements and air-conditioning, and can be mounted in
 trees or on water towers as long as there is a power source.
 
 A number of remote Indigenous communities in Mexico have also installed
@@ -557,15 +555,15 @@ constitution).[^16] The Mexican network was established through
 Rhizomatica, an NGO with a mission to ‘increase access to mobile
 telecommunications to the over 2 billion people without affordable
 coverage and the 700 million with none at all’.[^17] Previously,
-residents were using landlines that charged a per-minute fee, required
+residents were using landlines that charged a per-minute fee, which required
 standing in line, and using runners to inform each other of incoming
-calls. Following years of unsuccessful lobbying to get telecommunication
+calls. Following years of unsuccessful lobbying to get telecommunications
 companies to provide mobile broadband services, the communities decided
 to use their municipal money to establish their own community-owned and
 operated micro-telecommunications enterprises in rural Oaxaca, Mexico,
-with each base station costing approximately \$US7,500.[^18] In January
+with each base station costing approximately US\$7,500.[^18] In January
 2015, Mexico assigned radiospectrum ‘cellular’ bands for ‘social use’,
-and created fifteen-year not-for-profit licences.
+and created fifteen-year not-for-profit licenses.
 
 Mobile telephony has become a significant enabler in the developing
 world, used for financial transactions such as remittance payments from
@@ -586,9 +584,9 @@ millions of people had to acquire telephones if mobile telephony was to
 reward the huge investment required to build and maintain vast networks
 of mobile cell-towers.’[^20] The competition between companies resulted
 in dramatic cuts to the cost of calls and phones in an effort to make
-prepaid mobile phone plans affordable ‘even \[for\] those who could make
+pre-paid mobile phone plans affordable ‘even \[for\] those who could make
 only a small investment’.[^21] However, a further aspect of courting
-this low-socio-economic-status market base involved tailoring their
+this low socio-economic status market base involved tailoring their
 customer service experience so that it was ‘cheap, easy and fast’.[^22]
 One company, Bharti Airtel, tried to incorporate a range of retail
 outlets into their sales chain, and to demystify the processes around
@@ -609,7 +607,7 @@ cheaper phone packages and more user-friendly processes for a low
 socio-economic status group do not exist to the same degree in remote
 Indigenous Australia.
 
-Galperin and Girard see potential in microtelcos, defined by Galperin as
+Galperin and Bar see potential in microtelcos, defined by Galperin as
 ‘small-scale telecom operators that combine local entrepreneurship,
 innovative business models, and low-cost technologies to offer an array
 of ICT services in areas of little interest to traditional
@@ -626,7 +624,7 @@ communities? Australian telecommunications spectrum regulation does not
 allow for ‘use it or lose it’ style spectrum access that Indigenous
 communities in Mexico exploited. However, in Australia, individuals and
 organizations can apply to the ACMA for a public telecommunications
-service licence using various paired frequency ranges.
+service license using various paired frequency ranges.
 
 The cost of a microcell itself is perhaps affordable for small
 communities that have access to mining royalties and the like (within
@@ -638,19 +636,19 @@ worth noting that although companies such as Endaga provide phone
 numbers and interconnection to service providers, in 2015 the wholesale
 price of a single phone number (purchased by the service provider and
 presumably factored into call charges) is currently six times that of a
-phone number in the US, and incurs incoming call costs. Therefore,
+phone number in the United States, and incurs incoming call costs. Therefore,
 although microtelcos could emerge in remote Australia, providing a
 competitive call charge rate to consumers could be a challenge.
 
-As discussed in Chapter 1, Australia’s Universal Obligation provides
-subsidies to the Universal Service Obligations (USO) provider (Telstra)
+As discussed in Chapter 1, Australia’s Universal Service Obligation (USO) provides
+subsidies to the provider (Telstra)
 for standard telephone services and payphones only. As Stuart Corner
-writes, when the Labor government made changes to the USO 2012 (in order
+writes, when the Labor government made changes to the USO in 2012 (in order
 to accommodate the NBN), many believed that an opportunity for radical
 reform was missed, including the possibility of a USO that would take
 account of the ‘popularity and reliance on mobile telephony’.[^28] If
 the USO was adapted to encompass mobile voice services, then subsidies
-could be directed towards the most socially-desirable infrastructure,
+could be directed towards the most socially desirable infrastructure,
 perhaps paving the way for greater penetration of mobile coverage in
 remote Australia.
 
@@ -664,8 +662,8 @@ including computer centers and public WiFi, are attempts to provide some
 means of access in conditions of market failure. Public WiFi, which in
 other contexts is a transitory solution for people when away from home
 and work, is intended as a first level of service in some remote
-communities, making up for the lack of fibre optic and mobile broadband
-infrastructure. Remote communities, such as the Maku Shed in Papunya,
+communities, making up for the lack of fiber optic and mobile broadband
+infrastructure. Remote communities, such as in the Maku Shed in Papunya,
 have been experimenting with how to make public WiFi sustainable.
 However, there is no clear path to ensuring that WiFi or mobile
 broadband are possible in communities of all sizes, or how these might
@@ -686,12 +684,12 @@ list for those for whom English was indeed too hard to read). By the end
 of the project when residents were given the option to maintain the
 internet at their own expense, ‘no cash’ emerged again as the major
 factor. However, ‘no cash’ was not necessarily just a matter of
-affordability, but of a more complex and intertwined set of issues to do
+affordability, but also as a result of a more complex and intertwined set of issues to do
 with the flow of money within and out of the community, time-specific
 spending priorities, and – most importantly – the difficulties of paying
 for internet and navigating payment systems. Some of the other barriers
 identified at the start of the project were also likely to have related
-to the broad category of money, such as poor English language inhibiting
+to the broad category of money, such as poor English language preventing
 people from understanding the various contracts on offer.
 
 Thus the problem of money was not necessarily a matter of what one was
@@ -700,7 +698,7 @@ previous chapter, satellite broadband was available at cheaper rates
 than mobile broadband in Ali Curung, and yet none of the households we
 spoke to (half of all houses in that community) had a satellite internet
 subscription at the time, while around 70 per cent of people had mobile
-broadband. Not everyone managed to maintain a prepaid mobile broadband
+broadband. Not everyone managed to maintain a pre-paid mobile broadband
 all the time, which indicates that affordability was indeed an issue.
 However, it was clear that people were willing to pay for the internet
 when they could, but only under circumstances that suited them.
@@ -715,7 +713,7 @@ influence others to do the same. In this chapter, we explore the social
 dimensions of ‘digital choices’ in relation to the digital divide in
 remote Australia. In the final part of the chapter, we provide a theory
 to explain the digital divide in remote Australia, which we call ‘the
-demic dealbreaker’, expanding on economic choice theory to take into
+demic deal-breaker’, expanding on economic choice theory to take into
 account how the sociality of place and network effects can lead entire
 communities and groups to adopt or not to adopt. The theory provides a
 means for thinking through different arrangements and policy approaches
@@ -730,7 +728,7 @@ Early studies revealed that those who were quick to adopt the internet
 were earning more, and had higher levels of schooling, than those who
 were not. The trend continued, with those least likely to use the
 internet also the most socially excluded.[^31] For instance, Helsper’s
-analysis of three major datasets in the UK revealed that three out of
+analysis of three major data sets in the UK revealed that three out of
 four of those who suffer ‘deep’ social exclusion have only limited
 engagement with internet-based services, and are seven times more likely
 to be disengaged from the internet than those who are socially
@@ -754,7 +752,7 @@ that social exclusion and digital exclusion influence each other.[^35]
 In an analysis of the 2006 census data, the Australian Bureau of
 Statistics suggested that ‘the lower rate of connectivity for Indigenous
 people might be attributed to a range of several socio-economic
-factors’.[^36] The statistics reflect significant hardship experienced
+factors’.[^36] The statistics reflect significant hardships experienced
 by many living in remote communities, hardships that many of households
 in this book experienced to varying degrees, from subtle to extreme.
 
@@ -766,7 +764,7 @@ observations of differences between Ali Curung and outstations where
 satellite was the only option: where there was mobile broadband, people
 were far more willing or able to have an internet connection.
 
-In 2011, only 11 locations in the southern half of the Northern
+In 2011, only eleven locations in the southern half of the Northern
 Territory (south of 19 degrees South) had mobile phone coverage. These
 were the townships of Alice Springs and Tennant Creek (including town
 camps), the tourist resort of Yulara (near Uluru), three highway stops,
@@ -774,7 +772,7 @@ and five remote Indigenous communities (Yuendumu, Hermannsburg, Ti Tree,
 Santa Teresa and Ali Curung). The towns, their town camps (Indigenous
 housing estates), and the five remote communities can be identified in
 the census data using the Indigenous Structure of the Australian
-Statistical Geography Standard, which enables analysis of discreet
+Statistical Geography Standard, which enables analysis of discrete
 communities, or of a group of small communities in a given area.[^37]
 Where the boundaries correspond to a particular community or town with
 mobile reception, it can be assumed that most of the houses in that
@@ -827,16 +825,16 @@ first, but we stopped off at Imangara en route to remind them we’d be
 visiting later in the week.
 
 When we drove into the community, Mary hurried out onto her verandah and
-said there’d been 'worry about the internet'. She was particularly
+said there’d been ‘worry about the internet’. She was particularly
 concerned about not being able to access her bank account. We then
 talked to another woman, Louise, who told us that her internet
 connection was still working – she’d been checking Westpac and Gumtree
-but she hadn't been able to use her email account. She produced a letter
+but she hadn’t been able to use her email account. She produced a letter
 she’d received from the internet service provider (ISP), which she
 didn’t understand, and showed it to us. The letter was dated four months
 previously, and it said that the ISP had changed her password to protect
 her privacy, and that she would have to ring them to get the new one.
-She also told us that Emily’s WiFi wasn't working; she wasn't sure why,
+She also told us that Emily’s WiFi wasn’t working; she wasn’t sure why,
 but she thought Emily mightn’t have paid the bill.
 
 We weren’t totally surprised by these developments, because co-author
@@ -861,10 +859,10 @@ family had been using their computer to lodge their Centrelink forms
 until one day in February, when the internet had stopped working. The
 husband had intended to submit his form that day, but lodged it in town
 instead because ‘the internet was closed’. They’d tried a neighbour’s
-house but the internet was not working there either. 'Everyone's using
+house but the internet was not working there either. 'Everyone’s using
 the phone now’ to lodge their Centrelink forms, the wife told us. When
 we rang the ISP later, they confirmed that they would give customers
-three months' grace to pay bills before cutting them off. Payments had
+three months’ grace to pay bills before cutting them off. Payments had
 been going through to their account for a time, but when the payments
 stopped, the ISP eventually cut them off.
 
@@ -876,12 +874,12 @@ to date with payments, and the neighbour wasn’t one of them.
 
 The following morning, we visited Karen, who’d been living in a town
 camp in Tennant Creek (since moving from Mungalawurru) to be with her
-eldest son when he started school. She was using a prepaid mobile phone
+eldest son when he started school. She was using a pre-paid mobile phone
 plan (\$40) to access the internet on her computer, which she topped up
 regularly: ‘I’d never want it to run out because I like the internet.’
 She was still the main computer user in the house, and downloaded music
 onto USB keys for other family members. Although she kept the computer
-in a ‘special place’, she preferred using it in Mungalwurru where it was
+in a ‘special place’, she preferred using it in Mungalawurru where it was
 ‘okay’ – that is, safer because she had more control over it.
 
 In the afternoon, we drove back to Imangara and organized a meeting at
@@ -899,7 +897,7 @@ an email ID and a new password, which Andrew recorded for her. Another
 woman spoke to the ISP about her billing situation and the debt on her
 account. When we’d spoken to her the previous day, it wasn’t clear
 whether she realized her internet connection had stopped working because
-she hadn’t paid, or for some other technical reason. The ISP was
+she hadn’t paid, or thought it was for some other other technical reason. The ISP was
 prepared to waive her bill if she paid \$40 in the next couple of days.
 
 After the meeting outside the Women’s Centre, we visited Mary to discuss
@@ -991,7 +989,7 @@ under the NBN so that they could have internet access on a household
 basis.[^40] These internet services have since fallen into disuse after
 families defaulted on payment for broadband plans. Households were
 unable to pay the bills because their resources were spread too thinly
-amongst a large number of highly-mobile residents, making regular
+amongst a large number of highly mobile residents, making regular
 payment almost impossible. As in the post-transition phase at the
 communities, these residents struggled with the administrative processes
 required to terminate the direct debit arrangements, because of the
@@ -1021,7 +1019,7 @@ household’.[^41]
 However, as discussed in Chapter 3, households tended to be fairly
 autonomous in their ownership and usage of the home computers and
 internet access. Instead, the trend was towards discrete
-family/household, even highly-personalized use of the PCs, even those
+family/household, even highly personalized use of the PCs, even those
 situated in shared, public spaces. Additionally, as the trial
 progressed, there was increasing recognition of personal ownership,
 particularly as people became more aware that the financial costs of
@@ -1086,7 +1084,7 @@ extent to which they were valued varied among individuals and changed
 over time, and fluctuated according to circumstances. For example, there
 may be instances whereby people prioritize expenditure on other items,
 such as fixing a car or paying for a funeral. Billing and payment
-methods not only need to be more flexible to accommodate greater
+methods not only need to be more flexible not only to accommodate greater
 residential mobility than is the case in the mainstream, but also in
 order to recognize the financial circumstances that surround many
 individuals living in remote communities.
@@ -1136,7 +1134,7 @@ and their forms of administration than most other participants,
 struggled to understand the letter, because of the level of ‘legalese’
 used.
 
-The fact that even the more ICT- and financially-adept residents had not
+The fact that even the more ICT- and financially adept residents had not
 made any attempts to contact the ISP to resolve their respective
 internet and email account problems indicates how incomprehensible and
 daunting the residents found aspects of the ISP’s administrative
@@ -1162,14 +1160,7 @@ and the ISP’s convoluted administrative procedures, she would probably
 struggle to understand a conversation with a customer service
 representative because of her degree of hearing loss.
 
-The communication issues surrounding remote community members’
-self-management of internet and email accounts that emerged after the
-transition to self-managed services highlight, on one hand, their
-limited knowledge of, and facility with, these administrative processes,
-but also the ISP’s lack of knowledge of the remote community context,
-and how factors such as limited availability of telecommunications
-avenues for contact, as well as low English literacy, are likely to
-impact on their service’s accessibility to these populations.
+The communication issues surrounding remote community members' self-management of internet and email accounts that emerged after the transition to self-managed services highlighted clear issues: Their limited knowledge of, and facility with, these administrative processes; the ISP's lack of knowledge of the remote community context; the limited availability of telecommunications as avenues for contact; and low English literacy. All of these factors are likely to impact on their services.
 
 An analogous situation existed at the Papunya Computer Room (PCR), where
 CAYLUS managed the physical and financial aspects of the community’s
@@ -1228,7 +1219,7 @@ write:
 In this final section of the chapter, we consider the importance of
 ‘digital choices’ as they occur in relation to community norms and
 social networks. We posit a theory of why and how the digital divide is
-occurring in remote Australia, which we call the ‘demic dealbreaker’.
+occurring in remote Australia, which we call the ‘demic deal-breaker’.
 
 In her study of UK data sets, Helsper noticed that particular groups
 were unexpectedly connected, defying predictors such as low
@@ -1275,7 +1266,7 @@ exclusion of an entire group or community. Firstly, in the broadest
 sense, Indigenous communities, like all communities, are a knowledge
 group, whereby the group shares its information, stories and culture,
 forming a particular set of social norms and influencing knowledge
-flows. Hartley and Potts (2014) call these ‘we’ groups demes (stemming
+flows. Hartley and Potts call these ‘we’ groups demes (stemming
 from the Greek ‘demos’, meaning polity). The ‘demic’ aspect of the
 ‘deal-breaker’ scenario describes the way in which the decision only
 makes sense when seen in relation to group actions, norms and
@@ -1292,7 +1283,7 @@ based on the decision-maker’s circumstances, or attributable to a range
 of factors, including whether others in the group are using digital
 technologies. For some, no obvious decision is made, but they might
 accept the status quo based upon what others are doing or not doing.
-Those who might have little or no digital skills (for instance, those
+Those who might have few or no digital skills (for instance, those
 residents who went to school prior to the introduction of computers in
 classrooms) are unlikely to receive the information required to consider
 internet adoption unless those they know share it with them. Therefore,
@@ -1304,7 +1295,7 @@ technology.
 Social networks thus affect the quality and flow of information, and
 create community norms (shared ideas about the proper way to behave).
 Granovetter’s influential work on the ‘strength of weak ties’ is useful
-for considering how tightly-knit communities can come to be without
+for considering how tightly knit communities can come to be without
 internet.[^48] Granovetter argues that our acquaintances – weak social
 ties – are more likely to give us new information than our close friends
 and family, as those who we know already share similar knowledge. For
@@ -1313,13 +1304,13 @@ begin to occur and spread until an outsider (for instance, a youth
 worker) assists some people within the community with the means to
 acquire internet. This might also apply to those who understand that
 satellite internet is available, but have decided that it is too
-difficult to acquire, but those who have no knowledge of it will remain
+difficult to acquire, so those who have no knowledge of it will remain
 in the dark. Dense community ties can therefore restrict information,
 and be an obstacle to technology diffusion and development more
 generally.[^49] Even if some level of adoption occurs, places such as
 Imangara and Mungalawurru, which do not have a permanent youth worker or
 media center, are likely to have fewer of the ‘weak ties’ that might
-provide particular digital literacies and skills, such as Garage Band,
+provide particular digital literacies and skills, such as GarageBand,
 which have become popular elsewhere.[^50] Uses, and not just adoption,
 can thus be defined by the absence of weak ties.
 
@@ -1328,7 +1319,7 @@ restores some agency for those for whom the decision not to adopt is a
 practical choice, weighed up against a host of trade-offs and
 inconveniences. When group dynamics are taken into account, broadband
 adoption is not only a matter of individual choice, but a
-socially-situated understanding of what will work and what will not,
+socially situated understanding of what will work and what will not,
 where the parameters are understood within that group in ways that might
 not be obvious to outsiders.
 
@@ -1361,7 +1352,7 @@ mobile is not available. Another response can be the provision of public
 WiFi in communities (free or through a token system), as discussed in
 the previous chapter. Understanding digital choices can also help to
 anticipate what responses are unlikely to succeed, particularly where
-they do not align with the socially-embedded decision-making that is
+they do not align with the socially embedded decision-making that is
 occurring. For instance, the experience of the outstations in this book
 suggests that government investment in faster satellite speeds – as has
 been the focus thus far of the NBN in remote areas – is unlikely in
@@ -1424,7 +1415,7 @@ book.
     sites included Granites mine, Barkly homestead/Wayside Inn, Barrow
     Creek, Urapunja power station, and the Erldunda road house.
 
-    Australian Bureau of Statistics, ‘Macdonnel and Barkly Statistical
+    Australian Bureau of Statistics, ‘Macdonnell and Barkly Statistical
     Area 3, Indigenous Profile, by Household’,
     www.abs.gov.au/websitedbs/censushome.nsf/home.
 
@@ -1438,13 +1429,12 @@ book.
 
 [^8]: Tangentyere Council Research Hub and Central Land Council,
     *Ingerrekenhe Antirrkweme: Mobile Phone Use among Low Income
-    Aboriginal People - a Central Australian Snapshot*, Alice Springs:
+    Aboriginal People – a Central Australian Snapshot*, Alice Springs:
     Tangentyere Council Research Hub and Central Land Council, 2007, p.
     6.
 
 [^9]: F.R. Brady, L.E. Dyson and T. Asela, ‘Indigenous Adoption of
-    Mobile Phones and Oral Culture’, Cultural Attitudes Towards
-    Technology and Communications, Murdoch University, Perth, 2008, p.
+    Mobile Phones and Oral Culture’, Cultural Attitutes Towards Technology and Communications Conference, Murdoch University, Perth, 2008, p.
     393.
 
 [^10]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
@@ -1463,15 +1453,15 @@ book.
     Outback’, *ABC News*,
     http://www.abc.net.au/local/stories/2015/03/16/4198439.htm.
 
-[^15]: Endaga sales material, endaga.com.
+[^15]: Endaga sales material, www.endaga.com.
 
-[^16]: ‘DIY Telecoms’, *The Economist* (March 7 2015*)*,
+[^16]: ‘DIY Telecoms’, *The Economist* (March 7 2015),
     http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting.
 
 [^17]: Rhizomatica, ‘About’, http://rhizomatica.org/about-2/.
 
 [^18]: T. Hatt, K. Okeleke and M. Meloan, ‘Closing the Coverage Gap - a
-    View from Asia’, *GSMA Intelligence* (June 2015*)*,
+    View from Asia’, *GSMA Intelligence* (June 2015),
     https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download.
 
 [^19]: G. Goggin and J. Clark. ‘Mobile Phones and Community Development:
@@ -1529,14 +1519,14 @@ book.
     J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
     Dynamic Phenomenon’, *The Information Society* 19.4 (2003).
 
-    Norris, Pippa. ‘The Worldwide Digital Divide’, Annual Meeting of the
+    P. Norris. ‘The Worldwide Digital Divide’, Annual Meeting of the
     Political Studies Association of the UK, London School of Economics
     and Political Science, 2000.
 
     N. Selwyn, ‘Reconsidering Political and Popular Understandings of
     the Digital Divide’, *New Media & Society* 6.3 (2004).
 
-[^31]: Dutton, Shepherd C. Di Gennaro, ‘Digital Divides and Choices
+[^31]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
     Reconfiguring Access: National and Cross National Patterns of
     Internet Diffusion and Use’.
 
@@ -1632,11 +1622,11 @@ book.
     Observer* 15.2 (2000).
 
 [^50]: Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth
-    Speaking out Loud’.
+    Speaking Out Loud’.
 
 [^51]: B. Crump, and A. McIlroy, ‘The Digital Divide: Why the
-    "Don't-Want-Tos" Won't Compute: Lessons from a New Zealand ICT
-    Project, *First Monday* 8.12 (2003).
+    “Don’t-Want-Tos” Won’t Compute: Lessons from a New Zealand ICT
+    Project’, *First Monday* 8.12 (2003).
 
 [^52]: B. Hunter, ‘Indigenous Social Exclusion: Insights and Challenges
     for the Concept of Social Inclusion’, *Family Matters*, 82 (2009):

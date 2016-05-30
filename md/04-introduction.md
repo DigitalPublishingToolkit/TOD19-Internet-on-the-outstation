@@ -1,7 +1,7 @@
 # Introduction
 
 On one of our first visits to Mungalawurru, a small Aboriginal community
-eighty kilometres northwest of Tennant Creek, a senior man asked if he
+80 kilometer northwest of Tennant Creek, a senior man asked if he
 could use our Toyota Land Cruiser’s high-frequency radio. His relative
 was in hospital and he wanted to know how the man was faring. The
 extended family gathered around the car as we made contact. The doctor
@@ -18,13 +18,13 @@ reception on some handsets. There was only one laptop among the
 twenty-two permanent residents of Mungalawurru, but it wasn’t connected
 to the internet.
 
-That visit occurred in 2010, when over 80 per cent people in Australia
+That visit occurred in 2010, when over 80 per cent of people in Australia
 over the age of 14 were using the internet.[^1] Mungalawurru’s somewhat
 extreme degree of isolation was about to change. We were doing the
 groundwork for a project that would provide computers and internet
 access, along with training and maintenance, to households in three
-small communities. Kwale Kwale, forty kilometres west of Alice Springs,
-was the first to be connected, followed Mungalawurru and then Imangara,
+small communities. Kwale Kwale, 40 kilometer west of Alice Springs,
+was the first to be connected, followed by Mungalawurru and then Imangara,
 which lies between Alice Springs and Tennant Creek, east of the Stuart
 Highway.
 
@@ -34,7 +34,7 @@ already and whether they saw potential benefits in being online. We
 weren’t testing new satellite speeds or trying out a new e-health
 application; we were simply attempting to connect households to the
 existing, standard satellite broadband, using the most
-commonly-available equipment. The process of doing this, however,
+commonly available equipment. The process of doing this, however,
 revealed the obvious ways in which the broadband market and government
 policies were failing to serve remote Aboriginal communities.
 
@@ -45,10 +45,10 @@ bafflingly low rates of internet adoption in these communities. Six in
 10 adults in the communities had never used the internet when we made
 that trip in 2010. A third of those who had used a computer at some
 point in the past had not used the internet, some having only used
-computers to play solitaire; others for sharing music. Three quarters of
+computers to play solitaire; others for sharing music. Three-quarters of
 those who had used the internet were under the age of 30.
 
-The 2011 Census revealed low rates of internet adoption amongst
+The 2011 census revealed low rates of internet adoption amongst
 Aboriginal people living in remote areas compared to elsewhere.[^2]
 Fewer than 4 in 10 Indigenous households in remote and very remote
 Australia had an internet connection at home, compared with over 8 in 10
@@ -91,14 +91,14 @@ live on outstations.[^4] Although outstation residents represent a
 comparatively small subset of Australia’s total Indigenous population,
 they constitute a significant proportion of total Aboriginal
 settlements. Of Australia’s 1,187 remote communities, 500 are
-outstations in the NT, comprising more than 2,400 dwellings. Almost
+outstations in the Northern Territory, comprising more than 2,400 dwellings. Almost
 three-quarters of all Aboriginal communities have a population of fewer
 than fifty people, and only seventeen have a population of more than
 1,000 people.[^5]
 
 The three communities in this book differ in their size, and in their
-distance from major towns (Kwale Kwale 40 kilometers; Mungalawarru 80
-kilometers; and Imangara 200 kilometers). Between 6 and 18 houses were
+distance from major towns (Kwale Kwale 40 kilometers; Mungalawurru 80
+kilometers; and Imangara 200 kilometers). Between six and eighteen houses were
 located on each outstation, although not all houses were habitable the
 entire time. Occupancy fluctuated, dictated by issues including access
 to services such as schools, incarceration, wasp nests, broken pipes,
@@ -106,7 +106,7 @@ housing revitalization programs, visitors and family tragedy. Each
 community also contained additional structures, such as sheds, that were
 used for a range of activities including clinic visits, as places of
 worship, and for enterprise (see Chapter 2). The largest community has
-around 100 permanent residents, and the smallest only twelve.
+around one hundred permanent residents, and the smallest only twelve.
 
 It is true to say that outstations are generally very small. However,
 although defining outstations by size of population is convenient for
@@ -126,14 +126,14 @@ movements that are typical of outstation life, and which can seem at
 odds with mainstream conceptions of domestic internet use as a permanent
 and stable form of connectivity.
 
-Kinship systems and practices carried through from pre-colonial times
+Kinship systems and practices carried through from pre colonial times
 continue to govern life in remote communities to varying degrees, and
 families in some regions speak one or more Aboriginal languages at home.
 More than five Aboriginal languages were spoken across the three
 outstations, including Warumungu, Alyawarr and Arrernte. As
 anthropologists have observed, the contemporary Indigenous sociality of
 remote communities is an expression of both traditional and Western
-culture, including new capabilities ‘in language, technology, practical
+cultures, including new capabilities ‘in language, technology, practical
 knowledge, ritual, and ways of organizing social, political and economic
 life’.[^7] The communities discussed in this book are still traditional
 in many respects, while also living within, negotiating and
@@ -149,13 +149,12 @@ Media anthropologist Serper Tenhunen proposes the concept of ‘social
 logistics’ as a tool for understanding ‘relationships between
 technology, culture and social structure’ of the kind that we are
 concerned with in this book.[^8] Such an approach looks at how
-communication technologies are taken up and adapted within different
+communications technologies are taken up and adapted within different
 cultural settings, showing how the various uses are bent to fit within
 the particular social organization of a time and place, including
 cultural and institutional ways of doing. Some scholars have rejected
 the terms ‘adoption’ and ‘use’, as these imply that there exists a
-uniform and uncomplicated pattern of encountering communication
-technology, denying that consumption is active and that technologies can
+uniform and uncomplicated pattern of encountering communications technology, denying that consumption is active and that technologies can
 be objects of desire for some and disregarded by others.[^9] We have
 chosen to retain the terms adoption and use, partly to emphasize that
 choices also occur within particular regimes – the retail offerings,
@@ -206,7 +205,7 @@ concerns one particular regime of access: home internet, meaning
 internet accessed within the domestic setting and managed by the
 householders. Our intention in looking at home internet was to test some
 cultural assumptions that were influencing policy decisions at the time
-we commenced the study. However, we have also endeavoured to describe
+we commenced the study. However, we have also endeavored to describe
 other systems of internet access (see Chapters 8 and 9) in order to
 explore the dynamics of other regimes.
 
@@ -228,7 +227,7 @@ When we commenced the project, we had various hypotheses as to why these
 outstations had not sought out internet services. One hypothesis was
 that it was simply a matter of affordability, given the very low income
 of the households. We also considered practical matters to do with
-housing such as living arrangements, the condition of the houses, and
+housing, such as living arrangements, the condition of the houses, and
 being home long enough to want a permanent connection to the internet.
 We were well aware of the physical challenges to infrastructure, with
 one of our partners, the Centre for Appropriate Technology (CAT), having
@@ -237,7 +236,7 @@ the years. However, we did not know how long computers and related
 electronics could withstand the heat, dust and vermin.
 
 A great deal occurred during those four years, both within the
-communities and externally. As described in the Chapter 2, we provided
+communities and externally. As described in Chapter 2, we provided
 free internet connections and maintained computers for two and a half
 years. Our presence and purpose in the communities changed the dynamics
 of what home internet meant to these households. CAT dealt with the
@@ -262,7 +261,7 @@ mobile phones and tablets when in town, in what seemed to be a sudden
 spike in mobile device use in the region. We concluded that remote
 Aboriginal communities have vastly different levels and means of
 internet access depending on community size, proximity to larger towns
-or tourist sites, and on the agencies and businesses that interact with
+or tourist sites, and the agencies and businesses that interact with
 them. We have incorporated examples of the various regimes of access,
 and compared and contrasted these where possible (Chapter 8).
 
@@ -275,7 +274,7 @@ receive telecommunications, and only then through government programs,
 including payphones, subsidies to offset costs, price controls such as
 untimed local calls for landlines within certain areas, and community
 infrastructure programs.[^10] By 2007, 77 per cent of all remote
-communities had some form of telecommunication service, but for many
+communities had some form of telecommunications service, but for many
 this consisted of one public telephone; only 20 per cent of the
 population in remote communities had a fixed telephone line, and only 26
 per cent of communities had mobile telephone coverage.[^11] Since then,
@@ -286,17 +285,17 @@ for providers. By 2015, a total of seventeen locations in the lower half
 of the Northern Territory had mobile coverage – twelve of which include
 residential dwellings – making mobile broadband at home available to
 approximately 50 per cent of the Aboriginal population of the
-region.[^12] Larger communities tend to be better serviced: Across the
+region.[^12] Larger communities tend to be better serviced: across the
 entire Northern Territory (including the Top End), seventy-four remote
-communities had a population greater than 100 in 2015 (home to
-approximately 45 000 people). Of these, thirty communities had ADSL, and
+communities had a population greater than one hundred in 2015 (home to
+approximately 45,000 people). Of these, thirty communities had ADSL, and
 mobile telephony was available in forty-four communities.[^13]
 
-In addition, various publicly-funded social development initiatives have
+In addition, various publicly funded social development initiatives have
 attempted to provide some level of internet access, such as computer
 rooms and training provided through the Northern Territory Libraries
 network and remote media organizations. Such programs have been designed
-to assist Aboriginal people to discover and learn about communication
+to assist Aboriginal people to discover and learn about communications 
 technology within community settings. As outstations are generally too
 small to be eligible for such infrastructure, the communities we worked
 with had not experienced the benefits of such projects.
@@ -333,7 +332,7 @@ aspect of our research towards the latter part of the project, as
 residents began to enter into contracts to receive NBN services (via
 retail service providers) under the Interim Satellite Service. We began
 to see clearly the reasons why many households in remote communities are
-not acquiring satellite broadband, and prefer pre-paid mobile in areas
+not acquiring satellite broadband, and prefer pre paid mobile in areas
 where mobile reception is available. Our findings suggest that faster
 speeds alone, although desirable for services and business in remote
 Australia, will not encourage residents of remote communities to adopt
@@ -376,7 +375,7 @@ Going without the internet was towards the bottom of a long list of
 policy concerns, all of which could be characterized as deprivations in
 policy terms. Indeed, describing low rates of internet adoption as a
 ‘divide’ seems something of an overstatement against the Commonwealth
-Government’s comparatively modest-sounding *Closing the Gap* agenda,
+government’s comparatively modest-sounding Closing the Gap agenda,
 which includes targets such as improving education outcomes (halve the
 gap in reading, writing and numeracy achievements by 2018), life
 expectancy (parity by 2031), and workforce participation (halve the gap
@@ -385,10 +384,10 @@ by 2018).
 As described throughout the following chapters, the elders invited us
 onto their lands and into their houses, interested in our proposal of
 measured introduction of computers. However, our research also brought
-us into contact with another, more sceptical, group of stakeholders. To
+us into contact with another, more skeptical, group of stakeholders. To
 reach the communities, we travelled alongside a cavalry of remote
 community workers, taking the ‘ideal combination of safety and speed’
-that “only whitefella take”.[^17] On our visits out to the two northern
+that ‘only whitefella take’.[^17] On our visits out to the two northern
 communities, we talked with various shire officers, government
 bureaucrats, arts workers, schoolteachers, health workers and television
 satellite dish installers. To some, our interest in broadband
@@ -412,7 +411,7 @@ parties such as a store keeper or government administrator). Online
 service delivery could also lower the costs to service agencies, such as
 the Centrelink officers we met, who had made the journey to check that
 people’s welfare payment information was up to date. For the Central
-Land Council (CLC) and the CAT – Indigenous organizations themselves
+Land Council (CLC) and CAT – Indigenous organizations themselves
 facing logistical difficulties providing services and staying in touch
 with outstation residents – this was a legitimate concern worth
 exploring.
@@ -424,7 +423,7 @@ further behind as the benefits for others increase. However, while
 recognizing the rapid transformations that are taking place at various
 levels of the economy and society as a result of digital technology, we
 urge caution to those who see broadband as a remedy for remote
-Australia. Commonly-held aspirations for broadband relating to better
+Australia. Commonly held aspirations for broadband relating to better
 service delivery, overcoming remoteness and hardship, and cost savings,
 reflect a set of external priorities. The agendas of government and NGOs
 are not necessarily aligned with those of people living in remote
@@ -436,7 +435,7 @@ potential good that may or may not come from this, the personal and
 socially-specific nature of internet use means that it may never
 eventuate. And just as there is the potential to provide connectivity in
 the social world within which these communities operate, so there is
-potential for it to allow communities to retreat further from the
+potential for the internet to allow communities to retreat further from the
 government and NGO services, and from non-Indigenous workers who serve
 and assist Indigenous people through face-to-face encounters.
 
@@ -484,7 +483,7 @@ look more closely at what is occurring in places of higher adoption and
 those with lower adoption, this unevenness begins to make sense. As
 discussed in Chapters 8 and 9, we observed a reasonably high rate (over
 70 per cent) of mobile broadband adoption in Ali Curung, which has
-mobile broadband coverage, however, in Imangara when we arrived, where
+mobile broadband coverage; however, in Imangara when we arrived, where
 the only available connection was satellite internet, there was no
 internet adoption. Both communities had a similar socio-economic
 profile. We also observed that people fell in and out of internet use,
@@ -511,8 +510,7 @@ not to use the internet, and that this can be related to ‘cultural
 factors and the social context of individuals, which influence the
 development of positive or negative attitudes towards
 technologies’.[^19] In the case of outstations, factors such as billing
-difficulties (related to the distinct way that money changes hands),
-inconvenience in dealing with retail providers (related to language
+difficulties (related to the distinct way that money changes hands) and inconvenience in dealing with retail providers (related to language
 barriers or lack of other infrastructures such as home phones), were
 informing the digital choices of residents. We argue that the concept of
 digital choice, while useful, does not entirely describe what is
@@ -523,7 +521,7 @@ are more likely to adopt technology if others they know are already
 using it, suggesting that network effects play a significant role.[^20]
 When we first met the residents, people did not know that satellite
 internet was an option, because no-one else they knew had chosen to
-subscribe. The ‘groupish’ (what we call 'demic') networked nature of
+subscribe. The ‘groupish’ (what we call ‘demic’) networked nature of
 internet adoption in remote Australia is explored further in Chapter
 9.[^21]
 
@@ -539,7 +537,7 @@ the dynamics and conditions of satellite internet to the extent that
 many households chose to move to NBN satellite plans at the conclusion
 of the project. When available under the right conditions, home internet
 is entirely possible. In Chapters 8 and 9, we offer suggestions as to
-how to small communities can be better served.
+how small communities can be better served.
 
 ### Solving Disadvantage?
 
@@ -552,7 +550,7 @@ internet can enable a level of personal autonomy that is significant for
 residents of outstations, but that this does not necessarily signify a
 solution to social disadvantage. However, the applications and services
 that might assist the particular and extreme disadvantages present in
-remote communities did not exist in 2010-2014. Therefore, the
+remote communities did not exist in 2010–2014. Therefore, the
 possibility that broadband might enable a better level of service
 provision remained untested. Moreover, the elaborate uses required for
 activities such as enterprise development would require a level of
@@ -566,7 +564,7 @@ enhancing their existing lifestyles, whatever those lifestyles may
 be’.[^22] As we discuss in Chapter 5, residents’ use of computers and
 the internet was confined to a fairly narrow set of activities:
 entertainment (downloading music, watching videos), social networking,
-games, storing photos, shopping and personal administration, including
+games, storing photos, shopping, and personal administration, including
 banking and managing welfare payments. Only a few people used email, and
 generally to receive notices of meetings or visits from external
 providers (including us). The uses that we observed were clearly a
@@ -588,7 +586,7 @@ scenario.
 
 When the internet arrived in these communities, it became ordinary for
 them in the way it is for most people. A great deal of Indigenous media
-studies work begins from a curiosity of whether Aboriginal people living
+studies work begins from a curiosity about whether Aboriginal people living
 in remote regions are enthusiastic or fearful of the advent of new
 communications technologies. Scholars have set out with the explicit
 intention of discovering whether people of traditional cultures deal
@@ -600,7 +598,7 @@ another part of life – a mundane asset tied into routines and habits
 that brought with it some advantages, as well as some newfound
 frustrations. As we describe in Chapter 5, internet use is a media
 practice tied in with typical quests for entertainment, to connect with
-a friend, or a quick fix for personal administration. The priorities,
+a friend, or for a quick fix for personal administration. The priorities,
 joys, boredoms and obligations of life in these communities did not
 shift fundamentally. In Heather Horst’s words, what we observed was
 ‘humanity’s remarkable capacity to reimpose normativity just as quickly
@@ -610,7 +608,7 @@ The idea that internet access can resolve the larger problem of
 government failure in addressing disadvantage is therefore problematic.
 We can say, however, that the internet brings a level of banal
 administration which, due to distance, remote communities have not
-previously had the benefit of, and which otherwise require arduous
+previously had the benefit of, and which otherwise requires arduous
 strategies such as extended travel, going without, or waiting for
 service providers to make contact.[^25] How these small instances of
 autonomy and efficiency – basic activities that reduce otherwise
@@ -622,7 +620,7 @@ three small communities, using the least invasive strategies we could
 manage. This book is as much about our own efforts to assist the
 residents to access the internet under current constraints as it is
 about the insights the residents of these communities shared with us. At
-times it was a complicated endeavour, technically and interpersonally.
+times it was a complicated endeavor, technically and interpersonally.
 We went to great lengths and great expense along the way. The message of
 this book, however, is that the digital divide should not be seen as an
 intractable problem, and that costly solutions may not always be the
@@ -630,28 +628,28 @@ right approach. Rather, addressing the digital divide requires
 understanding people’s choices and the capacities and conditions that
 inform those choices.
 
-This book is divided into three parts. Part One provides the backstory
+This book is divided into three parts. Part I provides the backstory
 to Australia’s digital divide, spanning the communications and
 Indigenous policy arenas (Chapter 1). We also describe the residents’
 experiences of the internet before we arrived, and the methods we
 employed to shed light on the dynamics of internet adoption (Chapter 2).
-Part Two discusses the residents’ encounters with the internet and
+Part II discusses the residents’ encounters with the internet and
 specific issues, including ownership of devices (Chapter 3); people’s
 mobility and travel (Chapter 4); gender dynamics (Chapter 7); training
 needs (Chapter 6); as well as what people used the internet for (Chapter
-5). Part Three looks at other scenarios of ICT infrastructure and access
+5). Part III looks at other scenarios of ICT infrastructure and access
 in central Australia, including the shared facilities approach that has
 evolved out of various programs and policies, and mobile internet
 (Chapter 8). We conclude the book by considering digital choices in
 relation to the digital divide, as well as the implications for
-broadband policy (Chapters 9 and Conclusion).
+broadband policy (Chapter 9 and Conclusion).
 
 [^1]: Australian Communications and Media Authority, *The Internet
     Service Market and Australians in the Online Environment*, Canberra,
     2011.
 
 [^2]: Australian Bureau of Statistics, ‘Census of Population and
-    Housing—Counts of Aboriginal and Torres Strait Islander Peoples’
+    Housing: Counts of Aboriginal and Torres Strait Islander Peoples’
     (2011),
     http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011.
 
@@ -672,7 +670,7 @@ broadband policy (Chapters 9 and Conclusion).
     Research, 2006, p. 1.
 
 [^7]: D. Austin-Broos, *A Different Inequality: The Politics of Debate
-    About Remote Aboriginal Australia* \[Kindle Dx Version\], Allen &
+    About Remote Aboriginal Australia* \[Kindle Dx Version\], Crows Nest: Allen &
     Unwin, 2011, Chapter 1, Section 2, Paragraph 6.
 
 [^8]: S. Tenhunen, ‘Mobile Technology in the Village: ICTs, Culture, and
@@ -692,12 +690,10 @@ broadband policy (Chapters 9 and Conclusion).
     http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities.
 
 [^12]: According to Telstra coverage maps
-    (https://www.telstra.com.au/coverage-networks/our-coverage):
-
-    Granites mine; Barkly homestead Wayside Inn; Ali Curung (Indigenous
+    (https://www.telstra.com.au/coverage-networks/our-coverage): Granites mine; Barkly homestead Wayside Inn; Ali Curung (Indigenous
     pop. 486); Barrow Creek; Ampilawatja (Indigenous pop. 350);
     Urapuntja power station; Arlpara (Utopia homelands, Indigenous pop.
-    90); Ti Tree (Indigenous pop 61); Yuendumu (Indigenous pop. 585);
+    90); Ti Tree (Indigenous pop. 61); Yuendumu (Indigenous pop. 585);
     Papunya (Indigenous pop. 376); Hermannsburg/Ellery Creek (Indigenous
     pop. 537); Erldunda Road House; Uluru/Mutitjulu (Indigenous pop.
     250); Santa Teresa (Indigenous pop. 502); Lajamanu (Indigenous pop.
@@ -727,11 +723,11 @@ broadband policy (Chapters 9 and Conclusion).
 
     S. Thorner, ‘Imagining an Indigital Interface: Ara Irititja
     Indigenizes the Technologies of Knowledge Management’, *Collections*
-    6.3 (2010): 125-46.
+    6.3 (2010): 125-146.
 
     I. Kral, *Plugged In: Remote Australian Indigenous Youth and Digital
     Culture,* Canberra: ANU Centre for Aboriginal Economic Policy
-    Research (2010).
+    Research, 2010.
 
     I. Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth
     Speaking out Loud’, *Australian Aboriginal Studies*, 1 (2011): 4-16.
@@ -739,15 +735,15 @@ broadband policy (Chapters 9 and Conclusion).
 [^16]: Telecommunications Action Plan for Remote Indigenous Communities
     (TAPRIC), *Report on the Strategic Study for Improving
     Telecommunications in Remote Indigenous Communities*, Canberra:
-    Department of Communications and Arts (2002).
+    Department of Communications and Arts, 2002.
 
 [^17]: Camilla as quoted in Y. Musharbash, ‘“Only Whitefella Take That
-    Road”: Culture Seen through the Intervention at Yuendumu’, in J.
+    Road”: Culture Seen Through the Intervention at Yuendumu’, in J.
     Altman and M. Hinkson (eds) *Culture Crisis: Anthropology and
     Politics in Aboriginal Australia*, Sydney: University of New South
     Wales Press, 2010, p. 304.
 
-[^18]: Coalition. ‘The Coalition's Policy for E-Government and the
+[^18]: Coalition, ‘The Coalition's Policy for E-Government and the
     Digital Economy’, Canberra, 2013.
 
 [^19]: E. Helsper, ‘A Corresponding Fields Model for the Links between
@@ -773,7 +769,7 @@ broadband policy (Chapters 9 and Conclusion).
     Australian Institute of Aboriginal Studies, 1986.
 
     E. Michaels, *Bad Aboriginal Art and Other Essays: Tradition, Media,
-    and Technological Horizons*, volume 3, University of Minnesota
+    and Technological Horizons*, Vol. 3, University of Minnesota
     Press, 1994.
 
 [^24]: D. Miller and H.A. Horst, ‘The Digital and the Human: A
@@ -781,6 +777,6 @@ broadband policy (Chapters 9 and Conclusion).
     (eds) *Digital Anthropology*, London: Bloomsbury Publishing, 2013,
     pp. 3-35.
 
-[^25]: J. Hartley and E. Rennie, ‘Show Business for Ugly people? Media
+[^25]: J. Hartley and E. Rennie, ‘Show Business for Ugly People? Media
     Politics and E-Democracy’, Australian Electronic Governance
     Conference, Melbourne, 14-15 April 2004*.*

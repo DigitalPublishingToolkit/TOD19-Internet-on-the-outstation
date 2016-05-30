@@ -10,7 +10,7 @@
 | CLA   | Community Living Area                                      |
 | CLC   | Central Land Council                                       |
 | ICP   | Indigenous Communications Program                          |
-| ICT   | Information Communication Technology                       |
+| ICT   | Information and Communications Technology                       |
 | ISS   | Interim Satellite Service                                  |
 | LTSS  | Long Term Satellite Service                                |
 | NBN   | National Broadband Network                                 |

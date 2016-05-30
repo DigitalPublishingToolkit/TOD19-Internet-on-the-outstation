@@ -1,6 +1,6 @@
 # Bibliography
 
-Aboriginal and Torres Strait Islander Committee. ‘Everybody's Business:
+Aboriginal and Torres Strait Islander Committee. ‘Everybody’s Business:
 Remote Aboriginal and Torres Strait Community Stores’, Canberra:
 Commonwealth of Australia, 2009.
 
@@ -12,19 +12,19 @@ Canberra: ANU Centre for Aboriginal Economic Policy Research, 2009.
 
 Altman, J. ‘Development Options on Aboriginal Land: Sustainable
 Indigenous Hybrid Economies in the Twenty-First Century’, in L. Taylor,
-G. Ward, G. Henderson, R. Davis and L. Wallis (eds) *The Power of
+G. Ward, G. Henderson, R. Davis and L. Wallis (eds.) *The Power of
 Knowledge, the Resonance of Tradition*, Canberra: Aboriginal Studies
 Press, 2005.
 
-———. ‘A Genealogy of 'Demand Sharing': From Pure Anthropology to Public
-Policy’, in Y. Musharbash and M. Barber (eds) *Ethnography and the
+———. ‘A Genealogy of “Demand Sharing”: From Pure Anthropology to Public
+Policy’, in Y. Musharbash and M. Barber (eds.) *Ethnography and the
 Production of Anthropological Knowledge: Essays in Honour of Nicolas
 Peterson*, ANU E Press, 2011, pp. 187-200.
 
 ———. *In Search of an Outstations Policy for Indigenous Australians,*
 Canberra: Centre for Aboriginal Economic Policy Research, 2006.
 
-Amnesty International. *The Land Holds Us: Aboriginal Peoples' Right to
+Amnesty International. *The Land Holds Us: Aboriginal Peoples’ Right to
 Traditional Homelands in the Northern Territory*, Broadway, NSW: Amnesty
 International, 2011.
 
@@ -33,10 +33,10 @@ Media Platform Conversions’, *Social Media + Society* 1.1 (2015): 1-3.
 
 Anderson, B. and K. Tracey. ‘Digital Living: The Impact (or Otherwise)
 of the Internet on Everday British Life’ in C. Haythornthwaite and B.
-Wellman (eds) *The Internet in Everyday Life*, Malden, MA, USA:
-Blackwell Publishers Ltd, 2002, pp. 139-63.
+Wellman (eds.) *The Internet in Everyday Life*, Malden, MA, USA:
+Blackwell Publishers Ltd, 2002, pp. 139-163.
 
-ARC Centre of Excellence for Creative Industries and Innovation, ‘World
+ARC Centre of Excellence for Creative Industries and Innovation. ‘World
 Internet Project (Australia)’,
 [*http://www.cci.edu.au/projects/world-internet-project-australia*](http://www.cci.edu.au/projects/world-internet-project-australia).
 
@@ -45,7 +45,7 @@ Remote Aboriginal Australia* \[Kindle Dx Version\], Sydney: Allen &
 Unwin, 2011.
 
 Australian Bureau of Statistics. ‘Australia, Remote and Very Remote
-(Remotness Factor), Indigenous Profile, by Household’,
+(Remoteness Factor), Indigenous Profile, by Household’,
 [*www.abs.gov.au/websitedbs/censushome.nsf/home*](http://www.abs.gov.au/websitedbs/censushome.nsf/home).
 
 ———. ‘Census of Population and Housing – Counts of Aboriginal and Torres
@@ -57,12 +57,12 @@ Islander Communities’,
 [*http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&tabname=Summary&prodno=4710.0&issue=2006&num=&view*](http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main Features42006?opendocument&tabname=Summary&prodno=4710.0&issue=2006&num=&view).
 
 ———. ‘Macdonnel and Barkly Statistical Area 3, Indigenous Profile, by
-Houshold’, www.abs.gov.au/websitedbs/censushome.nsf/home.
+Houshold’, http://abs.gov.au/websitedbs/censushome.nsf/home.
 
 ———. ‘Patterns of Internet Access in Australia’,
 [*http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/*](http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/)[.]()
 
-Australian Communications and Media Authority, ‘Communications Report
+Australian Communications and Media Authority. ‘Communications Report
 2009-10’,
 [*http://www.acma.gov.au/webwr/\_assets/main/lib311995/2009-10\_comms\_report-complete.pdf*](http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf)[.]()
 
@@ -78,22 +78,25 @@ Environment’, Canberra, 2011.
 ———. ‘Telecommunications in Remote Indigenous Communications’,
 [*http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities*](http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities).
 
-Australian Financial Counselling and Credit Reform Association. ‘Atm
+Australian Financial Counselling and Credit Reform Association. ‘ATM
 Fees in Indigenous Communities’, *AFCCRA*,
 [*http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf*](http://www.afccra.org/media releases documents/ATM Fees in Remote Indigenous Communities.pdf).
 
+Australian Human Rights Commission. *Social Justice Report 2011*,
+Sydney: Commonwealth of Australia, 2011.
+
 Australian Private Networks. *Indigenous Communications Program: Final
-Report*. 2014.
+Report*, 2014.
 
 Balogh, M. ‘Indigenous Australia Addicted to Facebook’, news release, 26
 August 2014.
 
 Banerjee, A. and E. Duflo. ‘Poor Economics: A Radical Rethinking of the
 Way to Fight Global Poverty’, *Population and Development Review* 374
-(2011): 796-97.
+(2011): 796-797.
 
 Bath, J. and N. Biddle. ‘Measures of Indigenous Wellbeing and Their
-Determinants across the Lifecourse’, CAEPR Lecture Series, ANU Centre
+Determinants Across the Lifecourse’, CAEPR Lecture Series, ANU Centre
 for Aboriginal Economic Policy Research, 2011.
 
 Battiste, M. *Indigenous Knowledge and Pedagogy in First Nations
@@ -105,15 +108,15 @@ Aboriginal Subject into the Mechanisms of Government with Reference to
 the Development of Aboriginal Radio and Television in Central
 Australia*, PhD diss., University of South Australia, Adelaide, 2003.
 
-Beadman, B. ‘“A Tortuous Trail”: Bob Beadman's Short History of
-Outstations’, *Alice Online: Australia from the inside out...*,
+Beadman, B. ‘“A Tortuous Trail”: Bob Beadman’s Short History of
+Outstations’, *Alice Online: Australia from the Inside Out…*,
 [*http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/*](http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/).
 
 Bell, D. *Daughters of the Dreaming*, Melbourne: Allen and Unwin, 1983.
 
 Best, M.L. and C.M. Maclay. ‘Community Internet Access in Rural Areas:
 Solving the Economic Sustainability Puzzle’ in G.S. Kirkman, P.K.
-Cornelius, J.D. Sachs and K. Schwab (eds) *The Global Information
+Cornelius, J.D. Sachs and K. Schwab (eds.) *The Global Information
 Technology Report: Readiness for the Networked World*, Oxford: Oxford
 University Press, 2002, pp. 76-89.
 
@@ -122,35 +125,35 @@ Census Papers,* Canberra: ANU Centre for Aboriginal Economic Policy
 Research, 2013.
 
 Blanchard, C.A. *Return to Country: The Aboriginal Homelands Movement in
-Australia*. Canberra: The House of Representatives Standing Comittee on
+Australia*, Canberra: The House of Representatives Standing Committee on
 Aboriginal Affairs, 1987.
 
 Brady, F.R., L.E. Dyson and T. Asela. *Indigenous Adoption of Mobile
 Phones and Oral Culture*, Cultural Attitudes Towards Communication and
 Technology, Perth: Murdoch University, 2008.
 
-Brady, F., L.E. Dyson and Wujal Wujal Aboriginal Shire Council, *Report
+Brady, F., L.E. Dyson and Wujal Wujal Aboriginal Shire Council. *Report
 to Wujal Wujal Aboriginal Shire Council on Mobile Technology in the
 Bloomfield River Valley*, 2009.
 
 Brasche, I. and I. Harrington. ‘Promoting Teacher Quality and
 Continuity: Tackling the Disadvantages of Remote Indigenous Schools in
 the Northern Territory’, *Australian Journal of Education* 56.2 (2012):
-110-25.
+110-125.
 
 Broadband for the Bush Alliance. *Rethinking the Indigenous
 Communications Program,* policy paper, 2013.
 
 Brown, S. A., V. Venkatesh and H. Bala. ‘Household Technology Use:
 Integrating Household Life Cycle and the Model of Adoption of Technology
-in Households’, *The Information Society* 22.4 (2006): 205-18.
+in Households’, *The Information Society* 22.4 (2006): 205-218.
 
 Byrnes, J. ‘Aboriginal Learning Styles and Adult Education: Is a
-Synthesis Possible’, *Australian Journal of Adult and Community
-Education* 33.3 (1993): 157-71.
+Synthesis Possible?’, *Australian Journal of Adult and Community
+Education* 33.3 (1993): 157-171.
 
 Carlson, B. ‘The “New Frontier”: Emergent Indigenous Identities and
-Social Media’ in M. Harris, M. Nakata and B. Carlson (eds) *The Politics
+Social Media’ in M. Harris, M. Nakata and B. Carlson (eds.) *The Politics
 of Identity: Emerging Indigeneity*, Sydney: University of Technology
 Sydney E-Press, 2013, pp. 147-168.
 
@@ -169,7 +172,7 @@ Rights News,* Alice Springs: Central Land Council, 2012, pp. 4-6
 Chakravartty, P. ‘Rebranding Development Communications in Emergent
 India’, *Nordicom Review* 33 (Special Issue) (2012): 65-76.
 
-Coalition. ‘The Coalition's Policy for E-Government and the Digital
+Coalition. ‘The Coalition’s Policy for E-Government and the Digital
 Economy’, Canberra, 2013.
 
 Commonwealth of Australia. ‘Budget Paper No. 2: Expense Measures: A New
@@ -186,38 +189,38 @@ Universal Service Obligation’, *Telecommunications Journal of Australia*
 
 Correa, T. and I. Pavez. *Digital Inclusion in Rural Areas: A
 Qualitative Exploration of Challenges Faced by People from Isolated
-Comunities*, International Communications Association Conference, San
+Communities*, International Communications Association Conference, San
 Juan, 2015.
 
 Cowlishaw, G. ‘Infanticide in Aboriginal Australia’, *Oceania* (1978):
-262-83.
+262-283.
 
 ———. ‘A New Protection Policy?’, *Inside Story*, 2013,
 [*http://insidestory.org.au/a-new-protection-policy/*](http://insidestory.org.au/a-new-protection-policy/).
 
-———. ‘Socialization and Subordination among Australian Aborigines’,
+———. ‘Socialization and Subordination Among Australian Aborigines’,
 *Man* (1982): 492-507.
 
-———. *Women's Realm: A Study of Socialization, Sexuality and
-Reproduction among Australian Aborigines*, PhD diss., University of
+———. *Women’s Realm: A Study of Socialization, Sexuality and
+Reproduction Among Australian Aborigines*, PhD diss., University of
 Sydney, Sydney, 1979.
 
 Crouch, A. ‘The Community Phone Project: An Overview’, *DKCRC Working
 Paper 46*, Alice Springs: Desert Knowledge CRC, 2009.
 
-———. ‘Home Internet for Remote Indigenous Communities: Technical
-Report’, Alice Springs: Centre for Appropriate Technology, 2014.
+——— *Home Internet for Remote Indigenous Communities: Technical
+Report*, Alice Springs: Centre for Appropriate Technology, 2014.
 
-Crump, B. and A. McIlroy. ‘The Digital Divide: Why the "Don't-Want-Tos"
+Crump, B. and A. McIlroy. ‘The Digital Divide: Why the “Don’t-Want-Tos”
 Won't Compute: Lessons from a New Zealand ICT Project’, *First Monday*
 8.12 (2003).
 
 Daly, A.E. ‘Bridging the Digital Divide: The Role of Community Online
-Access Centres in Indigenous Communities’, Canberra: *ANU Centre for
-Aboriginal Economic Policy Research,* 2005.
+Access Centres in Indigenous Communities’, Canberra: ANU Centre for
+Aboriginal Economic Policy Research, 2005.
 
 Davenport, W.H. ‘Two Kinds of Value in the Eastern Solomon Islands’, in
-A. Appadurai (ed) *The Social Life of Things: Commodities in Cultural
+A. Appadurai (ed.) *The Social Life of Things: Commodities in Cultural
 Perspective*, Cambridge, Cambridge University Press, 1986, pp. 95-109.
 
 Davies, S. *Urban Based Support for Rural and Remote Australian
@@ -225,7 +228,7 @@ Telecommunications*, Broadband for the Bush Alliance, 2014.
 
 DiMaggio, P. and E. Hargittai. ‘From the “Digital Divide” to “Digital
 Inequality”: Studying Internet Use as Penetration Increases’, Working
-Paper 15, *Center for Arts and Cultural Policy Studies,* Princeton
+Paper 15, Center for Arts and Cultural Policy Studies, Princeton
 University, 2001.
 
 ‘DIY Telecoms’. *The Economist*,
@@ -237,8 +240,8 @@ Practices’,
 [*http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf*](http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan paper.pdf).
 
 ———. ‘Can Information Communication Technological Tools Be Used to Suit
-Aboriginal Learning Pedagogies’, *Information technology and Indigenous
-people* (2007): 93-104.
+Aboriginal Learning Pedagogies’, *Information Technology and Indigenous
+People* (2007): 93-104.
 
 Doron, A. and R. Jeffrey. *The Great Indian Phone Book: How the Cheap
 Cell Phone Changes Business, Politics, and Daily Life*. Cambridge:
@@ -247,8 +250,8 @@ Harvard University Press, 2013.
 Dutton, W.H., A. Shepherd and C. Di Gennaro. ‘Digital Divides and
 Choices Reconfiguring Access: National and Cross National Patterns of
 Internet Diffusion and Use’, in B. Anderson, M. Brynin, Y. Raban and J.
-Gershuny (eds) *Information and Communication Technologies in Society
-E-Living in a Digital Europe*,London: Routledge, 2007, pp. 31-45.
+Gershuny (eds.) *Information and Communication Technologies in Society
+E-Living in a Digital Europe*, London: Routledge, 2007, pp. 31-45.
 
 Dyson, L.E. ‘Design for a Culturally Affirming Indigenous Computer
 Literacy Course’, 2002.
@@ -266,19 +269,21 @@ in Alice Springs Town Camps to Reduce Youth Crime’, *ABC News*,
 [*http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214*](http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214).
 
 Elliot, C. ‘Social Death and Disenfranchised Grief: An Alyawarr Case
-Study’ in K. Glaskin (ed) *Mortality, Mourning and Mortuary Practices in
-Indigenous Australia*, London: Ashgate Publishing, 2008, pp. 103-20.
+Study’ in K. Glaskin (ed.) *Mortality, Mourning and Mortuary Practices in
+Indigenous Australia*, London: Ashgate Publishing, 2008, pp. 103-120.
 
 Enghel, F. and K. Wilkins. ‘Communication, Media and Development:
 Problems and Perspectives’, *Nordicom Review* 33 (Special Issue) (2012).
 
-Ewing, S. and J. Thomas. *The Internet in Australia*. Brisbane: ARC
+Ewing, S. and J. Thomas. *The Internet in Australia*, Brisbane: ARC
 Centre of Excellence for Creative Industries and Innovation, Queensland
 University of Technology, 2010.
 
+Fairlie, R.W., D.O. Beltran and K.K. Das. ‘Home Computers and Educational Outcomes:Evidence from the NLSY97 and CPS*’, *Economic Inquiry* 48.3 (2010).
+
 Featherstone, D. ‘The Aboriginal Invention of Broadband: How Yarnangu
 Are Using ICTs in the Ngaanyatjarra Lands of Western Australia’ in L.
-Ormond-Parker, A. Corn, C. Fforde, K. Obata and S. O’Sullivan (eds)
+Ormond-Parker, A. Corn, C. Fforde, K. Obata and S. O’sullivan (eds.)
 *Information Technologies and Indigenous Communities*, Canberra: AIATSIS
 Research Publications, 2013, pp. 27-52.
 
@@ -287,8 +292,8 @@ in Indigenous Households: A Study of Appropriate Income Support Payments
 and Policies for Families’, *CAEPR Discussion Paper No. 182*, Canberra:
 ANU Centre for Aboriginal Economic Policy Research, 1999.
 
-Fitzgerald, L. ‘New 3g Network Falls Short for Stations and Communities
-near Barrow Creek, Northern Territory’,
+Fitzgerald, L. ‘New 3G Network Falls Short for Stations and Communities
+Near Barrow Creek, Northern Territory’,
 [*http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386*](http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386).
 
 Fletcher, P. ‘Speech to the ACCAN USO Forum’,
@@ -298,8 +303,8 @@ Fogarty, W. *‘You Got Any Truck?’ Vehicles and Decentralised Mobile
 Service-Provision in Remote Indigenous Australia*. Canberra: ANU Centre
 for Aboriginal Economic Policy Research, 2005.
 
-(‘Free Wi-Fi in Town Camps Could Solve Anti-Social Youth Problem in
-Alice Springs, Says Caylus’),
+‘Free Wi-Fi in Town Camps Could Solve Anti-Social Youth Problem in
+Alice Springs, Says CAYLUS’,
 [*http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914*](http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914)[.]()
 
 Galperin, H. and J. Mariscal. ‘Digital Poverty: Latin American and
@@ -311,8 +316,8 @@ Latin America’, *Information Technologies & International Development*
 3.2 (2006): 73-86.
 
 Ginsburg, F. ‘Rethinking the Digital Age’ in D. Hesmondhalgh and J.
-Toynbee (eds) *The Media and Social Theory,* New York: Routledge, 2008:
-127-44.
+Toynbee (eds.) *The Media and Social Theory,* New York: Routledge, 2008:
+127-144.
 
 Godinho, *V. Money, Financial Capability and Well-Being in Indigenous
 Australia*, PhD diss., Graduate School of Business and Law, RMIT
@@ -329,7 +334,7 @@ Economics* 45.2 (2002): 317-343.
 Granovetter, M.S. ‘The Strength of Weak Ties’, *American Journal of
 Sociology* (1973): 1360-1380.
 
-Green, L.D. Brady, K. Olafsson, J. Hartley and C. Lumby. ‘Risks and
+Green, L., Brady, D., Olafsson, K., Hartley J. and C. Lumby. ‘Risks and
 Safety for Australian Children on the Internet: Full Findings from the
 AU Kids Online Survey of 9-16 Year Olds and Their Parents’, *Cultural
 Science Journal* 4.1 (2011): 1-73.
@@ -344,7 +349,7 @@ Multiple Methods in Randomized Controlled Trials to Assess Intervention
 Effects*, Washington, DC: American Psychological Association*,* 2009.
 
 Hamilton, A. ‘A Complex Strategical Situation: Gender and Power in
-Aboriginal Australia’ in N. Grieve and P. Grimshaw (eds) *Australian
+Aboriginal Australia’ in N. Grieve and P. Grimshaw (eds.) *Australian
 Imjmen: Feminist Perspectives*, Melbourne: Oxford University Press,
 1981, pp. 69-85.
 
@@ -356,25 +361,25 @@ Harrison, N. *Teaching and Learning in Aboriginal Education*, Melbourne:
 Oxford University Press, 2011.
 
 Hartley, J. and J. Potts. *Cultural Science: A Natural History of
-Stories, Demes, Knowledge and Innovation*. London: Bloomsbury
+Stories, Demes, Knowledge and Innovation*, London: Bloomsbury
 Publishing, 2014.
 
-Hartley, J. and E. Rennie. ‘Show Business for Ugly people? Media
+Hartley, J. and E. Rennie. ‘Show Business for Ugly People? Media
 Politics and E-Democracy’, Australian Electronic Governance Conference,
 Melbourne, 14-15 April 2004.
 
-Hatt, T., K. Okeleke and M. Meloan. ‘Closing the Coverage Gap - a View
+Hatt, T., K. Okeleke and M. Meloan. ‘Closing the Coverage Gap: A View
 from Asia’, *GSMA Intelligence*,
-[*https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download*](https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download).
+[https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download](https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download).
 
 Helsper, E. *Digital Inclusion: An Analysis of Social Disadvantage and
-the Information Society*. Department for Communities and Local
+the Information Society*, Department for Communities and Local
 Government, 2008.
 
-———. ‘A Corresponding Fields Model for the Links between Social and
+———. ‘A Corresponding Fields Model for the Links Between Social and
 Digital Exclusion’, *Communication Theory* 22.4 (2012): 403-426.
 
-Helsper, E., A. van Deursen and R. Eynon. *Tangible Outcomes of Internet
+Helsper, E., A. V’san Deursen and R. Eynon. *Tangible Outcomes of Internet
 Use: From Digital Skills to Tangible Outcomes Project Report*, Oxford
 Internet Institute, University of Twente and London School of Economics
 and Political Science, 2015.
@@ -383,7 +388,7 @@ Hems, L., C. Connolly, and M. Georgouras. ‘Measuring Financial Exclusion
 in Australia’, Centre for Social Impact (CSI), University of New South
 Wales, for National Australia Bank, 2012.
 
-Hiatt, L. ‘Traditional Attitudes to Land Resources’ in R. M. Berndt (ed)
+Hiatt, L. ‘Traditional Attitudes to Land Resources’ in R. M. Berndt (ed.)
 *Aboriginal Sites: Rites and Resource Development*, Perth: University of
 Western Australia Press, 1982, pp. 47-53.
 
@@ -391,11 +396,13 @@ Hilbert, M. ‘The End Justifies the Definition: The Manifold Outlooks on
 the Digital Divide and Their Practical Usefulness for Policy-Making’,
 *Telecommunications Policy* 35.8 (2011): 715-736.
 
-Hinkson, M. ‘What's in a Dedication? On Being a Warlpiri DJ’, *The
+Hinkson, M. ‘What’s in a Dedication? On Being a Warlpiri DJ’, *The
 Australian Journal of Anthropology* 15.2 (2004): 143-162.
 
-Hogan, E. ‘Beyond the Mulga Curtain’, 2014,
-insidestory.org.au/behind-the-mulga-curtain.
+Hogan, E. ‘Behind the Mulga Curtain’, *Inside Story*, 11 July 2014,
+http://insidestory.org.au/behind-the-mulga-curtain.
+
+———. ‘Gender and ICT access in remote central Australian Aboriginal contexts’,*Australian Aboriginal Studies*, 2016.1 (2016).
 
 Hogan, E., E. Rennie, A. Crouch, A. Wright, R. Gregory and J. Thomas.
 ‘Submission to the Inquiry into Issues Surrounding Cyber-Safety for
@@ -407,23 +414,20 @@ Implementation Factors of One-to-One Device Programs’, *Computers in the
 Schools* 30.4 (2013): 359-377.
 
 Hughes, H. *Lands of Shame: Aboriginal and Torres Strait Islander
-'Homelands' in Transition*. Sydney: Centre for Independent Studies,
+‘Homelands’ in Transition*, Sydney: Centre for Independent Studies,
 2007.
 
-Hughes, H. and M. Hughes. *Indigenous Education 2012*. Sydney: Centre
+Hughes, H. and M. Hughes. *Indigenous Education 2012*, Sydney: Centre
 for Independent Studies, 2012.
 
-Hughes, P. and A.J. More. *Aboriginal Ways of Learning*. Adelaide: Paul
+Hughes, P. and A.J. More. *Aboriginal Ways of Learning*, Adelaide: Paul
 Hughes, 2004.
 
 ———. ‘Aboriginal Ways of Learning and Learning Styles’, Brisbane:
 *Australian Association for Research in Education*, 1997.
 
-Human Rights Equal Opportunity Commission. *Social Justice Report 2011*,
-Sydney: Commonwealth of Australia, 2011.
-
 Hunter, B. ‘Indigenous Social Exclusion: Insights and Challenges for the
-Concept of Social Inclusion’, *Family Matters*, no. 82 (2009): 52.
+Concept of Social Inclusion’, *Family Matters*, 82 (2009): 52.
 
 Huyer, S. and T. Sikoska. ‘Overcoming the Gender Digital Divide:
 Understanding ICTs and Their Potential for the Empowerment of Women’,
@@ -454,7 +458,7 @@ Kaberry, P. M. *Aboriginal Women*. London: George Routledge and Sons Pty
 Ltd, 1939.
 
 Keen, I. ‘The Interpretation of Aboriginal “Property” on the Australian
-Colonial Frontier’ in I. Keen (ed) *Aboriginal Participation in
+Colonial Frontier’ in I. Keen (ed.) *Aboriginal Participation in
 Australian Economies: Historical and Anthropological Perspectives*,
 Canberra:: ANU Press, 2010.
 
@@ -463,7 +467,7 @@ Policy’, *CAEPR Topical Issue No. 09/2009*, Canberra: ANU Centre for
 Aboriginal Economic Policy Research, 2009.
 
 Kowal, E. ‘Is Culture the Problem or the Solution? Outstation Health and
-the Politics of Remoteness’ in J. Altman and M. Hinkson (eds) *Culture
+the Politics of Remoteness’ in J. Altman and M. Hinkson (eds.) *Culture
 Crisis: Anthropology and Politics in Aboriginal Australia*, Sydney:
 University of New South Wales Press, 2010, pp. 253-276.
 
@@ -482,7 +486,7 @@ English Literacy Practices, Training, Community Capacity and Health*,
 Adelaide: NCVER, 2004.
 
 Lattas, A. and B. Morris. ‘The Politics of Suffering and the Politics of
-Anthropology’ in J. Altman and M. Hinkson (eds) *Culture Crisis:
+Anthropology’ in J. Altman and M. Hinkson (eds.) *Culture Crisis:
 Anthropology and Politics in Aboriginal Australia*, Sydney: University
 of New South Wales Press, 2010, pp. 97-133.
 
@@ -497,7 +501,7 @@ Livingstone, S. and L. Haddon. *Eu Kids Online: Final Report*. London:
 EU Kids Online, 2009.
 
 Livingstone, S. ‘Taking Risky Opportunities in Youthful Content
-Creation: Teenagers' Use of Social Networking Sites for Intimacy,
+Creation: Teenagers’ Use of Social Networking Sites for Intimacy,
 Privacy and Self-Expression’, *New Media & Society* 10.3 (2008):
 393-411.
 
@@ -515,7 +519,7 @@ Anthropology* 16.2 (2005): 211-233.
 
 Macdonald, G. ‘Economies and Personhood: Demand Sharing among the
 Wiradjuri of New South Wales’ in G. Wenzel, G. Hovelsrud-Broda and N.
-Kishigami (eds) *The Social Economy of Sharing: Resource Allocation and
+Kishigami (eds.) *The Social Economy of Sharing: Resource Allocation and
 Modern Hunter-Gatherers*, Osaka: National Museum of Ethnology, 2000, pp.
 87-111.
 
@@ -551,7 +555,7 @@ McGregor, R. *Indifferent Inclusion: Aboriginal People and the
 Australian Nation*. Canberra: Canberra Aboriginal Studies Press, 2011.
 
 Merlan, F. ‘Gender in Aboriginal Society: A Review’, in R.M. Berndt and
-R. Tonkinson (eds) *Social Anthropology and Australian Aboriginal
+R. Tonkinson (eds.) *Social Anthropology and Australian Aboriginal
 Studies*, Canberra: Aboriginal Studies Press, 1988, pp. 15-76.
 
 Michaels, E. *The Aboriginal Invention of Television in Central
@@ -564,7 +568,7 @@ Technological Horizons*. Vol. 3, Minneapolis: University of Minnesota
 Press, 1994.
 
 Miller, D. and H.A. Horst. ‘The Digital and the Human: A Prospectus for
-Digital Anthropology’ in H. A. Horst and D. Miller (eds) *Digital
+Digital Anthropology’ in H. A. Horst and D. Miller (eds.) *Digital
 Anthropology*, London: Bloomsbury Publishing, 2013, pp. 3-35.
 
 Moran, M. ‘The Viability of 'Hub' Settlements’, *Dialogue* 29.1 (2010):
@@ -574,7 +578,7 @@ Morsillo, R. ‘Affordable Broadband for All Australians’,
 *Telecommunications Journal of Australia* 62.5 (2012): 78.1-78.16.
 
 Musharbash, Y. ‘”Only Whitefella Take That Road”: Culture Seen through
-the Intervention at Yuendumu’, in Hinkson (eds) *Culture Crisis:
+the Intervention at Yuendumu’, in Hinkson (eds.) *Culture Crisis:
 Anthropology and Politics in Aboriginal Australia*, Sydney: University
 of New South Wales Press, 2010, pp. 302-318.
 
@@ -582,11 +586,11 @@ of New South Wales Press, 2010, pp. 302-318.
 Australia*. Canberra: Aboriginal Studies Press, 2009.
 
 Myers, F. ‘Burning the Truck and Holding the Country: Pintupi Forms of
-Property and Identity’, in E.N. Wilmsen (eds) *We Are Here: Politics of
+Property and Identity’, in E.N. Wilmsen (eds.) *We Are Here: Politics of
 Aboriginal Land Tenure*, Los Angeles: University of California Press,
 1989, pp. 15-42.
 
-———. ‘Introduction: The Empire of Things’, in F. Myers (ed) *The Empire
+———. ‘Introduction: The Empire of Things’, in F. Myers (ed.) *The Empire
 of Things: Regimes of Value and Material Culture*, Santa Fe: School of
 American Research Press, 2001, pp. 3-64.
 
@@ -600,10 +604,10 @@ among Western Desert Aborigines*, Washington DC: Smithsonian Institute,
 
 ———. ‘Place, Identity and Exchange in a Totemic System: Nurturance and
 the Process of Social Reproduction in Pintupi Society’, in J. Fajans
-(ed) *Exchanging Products: Producing Exchange*, Sydney: University of
+(ed.) *Exchanging Products: Producing Exchange*, Sydney: University of
 Sydney, 1993, pp. 3-57.
 
-———. ‘Some Properties of Culture and Persons’, in R. A. Ghosh (ed)
+———. ‘Some Properties of Culture and Persons’, in R. A. Ghosh (ed.)
 *Code: Collaborative Ownership and the Digital Economy*, Cambridge:
 London: MIT Press, 2005, pp. 45-60.
 
@@ -638,14 +642,14 @@ Nussbaum, M. ‘Capabilities as Fundamental Entitlements: Sen and Social
 Justice’, *Feminist Economics* 9.2-3 (2003): 33-59.
 
 O'Connell, J.F. ‘Room to Move: Contemporary Alyawara Settlement Patterns
-and Their Implications for Aboriginal Housing Policy’ in M. Heppell (ed)
+and Their Implications for Aboriginal Housing Policy’ in M. Heppell (ed.)
 *A Black Reality: Aboriginal Camps and Housing in Remote Australia*,
 Canberra: Australian Institute of Aboriginal Studies, 1979, pp. 97-120.
 
 Olsen, P. ‘Teenagers Say Goodbye to Facebook and Hello to Messenger
 Apps’, *The Guardian*, 10 November 2013.
 
-L. Ormond-Parker, A. Corn, K. Obata and S. O'Sullivan, (eds).
+L. Ormond-Parker, A. Corn, K. Obata and S. O’sullivan, (eds.).
 *Information Technology and Indigenous Communities,* AIATSIS National
 Indigenous Studies Conference, 2009 and Information Technologies and
 Indigenous Communities Symposium, 2010, Canberra: AIATSIS, 2013.
@@ -686,7 +690,7 @@ Canberra: Department of Communications, Information Technology and the
 Arts, 2002.
 
 Renfrew, C. ‘Varna and the Emergence of Wealth in Prehistoric Europe’ in
-A. Appadurai (ed) *The Social Life of Things: Commodities in Cultural
+A. Appadurai (ed.) *The Social Life of Things: Commodities in Cultural
 Perspective*, Cambridge: Cambridge University Press, 1988, 141-168.
 
 Rennie, E. ‘Internet on the Outstation’, *Inside Story,* 9 May 2011,
@@ -731,7 +735,7 @@ Rogers, E.M. *Diffusion of Innovations*. 5th ed, New York: Free Press,
 2003.
 
 Rowse, T, 'Re-figuring "Indigenous culture"' in J. Altman and M. Hinkson
-(eds) *Culture crisis: anthropology and politics in aboriginal
+(eds.) *Culture crisis: anthropology and politics in aboriginal
 Australia*, Kensington: UNSW Press, 2010, pp. 153-78.
 
 Sanders, W. *Working Future: A Critique of Policy by Numbers*, Canberra:
@@ -762,7 +766,7 @@ Journal of Communication* 20.1 (2005): 5-26.
 Sen, A. *Social Exclusion: Concept, Application, and Scrutiny*. Asian
 Development Bank, 2000.
 
-Servaes, J. ‘Introduction’ in J. Servaes (ed) *Communication for
+Servaes, J. ‘Introduction’ in J. Servaes (ed.) *Communication for
 Development and Social Change*, New Delhi: Sage, 2008, pp. 14-30.
 
 Shaw, G., G. Shaw, and P. D'Abbs. *Community Safety and Wellbeing
@@ -794,7 +798,7 @@ Tanner, S. *Measuring the Impact of Digital Resources: The Balanced
 Value Impact Model*. London: King’s College, 2012.
 
 Taylor, J. ‘Housing Programs at Edward River and Mitchell River
-Aboriginal Reserves’ in M. Heppell (ed) *A Black Reality: Aboriginal
+Aboriginal Reserves’ in M. Heppell (ed.) *A Black Reality: Aboriginal
 Camps and Housing in Remote Australia*, Canberra: Australian Institute
 of Aboriginal Studies, 1979, pp. 207-228.
 
@@ -853,7 +857,7 @@ Zealand School of Government, Australian National University, Canberra,
 
 Verran, H. and M. Christie. ‘Postcolonial Databasing? Subverting Old
 Appropriations, Developing New Associations’ in J. Leach and L. Wilson
-(eds) *Subversion, Conversion, Development: Diversity and the Adoption
+(eds.) *Subversion, Conversion, Development: Diversity and the Adoption
 and Use of Information and Communication Technologies*, Cambridge: MIT
 Press, 2014, pp. 57-76.
 

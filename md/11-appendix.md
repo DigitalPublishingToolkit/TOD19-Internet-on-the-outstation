@@ -1,4 +1,4 @@
-# Appendix
+# Appendixes
 
 ##Appendix 1: Transition to the National Broadband Network (NBN) Interim Satellite Service (ISS)
 
@@ -28,21 +28,21 @@ status of buildings and houses
 |              | Residence 2 (note 1) | 1 computer               | 1 computer                        | No (note 1) | No           |
 |              | Residence 3          | 1 computer               | 1 computer                        | Yes         | Yes          |
 |              | Residence 4          | 1 computer               | 1 computer                        | No          | No           |
-| Imangara     | Women’s center       | 2 shared computers       | Nil                               |             | No           |
+| Imangara     | Women’s Centre       | 2 shared computers       | Nil                               |             | No           |
 |              | Residence 1          | 1 computer               | 1 computer                        | Yes         | No           |
 |              | Residence 2          | 1 computer               | 1 computer                        | Yes         | Yes          |
 |              | Residence 3          | 1 computer               | 1 computer                        | Yes         | Yes          |
 |              | Residence 4          | 1 computer               | 1 computer                        | No          | No           |
 |              | Residence 5          | 1 computer               | 1 computer                        | Yes         | No           |
 |              | Residence 6          | Nil                      | 1 computer                        | No          | No (note 2)  |
-|              | Residence 7          | 1 computer / yes         | 1 computer                        | Yes         | Yes (note 2) |
-|              | Residence 8          | 1 computer / yes         | 1 computer                        | No          | No           |
-|              | Residence 9          | 1 computer / yes         | 1 computer                        | Yes         | No (note 2)  |
+|              | Residence 7          | 1 computer with internet         | 1 computer                        | Yes         | Yes (note 2) |
+|              | Residence 8          | 1 computer with internet        | 1 computer                        | No          | No           |
+|              | Residence 9          | 1 computer with internet         | 1 computer                        | Yes         | No (note 2)  |
 |              | Residence 10         | Nil                      | 1 computer                        | Yes         | Yes (note 2) |
-|              | Residence 11         | Nil                      | 1 computer (Note 3)               | No          | No           |
+|              | Residence 11         | Nil                      | 1 computer (note 3)               | No          | No           |
 |              | Residence 12         | Nil                      | 1 computer                        | No (note 4) | Yes          |
 |              | Residence 13         |                          |                                   |             |              |
-| Total        |                      | 20 computers / 20 of 20  | 21 computers                      | 10 of 21    | 10 of 22     |
+| Total        |                      | 20 computers with internet  | 21 computers                      | 10 of 21    | 10 of 22     |
 
 Note 1: Computer is now located in Tennant Creek township. Resident
 obtains internet connection via a smartphone.
@@ -89,8 +89,8 @@ Within the first twelve months of the project’s longitudinal phase, 45
 per cent of participants at Imangara and 80 per cent of participants at
 Mungalawurru had signed formal ownership agreements. Additional formal
 take-up occurred between September 2012 and September 2013: one
-participant at Mugalawurru, and two residents at Imangara – one of whom
-was not initially involved in the HIP study – signed formal ownership
+participant at Mungalawurru, and two residents at Imangara – one of whom
+was not initially involved in the Home Internet Project study – signed formal ownership
 agreements. By the end of September 2013, 69 per cent of computers at
 Imangara and 100 per cent of those at Mungalawurru were subject to
 formal ownership agreements.
@@ -126,20 +126,20 @@ Table 3: Number of inter- and intra-community computer relocations and removals 
 
 
 
-| Incident type and ownership status at time of incident               |                                | Imangara | Mungalawarru | Total |
+| Incident type and ownership status at time of incident               |                                | Imangara | Mungalawurru | Total |
 |----------------------------------------------------------------------|--------------------------------|----------|--------------|-------|
-| Intra-community relocation                                           | Number Shared*                 | 2        | 1            | 3     |
-|                                                                      | Number Nominally owned         | 2        | 3            | 5     |
-|                                                                      | Number Western Legal Ownership | 0        | 1            | 1     |
-| Removals to Alice Springs by researchers owing to technical failures | Number Shared                  | 0        | 1            | 1     |
-|                                                                      | Number Nominally owned         | 6        | 1            | 7     |
-|                                                                      | Number Western Legal Ownership | 3        | 3            | 6     |
-| Removals to locations outside of the community by participants       | Number Shared                  | 0        | 0            | 0     |
-|                                                                      | Number Nominally owned         | 2        |              | 2     |
-|                                                                      | Number Western Legal Ownership | 1        | 1            | 2     |
+| Intra-community relocation                                           | Number shared*                 | 2        | 1            | 3     |
+|                                                                      | Number nominally owned         | 2        | 3            | 5     |
+|                                                                      | Number Western legal ownership | 0        | 1            | 1     |
+| Removals to Alice Springs by researchers owing to technical failures | Number shared                  | 0        | 1            | 1     |
+|                                                                      | Number nominally owned         | 6        | 1            | 7     |
+|                                                                      | Number Western legal ownership | 3        | 3            | 6     |
+| Removals to locations outside of the community by participants       | Number shared                  | 0        | 0            | 0     |
+|                                                                      | Number nominally owned         | 2        |              | 2     |
+|                                                                      | Number Western legal ownership | 1        | 1            | 2     |
 
-<span id="_Toc445560899" class="anchor"></span>Figure 3: Inter and
-intra-comunity computer movements by residents and type of ownership at
+<span id="_Toc445560899" class="anchor"></span>Figure 3: Inter- and
+intra-community computer movements by residents and type of ownership at
 the time movement occurred, between July 2011 and August 2014, Imangara
 
 ![](imgs/Rennie_Image3.tif)
@@ -149,9 +149,9 @@ id="_Toc419811505" class="anchor"></span></span>
 ## Appendix 3: Gender and Uses 
 
 Figure 4: Gender and technical function. Source: Seemann, Kurt W.,
-Matthew Parnell, Stephen McFallan, and Selwyn Tucker. Housing for
+Matthew Parnell, Stephen McFallan, and Selwyn Tucker. *Housing for
 Livelihoods: The Lifecycle of Housing and Infrastructure through a
-Whole-of-System Approach in Remote Aboriginal Settlements. Vol. 29,
+Whole-of-System Approach in Remote Aboriginal Settlements*. Vol. 29,
 Alice Springs: Desert Knowledge CRC, 2008 (Reproduced with permission of
 the author).
 
@@ -173,11 +173,11 @@ class="anchor"></span></span>Figure 7: Who uses the computer most often?
 
 <span id="toc419811506" class="anchor"></span>
 
-<span id="_Toc445560903" class="anchor"></span>Figure 8: Women's top
+<span id="_Toc445560903" class="anchor"></span>Figure 8: Women’s top
 five ICT activities
 ![](imgs/Rennie_Image8.tif)
 
-<span id="_Toc445560904" class="anchor"></span>Figure 9: Men's top five
+<span id="_Toc445560904" class="anchor"></span>Figure 9: Men’s top five
 ICT activities
 ![](imgs/Rennie_Image9.tif)
 
@@ -191,18 +191,18 @@ each task type requested by learners or suggested by researchers
 
 <span id="_Toc445560907" class="anchor"></span>Figure 12: Frequency of
 the different types of learning tasks illustrated as a percentage of all
-learning opportunities during fieldtrips
+learning opportunities during field trips
 ![](imgs/Rennie_Image12.tif)
 
 <span id="_Toc419811707" class="anchor"><span id="_Toc419811507"
 class="anchor"><span id="toc419811707" class="anchor"><span
 id="toc419811507" class="anchor"></span></span></span></span>
 
-## Appendix 4: ICT Program Models and their Features
+## Appendix 4: ICT Program Models and Their Features
 
 Table 4: Three community computing program models and their features
 
-| Feature                                                                 | ‘Home Computing’ Model (distributed internet facilities and computer in each household)                                    | ‘Community Wi Fi’,model (centralized internet facilities with users connecting to those using WiFi capable computing devices)                         | ‘Community Internet Access Center’ model (centralized internet facilities and computers in a supervised room within a community building)                                                                             |
+| Feature                                                                 | ‘Home Computing’ model (distributed internet facilities and computer in each household)                                    | ‘Community WiFi’,model (centralized internet facilities with users connecting to those using WiFi capable computing devices)                         | ‘Community Internet Access Center’ model (centralized internet facilities and computers in a supervised room within a community building)                                                                             |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Typical funding model                                                   | External funder pays for individual internet connections and computing devices; households pay own internet access fees    | External funder pays for internet access and WiFi facilities; users supply their own computing devices                                                | External funder pays for all facilities and supervision                                                                                                                                                               |
 | Capital costs                                                           | High aggregate cost for individual satellite internet connections and computer hardware at all households                  | – Medium cost for shared local area network hardware and satellite internet connection at community level – High costs to users for computer hardware | – Medium cost for centralized shared satellite internet access and PC hardware in single building – High building cost (either capital cost for new building or ongoing rental cost for existing building)            |
