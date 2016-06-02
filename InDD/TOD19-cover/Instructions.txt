@@ -1,10 +1,10 @@
 INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
 
-NOM DE LA COMPOSITION : TOD#19 cover.indd
+NOM DE LA COMPOSITION : TOD19-cover.indd
 
-DATE D'ASSEMBLAGE : 19/05/16 10:38
-Date de création : 11/05/16
-Date de modification : 19/05/16
+DATE D'ASSEMBLAGE : 2/06/16 15:33
+Date de création : 19/05/16
+Date de modification : 2/06/16
 
 INFORMATIONS DE CONTACT
 
@@ -82,7 +82,7 @@ Symétrie : Désactivée
 
 LISTE DES FICHIERS DE L'ENVOI
 
-1. TOD#19 cover.indd; type : Composition Adobe InDesign; taille : 2052K
+1. TOD19-cover.indd; type : Composition Adobe InDesign; taille : 2008K
 2. HKGrotesk-Italic.otf; type : Fichier de polices; taille : 49K
 3. HKGrotesk-Regular.otf; type : Fichier de polices; taille : 51K
 4. HelveticaNeue.dfont; type : Fichier de polices; taille : 6580K

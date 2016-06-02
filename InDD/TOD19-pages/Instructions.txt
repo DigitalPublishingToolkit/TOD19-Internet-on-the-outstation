@@ -1,10 +1,10 @@
 INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
 
-NOM DE LA COMPOSITION : bookLAST.indd
+NOM DE LA COMPOSITION : TOD19-pages.indd
 
-DATE D'ASSEMBLAGE : 19/05/16 10:30
-Date de création : 17/05/16
-Date de modification : 18/05/16
+DATE D'ASSEMBLAGE : 1/06/16 15:50
+Date de création : 19/05/16
+Date de modification : 1/06/16
 
 INFORMATIONS DE CONTACT
 
@@ -57,7 +57,7 @@ COULEURS ET ENCRES
 
 LIENS ET IMAGES
 (Liens manquants et incorporés uniquement)
-Liens et images : 14 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
+Liens et images : 22 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
 Images : 0 Incorporé(e)(s), 10 utilisant l'espace colorimétrique RVB
 
 
@@ -88,7 +88,7 @@ Symétrie : Désactivée
 
 LISTE DES FICHIERS DE L'ENVOI
 
-1. bookLAST.indd; type : Composition Adobe InDesign; taille : 5732K
+1. TOD19-pages.indd; type : Composition Adobe InDesign; taille : 5860K
 2. HKGrotesk-Bold.otf; type : Fichier de polices; taille : 55K
 3. HKGrotesk-Italic.otf; type : Fichier de polices; taille : 49K
 4. HKGrotesk-Light.otf; type : Fichier de polices; taille : 46K

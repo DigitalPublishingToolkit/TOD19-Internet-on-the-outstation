@@ -1,323 +1,530 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="7.5(142)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="8.0" Self="pandoc_doc">
-    <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-       
-    </RootCharacterStyleGroup>
-    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
-        <Properties>
-          <TabList type="list">
-            <ListItem type="record">
-              <Alignment type="enumeration">LeftAlign</Alignment>
-              <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
-              <Position type="unit">10</Position> <!-- first tab stop -->
-            </ListItem>
-          </TabList>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle> 
-    </RootParagraphStyleGroup>
-    <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
-    </RootTableStyleGroup>
-    <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
-    </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
-
-<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Conclusion: What Needs to Happen Next</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The digital divide that we have described in this book is not uniform or easily quantifiable. At the risk of simplifying the situation, in this final chapter we offer a plain-language summary of what we discovered, and offer considerations for policy and programs.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As we have seen, vastly different rates of adoption are observable at the regional and local levels: some communities have high rates of adoption, while nearby communities are completely excluded. As Indigenous households in many of these communities share a similar socio-economic profile, we caution against drawing a direct causal link between social exclusion and digital exclusion.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The strikingly uneven patterns of internet adoption between remote communities correspond to the availability of mobile broadband and other government programs. Public-private partnerships in some regions have extended mobile coverage to larger remote communities. In addition, various publicly-funded initiatives have provided a level of internet access, including computer rooms and training provided through the Northern Territory Libraries network and remote media organizations. Such programs have been designed to assist Aboriginal people to discover and learn about communication technology within community settings. Community payphones, provided through the former Indigenous Communications Program, are delivering internet to over 300 small communities (with populations under 50 people). The expectation underpinning such programs is that once people are given basic levels of internet skills and experience, they will eventually acquire internet services of their own accord. An unstated assumption is that those living in nearby communities will eventually learn about and adopt internet services through social network effects. However, this is not necessarily the case.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>For many in remote communities, internet adoption is not a linear trajectory from non-use to use, but something that people will fall in and out of when coverage and pre-paid credit permit. Affordability is an issue, in that the relative value of internet ICTs is likely to fluctuate depending on an individual’s life circumstances; for example, when money is short, basics such as food, power and transport may take priority rather than fixing a computer/device or paying for subscriptions/data. Particular groups, including older people and those living in small communities, can remain completely excluded, or only experience the benefits of internet use through others (making them users by proxy). Factors such as an individual’s mobility and avoidance relationships can play a role in internet adoption, use and skills transferral.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Digital Choices and the National Broadband Network (NBN)</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>We set out to understand why digital exclusion is occurring in remote Australia despite government efforts to equalize the cost of broadband for all Australians regardless of where they live. We found that Indigenous households are generally only acquiring broadband services under certain conditions. Identifiable ‘digital choices’ are informed by the practicalities and capacities of remote communities, and may be compounded by social norms.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Households in remote communities are choosing not to acquire satellite broadband services, preferring pre-paid mobile broadband in areas where there is mobile coverage. The consumer preference for pre-paid billing, as well as practical difficulties associated with satellite internet connections, means that households are more likely to go without internet than enter into satellite internet contracts. Our findings suggest that policy objectives aimed at improving internet quality (such as faster speeds), although desirable for services and businesses in remote Australia, will not encourage residents of remote communities to adopt broadband. In this book we have questioned whether satellite internet – the Australian government’s response to internet access in very remote areas – can meet the needs of remote communities under current arrangements. However, changes to the way that satellite internet is sold and supported could make a significant difference, including enabling WiFi programs that provide residents with the payment flexibility they require.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The Tangible Outcomes of Internet Use</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Many of the outstation residents believed there are benefits to being online. Everyday uses such as online banking and shopping can provide a significant level of agency and autonomy for individuals. Checking bank balances and welfare payments emerged as one of the most popular uses of the internet. Internet shopping, entertainment and staying in touch with family via social networking were also common – made more significant when we consider how difficult it can be for those living in remote communities to undertake these activities through other means, given their limited transport and telecommunication options. As very few organizations or agencies attempted to use online communication to reach the residents over the four-year period, we were unable to determine whether internet access can reduce the costs of service provision to outstations.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>With the exception of the Central Land Council (CLC).</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>During the course of our research, cyber-bullying was reported within some central Australian communities and towns. Older generations found cyber-bullying and cyber-safety issues particularly challenging to understand and address. Network-level filtering and terms of use that reflect the specific concerns of elders and residents could be implemented in conjunction with the installation of community WiFi networks in remote communities and settlements (filtering is already occurring where the APN’s satellite phones and WiFi are operating).</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Developing digital proficiency in using social media and ICTs across different age groups is also crucial to empowering remote community members to manage these issues. Implementing policies that prevent or discourage internet provision and access, as has occurred under the Northern Territory Emergency Response in relation to the surveillance and supervision of publicly-provided computers (2007-2012), is not a viable or equitable solution to cyber-safety issues.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Factors Influencing the Adoption of Paid Internet Services</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>If this particular divide is to be resolved, internet service providers will need to investigate and implement more flexible and user-friendly arrangements and administrative processes for satellite internet, particularly in regard to installation and billing.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As discussed in Chapter 9, facilitating the application process for NBNCo Interim Satellite Services (ISS) proved to be time intensive for us. In our view, without such assistance, very few households in remote Indigenous communities would manage to arrange NBN satellite services. It is unrealistic to expect households to carry out the various steps independently, given their limited access to telephones and knowledge of the processes, combined with the NBNCo and (some) ISP staff’s relatively-uninformed perceptions of remote community circumstances.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In particular, billing proved to be one of the biggest obstacles to satellite internet services. Despite the willingness of some community members to allocate a portion of household budgets to internet services, navigating and managing the ISP’s billing mechanisms was difficult. About half the computer owners struggled over the first six months to maintain sufficient balances in their nominated bank accounts to support the monthly payments when they became due, resulting in temporary or permanent loss of internet access in some cases. For others, direct debits of large, unexpected amounts occurred if bills had been unpaid in previous months.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Our research in Ali Curung,</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>The research involved interviews with approximately 100 people in Ali Curung in late 2013, with representation from half of all households.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> a community with mobile coverage, confirmed that people are prepared to pay for the internet if it suits them. All interviewees who were paying for internet access were paying for pre-paid mobile broadband, even though satellite internet was available at cheaper rates.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Shared Facilities Versus Home Internet</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>When we commenced the project, there was an assumption in policy and academic analysis that shared facilities were the most appropriate form of internet access for remote communities. In the intervening years, government-funded and NGO programs (including Remote Indigenous Public Internet Access (RIPIA), the community phones project, and work by organizations such as the Central Australian Youth Link Up Service (CAYLUS) have moved increasingly towards public WiFi.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A core focus of our work was whether home internet (the norm for mainstream Australia) was viable, particularly for communities too small to justify telecenters. We also tested shared, community-managed WiFi by placing some computers in communal spaces (at the residents’ request), and monitoring how they were shared and maintained. We considered practical matters to do with housing, including living arrangements, the condition of the houses and whether residents were home often enough to want a permanent connection to the internet; documented how long PCs and related electronics could withstand the heat, dust and vermin; and assessed ownership patterns (both Western ownership and traditional systems of demand sharing).</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Although non-Indigenous people often associate a ‘caring and sharing’ ethic with Aboriginal culture, and therefore assume that shared or communal internet facilities are most appropriate, we found that individuals wanted to identify as the ‘owners’ of the computers. Access, and by extension usage, was largely restricted to the household/immediate family members, with the owner determining who could use the PC. Avoidance relationships between families, and the emphasis on discrete family ownership and use of ICT, resulted in certain family groups often dominating access to computers in shared spaces and excluding others, a finding that was corroborated at the telecenter at Papunya. Location, access and usage are therefore important considerations for remote Aboriginal owners.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>These findings have implications in considering models for the provision of ICT and internet access in remote communities. Specifically, telecenter or ‘internet café’-type arrangements which are run by Indigenous community members may not be the most suitable mechanism for providing equitable access to the broader community, owing to family and other cultural obligations (kinship). For example, in one of the larger communities we visited, the death of a young man who had been supervising a computer center meant that some others in that kinship network were unwilling to use it.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>While in theory the home computing model provided ICT access for the whole family, ranging from grandparents to young, pre-school children, the dynamics of inter-familial, gender and age relationships influenced community members’ access to and use of the ICTs. The higher profile and level of participation of women in the home computing model suggests that locating computers and internet access within household spaces might lead to a stronger association of digital technology with a female-coded domain and technical activities, with positive flow-on effects in facilitating greater ICT usage by women and children. By contrast, at the Papunya telecenter, the main room became so closely identified with young men that a separate space was created for women to access computers and the internet. To ensure equitable ICT access, the ways that different age, gender and family groups became aligned with particular social spaces within remote Aboriginal contexts needs to be considered in ICT planning.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Residents’ degree of mobility, both within and outside the community, has implications for ICT provision in relation to access, ownership, management of billing and sustainability. ICT arrangements need to be flexible in response to residential mobility, and some devices and equipment may be more suitable than others depending on community members’ degree of mobility. For instance, residents moved houses within the community for a range of reasons, including available housing stock, maintenance issues in some houses, the cost of power, and cultural customs surrounding death. Such inter-community mobility has consequences for fixed infrastructure costs such as satellite dishes.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The high level of mobility does not necessarily equate to a preference or requirement for mobile devices. PCs can be easier to manage in the domestic setting. In contrast, there is a high degree of sharing of mobile devices.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Equitable IT Maintenance and Training Support</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Much less sharing and helping occurred between households than we anticipated, not only in relation to access and use, but in overcoming ICT issues and sharing skills and knowledge. A critical mass of ICT users and hardware is not sufficient to ameliorate the digital divide without providing ICT support and training. The tendency towards discrete family/household and even highly-personalized use, together with the social and cultural relationships between different groups, needs to be considered in providing ICT education and training to ensure equity of access in remote communities.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Contrary to views that Aboriginal people prefer group learning because they are communally-oriented, we found that community members generally preferred learning opportunities that were flexible enough to accommodate their lifestyle and priorities, and were provided within their homes, often on an individual basis. Individual or home-based learning is possibly also preferred as a way to avoid situations in which their lack of skill is on display, leading to feelings of embarrassment (shame). Although logistically challenging and resource intensive, a flexible, opportunistic approach that tailors learning opportunities to the individual’s needs and takes place within private, safe spaces rather than formal, structured group learning is more likely to be effective. These observations were supported by the experience of Papunya Computer Room (PCR), which mostly offered one-on-one training in response to the failure of attempts at group program delivery.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Overcoming the Digital Divide</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Digital exclusion in remote Australia should not be seen as an intractable problem. In communities where satellite internet is the only available internet, innovative solutions are still possible.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>For instance, externally-maintained WiFi services that provide satellite-delivered internet within communities are possible under current regulatory and retail arrangements. Such services overcome the need for a fixed connection to the home, resolving access for those who may not reside in the community on a permanent basis, or where post-paid billing is not feasible for households. Such services would need to be managed by an intermediary organization or commercial enterprise with experience working in remote communities. Sustainable models might involve payment systems that enable people to pre-pay for data allowances in advance (similar to hotel WiFi systems), covering service, download and power costs.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Knowing the Digital Divide</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>On a final note, our understanding of what we have called ‘internet on the outstation’ developed over a long-term engagement with the residents. It would not have been possible without an existing level of trust between the Aboriginal organizations involved in the study (the Centre for Appropriate Technology [CAT] and the Central Land Council [CLC]), and the outstation elders and residents. Although there is perhaps much we would do differently if we had the chance again, we hope that other organizations may learn from our efforts as they continue to develop programs with Indigenous communities.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>At a more fundamental level, issues such as internet infrastructure, affordability and programs are important, not just for the daily communication activities of those who access these services, but for the services, shires, schools and organizations that interact with communities on an ongoing basis. Nurturing connections between these groups and the organizations that are working at solving communication barriers (such as the Australian Communications Consumer Action Network and the Indigenous Remote Communications Association) is important, and yet there are few resources to enable such collaboration and knowledge exchange.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>The Broadband for the Bush network is the one forum where this occurs (www.broadbandforthebush.com.au). All four partners in the Home Internet Project were involved in Broadband for the Bush during the life of the project, for the purposes of knowledge sharing and capacity building.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> As for research, on-the-ground experience is necessary when it comes to understanding the digital divide. There is a serious need for ongoing collection of data on remote community ICT infrastructures, as well as basic consumer information including expenditure, device preferences and sharing behaviours. However, internet adoption and use is inherently tied to everyday practices, priorities, needs and capacities. Only by understanding the social and cultural aspects of life in remote communities can we begin to know the nature of the divide and the tangible benefits of being online.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Postscript</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>By early 2016, very few of the desktop computers were still being used in the communities. The residents had not rushed to replace broken machines, although the women we met with all continued to see value in having the internet. </Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>At Imangara, both Emily's and Mary’s computers needed repairs. They were paying for the internet, even though they could not use it, and were planning on calling the internet service provider to get it suspended. Louise was using her internet connection with her iPad, as her PC had also died. </Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Many of the computers had been moved out of Mungalawurru. Only the middle-aged couple at Mungalawurru had kept the internet, which we were told had become slow, either because of the NBN satellite connection, or because their machine was getting old. The woman was paying her bills by cheque now, an arrangement that suited her much better than direct debit. Karen was still living in Tennant Creek, and was using the internet on her husband's phone and on her daughter's iPad, as the computer had finally stopped working.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The senior woman from Mungalawurru, who had been living and working in town during the years we visited, told us that she plans to retire and move back to the outstation. She was planning to get a computer for herself at that time, and wanted more computers for the community. In her opinion, the real value of having the internet is that her family can look up histories and places, and document culture for young people to learn. Although she described activities such as internet banking as useful, she said they were just everyday needs, not ‘our way’.  </Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rhonda’s time was taken up with working in Alice Springs, but her plans to create stories for bilingual education for small children had developed rather than diminished. She said she also hopes to produce books on the wildlife at Tjoritja. She still had her computer and was planning on getting an internet connection in the near future. Rhonda's family were now making their own plans for enterprise at Kwale Kwale, and her mother had recently purchased nine baby peacocks.  </Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-
-  </Story>
-  
+<Document DOMVersion="7.5" Self="d">
+	<Color Self="Color/#989c96" Model="Process" Space="CMYK" ColorValue="42.739999294281006 33.10000002384186 37.71999776363373 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="#989c96" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937"/>
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal"/>
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal"/>
+	<FontFamily Self="di38" Name="Minion Pro">
+		<Font Self="di38FontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di38FontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="di79" Name="Myriad Pro">
+		<Font Self="di79FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di79FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.062;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="di7d" Name="Kozuka Mincho Pro">
+		<Font Self="di7dFontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+		<Font Self="di7dFontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.005;PS 4.003;hotconv 1.0.57;makeotf.lib2.0.21895"/>
+	</FontFamily>
+	<FontFamily Self="dib6" Name="Lato">
+		<Font Self="dib6FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato Hairline" FullNameNative="Lato Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato Hairline Italic" FullNameNative="Lato Hairline Italic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Thin" FontFamily="Lato" Name="Lato Thin" PostScriptName="Lato-Thin" Status="Installed" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Thin Italic" FontFamily="Lato" Name="Lato Thin Italic" PostScriptName="Lato-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato Light" FullNameNative="Lato Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato Light Italic" FullNameNative="Lato Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Medium" FontFamily="Lato" Name="Lato Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Medium Italic" FontFamily="Lato" Name="Lato Medium Italic" PostScriptName="Lato-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Semibold" FontFamily="Lato" Name="Lato Semibold" PostScriptName="Lato-Semibold" Status="Installed" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Semibold Italic" FontFamily="Lato" Name="Lato Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Installed" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Heavy" FontFamily="Lato" Name="Lato Heavy" PostScriptName="Lato-Heavy" Status="Installed" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Heavy Italic" FontFamily="Lato" Name="Lato Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Installed" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+		<Font Self="dib6FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/"/>
+	</FontFamily>
+	<FontFamily Self="dib7" Name="Helvetica Neue">
+		<Font Self="dib7FontnHelvetica Neue Condensed Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Condensed Bold" PostScriptName="HelveticaNeue-CondensedBold" Status="Installed" FontStyleName="Condensed Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Condensed Bold" FullNameNative="Helvetica Neue Condensed Bold" FontStyleNameNative="Condensed Bold" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Condensed Black" FontFamily="Helvetica Neue" Name="Helvetica Neue Condensed Black" PostScriptName="HelveticaNeue-CondensedBlack" Status="Installed" FontStyleName="Condensed Black" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Condensed Black" FullNameNative="Helvetica Neue Condensed Black" FontStyleNameNative="Condensed Black" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue UltraLight" FontFamily="Helvetica Neue" Name="Helvetica Neue UltraLight" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="UltraLight" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue UltraLight" FullNameNative="Helvetica Neue UltraLight" FontStyleNameNative="UltraLight" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue UltraLight Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue UltraLight Italic" PostScriptName="HelveticaNeue-UltraLightItalic" Status="Installed" FontStyleName="UltraLight Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue UltraLight Italic" FullNameNative="Helvetica Neue UltraLight Italic" FontStyleNameNative="UltraLight Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Thin" FontFamily="Helvetica Neue" Name="Helvetica Neue Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Thin" FullNameNative="Helvetica Neue Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Thin Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Thin Italic" FullNameNative="Helvetica Neue Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Light" FontFamily="Helvetica Neue" Name="Helvetica Neue Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Light" FullNameNative="Helvetica Neue Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Light Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Light Italic" FullNameNative="Helvetica Neue Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Regular" FontFamily="Helvetica Neue" Name="Helvetica Neue Regular" PostScriptName="HelveticaNeue" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue" FullNameNative="Helvetica Neue" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Italic" FullNameNative="Helvetica Neue Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Medium" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium" FullNameNative="Helvetica Neue Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Medium Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Medium Italic" FullNameNative="Helvetica Neue Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Bold" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold" FullNameNative="Helvetica Neue Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d36e1"/>
+		<Font Self="dib7FontnHelvetica Neue Bold Italic" FontFamily="Helvetica Neue" Name="Helvetica Neue Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Helvetica Neue Bold Italic" FullNameNative="Helvetica Neue Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d36e1"/>
+	</FontFamily>
+	<FontFamily Self="dib8" Name="HK Grotesk">
+		<Font Self="dib8FontnHK Grotesk Light" FontFamily="HK Grotesk" Name="HK Grotesk Light" PostScriptName="HKGrotesk-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Light" FullNameNative="HK Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Light Italic" FontFamily="HK Grotesk" Name="HK Grotesk Light Italic" PostScriptName="HKGrotesk-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Light Italic" FullNameNative="HK Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Regular" FontFamily="HK Grotesk" Name="HK Grotesk Regular" PostScriptName="HKGrotesk-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Regular" FullNameNative="HK Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 001.000 "/>
+		<Font Self="dib8FontnHK Grotesk Italic" FontFamily="HK Grotesk" Name="HK Grotesk Italic" PostScriptName="HKGrotesk-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Italic" FullNameNative="HK Grotesk Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Medium" FontFamily="HK Grotesk" Name="HK Grotesk Medium" PostScriptName="HKGrotesk-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Medium" FullNameNative="HK Grotesk Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Medium Italic" FontFamily="HK Grotesk" Name="HK Grotesk Medium Italic" PostScriptName="HKGrotesk-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Medium Italic" FullNameNative="HK Grotesk Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+		<Font Self="dib8FontnHK Grotesk Bold" FontFamily="HK Grotesk" Name="HK Grotesk Bold" PostScriptName="HKGrotesk-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold" FullNameNative="HK Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 001.000 "/>
+		<Font Self="dib8FontnHK Grotesk Bold Italic" FontFamily="HK Grotesk" Name="HK Grotesk Bold Italic" PostScriptName="HKGrotesk-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="HK Grotesk Bold Italic" FullNameNative="HK Grotesk Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775"/>
+	</FontFamily>
+	<FontFamily Self="dib9" Name="Calibri">
+		<Font Self="dib9FontnCalibri Regular" FontFamily="Calibri" Name="Calibri Regular" PostScriptName="Calibri" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri" FullNameNative="Calibri" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.00"/>
+		<Font Self="dib9FontnCalibri Bold" FontFamily="Calibri" Name="Calibri Bold" PostScriptName="Calibri-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold" FullNameNative="Calibri Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.00"/>
+		<Font Self="dib9FontnCalibri Italic" FontFamily="Calibri" Name="Calibri Italic" PostScriptName="Calibri-Italic" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Italic" FullNameNative="Calibri Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.62"/>
+		<Font Self="dib9FontnCalibri Bold Italic" FontFamily="Calibri" Name="Calibri Bold Italic" PostScriptName="Calibri-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold Italic" FullNameNative="Calibri Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.62"/>
+		<Font Self="dib9FontnCalibri Light" FontFamily="Calibri" Name="Calibri Light" PostScriptName="Calibri-Light" Status="Substituted" FontStyleName="Light" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light" FullNameNative="Calibri Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.02"/>
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="u7c" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7e" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u7f" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u80" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u81" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="u82" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u65">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" KeyboardShortcut="0 0" Name="Italic" FontStyle="Italic" VerticalScale="100" Skew="0">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u64">
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" PointSize="9" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" Justification="LeftJustified" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/#989c96" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033" Hyphenation="false" SpaceAfter="0" Justification="LeftAlign" GridAlignment="None">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" KeyboardShortcut="0 0" FontStyle="Bold" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">12</Leading>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u1bd8" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bd8BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd8BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd8BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd8BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bd9" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bd9BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd9BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bd9BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bda" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdaBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdaBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdaBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdaBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdb" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdbBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdbBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdbBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdc" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdcBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdcBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdcBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdd" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bddBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bde" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdeBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdeBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdeBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdeBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1bdf" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1bdfBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdfBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1bdfBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1be0" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1be0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+		<BuildingBlock Self="u1be0BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"/>
+	</CrossReferenceFormat>
+	<Story Self="u5cf9" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection"/>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false"/>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The digital divide that we have described in this book is not uniform or easily quantifiable. At the risk of simplifying the situation, in this final chapter we offer a plain-language summary of what we discovered, and offer considerations for policy and programs.</Content>
+				<Br/>
+				<Content>As we have seen, vastly different rates of adoption are observable at the regional and local levels: some communities have high rates of adoption, while nearby communities are completely excluded. As Indigenous households in many of these communities share a similar socio-economic profile, we caution against drawing a direct causal link between social exclusion and digital exclusion.</Content>
+				<Br/>
+				<Content>The strikingly uneven patterns of internet adoption between remote communities correspond to the availability of mobile broadband and other government programs. Public-private partnerships in some regions have extended mobile coverage to larger remote communities. In addition, various publicly funded initiatives have provided a level of internet access, including computer rooms and training provided through the Northern Territory Libraries network and remote media organizations. Such programs have been designed to assist Aboriginal people to discover and learn about communications technology within community settings. Community payphones, provided through the former Indigenous Communications Program, are delivering internet to over 300 small communities (with populations under fifty people). The expectation underpinning such programs is that once people are given basic levels of internet skills and experience, they will eventually acquire internet services of their own accord. An unstated assumption is that those living in nearby communities will eventually learn about and adopt internet services through social network effects. However, this is not necessarily the case.</Content>
+				<Br/>
+				<Content>For many in remote communities, internet adoption is not a linear trajectory from non-use to use, but something that people will fall in and out of when coverage and pre-paid credit permit. Affordability is an issue, in that the relative value of internet ICTs is likely to fluctuate depending on an individual’s life circumstances; for example, when money is short, basics such as food, power and transport may take priority over fixing a computer/device or paying for subscriptions/data. Particular groups, including older people and those living in small communities, can remain completely excluded, or only experience the benefits of internet use through others (making them users by proxy). Factors such as an individual’s mobility and avoidance relationships can play a role in internet adoption, use and skills transferal.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Digital Choices and the National Broadband Network (NBN)</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>We set out to understand why digital exclusion is occurring in remote Australia despite government efforts to equalize the cost of broadband for all Australians regardless of where they live. We found that Indigenous households are generally only acquiring broadband services under certain conditions. Identifiable ‘digital choices’ are informed by the practicalities and capacities of remote communities, and may be compounded by social norms.</Content>
+				<Br/>
+				<Content>Households in remote communities are choosing not to acquire satellite broadband services, preferring pre-paid mobile broadband in areas where there is mobile coverage. The consumer preference for pre-paid billing, as well as practical difficulties associated with satellite internet connections, means that households are more likely to go without internet than enter into satellite internet contracts. Our findings suggest that policy objectives aimed at improving internet quality (such as faster speeds), although desirable for services and businesses in remote Australia, will not encourage residents of remote communities to adopt broadband. In this book we have questioned whether satellite internet – the Australian government’s response to internet access in very remote areas – can meet the needs of remote communities under current arrangements. However, changes to the way that satellite internet is sold and supported could make a significant difference, including enabling WiFi programs that provide residents with the payment flexibility they require.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The Tangible Outcomes of Internet Use</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Many of the outstation residents believed there are benefits to being online. Everyday uses such as online banking and shopping can provide a significant level of agency and autonomy for individuals. Checking bank balances and welfare payments emerged as one of the most popular uses of the internet. Internet shopping, entertainment and staying in touch with family via social networking were also common – made more significant when we consider how difficult it can be for those living in remote communities to undertake these activities through other means, given their limited transport and telecommunications options. As very few organizations or agencies attempted to use online communication to reach the residents over the four-year period, we were unable to determine whether internet access can reduce the costs of service provision to outstations.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	With the exception of the Central Land Council (CLC).</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br/>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>During the course of our research, cyber-bullying was reported within some central Australian communities and towns. Older generations found cyber-bullying and cyber-safety issues particularly challenging to understand and address. Network-level filtering and terms of use that reflect the specific concerns of elders and residents could be implemented in conjunction with the installation of community WiFi networks in remote communities and settlements (filtering is already occurring where the APN’s satellite phones and WiFi are operating).</Content>
+				<Br/>
+				<Content>Developing digital proficiency in using social media and ICTs across different age groups is also crucial to empowering remote community members to manage these issues. Implementing policies that prevent or discourage internet provision and access, as has occurred under the Northern Territory Emergency Response in relation to the surveillance and supervision of publicly provided computers (2007–2012), is not a viable or equitable solution to cyber-safety issues.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Factors Influencing the Adoption of Paid Internet Services</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>If this particular divide is to be resolved, internet service providers will need to investigate and implement more flexible and user-friendly arrangements and administrative processes for satellite internet, particularly in regard to installation and billing.</Content>
+				<Br/>
+				<Content>As discussed in Chapter 9, facilitating the application process for NBNCo Interim Satellite Services (ISS) proved to be time intensive for us. In our view, without such assistance, very few households in remote Indigenous communities would manage to arrange NBN satellite services. It is unrealistic to expect households to carry out the various steps independently, given their limited access to telephones and knowledge of the processes, combined with the NBNCo and (some) ISP staff’s relatively uninformed perceptions of remote community circumstances.</Content>
+				<Br/>
+				<Content>In particular, billing proved to be one of the biggest obstacles to satellite internet services. Despite the willingness of some community members to allocate a portion of household budgets to internet services, navigating and managing the ISP’s billing mechanisms was difficult. About half the computer owners struggled over the first six months to maintain sufficient balances in their nominated bank accounts to support the monthly payments when they became due, resulting in temporary or permanent loss of internet access in some cases. For others, direct debits of large, unexpected amounts occurred if bills had been unpaid in previous months.</Content>
+				<Br/>
+				<Content>Our research in Ali Curung,</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	The research involved interviews with approximately one hundred people in Ali Curung in late 2013, with representation from half of all households.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> a community with mobile coverage, confirmed that people are prepared to pay for the internet if it suits them. All interviewees who were paying for internet access were paying for pre-paid mobile broadband, even though satellite internet was available at cheaper rates.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Shared Facilities Versus Home Internet</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>When we commenced the project, there was an assumption in policy and academic analysis that shared facilities were the most appropriate form of internet access for remote communities. In the intervening years, government-funded and NGO programs – including Remote Indigenous Public Internet Access (RIPIA), the community phones project, and work by organizations such as the Central Australian Youth Link Up Service (CAYLUS) – have moved increasingly towards public WiFi.</Content>
+				<Br/>
+				<Content>A core focus of our work was whether home internet (the norm for mainstream Australia) was viable, particularly for communities too small to justify community internet centers. We also tested shared, community-managed WiFi by placing some computers in communal spaces (at the residents’ request), and monitoring how they were shared and maintained. We considered practical matters to do with housing, including living arrangements, the condition of the houses and whether residents were home often enough to want a permanent connection to the internet; documented how long PCs and related electronics could withstand the heat, dust and vermin; and assessed ownership patterns (both Western ownership and traditional systems of demand sharing).</Content>
+				<Br/>
+				<Content>Although non-Indigenous people often associate a ‘caring and sharing’ ethic with Aboriginal culture, and therefore assume that shared or communal internet facilities are most appropriate, we found that individuals wanted to identify as the ‘owners’ of the computers. Access, and by extension usage, was largely restricted to the household/immediate family members, with the owner determining who could use the PC. Avoidance relationships between families, and the emphasis on discrete family ownership and use of ICT, resulted in certain family groups often dominating access to computers in shared spaces and excluding others, a finding that was corroborated at the computer room at Papunya. Location, access and usage are therefore important considerations for remote Aboriginal owners.</Content>
+				<Br/>
+				<Content>These findings have implications in considering models for the provision of ICT and internet access in remote communities. Specifically, computer room or ‘internet café’-type arrangements which are run by Indigenous community members may not be the most suitable mechanism for providing equitable access to the broader community, owing to family and other cultural obligations (kinship). For example, in one of the larger communities we visited, the death of a young man who had been supervising a computer center meant that some others in that kinship network were unwilling to use it.</Content>
+				<Br/>
+				<Content>While in theory the home computing model provided ICT access for the whole family, ranging from grandparents to young, preschool children, the dynamics of inter-familial, gender and age relationships influenced community members’ access to and use of the ICTs. The higher profile and level of participation of women in the home computing model suggests that locating computers and internet access within household spaces might lead to a stronger association of digital technology with a female-coded domains and technical activities, with positive flow-on effects in facilitating greater ICT usage by women and children. By contrast, at the Papunya computer center, the main room became so closely identified with young men that a separate space was created for women to access computers and the internet. To ensure equitable ICT access, the ways that different age, gender and family groups became aligned with particular social spaces within remote Aboriginal contexts needs to be considered in ICT planning.</Content>
+				<Br/>
+				<Content>Residents’ degree of mobility, both within and outside the community, has implications for ICT provision in relation to access, ownership, management of billing, and sustainability. ICT arrangements need to be flexible in response to residential mobility, and some devices and equipment may be more suitable than others depending on community members’ degree of mobility. For instance, residents moved houses within the community for a range of reasons, including available housing stock, maintenance issues in some houses, the cost of power, and cultural customs surrounding death. Such inter-community mobility has consequences for fixed infrastructure costs such as satellite dishes.</Content>
+				<Br/>
+				<Content>The high level of mobility does not necessarily equate to a preference or requirement for mobile devices. PCs can be easier to manage in the domestic setting. In contrast, there is a high degree of sharing of mobile devices.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Equitable IT Maintenance and Training Support</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Much less sharing and helping occurred between households than we anticipated, not only in relation to access and use, but also in overcoming ICT issues and sharing skills and knowledge. A critical mass of ICT users and hardware is not sufficient to ameliorate the digital divide without providing ICT support and training. The tendency towards discrete family/household and even highly personalized use, together with the social and cultural relationships between different groups, needs to be considered in providing ICT education and training to ensure equity of access in remote communities.</Content>
+				<Br/>
+				<Content>Contrary to views that Aboriginal people prefer group learning because they are communally oriented, we found that community members generally preferred learning opportunities that were flexible enough to accommodate their lifestyle and priorities, and were provided within their homes, often on an individual basis. Individual or home-based learning is possibly also preferred as a way to avoid situations in which their lack of skill is on display, leading to feelings of embarrassment (shame). Although logistically challenging and resource intensive, a flexible, opportunistic approach that tailors learning opportunities to the individual’s needs and takes place within private, safe spaces rather than formal, structured group learning is more likely to be effective. These observations were supported by the experience of the Papunya Computer Room (PCR), which mostly offered one-on-one training in response to the failure of attempts at group program delivery.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Overcoming the Digital Divide</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Digital exclusion in remote Australia should not be seen as an intractable problem. In communities where satellite internet is the only available internet, innovative solutions are still possible.</Content>
+				<Br/>
+				<Content>For instance, externally maintained WiFi services that provide satellite-delivered internet within communities are possible under current regulatory and retail arrangements. Such services overcome the need for a fixed connection to the home, resolving access for those who may not reside in the community on a permanent basis, and addressing situations where post-paid billing is not feasible for households. Such services would need to be managed by an intermediary organization or commercial enterprise with experience working in remote communities. Sustainable models might involve payment systems that enable people to pre-pay for data allowances in advance (similar to hotel WiFi systems), covering service, download and power costs.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Knowing the Digital Divide</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>On a final note, our understanding of what we have called ‘internet on the outstation’ developed over a long-term engagement with the residents. It would not have been possible without an existing level of trust between the Aboriginal organizations involved in the study (the Centre for Appropriate Technology [CAT] and the Central Land Council [CLC]), and the outstation elders and residents. Although there is perhaps much we would do differently if we had the chance again, we hope that other organizations may learn from our efforts as they continue to develop programs with Indigenous communities.</Content>
+				<Br/>
+				<Content>At a more fundamental level, issues such as internet infrastructure, affordability and programs are important, not just for the daily communication activities of those who access these services, but also for the services, shires, schools and organizations that interact with communities on an ongoing basis. Nurturing connections between these groups and the organizations that are working at solving communication barriers (such as the Australian Communications Consumer Action Network and the Indigenous Remote Communications Association) is important, and yet there are few resources to enable such collaboration and knowledge exchange.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	The Broadband for the Bush network is the one forum where this occurs (www.broadbandforthebush.com.au). All four partners in the Home Internet Project were involved in Broadband for the Bush during the life of the project, for the purposes of knowledge sharing and capacity building.</Content>
+							<Br/>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> As for research, on-the-ground experience is necessary when it comes to understanding the digital divide. There is a serious need for ongoing collection of data on remote community ICT infrastructures, as well as basic consumer information including expenditure, device preferences and sharing behaviors. However, internet adoption and use is inherently tied to everyday practices, priorities, needs and capacities. Only by understanding the social and cultural aspects of life in remote communities can we begin to know the nature of the divide and the tangible benefits of being online.</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Postscript</Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>By early 2016, very few of the desktop computers were still being used in the communities. The residents had not rushed to replace broken machines, although the women we met with all continued to see value in having the internet. </Content>
+				<Br/>
+				<Content>At Imangara, both Emily’s and Mary’s computers needed repairs. They were paying for the internet, even though they could not use it, and were planning on calling the internet service provider to get it suspended. Louise was using her internet connection with her iPad, as her PC had also died. </Content>
+				<Br/>
+				<Content>Many of the computers had been moved out of Mungalawurru. Only the middle-aged couple at Mungalawurru had kept the internet, which we were told had become slow, either because of the NBN satellite connection, or because their machine was getting old. The woman was paying her ISP bills by check now, an arrangement that suited her much better than direct debit. Karen was still living in Tennant Creek, and was using the internet on her husband’s phone and on her daughter’s iPad, as the computer had finally stopped working.</Content>
+				<Br/>
+				<Content>The senior woman from Mungalawurru, who had been living and working in town during the years we visited, told us that she plans to retire and move back to the outstation. She was planning to get a computer for herself at that time, and wanted more computers for the community. In her opinion, the real value of having the internet is that her family can look up histories and places, and document culture for young people to learn. Although she described activities such as internet banking as useful, she said they were just everyday needs, not ‘our way’.  </Content>
+				<Br/>
+				<Content>Rhonda’s time was taken up with working in Alice Springs, but her plans to create stories for bilingual education for small children had developed rather than diminished. She said she also hopes to produce books on the wildlife at Tjoritja. She still had her computer and was planning on getting an internet connection in the near future. Rhonda’s family were now making their own plans for enterprise at Kwale Kwale, and her mother had recently purchased nine baby peacocks.  </Content>
+				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" DestinationUniqueKey="3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 38" DestinationUniqueKey="4" Name="URL 38" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 37" DestinationUniqueKey="5" Name="URL 37" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 6" DestinationUniqueKey="644" Name="URL 6" DestinationURL="https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 7" DestinationUniqueKey="645" Name="URL 7" DestinationURL="http://www.abc.net.au/local/stories/2015/03/16/4198439.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 8" DestinationUniqueKey="646" Name="URL 8" DestinationURL="http://rhizomatica.org/about-2/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 9" DestinationUniqueKey="647" Name="URL 9" DestinationURL="http://insidestory.org.au/internet-on-the-outstation" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 10" DestinationUniqueKey="648" Name="URL 10" DestinationURL="http://www.abc.net.au/news/stories/2009/09/09/2680645" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 11" DestinationUniqueKey="649" Name="URL 11" DestinationURL="https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 12" DestinationUniqueKey="650" Name="URL 12" DestinationURL="http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 13" DestinationUniqueKey="651" Name="URL 13" DestinationURL="http://www.education.nt.gov.au/__data/assets/pdf_file/0005/7475/learning_lessons_review.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 14" DestinationUniqueKey="652" Name="URL 14" DestinationURL="http://www.acal.edu.au/conference/08/Deadly_Dreaming_Mahon.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 15" DestinationUniqueKey="653" Name="URL 15" DestinationURL="http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 16" DestinationUniqueKey="654" Name="URL 16" DestinationURL="http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 17" DestinationUniqueKey="655" Name="URL 17" DestinationURL="https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 18" DestinationUniqueKey="656" Name="URL 18" DestinationURL="http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 19" DestinationUniqueKey="657" Name="URL 19" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 20" DestinationUniqueKey="658" Name="URL 20" DestinationURL="http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 21" DestinationUniqueKey="659" Name="URL 21" DestinationURL="http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 22" DestinationUniqueKey="660" Name="URL 22" DestinationURL="http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 23" DestinationUniqueKey="661" Name="URL 23" DestinationURL="http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 24" DestinationUniqueKey="662" Name="URL 24" DestinationURL="http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 25" DestinationUniqueKey="663" Name="URL 25" DestinationURL="http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 26" DestinationUniqueKey="664" Name="URL 26" DestinationURL="http://insidestory.org.au/a-new-protection-policy/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 27" DestinationUniqueKey="665" Name="URL 27" DestinationURL="http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 28" DestinationUniqueKey="666" Name="URL 28" DestinationURL="http://www.budget.gov.au/2015-16/content/bp2/html/bp2_expense-19.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 29" DestinationUniqueKey="667" Name="URL 29" DestinationURL="http://caylus.org.au/papunya-computer-room/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 30" DestinationUniqueKey="668" Name="URL 30" DestinationURL="http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 31" DestinationUniqueKey="669" Name="URL 31" DestinationURL="http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 32" DestinationUniqueKey="670" Name="URL 32" DestinationURL="http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 33" DestinationUniqueKey="671" Name="URL 33" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 34" DestinationUniqueKey="672" Name="URL 34" DestinationURL="http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 35" DestinationUniqueKey="673" Name="URL 35" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 36" DestinationUniqueKey="674" Name="URL 36" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 39" DestinationUniqueKey="675" Name="URL 39" DestinationURL="http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 40" DestinationUniqueKey="676" Name="URL 40" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 41" DestinationUniqueKey="677" Name="URL 41" DestinationURL="http://www.abs.gov.au/websitedbs/censushome.nsf/home" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 42" DestinationUniqueKey="678" Name="URL 42" DestinationURL="http://www.cci.edu.au/projects/world-internet-project-australia" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 43" DestinationUniqueKey="841" Name="URL 43" DestinationURL="https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 44" DestinationUniqueKey="842" Name="URL 44" DestinationURL="http://www.abc.net.au/local/stories/2015/03/16/4198439.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 45" DestinationUniqueKey="843" Name="URL 45" DestinationURL="http://rhizomatica.org/about-2/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 46" DestinationUniqueKey="844" Name="URL 46" DestinationURL="http://insidestory.org.au/internet-on-the-outstation" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 47" DestinationUniqueKey="845" Name="URL 47" DestinationURL="http://www.abc.net.au/news/stories/2009/09/09/2680645" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 48" DestinationUniqueKey="846" Name="URL 48" DestinationURL="https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 49" DestinationUniqueKey="847" Name="URL 49" DestinationURL="http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 50" DestinationUniqueKey="848" Name="URL 50" DestinationURL="http://www.education.nt.gov.au/__data/assets/pdf_file/0005/7475/learning_lessons_review.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 51" DestinationUniqueKey="849" Name="URL 51" DestinationURL="http://www.acal.edu.au/conference/08/Deadly_Dreaming_Mahon.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 52" DestinationUniqueKey="850" Name="URL 52" DestinationURL="http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 53" DestinationUniqueKey="851" Name="URL 53" DestinationURL="http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 54" DestinationUniqueKey="852" Name="URL 54" DestinationURL="https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 55" DestinationUniqueKey="853" Name="URL 55" DestinationURL="http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 56" DestinationUniqueKey="854" Name="URL 56" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 57" DestinationUniqueKey="855" Name="URL 57" DestinationURL="http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 58" DestinationUniqueKey="856" Name="URL 58" DestinationURL="http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 59" DestinationUniqueKey="857" Name="URL 59" DestinationURL="http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 60" DestinationUniqueKey="858" Name="URL 60" DestinationURL="http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 61" DestinationUniqueKey="859" Name="URL 61" DestinationURL="http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 62" DestinationUniqueKey="860" Name="URL 62" DestinationURL="http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 63" DestinationUniqueKey="861" Name="URL 63" DestinationURL="http://insidestory.org.au/a-new-protection-policy/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 64" DestinationUniqueKey="862" Name="URL 64" DestinationURL="http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 65" DestinationUniqueKey="863" Name="URL 65" DestinationURL="http://www.budget.gov.au/2015-16/content/bp2/html/bp2_expense-19.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 66" DestinationUniqueKey="864" Name="URL 66" DestinationURL="http://caylus.org.au/papunya-computer-room/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 67" DestinationUniqueKey="865" Name="URL 67" DestinationURL="http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 68" DestinationUniqueKey="866" Name="URL 68" DestinationURL="http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 69" DestinationUniqueKey="867" Name="URL 69" DestinationURL="http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 70" DestinationUniqueKey="868" Name="URL 70" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 71" DestinationUniqueKey="869" Name="URL 71" DestinationURL="http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 72" DestinationUniqueKey="870" Name="URL 72" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 73" DestinationUniqueKey="871" Name="URL 73" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 74" DestinationUniqueKey="872" Name="URL 74" DestinationURL="http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 75" DestinationUniqueKey="873" Name="URL 75" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 76" DestinationUniqueKey="874" Name="URL 76" DestinationURL="http://www.abs.gov.au/websitedbs/censushome.nsf/home" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 77" DestinationUniqueKey="875" Name="URL 77" DestinationURL="http://www.cci.edu.au/projects/world-internet-project-australia" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 78" DestinationUniqueKey="876" Name="URL 78" DestinationURL="https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 79" DestinationUniqueKey="877" Name="URL 79" DestinationURL="http://www.abc.net.au/local/stories/2015/03/16/4198439.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 80" DestinationUniqueKey="878" Name="URL 80" DestinationURL="http://rhizomatica.org/about-2/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 81" DestinationUniqueKey="879" Name="URL 81" DestinationURL="http://insidestory.org.au/internet-on-the-outstation" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 82" DestinationUniqueKey="880" Name="URL 82" DestinationURL="http://www.abc.net.au/news/stories/2009/09/09/2680645" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 83" DestinationUniqueKey="881" Name="URL 83" DestinationURL="https://www.communications.gov.au/sites/g/files/net301/f/Northern%20Territory%20Government%20-%20Public%20Submission%20RTIRC%202015.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 84" DestinationUniqueKey="882" Name="URL 84" DestinationURL="http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 85" DestinationUniqueKey="883" Name="URL 85" DestinationURL="http://www.education.nt.gov.au/__data/assets/pdf_file/0005/7475/learning_lessons_review.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 86" DestinationUniqueKey="884" Name="URL 86" DestinationURL="http://www.acal.edu.au/conference/08/Deadly_Dreaming_Mahon.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 87" DestinationUniqueKey="885" Name="URL 87" DestinationURL="http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 88" DestinationUniqueKey="886" Name="URL 88" DestinationURL="http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 89" DestinationUniqueKey="887" Name="URL 89" DestinationURL="https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&amp;download" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 90" DestinationUniqueKey="888" Name="URL 90" DestinationURL="http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 91" DestinationUniqueKey="889" Name="URL 91" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 92" DestinationUniqueKey="890" Name="URL 92" DestinationURL="http://www.abc.net.au/news/2015-04-08/free-wifi-in-alice-springs-town-camps-could-solve-youth-problems/6378914" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 93" DestinationUniqueKey="891" Name="URL 93" DestinationURL="http://paulfletcher.com.au/speeches/portfolio-speeches/item/1316-speech-to-the-accan-uso-forum.html" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 94" DestinationUniqueKey="892" Name="URL 94" DestinationURL="http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 95" DestinationUniqueKey="893" Name="URL 95" DestinationURL="http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 96" DestinationUniqueKey="894" Name="URL 96" DestinationURL="http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 97" DestinationUniqueKey="895" Name="URL 97" DestinationURL="http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 98" DestinationUniqueKey="896" Name="URL 98" DestinationURL="http://insidestory.org.au/a-new-protection-policy/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 99" DestinationUniqueKey="897" Name="URL 99" DestinationURL="http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 100" DestinationUniqueKey="898" Name="URL 100" DestinationURL="http://www.budget.gov.au/2015-16/content/bp2/html/bp2_expense-19.htm" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 101" DestinationUniqueKey="899" Name="URL 101" DestinationURL="http://caylus.org.au/papunya-computer-room/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 102" DestinationUniqueKey="900" Name="URL 102" DestinationURL="http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 103" DestinationUniqueKey="901" Name="URL 103" DestinationURL="http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 104" DestinationUniqueKey="902" Name="URL 104" DestinationURL="http://www.acma.gov.au/theACMA/telecommunications-in-remote-indigenous-communities" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 105" DestinationUniqueKey="903" Name="URL 105" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 106" DestinationUniqueKey="904" Name="URL 106" DestinationURL="http://www.acma.gov.au/webwr/_assets/main/lib311995/2009-10_comms_report-complete.pdf" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 107" DestinationUniqueKey="905" Name="URL 107" DestinationURL="" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 108" DestinationUniqueKey="906" Name="URL 108" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 109" DestinationUniqueKey="907" Name="URL 109" DestinationURL="http://www.abs.gov.au/Ausstats/abs@.nsf/Latestproducts/4710.0Main%20Features42006?opendocument&amp;tabname=Summary&amp;prodno=4710.0&amp;issue=2006&amp;num=&amp;view" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 110" DestinationUniqueKey="908" Name="URL 110" DestinationURL="http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2075.0main+features32011" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 111" DestinationUniqueKey="909" Name="URL 111" DestinationURL="http://www.abs.gov.au/websitedbs/censushome.nsf/home" Hidden="false"/>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 112" DestinationUniqueKey="910" Name="URL 112" DestinationURL="http://www.cci.edu.au/projects/world-internet-project-australia" Hidden="false"/>
 </Document>
