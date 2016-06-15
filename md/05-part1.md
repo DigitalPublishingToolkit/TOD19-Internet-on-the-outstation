@@ -22,7 +22,7 @@ Telstra, the private partner, issued a statement saying that the site
 was chosen partly for its proximity to fiber optic cable. The Northern
 Territory government stated that the tower was to serve highway and
 wayside coverage, rather than to service nearby Aboriginal communities
-and a school, which remained outside of the coverage area.[^1]
+and a school, which remained outside of the coverage area.[^05-part1_1]
 
 The Barrow Creek mobile story illustrates the complexities of
 communications infrastructure provision in remote areas: the cost
@@ -33,7 +33,7 @@ Highway, service providers, and Aboriginal communities. The ABC quoted a
 resident of Tara, a small community near Barrow Creek, who had purchased
 a mobile phone in anticipation of being able to ring her daughter in
 Alice Springs from home: ‘I'm sad for us [because] I turned it on and it
-didn't switch on’, said Selma Thompson. ‘It was a waste’.[^2]
+didn't switch on’, said Selma Thompson. ‘It was a waste’.[^05-part1_2]
 
 The everyday life of residents of remote Indigenous communities is
 unlike that of most Australians in very many ways. Remote communities
@@ -74,7 +74,7 @@ heralding the progress of Indigenous affairs to the center of national
 public administration, these migrations signal a volatile history of
 reversals and revisions, where a lack of governmental confidence is
 reflected above all in the scant regard paid to domain expertise,
-experience or memory.[^3]
+experience or memory.[^05-part1_3]
 
 It should not be surprizing that these different administrative channels
 have tangled relations, producing outcomes that occasionally connect but
@@ -209,7 +209,7 @@ projects. Much of the funding in these programs was dedicated to the
 provision of public payphones. According to the 2005–2006 Budget,
 TAPRIC’s initiatives sought ‘to overcome a number of complex logistical
 and social factors affecting the provision of basic telephone services
-in remote Indigenous communities’.[^4] TAPRIC funded the Community
+in remote Indigenous communities’.[^05-part1_4] TAPRIC funded the Community
 Phones Program, which rolled out public phones designed by the Centre
 for Appropriate Technology (CAT) for the specific needs of remote
 communities. It also involved a stocktake of the existing infrastructure
@@ -227,7 +227,7 @@ Obligation (USO).
 
 The USO has been an ongoing topic of debate in Australia, particularly
 in regard to its impact on competition, what should be included in the
-USO, and its susceptibility to political interests.[^5] In theory, a USO
+USO, and its susceptibility to political interests.[^05-part1_5] In theory, a USO
 is a market design mechanism that works to transfer some of the consumer
 surplus from one group as an implicit subsidy to another group by
 effectively forcing a monopoly provider to treat them all as a single
@@ -247,7 +247,7 @@ cost of cables and trenches is still borne by the consumer (and is prohibitive).
 
 Second, the STS is conceived in terms of specific technologies and
 services, which are of diminishing relevance everywhere, and especially
-in remote Australia.[^6] It cannot then reflect the evolving needs of
+in remote Australia.[^05-part1_6] It cannot then reflect the evolving needs of
 communications users, which now extend well beyond basic telephony, or
 the rollout of new broadband networks that do not rely on Telstra’s
 copper infrastructure. Voice services are increasingly used through
@@ -271,7 +271,7 @@ infrastructure. But the network also embodied a micro-economic reform
 agenda, with NBN’s neutral wholesale role taking over from Telstra’s
 compromised position in the market, and a service design that would
 encourage and enable a more diverse range of large and small
-retailers.[^7]
+retailers.[^05-part1_7]
 
 For remote communities, the rollout of the NBN meant the closure of the
 Broadband Guarantee scheme – which had not in any case been easy to
@@ -282,7 +282,7 @@ rapidly fully subscribed, and attracted considerable criticism in the
 2011 and 2015 regional telecommunications reviews. Bodies such as the
 Flying Doctor Service drew particular attention to the inability of the
 service to support time-critical applications such as remote medical
-consultations.[^8] While the long-term solution is likely to
+consultations.[^05-part1_8] While the long-term solution is likely to
 considerably improve the performance of the satellite-delivered NBN, the
 2015 review forecast a rapid growth in use, and recommended a number of
 measures to improve the service.
@@ -344,7 +344,7 @@ redirected into the Indigenous Advancement Strategy, amounting to
 printers and internet access points to improve internet literacy and
 educational outcomes for children and adults in around seventy-five
 remote communities’, and administered through a competitive grants-based
-process.[^9]
+process.[^05-part1_9]
 
 What has been the result of these policy and program decisions? One
 result has been that, for over a decade, the dominant mode of provision
@@ -358,7 +358,7 @@ internet access in some communities, at least in the early years. The
 2001 census included questions that enabled A.E. Daly to estimate the
 difference between home internet use and internet use ‘generally’, which
 might include access at a community center, library, workplace or
-home.[^10] She found that internet use for Indigenous people living
+home.[^05-part1_10] She found that internet use for Indigenous people living
 outside the capital cities in South Australia and the Northern Territory
 was three times higher than home use, which was not the case for the
 non-Indigenous population. (From 2006 onwards the census has only
@@ -377,7 +377,7 @@ as supervision arrangements. We also asked survey respondents to provide
 anecdotal comment on the level and use of activities that occurred in
 those sites. We found that while shared facilities have played an
 important role in establishing communications infrastructure,
-sustainability was a significant concern in many instances.[^11]
+sustainability was a significant concern in many instances.[^05-part1_11]
 
 We found that less than half of the thirty-four communities had
 community internet access and, of these, many were only semi-functional.
@@ -416,7 +416,7 @@ major obstacles, and in general have only provided limited access. A
 report from September 2003 for the then Department of Communications, Information Technology and the Arts, commissioned in response to the 2002 TAPRIC
 recommendations, warned that Commonwealth and state-funded centers were
 already at risk and unlikely to be viable without government
-support.[^12] The report found that cooperative centers with a range of
+support.[^05-part1_12] The report found that cooperative centers with a range of
 stakeholders were more likely to succeed, as funding overheads could be
 shared. Our survey confirmed this observation. Moreover, as discussed
 below, government policy and funding, including for programs such as
@@ -446,7 +446,7 @@ funded the establishment of facilities, but not their ongoing operation.
 This was an issue addressed in the first regional telecommunications
 review, when Besley argued that the ongoing costs of community
 facilities could be supported by a proportion of the universal cost
-attributable to the community.[^13] Many have funded access, but not
+attributable to the community.[^05-part1_13] Many have funded access, but not
 training, or training, but not the development of relevant content and
 applications. Limited by the legacy of the ‘adequacy’ problem, they have
 rarely approached digital engagement from the perspective of users, who
@@ -465,7 +465,7 @@ approach, as the 2015 Regional Telecommunications Review suggests, would be to d
 set of indicators, especially regarding the spatial distribution of
 facilities and services, and a more ambitious research program, aiming
 for a systematic understanding of the patterns and dynamics of take-up
-and use.[^14] With that in hand, frequent reviews should not be needed
+and use.[^05-part1_14] With that in hand, frequent reviews should not be needed
 for us to monitor effectively the performance of our networks, and the
 benefits they may bring to remote communities.
 
@@ -519,10 +519,10 @@ From the 1970s, a fundamentally discriminatory legislative system began
 to be challenged, and Indigenous Australians were granted citizenship
 rights. Under the Whitlam government, the era of assimilation gave way
 to new policies of self-determination, including what has been referred
-to as the ‘outstation movement’.[^15] In the words of the Aborigines’
+to as the ‘outstation movement’.[^05-part1_15] In the words of the Aborigines’
 Progressive Association in 1968, returning land to Aboriginal people was
 an ‘assuagement to hurt sensibilities’ that could restore Aboriginal
-dignity.[^16] Policy papers from the time expressed an expectation that
+dignity.[^05-part1_16] Policy papers from the time expressed an expectation that
 a return to country would help overcome a ‘culture of poverty’, lead to
 self-determination and provide Indigenous people with the power to
 negotiate over use of land (for instance, with mining companies).
@@ -531,7 +531,7 @@ Those who returned to their country were able to access grants to build
 sewerage systems, basic roads, and water and electricity connections from 1972 –
 infrastructure not intended to meet conventional standards, but to
 provide assistance that would be supplemented by community efforts,
-including the development of makeshift shelters or humpies.[^17] A
+including the development of makeshift shelters or humpies.[^05-part1_17] A
 landmark development came in 1976 when the Fraser government passed the
 Aboriginal Land Rights (NT) Act, which provided a legal mechanism for
 Aboriginal people in the Northern Territory to reclaim their ancestral
@@ -550,7 +550,7 @@ are on Aboriginal land, although some are on excisions from pastoral
 leases (known as Community Living Areas, or CLAs) or in national parks. The
 outstations on CLAs form a critical part of the outstations, or
 homelands, footprint, signalling how some groups remained connected to
-their lands, despite appropriation of land by pastoralists.[^18] Two
+their lands, despite appropriation of land by pastoralists.[^05-part1_18] Two
 outstations in this story, Mungalawurra and Kwale Kwale, are on
 Aboriginal land, whereas Imangara is a CLA.
 
@@ -563,23 +563,23 @@ artificial collocation of diverse groups had resulted in significant
 stresses for those who were not traditional owners or who were
 descendants of the minority language group. As time progressed,
 outstations also had the appeal of being removed from the social
-problems of larger settlements, such as alcohol and violence.[^19]
+problems of larger settlements, such as alcohol and violence.[^05-part1_19]
 
 Today there are approximately 400 occupied outstations in the Northern
 Territory, with a population of around 10,000 living in 2,400 dwellings
 (about 25 per cent of the rural Aboriginal population of the Northern
-Territory).[^20] In the public imagination, outstations have come to
+Territory).[^05-part1_20] In the public imagination, outstations have come to
 represent ‘extreme living’, in the sense that they are isolated, with
 limited access to services and little infrastructure, and are thus
 represented as a choice to live apart from the majority in favor of
-maintaining tradition.[^21]
+maintaining tradition.[^05-part1_21]
 
 In a submission to a 2003 review of outstation policy, CAT pointed out
 that outstations have been subject to a coordination problem, falling
 through the net of available services, with resource agencies struggling
 to meet the costs of outstation operation, battling to extract user
 contributions to such costs, and under pressure by the ad hoc nature of
-funding programs.[^22] Such concerns regarding the coordination and
+funding programs.[^05-part1_22] Such concerns regarding the coordination and
 transparency of funding and programs to outstations continue to this
 day. Some of the problems recounted to us by the communities reflect the
 ongoing challenge of maintaining outstations.
@@ -589,12 +589,12 @@ political contention around how best to overcome Indigenous
 disadvantage. In July 2008, coinciding with the NTER and prior to our
 first consultations, the Commonwealth began divesting itself of funding
 responsibility for outstations, handing what was available to state and
-territory governments.[^23] Some saw the move as reducing duplications
-and creating economies of scale to provide services.[^24] The Northern
+territory governments.[^05-part1_23] Some saw the move as reducing duplications
+and creating economies of scale to provide services.[^05-part1_24] The Northern
 Territory government’s policy development – designed to coordinate
 infrastructure and services and ‘set a new path for outstations’ –
 received wide criticism. In Pat Dodson’s words, outstations were being
-left to ‘wither on the vine’.[^25]
+left to ‘wither on the vine’.[^05-part1_25]
 
 There was a growing inclination amongst some right-wing think tanks to
 regard outstations as entrenching disadvantage and reducing people’s
@@ -602,9 +602,9 @@ opportunities. For instance, the demonization of location was apparent
 in the Commonwealth Minister for Indigenous Affairs’ description of
 remote communities and outstations as ‘cultural museums’, and in
 commentator Helen Hughes’ description of the outstations movements as a form
-of apartheid and a failed ‘socialist utopia’.[^26] Further, Gary Johns
+of apartheid and a failed ‘socialist utopia’.[^05-part1_26] Further, Gary Johns
 argued that the residents of remote communities and outstations should
-migrate to towns with greater employment opportunities.[^27]
+migrate to towns with greater employment opportunities.[^05-part1_27]
 
 Hughes’ and Johns’ ideas are likely to have been influential in the
 policy shift away from supporting outstations and small communities
@@ -632,13 +632,13 @@ outstations continued to receive funding targeted towards specific
 services such as local government municipal services (power, water,
 waste management, roads), health clinics, schools, and police stations.
 They would also later be asked for a lease, so that their houses could
-be renovated, upgraded or rebuilt (for houses deemed uninhabitable).[^28]
+be renovated, upgraded or rebuilt (for houses deemed uninhabitable).[^05-part1_28]
 Outstations continued to receive general-purpose infrastructure and
 service funding through a network of outstation resource agencies and
 shire/regional councils, which were in turn funded by the Northern
 Territory government. In 2014–15, 423 were funded under the
 Northern Territory government’s homeland programs for housing and
-municipal and essential services.[^29] The Northern Territory government
+municipal and essential services.[^05-part1_29] The Northern Territory government
 asserted that the funding provided was making a contribution to living
 in the outstations, recognizing that funding was insufficient to meet
 all the service and infrastructure needs of residents. There were no new
@@ -654,29 +654,29 @@ within the COAG documents that governments were trying to encourage
 people into larger settlements, a policy shift that came to be known as
 ‘mainstreaming’. As Moran articulated at the time, such policies of
 coercing people did not fit well historically as a development policy
-for remote Indigenous communities.[^30]
+for remote Indigenous communities.[^05-part1_30]
 
 The policy effectively established a hierarchy of communities in terms
 of what should be developed and sustained. For some, the issue was one
 of unequal access to basic services, shelter and support that should be
 considered an entitlement for all citizens ‘that should not be
-contingent on geographic location, at least in any policy sense’.[^31]
+contingent on geographic location, at least in any policy sense’.[^05-part1_31]
 The mainstreaming approach was also ‘premised on utilizing standardized
 structures and processes for delivering and managing’ housing and
 infrastructure that did not take into account the particular nuances of
-outstation needs.[^32]
+outstation needs.[^05-part1_32]
 
 Further, Sanders analyzed the populations that would be serviced under
 the growth towns policy, demonstrating that there was a significant gap
 for central Australia regions in particular, where at best only 18 per
 cent of the population were likely to be captured within the ‘hub and
-spoke’ of the twenty priority communities.[^33] Even with the best
+spoke’ of the twenty priority communities.[^05-part1_33] Even with the best
 transportation options between these large communities and their
 surrounding smaller communities, there was a significant lack of service
 coverage for many communities.
 
 We observed at the time that communications policy and Indigenous policy
-were largely disconnected from each other.[^34] The one exception is
+were largely disconnected from each other.[^05-part1_34] The one exception is
 education, in that schools in Indigenous communities do have internet
 access, and have been the beneficiaries of various ICT programs in
 recent decades, as discussed in Chapter 6. At the local level –
@@ -688,12 +688,12 @@ including housing and power, are dependent on each other.
 The average house in a remote Indigenous community will have a lifecycle
 of four to eight years, will use about a third of the power of a
 suburban home, will be six times more likely to be overcrowded than other
-Australian houses, and will have three times more dogs.[^35] In 2014,
+Australian houses, and will have three times more dogs.[^05-part1_35] In 2014,
 CAT undertook a survey at the Utopia Homelands as part of a \$4 million
 commitment by the Commonwealth government to improve living conditions.
 In that report, Grey-Gardner and Young observe that residents preferred
 box air-conditioners over more robust models, because some families
-lived between three or four houses, taking the air-Mungalawurrucon with them.[^36]
+lived between three or four houses, taking the air-Mungalawurrucon with them.[^05-part1_36]
 Such observations are typical in reports by CAT, an organization that
 takes into account the social life of infrastructure and objects in its
 development and maintenance projects. The physicality of the outstation
@@ -877,7 +877,7 @@ studies that have occurred in the area of information and communications
 technology (ICT) for development, we explain how our motivations and
 actions differed somewhat from that particular field of research. In the
 second half of the chapter, we provide a plain-language account of some
-of the technical components of the project.[^37] Our interest in, and
+of the technical components of the project.[^05-part1_37] Our interest in, and
 documentation of, the material aspects of the hardware, as well as our
 own interactions with the internet service providers, yielded important
 insights into how infrastructure can frame social relations and
@@ -909,21 +909,21 @@ of households and individuals with a computer and internet connection,
 and in 2002 declared the divide was largely overcome – ‘we are truly a
 nation online’ – with the internet being used at work, schools, and
 libraries as well as at home by over half of the American population,
-and rising by two million new users a month.[^38]
+and rising by two million new users a month.[^05-part1_38]
 
 However, by the early 2000s, a wave of scholarly attention had emerged
 that refuted simplistic notions of the divide as referring to physical
 access to computers. The ‘either you have access to ICT or you do not,
 you are either connected or you are not’ approach, it was argued,
 assumed that with enough resources and political will, the divide was
-easy to close or bridge.[^39] Even with computers, some people did not
+easy to close or bridge.[^05-part1_39] Even with computers, some people did not
 have the necessary skills or motivation to make use of them to the same
-degree as others.[^40] Skills, autonomy of use (including where access
+degree as others.[^05-part1_40] Skills, autonomy of use (including where access
 occurred), attitudes towards technology (relevance), and types of use
 therefore became the main themes of digital divide research. The
 refocused concern for the social dimensions of usage was considered ‘a
 more elaborate and realistic understanding of inequalities in the
-information age’.[^41]
+information age’.[^05-part1_41]
 
 Analyses of data sets drawn from many different countries have revealed
 strong correlations between socio-economic status and internet adoption.
@@ -931,33 +931,33 @@ Some theorists have argued that as social disadvantages, such as low
 income and lack of education, appear to be linked to the digital divide,
 the divide can only be addressed by tackling those apparent causes –
 effectively rendering the concept redundant, or at least unexceptional
-as a singular policy concern.[^42] However, as Helsper notes, ‘there
+as a singular policy concern.[^05-part1_42] However, as Helsper notes, ‘there
 remains significant debate around the existence, nature and causality of
-these links’, a question we address directly in Chapter 9.[^43]
+these links’, a question we address directly in Chapter 9.[^05-part1_43]
 
 The most recent research on the digital divide seeks to know whether
 internet use produces tangible outcomes, and whether unequal
 distribution in the ways that people use the internet is reinforcing
 existing inequalities. These studies are asking who benefits most from
 being online in terms of economic, cultural, social and personal
-wellbeing, and how this links to skills and online engagement.[^44]
+wellbeing, and how this links to skills and online engagement.[^05-part1_44]
 Researching tangible outcomes requires establishing a hierarchy in the
 nature or quality of use and mapping the opportunities people choose to
-take up.[^45] For instance, online resources, such as being able to look
+take up.[^05-part1_45] For instance, online resources, such as being able to look
 at job classifieds online, can translate into being able to find a job
 through access to more opportunities. Studies of how people enact online
 opportunities tend to support what is known as the *Matthew effect*,
 whereby the rich get richer, or the *knowledge gap hypothesis*, which
 posits that those with more resources gain skills and technologies
 before others, thus reaping advantages sooner and increasing rather than
-decreasing knowledge gaps in society.[^46] Van Deursen and Van Dijk
+decreasing knowledge gaps in society.[^05-part1_46] Van Deursen and Van Dijk
 found that in the Netherlands, where internet adoption is
 near-ubiquitous (96 per cent of the population), capital-enhancing
 online opportunities are more likely to be taken up by those with higher
 education and income ‘which would accordingly reinforce their already
-strong positions in society’.[^47] However, some groups defy prediction,
+strong positions in society’.[^05-part1_47] However, some groups defy prediction,
 displaying high levels of digital inclusion despite experiencing other
-disadvantages.[^48] As part of our research in the outstations, we
+disadvantages.[^05-part1_48] As part of our research in the outstations, we
 routinely asked people questions about their internet use, as well as
 what they would like to learn to do, in order to understand how the
 residents responded to the opportunities of being online. Determining
@@ -987,9 +987,9 @@ these in relation to daily life in remote communities.
 ### Researching the Digital Divide in Remote Australia
 
 Digital inclusion research has mostly been conducted through sample
-surveys, such as the World Internet Project.[^49] These studies show
+surveys, such as the World Internet Project.[^05-part1_49] These studies show
 that although the digital divide in Australia is narrowing, it is doing
-so increasingly slowly.[^50] However, sample surveys of internet use in
+so increasingly slowly.[^05-part1_50] However, sample surveys of internet use in
 Australia have bypassed remote Aboriginal communities due to the
 obstacles posed by lack of landlines (generally used to administer
 surveys), as well as language and cultural barriers. There is also no
@@ -1000,7 +1000,7 @@ Chapter 9 for an analysis of mobile adoption in the central Australia
 region). Although ICT infrastructure was included in the Community
 Housing and Infrastructure Needs Survey (CHINS), the last CHINS
 collection occurred in 2006, and the survey has since been
-discontinued.[^51] A key report on internet use in remote communities
+discontinued.[^05-part1_51] A key report on internet use in remote communities
 produced by the Australian Communications and Media Authority (the
 communications regulator), published in 2008, relied heavily on this
 data. Telstra’s Telecommunications Action Plan for Remote Indigenous
@@ -1029,18 +1029,18 @@ their study of first encounters with the internet in remote
 social context more decisive in any action or decision’, and digital
 inclusion is a process that involves ‘multiple dimensions such as
 technological access, skills, different uses, social contexts and
-support’.[^52]
+support’.[^05-part1_52]
 
 Tim Rowse has observed that, when used in policy contexts, statistics
 can create a ‘regime of truth’ that overrides the lived realities and
-dynamics of remote communities.[^53] Economist Amartya Sen makes a
-similar point in relation to social exclusion.[^54] Exclusion, he
+dynamics of remote communities.[^05-part1_53] Economist Amartya Sen makes a
+similar point in relation to social exclusion.[^05-part1_54] Exclusion, he
 argues, needs to be understood in terms of the causal process, which
 requires an understanding of the social context. Sen’s capabilities
 approach is a useful framework for considering the digital divide, as it
 asks what substantive freedoms people possess given the constraints
 placed upon them, and about their ability to enact the outcomes that
-they value.[^55] We found that particular deprivations can be difficult
+they value.[^05-part1_55] We found that particular deprivations can be difficult
 to understand when encountering individuals in remote communities when
 no background information is available. For instance, on an early visit,
 we asked a man if he was living in the community, and whether he was
@@ -1056,12 +1056,12 @@ decision to visit relatives is different to not being able to afford
 accommodation, or being excluded from a public housing register. As Sen
 writes, ‘The issue, ultimately, is what freedom does a person have –
 everything considered. It should come as no surprise that a person’s
-deprivation can have diverse origins and may take disparate forms’.[^56]
+deprivation can have diverse origins and may take disparate forms’.[^05-part1_56]
 
 For Rowse, the appropriate unit of analysis is not comparison between
 statistically identifiable groups, but an understanding of how a group
 of people in a particular place is ‘doing well or doing badly in ways
-that are specific to region and cultural heritage’.[^57] Although we
+that are specific to region and cultural heritage’.[^05-part1_57] Although we
 were not able to conduct a nationwide investigation of internet in
 remote communities, in conducting our qualitative research on the three
 outstations (complemented by two case study investigations in two larger
@@ -1098,7 +1098,7 @@ providing insight into complex social dynamics. In the field of
 education technology, some studies have attempted experimental research
 using randomized controlled trials, whereby the intervention is applied
 to a statistically significant group, selected randomly, and compared to
-a non-treatment group.[^58] Such approaches seek to show definitively if
+a non-treatment group.[^05-part1_58] Such approaches seek to show definitively if
 an intervention works, and can provide strong evidence that can be used
 to support and justify particular policy responses. Large randomized
 controlled trials still require qualitative research in order to
@@ -1116,13 +1116,13 @@ consulted with community members, at which time the elders agreed to the
 project. During our early meetings with the communities, we carefully
 documented their prior use of ICTs, and tried to ascertain what they
 perceived to be the barriers to ICT uptake, and the opportunities
-available through having computers and internet access (see below).[^59]
+available through having computers and internet access (see below).[^05-part1_59]
 In the second phase, from 2011, we monitored the issues as they
 unfolded, and carried out research in two larger communities in order to
 compare home internet with other types of access. CAT provided a total
 of twenty computers and associated satellite services connecting all
 computers to the internet in Kwale Kwale (four), Mungalawurru (five) and
-Imangara (eleven).[^60] Aside from the research field trips, CAT
+Imangara (eleven).[^05-part1_60] Aside from the research field trips, CAT
 researchers also carried out regular ICT training and maintenance
 support in the communities for two years from the commissioning of the
 facilities. In the mid-phase of the project, we extracted usage data
@@ -1188,7 +1188,7 @@ Indigenous organizations in collaboration with researchers.
 
 Development communications (or ‘communications for development’ or
 ‘development for social change’) has a long history that we do not have
-space to recount here.[^61] The practice of development communications
+space to recount here.[^05-part1_61] The practice of development communications
 generally involves an external agency operating within a situation of
 need, where this role cannot be performed by the community, or by the
 government agencies charged with serving it. These projects are based on
@@ -1203,29 +1203,29 @@ overcome structural and political inequalities.
 ICT4D is a variant on development communication, in that it moves away
 from development as merely an outside aid program, to something that
 could be entrepreneurial and work in harmony with corporate and national
-economic aspirations.[^62] ICT4D has a tendency to assume that ICT is
+economic aspirations.[^05-part1_62] ICT4D has a tendency to assume that ICT is
 inherently ‘meta-enabling technology that will bypass all institutional
 and infrastructural obstacles’, providing unlimited opportunities for
-social and economic development.[^63] Those at the ‘bottom of the
+social and economic development.[^05-part1_63] Those at the ‘bottom of the
 pyramid’ are assisted to improve their circumstances through online
 engagement and enterprise. Early iterations of ICT4D argued in favor of
 shared facilities, which were considered to ‘take advantage of economies
 of scope’, as they aggregated demand across an entire community, ‘thus
 reducing costs, while increasing traffic and helping to integrate the
-facility into the social fabric of the community’.[^64]
+facility into the social fabric of the community’.[^05-part1_64]
 
 Faye Ginsburg has critiqued the ‘neo-developmental’ logic of the digital
 divide framework generally, arguing that Indigenous peoples in
 particular are often depicted as ‘waiting, endlessly, to catch up to the
-privileged West’ on the technological front.[^65] Traditional peoples
+privileged West’ on the technological front.[^05-part1_65] Traditional peoples
 are thus treated as existing in a separate time, not just place, from
 the mainstream. As Mazzarella points out, the ‘insistence that computers
 come later’ perpetuates the assumption that technology should be
 evaluated in terms of a hierarchy of needs that can be known in
-advance.[^66] He asks, ‘What if the power of a medium is as much
+advance.[^05-part1_66] He asks, ‘What if the power of a medium is as much
 performative as it is functional – that is to say, what if it brings
 about its effects as much through the desires people invest in it as
-through its ability to deliver predefined utilities?’[^67]
+through its ability to deliver predefined utilities?’[^05-part1_67]
 
 Mazzarella’s question is important. As explored in Chapter 1, overcoming
 Indigenous disadvantage has been a contentious and highly politicized
@@ -1244,9 +1244,9 @@ alternative community phone project that provided over 250 pay phones to
 remote communities. The phone operated with pre-paid cards, and was
 built from the electronic components of readily available domestic
 Telstra phones to enable cheap and easy replacement, encased in a
-stainless steel shell that protected it from damage.[^68] The CAT phone
+stainless steel shell that protected it from damage.[^05-part1_68] The CAT phone
 became known as the ‘NED phone’ due to its likeness to Ned Kelly’s
-armor.[^69] During the period within which the home internet trial took
+armor.[^05-part1_69] During the period within which the home internet trial took
 place, other Indigenous organizations, including the Indigenous Remote
 Communications Association and its member groups, were striving to bring
 their board members into the NBN debate, and building knowledge and
@@ -1265,12 +1265,12 @@ together with local leaders, have carried out these experiments, aided
 (and in some cases generated) by non-Indigenous workers from the
 education and media sectors. The enterprises and infrastructures of
 remote media and communications have thus arisen from two cultural
-traditions operating together within the one settler state.[^70] This is
+traditions operating together within the one settler state.[^05-part1_70] This is
 not to say that our presence in the communities was unproblematic – for
 us or the residents – but only to recognize, as Melinda Hinkson writes,
 that the sometimes-uneasy coming together of two traditions is the
 ground upon which the Indigenous communications industry has been
-built.[^71]
+built.[^05-part1_71]
 
 ### Prior Experience with the Internet
 
@@ -1310,7 +1310,7 @@ to participate in conversations, but wanted to know how that worked.
 As discussed in later chapters, there was significant interest in
 getting computers, primarily for kids’ schooling, entertainment, and some cultural and enterprise activities. However, there were also
 significant doubts around affordability, the security of the equipment
-and language barriers.[^72] As the few individuals who owned a computer,
+and language barriers.[^05-part1_72] As the few individuals who owned a computer,
 or had owned one in the past, were conscious of who they allowed to use
 the computer, these computers were not necessarily available to others.
 One young man kept his laptop locked away when he was not using it.
@@ -1363,7 +1363,7 @@ Infrastructure is relational, in that different actors can have a very
 different experience of it, whereby one person’s infrastructure is
 another’s obstacle. Sandvig gives the example of a staircase, which is a
 means of passage for most, but a barrier for someone in a
-wheelchair.[^73] Moreover, infrastructure is not just the hardware and
+wheelchair.[^05-part1_73] Moreover, infrastructure is not just the hardware and
 technicalities, but also the rules, pricing and players that determine
 who gets to use it. Communications infrastructure is thus tied up in
 human experience, and evolves through planning, regulation, markets and
@@ -1378,7 +1378,7 @@ communities, installation began. During our initial scoping of the
 project, we made the decision to provide internet in the most
 cost-effective way, on the principle that whatever system we installed
 would be the most affordable for the communities should they choose to
-continue to keep the internet when the funding ran out.[^74]
+continue to keep the internet when the funding ran out.[^05-part1_74]
 Unfortunately, our low-cost model meant that we were providing limited
 download capacity and speeds, but we felt that this was better than
 providing the communities with services that would be expensive for them
@@ -1448,7 +1448,7 @@ available plans, especially the need for one with a high-speed quota,
 because there would be several computers sharing the service. The
 service we chose was also ‘shaped’ to ensure that once the monthly quota
 was used up, there would be slow-speed residual access to the internet,
-but no additional charges would accrue.[^75] By shaping the services, we
+but no additional charges would accrue.[^05-part1_75] By shaping the services, we
 avoided a situation where one or more computers might monopolize the
 internet quota, by spreading the overall usage over the full billing
 month period, preventing the quota being used up prematurely. However,
@@ -1563,7 +1563,7 @@ politely refused. However, the issue of space did not turn out to be a
 major problem for most households. We found the rooms in the larger
 houses were sparse, possibly reflecting the fact that occupancy varied
 often, and that individuals did not necessarily lay claim to particular
-bedrooms.[^76] In most cases, the residents opted to place the computer
+bedrooms.[^05-part1_76] In most cases, the residents opted to place the computer
 table in the most spacious room – the main living room at the front of
 the house. A handful of residents decided to put the computer table in a
 bedroom.
@@ -1603,7 +1603,7 @@ computers had been lost or taken out of the community. For comparison, a
 study of computers in offices conducted by an American commercial
 research company revealed that three and a half computers would
 typically fail in a twenty-five-month period (see Table 3 in Appendix 2
-and Crouch 2014 for a full account).[^77]
+and Crouch 2014 for a full account).[^05-part1_77]
 
 Computer accessories, such as headsets, mice, keyboards, cover padlocks
 and power boards did not fare as well, being comparatively vulnerable to
@@ -1647,30 +1647,30 @@ particular events impacted on computer use and ownership, including
 travel, moving house and death. We also discuss who used the computers
 the most, and what they were used for.
 
-[^1]: L. Fitzgerald, ‘New 3G Network Falls Short for Stations and
+[^05-part1_1]: L. Fitzgerald, ‘New 3G Network Falls Short for Stations and
     Communities Near Barrow Creek, Northern Territory’,
     http://www.abc.net.au/news/2014-08-25/barrow-creek-3g-network-lacking/5693386.
 
-[^2]: Fitzgerald, ‘New 3G Network Falls Short for Stations and
+[^05-part1_2]: Fitzgerald, ‘New 3G Network Falls Short for Stations and
     Communities Near Barrow Creek, Northern Territory’.
 
-[^3]: See L. Tingle, *Political Amnesia: How We Forgot How to Govern*,
+[^05-part1_3]: See L. Tingle, *Political Amnesia: How We Forgot How to Govern*,
     Quarterly Essay*,* Melbourne: Black Inc., 2015, p. 32.
 
-[^4]: Commonwealth of Australia, ‘Budget: Indigenous Partnerships’,
+[^05-part1_4]: Commonwealth of Australia, ‘Budget: Indigenous Partnerships’,
     http://www.budget.gov.au/2005-06/ministerial/html/dotars-12.htm.
 
-[^5]: H. Raiche, ‘Universal Communications in a Broadband World: Working
+[^05-part1_5]: H. Raiche, ‘Universal Communications in a Broadband World: Working
     Paper’, Inaugural Australian Communications Consumer Action Network
     (ACCAN) Conference, Melbourne, 2010; McElhinney, ‘Telecommunications Liberalisation and the Quest for
     Universal Service in Australia’.
 
-[^6]: E. Rennie and J. Potts, ‘Auction Subsidies and the Universal
+[^05-part1_6]: E. Rennie and J. Potts, ‘Auction Subsidies and the Universal
     Service Obligation: The Case for Remote Indigenous Communities’,
     Submission to the Regional Telecommunications Independent Review
     (RTIRC), 2015, http://www.rtirc.gov.au/submissions/.
 
-[^7]: Some have speculated that the current twenty-year USO contract
+[^05-part1_7]: Some have speculated that the current twenty-year USO contract
     between the Commonwealth and Telstra was arrived at to secure
     Telstra’s existing infrastructure for the NBN, exposing the
     vulnerability of the USO to manipulation (it is awarded by
@@ -1683,55 +1683,55 @@ the most, and what they were used for.
     2015: Submission by Vodafone Hutchison Australia’, 2015,
     http://www.rtirc.gov.au/submissions/.
 
-[^8]: Regional Telecommunications Independent Review Committee (RTIRC),
+[^05-part1_8]: Regional Telecommunications Independent Review Committee (RTIRC),
     *Regional Telecommunications Review 2015: Unlocking the Potential in
     Regional Australia,* Canberra: Commonwealth of Australia, 2015, p.
     21.
 
-[^9]: Commonwealth of Australia, ‘Budget Paper No. 2: Expense Measures:
+[^05-part1_9]: Commonwealth of Australia, ‘Budget Paper No. 2: Expense Measures:
     A New Remote Indigenous Housing Strategy’,
     http://www.budget.gov.au/2015-16/content/bp2/html/bp2\_expense-19.htm.
 
-[^10]: Daly, *Bridging the Digital Divide*.
+[^05-part1_10]: Daly, *Bridging the Digital Divide*.
 
-[^11]: Rennie et al., ‘Beyond Public Access?’.
+[^05-part1_11]: Rennie et al., ‘Beyond Public Access?’.
 
-[^12]: Peter Farr Consultants Australasia, *Connecting Our Communities:
+[^05-part1_12]: Peter Farr Consultants Australasia, *Connecting Our Communities:
     Sustainable Networking Strategies for Australian Remote Indigenous
     Communities,* Canberra: Department of Communications, Information
     Technology and the Arts, 2003.
 
-[^13]: Regional Telecommunications Inquiry, *Connecting Regional
+[^05-part1_13]: Regional Telecommunications Inquiry, *Connecting Regional
     Australia,* Canberra: Department of Communications, Information
     Technology and the Arts, 2002.
 
-[^14]: RTIRC, *Regional Telecommunications Review 2015: Unlocking the
+[^05-part1_14]: RTIRC, *Regional Telecommunications Review 2015: Unlocking the
     Potential in Regional Australia,* Canberra: Commonwealth of
     Australia, 2015.
 
-[^15]: C.A. Blanchard, *Return to Country: The Aboriginal Homelands
+[^05-part1_15]: C.A. Blanchard, *Return to Country: The Aboriginal Homelands
     Movement in Australia,* Canberra: The House of Representatives
     Standing Committee on Aboriginal Affairs, 1987.
 
-[^16]: R. McGregor, *Indifferent Inclusion: Aboriginal People and the
+[^05-part1_16]: R. McGregor, *Indifferent Inclusion: Aboriginal People and the
     Australian Nation*, Canberra: Aboriginal Studies Press, 2011, p.
     171.
 
-[^17]: B. Beadman, ‘“A Tortuous Trail”: Bob Beadman’s Short History of
+[^05-part1_17]: B. Beadman, ‘“A Tortuous Trail”: Bob Beadman’s Short History of
     Outstations’*,*
     http://aliceonline.com.au/2011/10/17/a-tortuous-trail-bob-beadmans-short-history-of-outstations/.
 
-[^18]: Amnesty International, *The Land Holds Us: Aboriginal Peoples’
+[^05-part1_18]: Amnesty International, *The Land Holds Us: Aboriginal Peoples’
     Right to Traditional Homelands in the Northern Territory,* Broadway, NSW: Amnesty International, 2011, p. 13.
 
-[^19]: Blanchard, *Return to Country*.
+[^05-part1_19]: Blanchard, *Return to Country*.
 
-[^20]: Northern Territory Department of Education, ‘Enrolment and
+[^05-part1_20]: Northern Territory Department of Education, ‘Enrolment and
     Attendance Statistics’,
     http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics,
     p. 1.
 
-[^21]: J. Altman, *In Search of an Outstations Policy for Indigenous
+[^05-part1_21]: J. Altman, *In Search of an Outstations Policy for Indigenous
     Australians,* Canberra: Centre for Aboriginal Economic Policy
     Research, 2006; See also: E. Kowal, ‘Is Culture the Problem or the Solution?
     Outstation Health and the Politics of Remoteness’ in J. Altman and
@@ -1739,11 +1739,11 @@ the most, and what they were used for.
     Aboriginal Australia*, Sydney: University of New South Wales Press,
     2010.
 
-[^22]: Indigenous Housing and Infrastructure Branch of the Department of
+[^05-part1_22]: Indigenous Housing and Infrastructure Branch of the Department of
     Family and Community Services, *Review of the National Homelands
     Policy: Stage One,* Centre for Appropriate Technology, 2004, p. iv.
 
-[^23]: While the resourcing of remote communities and services has
+[^05-part1_23]: While the resourcing of remote communities and services has
     largely been managed at the state level, outstation funding had
     remained with the Commonwealth when the Northern Territory
     government was formed in 1978. The Commonwealth retained
@@ -1751,147 +1751,147 @@ the most, and what they were used for.
     Territory government (CLP at the time) might be hostile to the
     intentions of land rights.
 
-[^24]: For instance: Beadman, ‘“A Tortuous Trail”’.
+[^05-part1_24]: For instance: Beadman, ‘“A Tortuous Trail”’.
 
-[^25]: P. Mares, ‘Homeland Security: NT Indigenous Affairs Minister
+[^05-part1_25]: P. Mares, ‘Homeland Security: NT Indigenous Affairs Minister
     Outlines Policy’,
     http://www.abc.net.au/radionational/programs/nationalinterest/homeland-security-nt-indigenous-affairs-minister/3147812\#transcript; See also: Altman, *In Search of an Outstations Policy for Indigenous
     Australians*; S. Kerins, *The First-Ever Northern Territory Homelands/Outstations
     Policy*, CAEPR Topical Issue No. 09/2009, Canberra: ANU Centre for
     Aboriginal Economic Policy Research, 2009.
 
-[^26]: A. Vanstone, ‘Beyond Conspicuous Compassion: Indigenous
+[^05-part1_26]: A. Vanstone, ‘Beyond Conspicuous Compassion: Indigenous
     Australians Deserve More Than Good Intentions’, Address to the
     Australia and New Zealand School of Government, Australian National
     University, Canberra, 7 December 2005; H. Hughes, *Lands of Shame: Aboriginal and Torres Strait Islander
     ‘Homelands’ in Transition,* Sydney: Centre for Independent Studies,
     2007.
 
-[^27]: G. Johns, *No Job No House: An Economically Strategic Approach to
+[^05-part1_27]: G. Johns, *No Job No House: An Economically Strategic Approach to
     Remote Aboriginal Housing,* Canberra: The Menzies Research Centre,
     2009.
 
-[^28]: Imangara’s housing was upgraded under this arrangement.
+[^05-part1_28]: Imangara’s housing was upgraded under this arrangement.
 
-[^29]: The number 423 includes 348 outstations, forty-five town camps
+[^05-part1_29]: The number 423 includes 348 outstations, forty-five town camps
     and thirty larger communities (who remain on the outstation funding list
     as legacy from previous funding arrangements by the Commonwealth).
 
-[^30]: M. Moran, ‘The Viability of "Hub" Settlements’, *Dialogue* 29.1
+[^05-part1_30]: M. Moran, ‘The Viability of "Hub" Settlements’, *Dialogue* 29.1
     (2010).
 
-[^31]: Kerins, *The First-Ever Northern Territory Homelands/Outstations
+[^05-part1_31]: Kerins, *The First-Ever Northern Territory Homelands/Outstations
     Policy*, p. 5.
 
-[^32]: R. Grey-Gardner and M. Young, *Utopia Homelands Project: Lessons
+[^05-part1_32]: R. Grey-Gardner and M. Young, *Utopia Homelands Project: Lessons
     from Experience,* Centre for Appropriate Technology, Urapuntja
     Aboriginal Corporation and the Australian Government Department of
     Prime Minister and Cabinet, 2014, p. 4.
 
-[^33]: W. Sanders. *Working Future: A Critique of Policy by Numbers,*
+[^05-part1_33]: W. Sanders. *Working Future: A Critique of Policy by Numbers,*
     Canberra: ANU Centre for Aboriginal Economic Policy Research, 2010.
 
-[^34]: Rennie et al., *Home Internet for Remote Indigenous Communities*.
+[^05-part1_34]: Rennie et al., *Home Internet for Remote Indigenous Communities*.
 
-[^35]: K.W. Seemann, M. Parnell, S. McFallan and S. Tucker, *Housing for
+[^05-part1_35]: K.W. Seemann, M. Parnell, S. McFallan and S. Tucker, *Housing for
     Livelihoods: The Lifecycle of Housing and Infrastructure Through a
     Whole-of-System Approach in Remote Aboriginal Settlements,* Vol. 29,
     Alice Springs: Desert Knowledge CRC, 2008.
 
-[^36]: R. Grey-Gardner and M. Young, *Utopia Homelands Project: Lessons
+[^05-part1_36]: R. Grey-Gardner and M. Young, *Utopia Homelands Project: Lessons
     from Experience*, p. 10.
 
-[^37]: For a detailed description, see: A. Crouch, *Home
+[^05-part1_37]: For a detailed description, see: A. Crouch, *Home
     Internet for Remote Indigenous Communities: Technical Report,* Alice
     Springs: Centre for Appropriate Technology, 2014.
 
-[^38]: US Department of Commerce, *A Nation Online: How Americans Are
+[^05-part1_38]: US Department of Commerce, *A Nation Online: How Americans Are
     Expanding Their Use of the Internet*, Economics and Statistics
     Administration and National Telecommunications and Information
     Administration, 2002, p. 2.
 
-[^39]: N. Selwyn, ‘Reconsidering Political and Popular Understandings of
+[^05-part1_39]: N. Selwyn, ‘Reconsidering Political and Popular Understandings of
     the Digital Divide’, *New Media & Society* 6.3 (2004): 345.
 
-[^40]: J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
+[^05-part1_40]: J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
     Dynamic Phenomenon’, *The Information Society* 19.4 (2003); P. DiMaggio and E. Hargittai, ‘From the “Digital Divide” to “Digital
     Inequality”: Studying Internet Use as Penetration Increases’
     *Princeton Center for Arts and Cultural Policy Studies* 4.1 (2001):
     4-2.
 
-[^41]: Selwyn, ‘Reconsidering Political and Popular Understandings of
+[^05-part1_41]: Selwyn, ‘Reconsidering Political and Popular Understandings of
     the Digital Divide’: 346.
 
-[^42]: M. Warschauer, ‘Dissecting the “Digital Divide”: A Case Study in
+[^05-part1_42]: M. Warschauer, ‘Dissecting the “Digital Divide”: A Case Study in
     Egypt’, *The Information Society* 194 (2003): 297-304; P. Norris, ‘The Worldwide Digital Divide’, Annual Meeting of the
     Political Studies Association of the UK, London School of Economics
     and Political Science, 2000.
 
-[^43]: E. Helsper, *Digital Inclusion: An Analysis of Social
+[^05-part1_43]: E. Helsper, *Digital Inclusion: An Analysis of Social
     Disadvantage and the Information Society,* London, UK: Department
     for Communities and Local Government, 2008, p. 8.
 
-[^44]: For a useful overview, see E. Helsper, A. Van Deursen and R.
+[^05-part1_44]: For a useful overview, see E. Helsper, A. Van Deursen and R.
     Eynon, *Tangible Outcomes of Internet Use: From Digital Skills to
     Tangible Outcomes Project Report,* Oxford Internet Institute,
     University of Twente and London School of Economics and Political
     Science, 2015.
 
-[^45]: Such as: S. Livingstone and E. Helsper, ‘Gradations in Digital
+[^05-part1_45]: Such as: S. Livingstone and E. Helsper, ‘Gradations in Digital
     Inclusion: Children, Young People and the Digital Divide’, *New
     Media & Society* 9.4 (2007).
 
-[^46]: E.M. Rogers, *Diffusion of Innovations,* 5th edition, New York:
+[^05-part1_46]: E.M. Rogers, *Diffusion of Innovations,* 5th edition, New York:
     Free Press, 2003; K.E. Pearce and R.E. Rice, ‘Digital Divides from Access to
     Activities: Comparing Mobile and Personal Computer Internet Users’,
     *Journal of Communication* 63.4 (2013).
 
-[^47]: A. Van Deursen, J. Van Dijk, and P.M. Ten Klooster, ‘Increasing
+[^05-part1_47]: A. Van Deursen, J. Van Dijk, and P.M. Ten Klooster, ‘Increasing
     Inequalities in What We Do Online: A Longitudinal Cross Sectional
     Analysis of Internet Activities Among the Dutch Population (2010 to
     2013) over Gender, Age, Education, and Income’, *Telematics and
     Informatics* 32.2 (2015): 259.
 
-[^48]: E. Helsper, ‘A Corresponding Fields Model for the Links Between
+[^05-part1_48]: E. Helsper, ‘A Corresponding Fields Model for the Links Between
     Social and Digital Exclusion’, *Communication Theory* 22.4 (2012).
 
-[^49]: ARC Centre of Excellence for Creative Industries and Innovation,
+[^05-part1_49]: ARC Centre of Excellence for Creative Industries and Innovation,
     ‘World Internet Project (Australia)’,
     http://www.cci.edu.au/projects/world-internet-project-australia; See also: Australian Communications and Media Authority,
     *Communications Report 2012-13*, Canberra: Commonwealth of
     Australia, 2013.
 
-[^50]: R. Morsillo, ‘Affordable Broadband for All Australians’,
+[^05-part1_50]: R. Morsillo, ‘Affordable Broadband for All Australians’,
     *Telecommunications Journal of Australia* 62.5 (2012): 78.1-78.16; S. Ewing and J. Thomas, *The Internet in Australia*, Brisbane: ARC
     Centre of Excellence for Creative Industries and Innovation, 2010.
 
-[^51]: Administered by the former Department of Families, Housing,
+[^05-part1_51]: Administered by the former Department of Families, Housing,
     Community Services and Indigenous Affairs (FaHCSIA).
 
-[^52]: T. Correa and I. Pavez, ‘Digital Inclusion in Rural Areas: A
+[^05-part1_52]: T. Correa and I. Pavez, ‘Digital Inclusion in Rural Areas: A
     Qualitative Exploration of Challenges Faced by People from Isolated
     Communities’, International Communications Association Conference,
     San Juan, 2015, p. 5.
 
-[^53]: T. Rowse, ‘Re-Figuring “Indigenous Culture”’ in J. Altman and M.
+[^05-part1_53]: T. Rowse, ‘Re-Figuring “Indigenous Culture”’ in J. Altman and M.
     Hinkson (eds) *Culture Crisis: Anthropology and Politics in
     Aboriginal Australia*, Sydney: University of New South Wales Press,
     2010, p. 157.
 
-[^54]: A. Sen, *Social Exclusion: Concept, Application, and Scrutiny,*
+[^05-part1_54]: A. Sen, *Social Exclusion: Concept, Application, and Scrutiny,*
     Manila: Asian Development Bank, 2000.
 
-[^55]: Sen, *Social Exclusion*; M. Nussbaum, ‘Capabilities as Fundamental Entitlements: Sen and
+[^05-part1_55]: Sen, *Social Exclusion*; M. Nussbaum, ‘Capabilities as Fundamental Entitlements: Sen and
     Social Justice’, *Feminist Economics* 9.2-3 (2003); J. Bath and N. Biddle, ‘Measures of Indigenous Wellbeing and Their
     Determinants Across the Life Course’, CAEPR Lecture Series, The
     Australian National University, 2011.
 
-[^56]: Sen, *Social Exclusion*,
+[^05-part1_56]: Sen, *Social Exclusion*,
     p. 29.
 
-[^57]: Rowse, ‘Re-Figuring “Indigenous Culture”’, p. 156.
+[^05-part1_57]: Rowse, ‘Re-Figuring “Indigenous Culture”’, p. 156.
 
-[^58]: K.L. Kraemer, J. Dedrick and P. Sharma, ‘One Laptop
+[^05-part1_58]: K.L. Kraemer, J. Dedrick and P. Sharma, ‘One Laptop
     Per Child: Vision Vs. Reality’, *Communications of the ACM* 52.6
     (2009): 66-73; D.W. Grissmer, R.F. Subotnik, and M. Orland, *A Guide to
     Incorporating Multiple Methods in Randomized Controlled Trials to
@@ -1900,65 +1900,65 @@ the most, and what they were used for.
     Rethinking of the Way to Fight Global Poverty*, New York: Public
     Affairs (2011).
 
-[^59]: Rennie et al., *Home Internet for Remote Indigenous Communities*.
+[^05-part1_59]: Rennie et al., *Home Internet for Remote Indigenous Communities*.
 
-[^60]: With funding from the Aboriginals Benefits Account (ABA).
+[^05-part1_60]: With funding from the Aboriginals Benefits Account (ABA).
 
-[^61]: See F. Enghel and K. Wilkins, ‘Communication, Media and
+[^05-part1_61]: See F. Enghel and K. Wilkins, ‘Communication, Media and
     Development: Problems and Perspectives’, *Nordicom Review* 33
     (Special Issue) (2012); J. Servaes, ‘Introduction’ in J. Servaes (ed.) *Communication for
     Development and Social Change,* New Delhi: Sage, 2008.
 
-[^62]: P. Chakravartty, ‘Rebranding Development Communications in
+[^05-part1_62]: P. Chakravartty, ‘Rebranding Development Communications in
     Emergent India’, *Nordicom Review* 33 (Special Issue) (2012).
 
-[^63]: T.T. Sreekumar and M. Rivera–Sánchez, ‘ICTs and Development: Revisiting the Asian Experience’, *Science Technology & Society*
+[^05-part1_63]: T.T. Sreekumar and M. Rivera–Sánchez, ‘ICTs and Development: Revisiting the Asian Experience’, *Science Technology & Society*
     13.2 (2008): 165.
 
-[^64]: M.L. Best and C.M. Maclay, ‘Community Internet Access in Rural
+[^05-part1_64]: M.L. Best and C.M. Maclay, ‘Community Internet Access in Rural
     Areas: Solving the Economic Sustainability Puzzle’, in G.S.
     Kirkman, P.K. Cornelius, J.D. Sachs and K. Schwab (eds) *The
     Global Information Technology Report: Readiness for the Networked
     World*, Oxford: Oxford University Press, 2002, p. 83.
 
-[^65]: F. Ginsburg, ‘Rethinking the Digital Age’ in D. Hesmondhalgh and J. Toynbee, *The Media and Social Theory*, New York: Routledge, 2008, pp. 129-44. 
+[^05-part1_65]: F. Ginsburg, ‘Rethinking the Digital Age’ in D. Hesmondhalgh and J. Toynbee, *The Media and Social Theory*, New York: Routledge, 2008, pp. 129-44. 
 
-[^66]: W. Mazzarella, ‘Beautiful Balloon: The Digital Divide and the
+[^05-part1_66]: W. Mazzarella, ‘Beautiful Balloon: The Digital Divide and the
     Charisma of New Media in India’, *American Ethnologist* 37.4 (2010).
 
-[^67]: Mazzarella. ‘Beautiful Balloon’.
+[^05-part1_67]: Mazzarella. ‘Beautiful Balloon’.
 
-[^68]: See A. Crouch, ‘The Community Phone Project: An Overview’, DKCRC
+[^05-part1_68]: See A. Crouch, ‘The Community Phone Project: An Overview’, DKCRC
     Working Paper 46, Alice Springs: Desert Knowledge CRC, 2009.
 
-[^69]: The CAT phones project was replaced with the solar and satellite
+[^05-part1_69]: The CAT phones project was replaced with the solar and satellite
     community phones operated by Australian Private Networks from 2009
     (see Chapter 9).
 
-[^70]: See P. Batty, *Governing Cultural Difference: The Incorporation
+[^05-part1_70]: See P. Batty, *Governing Cultural Difference: The Incorporation
     of the Aboriginal Subject into the Mechanisms of Government with
     Reference to the Development of Aboriginal Radio and Television in
     Central Australia,* Adelaide: University of South Australia, 2003; M. Hinkson, ‘What's in a Dedication? On Being a Warlpiri DJ’, *The
     Australian Journal of Anthropology* 15.2 (2004).
 
-[^71]: Hinkson, ‘What's in a Dedication?’:110.
+[^05-part1_71]: Hinkson, ‘What's in a Dedication?’:110.
 
-[^72]: Rennie et al., ‘At Home on the Outstation’.
+[^05-part1_72]: Rennie et al., ‘At Home on the Outstation’.
 
-[^73]: C. Sandvig, ‘The Internet as an Infrastructure’ in W.H. Dutton
+[^05-part1_73]: C. Sandvig, ‘The Internet as an Infrastructure’ in W.H. Dutton
     (ed.) *The Oxford Handbook of Internet Studies*, Oxford:
     Oxford University Press, 2013, p. 92.
 
-[^74]: Funding from the Aboriginals Benefit Account.
+[^05-part1_74]: Funding from the Aboriginals Benefit Account.
 
-[^75]: Essentially, all the computers on each service in the communities
+[^05-part1_75]: Essentially, all the computers on each service in the communities
     shared 17GB per month at full speed (up to 4Mbps), split between
     morning (12GB) and afternoon/evening (5GB), after which the speed
     dropped to a much slower speed, comparable to dial-up (64Kbps).
 
-[^76]: Y. Musharbash, *Yuendumu Everyday: Contemporary Life in Remote
+[^05-part1_76]: Y. Musharbash, *Yuendumu Everyday: Contemporary Life in Remote
     Aboriginal Australia*, Canberra: Aboriginal Studies Press, 2009.
 
-[^77]: Lenovo, ‘TBR Quality Project’,
+[^05-part1_77]: Lenovo, ‘TBR Quality Project’,
     http://www.partnerinfo.lenovo.com/partners/us/products/downloads/thinkcentre-mseries/TBR-Quality-Study-ExecSummary.pdf; Crouch, *Home Internet for Remote Indigenous Communities: Technical
     Report.*

@@ -125,9 +125,16 @@
 		</CompositeFontEntry>
 	</CompositeFont>
 	<RootCharacterStyleGroup Self="u65">
-		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default" FontStyle="Regular">
 			<Properties>
 				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Superscript" Imported="false" KeyboardShortcut="0 0" Name="Superscript" Position="Superscript">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
@@ -139,6 +146,12 @@
 			</Properties>
 		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Style de caractère 1" Imported="false" KeyboardShortcut="0 0" Name="Style de caractère 1" HorizontalScale="100" BaselineShift="0" VerticalScale="100" Skew="0">
 			<Properties>
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -166,6 +179,12 @@
 				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
+				<AllGREPStyles type="list">
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/Style de caractère 1</AppliedCharacterStyle>
+						<GrepExpression type="string">\d</GrepExpression>
+					</ListItem>
+				</AllGREPStyles>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/#989c96" PointSize="10" Capitalization="AllCaps" SpaceBefore="8.503937007874017" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline">
@@ -241,10 +260,10 @@
 				<Br/>
 				<Content>Some months after that trip, in 2014, Barrow Creek received mobile phone coverage as part of a public-private partnership blackspots program to extend mobile coverage and internet access to remote communities. Telstra, the private partner, issued a statement saying that the site was chosen partly for its proximity to fiber optic cable. The Northern Territory government stated that the tower was to serve highway and wayside coverage, rather than to service nearby Aboriginal communities and a school, which remained outside of the coverage area.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -253,15 +272,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Barrow Creek mobile story illustrates the complexities of communications infrastructure provision in remote areas: the cost imperative (in this instance related to the use of existing infrastructure), and the different needs of various population groups, which include the ‘grey nomad’ campervan tourists who travel the Stuart Highway, service providers, and Aboriginal communities. The ABC quoted a resident of Tara, a small community near Barrow Creek, who had purchased a mobile phone in anticipation of being able to ring her daughter in Alice Springs from home: ‘I&apos;m sad for us [because] I turned it on and it didn&apos;t switch on’, said Selma Thompson. ‘It was a waste’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -270,6 +291,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -277,10 +300,10 @@
 				<Br/>
 				<Content>This chapter discusses the policy contexts of the problem. Policy matters because governments have defined, regulated and largely funded the communications sector in remote Australia, and because governments continue to play a paternalistic role, albeit a contested one, in Indigenous citizens’ lives. But these two policy registers – communications and Indigenous affairs – have very different histories, institutional settings and policy languages. Communications has been a core Commonwealth responsibility, and a reasonably important agency, under different guises, since Federation. Despite many large changes in structure and policy, this is a field where the Commonwealth has long been certain of its role. Indigenous affairs, by contrast, is a much more difficult, arduous and wicked problem, which has involved continuing inter governmental skirmishes as to the division of responsibilities. Unlike with communications, the Commonwealth’s work in Indigenous affairs has failed to find any ongoing institutional location, with successive shifts from a dedicated department to the Indigenous-elected Aboriginal and Torres Strait Islander Commission (ATSIC), an element within social services, and most recently an anomalous, operational wing of the Prime Minister’s department. Far from heralding the progress of Indigenous affairs to the center of national public administration, these migrations signal a volatile history of reversals and revisions, where a lack of governmental confidence is reflected above all in the scant regard paid to domain expertise, experience or memory.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -301,6 +324,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -330,10 +355,10 @@
 				<Br/>
 				<Content>More targeted programs have focused on remote Indigenous community needs. The Telecommunications Action Plan for Remote Indigenous Communities (TAPRIC) (2002), Backing Indigenous Ability (2007–2010) and the successor Indigenous Communications Program (ICP) funded community projects. Much of the funding in these programs was dedicated to the provision of public payphones. According to the 2005–2006 Budget, TAPRIC’s initiatives sought ‘to overcome a number of complex logistical and social factors affecting the provision of basic telephone services in remote Indigenous communities’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -350,10 +375,10 @@
 				<Br/>
 				<Content>The USO has been an ongoing topic of debate in Australia, particularly in regard to its impact on competition, what should be included in the USO, and its susceptibility to political interests.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -370,10 +395,10 @@
 				<Br/>
 				<Content>Second, the STS is conceived in terms of specific technologies and services, which are of diminishing relevance everywhere, and especially in remote Australia.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -388,10 +413,10 @@
 				<Br/>
 				<Content>The election of the Rudd Labor government in 2007 marked a shift away from the cycle of end-user subsidy schemes towards a more ambitious rethinking of Australia’s communications system. The NBN was conceived as a universally accessible high-speed network that would ensure Australia’s place in the future ‘digital economy’. It was intended as a general solution to regional and remote disadvantage, through a uniform pricing structure and advanced satellite and fixed wireless services for those households and premises beyond the reach of viable fiber infrastructure. But the network also embodied a micro-economic reform agenda, with NBN’s neutral wholesale role taking over from Telstra’s compromised position in the market, and a service design that would encourage and enable a more diverse range of large and small retailers.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -400,15 +425,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>For remote communities, the rollout of the NBN meant the closure of the Broadband Guarantee scheme – which had not in any case been easy to access (see Chapter 2) – and the introduction of an Interim Satellite Service (ISS), replaced in 2016 by the much greater capacity Long Term Satellite Service (LTSS), using two new satellites. The ISS was rapidly fully subscribed, and attracted considerable criticism in the 2011 and 2015 regional telecommunications reviews. Bodies such as the Flying Doctor Service drew particular attention to the inability of the service to support time-critical applications such as remote medical consultations.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -431,10 +458,10 @@
 				<Br/>
 				<Content>As part of Labor’s ‘Closing the Gap’ strategy to redress Indigenous disadvantage, internet access was also provided through a Commonwealth funding agreement with the states and territories, the Remote Indigenous Public Internet Access (RIPIA) National Partnership Agreement. In the Northern Territory, the RIPIA contract was awarded to Northern Territory Libraries. RIPIA reflected the broader social policy agenda of Closing the Gap, and signaled a more developed and far-reaching set of concerns than the earlier emphasis on ‘adequate’ communications and ‘equitable’ access. These new goals appear to reflect the more ambitious aspirations of the early NBN period. Better internet access was understood explicitly in terms of building economic and social capital in communities. The objectives were to reduce barriers to services, increase digital literacy and social inclusion, and economic, social and political participation. It followed from this broad vision of the benefits of the internet that, as well as establishing services, maintenance and training would also be supported. This expansive agenda cut in two ways. The social dimensions of internet access were also reflected in a requirement that filtering mechanisms be in place for ‘illegal and offensive materials’. These provisions could well have ameliorated community concerns about internet access; they also echoed the more draconian and paternalistic tenor of those restrictions on computer use that had been imposed under the Howard government Northern Territory Emergency Response (NTER; ‘the Intervention’). However, the RIPIA project was limited in what it could reasonably achieve. Northern Territory Libraries set out to provide access and training in forty sites (the majority in the Top End, not the central desert region), receiving only $6,000 per annum per site for equipment, and a similar amount for training (Broadband for the Bush Alliance, 2013). The program was therefore not able to cater for small communities during the period we are concerned with. In 2015 the national RIPIA program funding was redirected into the Indigenous Advancement Strategy, amounting to $2.2 million to provide ‘essential infrastructure such as computers, printers and internet access points to improve internet literacy and educational outcomes for children and adults in around seventy-five remote communities’, and administered through a competitive grants-based process.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -443,6 +470,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -450,10 +479,10 @@
 				<Br/>
 				<Content>The resulting facilities do appear to have been an important means for internet access in some communities, at least in the early years. The 2001 census included questions that enabled A.E. Daly to estimate the difference between home internet use and internet use ‘generally’, which might include access at a community center, library, workplace or home.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -472,12 +501,16 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> She found that internet use for Indigenous people living outside the capital cities in South Australia and the Northern Territory was three times higher than home use, which was not the case for the non-Indigenous population. (From 2006 onwards the census has only measured internet access from private dwellings.)</Content>
 				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In 2009 we undertook a survey of shared internet facilities in the central Australia region. The research involved phone interviews with supervisors or council workers in the thirty-four large communities in central Australia (with a combined Indigenous population of 9,724, or 72 per cent of the Indigenous population of central Australia outside Alice Springs) and visits to ten of those communities. From this we gathered basic information, including whether centers existed, whether they were in continuous use, the number of hours they were open, how the centers were funded, user charges, internet speeds and download quotas, as well as supervision arrangements. We also asked survey respondents to provide anecdotal comment on the level and use of activities that occurred in those sites. We found that while shared facilities have played an important role in establishing communications infrastructure, sustainability was a significant concern in many instances.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -486,6 +519,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -495,10 +530,10 @@
 				<Br/>
 				<Content>As these examples demonstrate, community media centers have encountered major obstacles, and in general have only provided limited access. A report from September 2003 for the then Department of Communications, Information Technology and the Arts, commissioned in response to the 2002 TAPRIC recommendations, warned that Commonwealth and state-funded centers were already at risk and unlikely to be viable without government support.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -531,10 +566,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The field of remote communications is characterized by an episodic sequence of programs and reviews, each with different emphases and developing in different ways. As mentioned above, many of these have funded the establishment of facilities, but not their ongoing operation. This was an issue addressed in the first regional telecommunications review, when Besley argued that the ongoing costs of community facilities could be supported by a proportion of the universal cost attributable to the community.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -555,10 +590,10 @@
 				<Br/>
 				<Content>While policy reviews have raised the profile of this issue, their frequency has encouraged a degree of policy churn. The reviews play a useful ‘monitory’ function, holding governments and commercial parties accountable. But they have also created a start-stop dynamic, and fostered an environment where the longer-term research and evaluation problems have been put to one side, while increasingly familiar advocacy – from one sector or another – takes its place. Every review notes the need for more research, but surprizingly little has been done. A better approach, as the 2015 Regional Telecommunications Review suggests, would be to develop a more robust set of indicators, especially regarding the spatial distribution of facilities and services, and a more ambitious research program, aiming for a systematic understanding of the patterns and dynamics of take-up and use.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -595,10 +630,10 @@
 				<Br/>
 				<Content>From the 1970s, a fundamentally discriminatory legislative system began to be challenged, and Indigenous Australians were granted citizenship rights. Under the Whitlam government, the era of assimilation gave way to new policies of self-determination, including what has been referred to as the ‘outstation movement’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -617,10 +652,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In the words of the Aborigines’ Progressive Association in 1968, returning land to Aboriginal people was an ‘assuagement to hurt sensibilities’ that could restore Aboriginal dignity.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -641,10 +676,10 @@
 				<Br/>
 				<Content>Those who returned to their country were able to access grants to build sewerage systems, basic roads, and water and electricity connections from 1972 – infrastructure not intended to meet conventional standards, but to provide assistance that would be supplemented by community efforts, including the development of makeshift shelters or humpies.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -665,10 +700,10 @@
 				<Br/>
 				<Content>The Aboriginal Land Rights Act returned large areas of lands to the Aboriginal people in the Northern Territory, although it only allowed ability to claim unoccupied land. Half of the land mass in the Northern Territory is now owned by Aboriginal people. The majority of outstations are on Aboriginal land, although some are on excisions from pastoral leases (known as Community Living Areas, or CLAs) or in national parks. The outstations on CLAs form a critical part of the outstations, or homelands, footprint, signalling how some groups remained connected to their lands, despite appropriation of land by pastoralists.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -689,10 +724,10 @@
 				<Br/>
 				<Content>Outstations are thus settlements where the residents have a descent-based affiliation, and recognized ownership over the land. People returned to country in order to maintain traditional sites, to fulfill their cultural obligations to manage land, and in some cases to avoid political marginalization in the larger settlements, where the artificial collocation of diverse groups had resulted in significant stresses for those who were not traditional owners or who were descendants of the minority language group. As time progressed, outstations also had the appeal of being removed from the social problems of larger settlements, such as alcohol and violence.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -707,15 +742,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Today there are approximately 400 occupied outstations in the Northern Territory, with a population of around 10,000 living in 2,400 dwellings (about 25 per cent of the rural Aboriginal population of the Northern Territory).</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -728,10 +765,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In the public imagination, outstations have come to represent ‘extreme living’, in the sense that they are isolated, with limited access to services and little infrastructure, and are thus represented as a choice to live apart from the majority in favor of maintaining tradition.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -752,15 +789,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In a submission to a 2003 review of outstation policy, CAT pointed out that outstations have been subject to a coordination problem, falling through the net of available services, with resource agencies struggling to meet the costs of outstation operation, battling to extract user contributions to such costs, and under pressure by the ad hoc nature of funding programs.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -781,10 +820,10 @@
 				<Br/>
 				<Content>When our project commenced in 2010, outstations had become the focus of political contention around how best to overcome Indigenous disadvantage. In July 2008, coinciding with the NTER and prior to our first consultations, the Commonwealth began divesting itself of funding responsibility for outstations, handing what was available to state and territory governments.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -797,10 +836,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Some saw the move as reducing duplications and creating economies of scale to provide services.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -813,10 +852,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> The Northern Territory government’s policy development – designed to coordinate infrastructure and services and ‘set a new path for outstations’ – received wide criticism. In Pat Dodson’s words, outstations were being left to ‘wither on the vine’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -837,15 +876,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>There was a growing inclination amongst some right-wing think tanks to regard outstations as entrenching disadvantage and reducing people’s opportunities. For instance, the demonization of location was apparent in the Commonwealth Minister for Indigenous Affairs’ description of remote communities and outstations as ‘cultural museums’, and in commentator Helen Hughes’ description of the outstations movements as a form of apartheid and a failed ‘socialist utopia’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -864,10 +905,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Further, Gary Johns argued that the residents of remote communities and outstations should migrate to towns with greater employment opportunities.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -881,7 +922,10 @@
 							<Br/>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph"/>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -889,10 +933,10 @@
 				<Br/>
 				<Content>New houses were built on the proviso that the prioritized communities signed a lease, ensuring that the Commonwealth had responsibilities for housing in Aboriginal communities. The lease arrangements were part of the government’s secure tenure policy, and allowed all community houses to choose to transfer to a public housing model. Meanwhile, other remote Indigenous communities not classified as priority/growth towns or outstations continued to receive funding targeted towards specific services such as local government municipal services (power, water, waste management, roads), health clinics, schools, and police stations. They would also later be asked for a lease, so that their houses could be renovated, upgraded or rebuilt (for houses deemed uninhabitable).</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -905,10 +949,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Outstations continued to receive general-purpose infrastructure and service funding through a network of outstation resource agencies and shire/regional councils, which were in turn funded by the Northern Territory government. In 2014–15, 423 were funded under the Northern Territory government’s homeland programs for housing and municipal and essential services.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -923,10 +967,10 @@
 				<Br/>
 				<Content>While the significant increase in funding was welcomed by large communities that were categorized as priority communities, the policy created uncertainty in funding, programs and service delivery arrangements with respect to the great many communities that were not captured in the priority/growth town policies. There was also evidence within the COAG documents that governments were trying to encourage people into larger settlements, a policy shift that came to be known as ‘mainstreaming’. As Moran articulated at the time, such policies of coercing people did not fit well historically as a development policy for remote Indigenous communities.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -941,15 +985,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The policy effectively established a hierarchy of communities in terms of what should be developed and sustained. For some, the issue was one of unequal access to basic services, shelter and support that should be considered an entitlement for all citizens ‘that should not be contingent on geographic location, at least in any policy sense’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -968,10 +1014,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> The mainstreaming approach was also ‘premised on utilizing standardized structures and processes for delivering and managing’ housing and infrastructure that did not take into account the particular nuances of outstation needs.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -986,15 +1032,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Further, Sanders analyzed the populations that would be serviced under the growth towns policy, demonstrating that there was a significant gap for central Australia regions in particular, where at best only 18 per cent of the population were likely to be captured within the ‘hub and spoke’ of the twenty priority communities.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1015,10 +1063,10 @@
 				<Br/>
 				<Content>We observed at the time that communications policy and Indigenous policy were largely disconnected from each other.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1049,10 +1097,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The average house in a remote Indigenous community will have a lifecycle of four to eight years, will use about a third of the power of a suburban home, will be six times more likely to be overcrowded than other Australian houses, and will have three times more dogs.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1071,10 +1119,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In 2014, CAT undertook a survey at the Utopia Homelands as part of a $4 million commitment by the Commonwealth government to improve living conditions. In that report, Grey-Gardner and Young observe that residents preferred box air-conditioners over more robust models, because some families lived between three or four houses, taking the air-Mungalawurrucon with them.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1177,10 +1225,10 @@
 				<Br/>
 				<Content>This chapter describes the decisions and steps that led to residents accessing the internet at the outstations, and how these efforts fitted within our research approach. We discuss the reasons for using a trial approach to understanding a digital divide problem, and how the process of providing computers and internet enabled us to test some policy assumptions around the most effective or most culturally appropriate forms of access. Although on the surface our approach resembles previous studies that have occurred in the area of information and communications technology (ICT) for development, we explain how our motivations and actions differed somewhat from that particular field of research. In the second half of the chapter, we provide a plain-language account of some of the technical components of the project.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1219,10 +1267,10 @@
 				<Br/>
 				<Content>The digital divide was first used as a measure of how the ‘Information Society’ was progressing within and between nation-states. Countries began to measure computer and internet ownership as an indicator of knowledge economy growth and competitive advantage. These exhaustive statistical studies were based on a tradition of work on telephone penetration, such as that developed by the National Telecommunications and Information Administration (NTIA) in the United States, and the emphasis on hardware and network reach was carried over to the analysis of the social distribution of the internet. The NTIA positioned the digital divide as physical access to computers by measuring the number of households and individuals with a computer and internet connection, and in 2002 declared the divide was largely overcome – ‘we are truly a nation online’ – with the internet being used at work, schools, and libraries as well as at home by over half of the American population, and rising by two million new users a month.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1237,15 +1285,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>However, by the early 2000s, a wave of scholarly attention had emerged that refuted simplistic notions of the divide as referring to physical access to computers. The ‘either you have access to ICT or you do not, you are either connected or you are not’ approach, it was argued, assumed that with enough resources and political will, the divide was easy to close or bridge.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1264,10 +1314,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Even with computers, some people did not have the necessary skills or motivation to make use of them to the same degree as others.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1292,10 +1342,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Skills, autonomy of use (including where access occurred), attitudes towards technology (relevance), and types of use therefore became the main themes of digital divide research. The refocused concern for the social dimensions of usage was considered ‘a more elaborate and realistic understanding of inequalities in the information age’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1304,15 +1354,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Analyses of data sets drawn from many different countries have revealed strong correlations between socio-economic status and internet adoption. Some theorists have argued that as social disadvantages, such as low income and lack of education, appear to be linked to the digital divide, the divide can only be addressed by tackling those apparent causes – effectively rendering the concept redundant, or at least unexceptional as a singular policy concern.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1331,10 +1383,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> However, as Helsper notes, ‘there remains significant debate around the existence, nature and causality of these links’, a question we address directly in Chapter 9.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1349,15 +1401,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The most recent research on the digital divide seeks to know whether internet use produces tangible outcomes, and whether unequal distribution in the ways that people use the internet is reinforcing existing inequalities. These studies are asking who benefits most from being online in terms of economic, cultural, social and personal wellbeing, and how this links to skills and online engagement.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1376,10 +1430,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Researching tangible outcomes requires establishing a hierarchy in the nature or quality of use and mapping the opportunities people choose to take up.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1410,10 +1464,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, which posits that those with more resources gain skills and technologies before others, thus reaping advantages sooner and increasing rather than decreasing knowledge gaps in society.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1438,10 +1492,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Van Deursen and Van Dijk found that in the Netherlands, where internet adoption is near-ubiquitous (96 per cent of the population), capital-enhancing online opportunities are more likely to be taken up by those with higher education and income ‘which would accordingly reinforce their already strong positions in society’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1455,15 +1509,16 @@
 							<Br/>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph"/>
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> However, some groups defy prediction, displaying high levels of digital inclusion despite experiencing other disadvantages.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1496,10 +1551,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Digital inclusion research has mostly been conducted through sample surveys, such as the World Internet Project.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1518,10 +1573,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> These studies show that although the digital divide in Australia is narrowing, it is doing so increasingly slowly.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1546,10 +1601,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> However, sample surveys of internet use in Australia have bypassed remote Aboriginal communities due to the obstacles posed by lack of landlines (generally used to administer surveys), as well as language and cultural barriers. There is also no current data on ICT infrastructures in remote communities, which prevented us from providing an in-depth analysis of adoption in relation to different kinds of internet programs and services nationwide (see Chapter 9 for an analysis of mobile adoption in the central Australia region). Although ICT infrastructure was included in the Community Housing and Infrastructure Needs Survey (CHINS), the last CHINS collection occurred in 2006, and the survey has since been discontinued.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1566,10 +1621,10 @@
 				<Br/>
 				<Content>As so little research had been conducted on internet adoption and use in central Australia, we were conscious that measures typically used to gauge ‘high versus low order’ internet use would not necessarily apply. Determining whether the internet was used for job searches, for instance, says little about digital inclusion when there are no jobs nearby (or where employers are not using the internet to promote those jobs that are available). Understanding the tangible outcomes of internet use thus required significant engagement with communities to understand their particular circumstances and priorities, which we undertook across a four-year time-frame. As Correa and Pavez note in their study of first encounters with the internet in remote (non-Indigenous) communities in Chile, ‘geographic isolation makes the social context more decisive in any action or decision’, and digital inclusion is a process that involves ‘multiple dimensions such as technological access, skills, different uses, social contexts and support’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1578,15 +1633,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Tim Rowse has observed that, when used in policy contexts, statistics can create a ‘regime of truth’ that overrides the lived realities and dynamics of remote communities.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1605,10 +1662,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Economist Amartya Sen makes a similar point in relation to social exclusion.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1627,10 +1684,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Exclusion, he argues, needs to be understood in terms of the causal process, which requires an understanding of the social context. Sen’s capabilities approach is a useful framework for considering the digital divide, as it asks what substantive freedoms people possess given the constraints placed upon them, and about their ability to enact the outcomes that they value.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1655,10 +1712,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> We found that particular deprivations can be difficult to understand when encountering individuals in remote communities when no background information is available. For instance, on an early visit, we asked a man if he was living in the community, and whether he was interested in having the internet in his house. He replied that he did not have a house and was living in the ‘windbreak’ – a makeshift shelter of branches and found objects in someone else’s yard. Whether the man was permanently living an itinerant lifestyle – having fallen through the cracks of welfare and housing – or whether his circumstances were the result of the ‘temporary mobility’ discussed in Chapter 4, changes the meaning, duration and consequences of what we might consider to be a hardship. Putting up with inadequate shelter because of a willing decision to visit relatives is different to not being able to afford accommodation, or being excluded from a public housing register. As Sen writes, ‘The issue, ultimately, is what freedom does a person have – everything considered. It should come as no surprise that a person’s deprivation can have diverse origins and may take disparate forms’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1673,15 +1730,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>For Rowse, the appropriate unit of analysis is not comparison between statistically identifiable groups, but an understanding of how a group of people in a particular place is ‘doing well or doing badly in ways that are specific to region and cultural heritage’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1714,10 +1773,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> a particular approach works, and of providing insight into complex social dynamics. In the field of education technology, some studies have attempted experimental research using randomized controlled trials, whereby the intervention is applied to a statistically significant group, selected randomly, and compared to a non-treatment group.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1750,10 +1809,10 @@
 				<Br/>
 				<Content>The Home Internet Project trial involved three stages. The first involved consultation with the outstations and a baseline study. On our first visits to the communities in 2010, the Central Land Council (CLC) and the Centre for Appropriate Technology (CAT) made initial contact and consulted with community members, at which time the elders agreed to the project. During our early meetings with the communities, we carefully documented their prior use of ICTs, and tried to ascertain what they perceived to be the barriers to ICT uptake, and the opportunities available through having computers and internet access (see below).</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1772,10 +1831,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In the second phase, from 2011, we monitored the issues as they unfolded, and carried out research in two larger communities in order to compare home internet with other types of access. CAT provided a total of twenty computers and associated satellite services connecting all computers to the internet in Kwale Kwale (four), Mungalawurru (five) and Imangara (eleven).</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1806,10 +1865,10 @@
 				<Br/>
 				<Content>Development communications (or ‘communications for development’ or ‘development for social change’) has a long history that we do not have space to recount here.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1836,10 +1895,10 @@
 				<Br/>
 				<Content>ICT4D is a variant on development communication, in that it moves away from development as merely an outside aid program, to something that could be entrepreneurial and work in harmony with corporate and national economic aspirations.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1858,10 +1917,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> ICT4D has a tendency to assume that ICT is inherently ‘meta-enabling technology that will bypass all institutional and infrastructural obstacles’, providing unlimited opportunities for social and economic development.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1875,15 +1934,16 @@
 							<Br/>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph"/>
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Those at the ‘bottom of the pyramid’ are assisted to improve their circumstances through online engagement and enterprise. Early iterations of ICT4D argued in favor of shared facilities, which were considered to ‘take advantage of economies of scope’, as they aggregated demand across an entire community, ‘thus reducing costs, while increasing traffic and helping to integrate the facility into the social fabric of the community’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1898,15 +1958,17 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Faye Ginsburg has critiqued the ‘neo-developmental’ logic of the digital divide framework generally, arguing that Indigenous peoples in particular are often depicted as ‘waiting, endlessly, to catch up to the privileged West’ on the technological front.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1925,10 +1987,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Traditional peoples are thus treated as existing in a separate time, not just place, from the mainstream. As Mazzarella points out, the ‘insistence that computers come later’ perpetuates the assumption that technology should be evaluated in terms of a hierarchy of needs that can be known in advance.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1947,10 +2009,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> He asks, ‘What if the power of a medium is as much performative as it is functional – that is to say, what if it brings about its effects as much through the desires people invest in it as through its ability to deliver predefined utilities?’</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1959,6 +2021,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1966,10 +2030,10 @@
 				<Br/>
 				<Content>We did not see our project as an ICT4D project because we were working with and through Indigenous organizations with long track records in service delivery and infrastructure. CAT in particular performs a watchdog function, starting from a research perspective of determining what works and why before providing services. In the years preceding our project, CAT had been directly involved in government community ICT initiatives, including the development and implementation of an alternative community phone project that provided over 250 pay phones to remote communities. The phone operated with pre-paid cards, and was built from the electronic components of readily available domestic Telstra phones to enable cheap and easy replacement, encased in a stainless steel shell that protected it from damage.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1982,10 +2046,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> The CAT phone became known as the ‘NED phone’ due to its likeness to Ned Kelly’s armor.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2000,10 +2064,10 @@
 				<Br/>
 				<Content>Government agencies that serve remote communities are not necessarily incentivized to commit to small-scale initiatives, particularly trials where the outcome is unknown (the Australian Private Networks community phones WiFi project being an exception). The history of communications in remote Indigenous Australia reflects this, whereby many innovations have occurred ‘pre-policy’ and in an ad hoc fashion through the efforts of the Indigenous sector, including broadcast infrastructure, screen and radio production, high-frequency (two-way) radio networks, satellite television and videoconferencing. Indigenous-owned organizations, together with local leaders, have carried out these experiments, aided (and in some cases generated) by non-Indigenous workers from the education and media sectors. The enterprises and infrastructures of remote media and communications have thus arisen from two cultural traditions operating together within the one settler state.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2028,10 +2092,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> This is not to say that our presence in the communities was unproblematic – for us or the residents – but only to recognize, as Melinda Hinkson writes, that the sometimes-uneasy coming together of two traditions is the ground upon which the Indigenous communications industry has been built.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2040,6 +2104,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2059,10 +2125,10 @@
 				<Br/>
 				<Content>As discussed in later chapters, there was significant interest in getting computers, primarily for kids’ schooling, entertainment, and some cultural and enterprise activities. However, there were also significant doubts around affordability, the security of the equipment and language barriers.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2091,10 +2157,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Infrastructure is relational, in that different actors can have a very different experience of it, whereby one person’s infrastructure is another’s obstacle. Sandvig gives the example of a staircase, which is a means of passage for most, but a barrier for someone in a wheelchair.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2115,10 +2181,10 @@
 				<Br/>
 				<Content>In early 2011, about a year after our initial meetings with the three communities, installation began. During our initial scoping of the project, we made the decision to provide internet in the most cost-effective way, on the principle that whatever system we installed would be the most affordable for the communities should they choose to continue to keep the internet when the funding ran out.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2141,10 +2207,10 @@
 				<Br/>
 				<Content>In choosing an ISP, we took into account the suitability of the available plans, especially the need for one with a high-speed quota, because there would be several computers sharing the service. The service we chose was also ‘shaped’ to ensure that once the monthly quota was used up, there would be slow-speed residual access to the internet, but no additional charges would accrue.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2175,6 +2241,10 @@
 				<Br/>
 				<Content>As we were interested in whether communal facilities were preferable to home computers, we gave the communities the option to have some or all of the computers in public spaces. Initially, people at the communities weren’t sure whether they wanted individual computers in their houses, or whether to share terminals. At Imangara, some senior women felt the equipment would be safer in the only community building available, the Women’s Centre. But by our next trip, most households preferred to have their own computer. We put two more computers in the Women’s Centre, in any case, for any residents who didn’t have computers in their homes, and for use by the couple running the Women’s Centre. The use of these computers is discussed further in the next chapter in relation to ownership and sharing.</Content>
 				<Br/>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>At Mungalawurru, residents came up with a mix of computers in four houses, and two in what was known as the ‘CDEP shed’ – a building used for the government’s Aboriginal work-for-the-dole scheme. People at Mungalawurru were highly mobile, often shifting between their community, Tennant Creek and other locations, and placing a couple of terminals in a shed seemed like a good option, because more transitory community members could use them. Two residents at Kwale Kwale chose to have a home computer</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
@@ -2189,10 +2259,10 @@
 				<Br/>
 				<Content>When we first discussed with the residents the option of having a computer, some told us they had no room for one. Some residents asked us to build an extra room on their house for the computer, a suggestion we politely refused. However, the issue of space did not turn out to be a major problem for most households. We found the rooms in the larger houses were sparse, possibly reflecting the fact that occupancy varied often, and that individuals did not necessarily lay claim to particular bedrooms.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2227,10 +2297,10 @@
 				<Br/>
 				<Content>The detractors were wrong, in that despite equipment failure, loss or damage, an average of seventeen of the twenty computers installed by early August 2011 were still operational by the end of the first year. By the end of the project (twenty-five months since installation), two computers had been lost or taken out of the community. For comparison, a study of computers in offices conducted by an American commercial research company revealed that three and a half computers would typically fail in a twenty-five-month period (see Table 3 in Appendix 2 and Crouch 2014 for a full account).</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2242,6 +2312,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">

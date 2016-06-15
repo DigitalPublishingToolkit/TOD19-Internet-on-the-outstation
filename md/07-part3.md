@@ -67,7 +67,7 @@ As mentioned in the previous chapter, the Papunya Computer Room (PCR)
 was established in early 2009 to provide alternative educative and
 diversionary activities for young people in the community, especially
 males aged 14–25 years who had been identified by the Senate Inquiry
-into Petrol Sniffing.[^1] We followed the evolution of the PCR from
+into Petrol Sniffing.[^07-part3_1] We followed the evolution of the PCR from
 2010–2014. Even within this relatively short time frame, the PCR
 underwent a series of significant transitions in adapting to available
 ICT, including the introduction of mobile coverage, and in attempting to
@@ -242,7 +242,7 @@ capacity to work \[for employment – i.e. very few jobs available
 locally\].’ Likewise, the trainers delivering courses generally did not
 canvas what community members wished to learn or how they wished to learn,
 or build relationships through which they might gain some idea of
-people’s learning needs.[^2]
+people’s learning needs.[^07-part3_2]
 
 ### Shared Facilities and Long-term Sustainability
 
@@ -317,7 +317,7 @@ For instance, in April 2015, CAYLUS called for free WiFi to be installed
 in Alice Springs town camps as a diversionary activity for young people. A news article quoted Nicholas Williams, a youth worker at
 CAYLUS, observing that before WiFi was available in Hermannsburg, kids
 were more likely to be ‘breaking in areas, hanging around where they’re
-not supposed to’.[^3] Since the WiFi became available, kids tended to
+not supposed to’.[^07-part3_3] Since the WiFi became available, kids tended to
 use that area, knowing it is ‘their area’, even after hours.
 
 An example of a community WiFi network which seeks to respond to equity
@@ -335,7 +335,7 @@ be extended to premises at the edge of the community, thus ensuring
 equity of access on a household basis. Reports from the Northern
 Territory RIPIA scheme indicated that WiFi access at hubs such as
 libraries in Top End communities were likewise well-patronized, day and
-night, by users with mobile devices inside or outside the buildings.[^4]
+night, by users with mobile devices inside or outside the buildings.[^07-part3_4]
 
 In order to access WiFi hotspots, residents need mobile devices such as
 smart phones, tablets or laptops. However, the prices of iPads, laptops
@@ -352,16 +352,16 @@ By mid 2015, mobile broadband coverage for Indigenous residents of
 central Australia was limited to about 8,500 people in fourteen discrete
 locations (another four locations were identified as roadhouses and
 mines), which constituted approximately half the total Indigenous
-population of the region. [^5] Four of these sites were completed in
+population of the region. [^07-part3_5] Four of these sites were completed in
 2014 as a joint project between Telstra and the Northern Territory
-government.[^6]
+government.[^07-part3_6]
 
 A number of studies have noted the high rates of mobile phone adoption
 in remote communities since 2007. Early studies focused on mobile
 telephony as a substitute for basic telephony services, and therefore
 did not cover internet use – unsurprising given that smart phone use was
 lower in general at that time (30 per cent of mobile telephone services
-in operation allowed internet connectivity in 2010).[^7] Moreover, data
+in operation allowed internet connectivity in 2010).[^07-part3_7] Moreover, data
 rates for pre-paid mobile broadband were high at that time, and
 iPhone and Android phones, which provided the first easy icon-based
 access to applications rather than internet web browsers, were released
@@ -369,7 +369,7 @@ in 2007 and 2008 respectively. However, these studies do provide useful
 insights into the social aspects of early mobile phone adoptions and
 use. *Ingerrekenhe Antirrkweme*, a 2007 study of mobile phone use
 amongst low-income Aboriginal people in Alice Springs and town camps,
-found that 56 per cent owned mobile phones.[^8] Of the respondents, 72
+found that 56 per cent owned mobile phones.[^07-part3_8] Of the respondents, 72
 per cent lived in town (including 33 per cent who lived in town camps
 where mobile coverage is available), and 25 per cent lived in remote
 communities. In terms of mobile phone ownership, 69 per cent of those
@@ -380,14 +380,14 @@ mobile phone.
 
 Researchers Brady, Dyson and Asela also noted ‘the very high rate of
 mobile adoption’ amongst remote-living Indigenous people where there was
-mobile coverage.[^9] Their study of the Indigenous take-up of mobile
+mobile coverage.[^07-part3_9] Their study of the Indigenous take-up of mobile
 telephony on an island in the Torres Strait, published in 2008,
 attributed the mobile phone’s popularity amongst the Aboriginal
 population to its relative cheapness and portability, especially in
 remote contexts where people frequently travel long distances. Mobile
 phones are also valuable for remote-living people in maintaining family
 and social contacts, especially given the significance of kinship
-networks in Aboriginal culture.[^10] The near-ubiquity of mobile phone
+networks in Aboriginal culture.[^07-part3_10] The near-ubiquity of mobile phone
 ownership amongst Aboriginal people in remote Australia, in contrast to
 the relatively low uptake of other communications arrangements in these
 communities, led Brady, Dyson and Asela to conclude that mobile
@@ -396,20 +396,20 @@ telephony is the most appropriate ‘fit’ for this population. They state:
 valuable by the community \[…\] versus technologies which have been used
 only with reluctance or for the limited life of one-off projects
 convinces us that the Indigenous people are making informed choices
-about their ICT adoption.’[^11]
+about their ICT adoption.’[^07-part3_11]
 
 They attribute the preference for mobile telephony to its compatibility
 with the ‘inherent strengths of the culture’ – communicating by text and
 calls meshes with the orality of Indigenous tradition – and the degree
 of ‘motivation’ that this form of communication elicits: that is,
 ‘motivation is created by fulfilling obligations to family and friends,
-such as by communication and keeping in contact’. [^12]
+such as by communication and keeping in contact’. [^07-part3_12]
 
 However, the availability of mobile telephones also caused financial
 problems for some, particularly in relation to data usage. In September
 2009, Johnny Namayiwa of Goulburn Island, 300 kilometers northeast of
 Darwin, went to the media to expose what he saw as an unfair economic
-issue facing Indigenous people living in remote Australia.[^13] Mr
+issue facing Indigenous people living in remote Australia.[^07-part3_13] Mr
 Namayiwa was alarmed that residents had been phoned by the
 telecommunications provider, Telstra, and sold \$49 mobile plans, but
 were now facing bills in excess of \$1,000. A few days later, having
@@ -522,7 +522,7 @@ maintenance, requiring only to be placed at a suitable height within the
 (extended) range. The first hotspot was placed in Boggy Hole,
 established in conjunction with the CLC, and allows tourists and locals
 who have become stuck on the notoriously bad road to the Finke National
-Park to call for help.[^14] The hotspot is now also being used in
+Park to call for help.[^07-part3_14] The hotspot is now also being used in
 communities just outside of mobile range, and at other highway spots
 where people can be stranded waiting for a lift or bus. In 2015, the
 Northern Territory government and the Aboriginals Benefit Account funded
@@ -540,7 +540,7 @@ technology created by US start-up company Endaga, created by PhD student
 Kurtis Heimerl at the University of California, Berkeley. The ability to
 access voice, SMS and data over mobile phones meant that those living in
 the village could easily reach people who were gathering supplies in
-town, a two-day trip by road.[^15] Endaga provides a retail mechanism,
+town, a two-day trip by road.[^07-part3_15] Endaga provides a retail mechanism,
 including SIM cards and internationally recognizable phone numbers which
 enable entrepreneurs to establish their own ‘microtelco’ and charge
 users for calls. The technology is robust, does not require expensive
@@ -551,17 +551,17 @@ A number of remote Indigenous communities in Mexico have also installed
 low-cost mobile base stations, and are transmitting using spectrum that
 is made available for Indigenous community radio in places where that
 spectrum is neglected by national spectrum licensees (under Mexico’s
-constitution).[^16] The Mexican network was established through
+constitution).[^07-part3_16] The Mexican network was established through
 Rhizomatica, an NGO with a mission to ‘increase access to mobile
 telecommunications to the over 2 billion people without affordable
-coverage and the 700 million with none at all’.[^17] Previously,
+coverage and the 700 million with none at all’.[^07-part3_17] Previously,
 residents were using landlines that charged a per-minute fee, which required
 standing in line, and using runners to inform each other of incoming
 calls. Following years of unsuccessful lobbying to get telecommunications
 companies to provide mobile broadband services, the communities decided
 to use their municipal money to establish their own community-owned and
 operated micro-telecommunications enterprises in rural Oaxaca, Mexico,
-with each base station costing approximately US\$7,500.[^18] In January
+with each base station costing approximately US\$7,500.[^07-part3_18] In January
 2015, Mexico assigned radiospectrum ‘cellular’ bands for ‘social use’,
 and created fifteen-year not-for-profit licenses.
 
@@ -572,7 +572,7 @@ and traders to share information. Often the ‘everyday’ means of being
 informed and communicating, write Goggin and Clark, can result in
 economic and social opportunities, ‘activating important dimensions of
 human rights in development, building upon and extending the
-well-recognised contribution of telecommunications’.[^19]
+well-recognised contribution of telecommunications’.[^07-part3_19]
 
 In *The Great Indian Phone Book: How Cheap Mobile Phones Change
 Business, Politics and Daily Life*, Robin Jeffrey and Assa Doron
@@ -582,23 +582,23 @@ illiterate people in India as a market in order to ensure the viability
 of the roll-out of mobile telephone infrastructure. Thus: ‘\[T\]ens of
 millions of people had to acquire telephones if mobile telephony was to
 reward the huge investment required to build and maintain vast networks
-of mobile cell-towers.’[^20] The competition between companies resulted
+of mobile cell-towers.’[^07-part3_20] The competition between companies resulted
 in dramatic cuts to the cost of calls and phones in an effort to make
 pre-paid mobile phone plans affordable ‘even \[for\] those who could make
-only a small investment’.[^21] However, a further aspect of courting
+only a small investment’.[^07-part3_21] However, a further aspect of courting
 this low socio-economic status market base involved tailoring their
-customer service experience so that it was ‘cheap, easy and fast’.[^22]
+customer service experience so that it was ‘cheap, easy and fast’.[^07-part3_22]
 One company, Bharti Airtel, tried to incorporate a range of retail
 outlets into their sales chain, and to demystify the processes around
 obtaining and using mobile phones by training a network of dealers to
 sell and install SIM cards on new customers’ phones: ‘To the
 uninitiated, the procedure seemed difficult, though it took only a few
 experiments with phones to learn how to change SIM cards
-confidently.’[^23] This simple process, however, involved a significant
+confidently.’[^07-part3_23] This simple process, however, involved a significant
 outlay of financial and training resources, as ‘it took thousands of
 hours of training to bring tens of thousands of hours of training to
 bring tens of thousands of distributors, travelling salespersons and
-small shopkeepers to a basic level of confidence’.[^24] While that scale
+small shopkeepers to a basic level of confidence’.[^07-part3_24] While that scale
 of operation would not be required to train an ISP’s customer service
 representatives to broker satellite broadband access and plan payment
 for remote Indigenous consumers, the market drivers stimulating
@@ -611,13 +611,13 @@ Galperin and Bar see potential in microtelcos, defined by Galperin as
 ‘small-scale telecom operators that combine local entrepreneurship,
 innovative business models, and low-cost technologies to offer an array
 of ICT services in areas of little interest to traditional
-operators’.[^25] Microtelcos promise to overcome inequities in mobile
+operators’.[^07-part3_25] Microtelcos promise to overcome inequities in mobile
 broadband access due to their creative approaches to capital, labor and
 technology that ‘maximize returns based on their knowledge of local
 conditions and demand preferences’. Microtelcos are thus capable of
 ‘finding business models (including payment collection mechanisms)
 appropriate to local conditions’ where large operators are reluctant to
-go.[^26]
+go.[^07-part3_26]
 
 What are the prospects for microtelcos in Australia’s remote Indigenous
 communities? Australian telecommunications spectrum regulation does not
@@ -630,7 +630,7 @@ The cost of a microcell itself is perhaps affordable for small
 communities that have access to mining royalties and the like (within
 the range of USD\$3,000-6,000, although electricity and maintenance
 costs would also need to be factored in). Microtelcos can operate to a
-reasonable standard using non-geostationary satellite backhaul.[^27]
+reasonable standard using non-geostationary satellite backhaul.[^07-part3_27]
 However, the costs of backhaul can be high in Australia. It is also
 worth noting that although companies such as Endaga provide phone
 numbers and interconnection to service providers, in 2015 the wholesale
@@ -646,7 +646,7 @@ for standard telephone services and payphones only. As Stuart Corner
 writes, when the Labor government made changes to the USO in 2012 (in order
 to accommodate the NBN), many believed that an opportunity for radical
 reform was missed, including the possibility of a USO that would take
-account of the ‘popularity and reliance on mobile telephony’.[^28] If
+account of the ‘popularity and reliance on mobile telephony’.[^07-part3_28] If
 the USO was adapted to encompass mobile voice services, then subsidies
 could be directed towards the most socially desirable infrastructure,
 perhaps paving the way for greater penetration of mobile coverage in
@@ -657,7 +657,7 @@ remote Australia.
 In Chapter 1, we discussed the history of telecommunications in remote
 Australia as being defined by the consequences of low population
 density, where metropolitan areas have subsidized infrastructure to
-regional and rural areas.[^29] The various scenarios outlined above,
+regional and rural areas.[^07-part3_29] The various scenarios outlined above,
 including computer centers and public WiFi, are attempts to provide some
 means of access in conditions of market failure. Public WiFi, which in
 other contexts is a transitory solution for people when away from home
@@ -723,19 +723,19 @@ that may help to resolve the digital divide in remote Australia.
 
 Two decades of digital divide studies tell us that internet adoption
 falls along socio-economic lines, relating variation in the use of
-digital and online resources to differential social advantage.[^30]
+digital and online resources to differential social advantage.[^07-part3_30]
 Early studies revealed that those who were quick to adopt the internet
 were earning more, and had higher levels of schooling, than those who
 were not. The trend continued, with those least likely to use the
-internet also the most socially excluded.[^31] For instance, Helsper’s
+internet also the most socially excluded.[^07-part3_31] For instance, Helsper’s
 analysis of three major data sets in the UK revealed that three out of
 four of those who suffer ‘deep’ social exclusion have only limited
 engagement with internet-based services, and are seven times more likely
 to be disengaged from the internet than those who are socially
-advantaged.[^32] The ‘stratification hypothesis’ is also supported in
+advantaged.[^07-part3_32] The ‘stratification hypothesis’ is also supported in
 the World Internet Project, which revealed that the internet is used
 more by the highest-income quartiles in twelve participating countries.
-[^33]
+[^07-part3_33]
 
 In the case of Indigenous Australia, it is possible to draw a
 correlation between the digital divide and disadvantage. A series of
@@ -746,13 +746,13 @@ country (remote and non-remote, with a significant Indigenous
 population), Indigenous people were also found to be worse off than
 non-Indigenous Australians living nearby across a range of
 socio-economic measures, including educational attainment, income, labor
-force participation and housing.[^34] They are also the least likely to
+force participation and housing.[^07-part3_34] They are also the least likely to
 have an internet connection at home, seemingly supporting the hypothesis
-that social exclusion and digital exclusion influence each other.[^35]
+that social exclusion and digital exclusion influence each other.[^07-part3_35]
 In an analysis of the 2006 census data, the Australian Bureau of
 Statistics suggested that ‘the lower rate of connectivity for Indigenous
 people might be attributed to a range of several socio-economic
-factors’.[^36] The statistics reflect significant hardships experienced
+factors’.[^07-part3_36] The statistics reflect significant hardships experienced
 by many living in remote communities, hardships that many of households
 in this book experienced to varying degrees, from subtle to extreme.
 
@@ -773,7 +773,7 @@ Santa Teresa and Ali Curung). The towns, their town camps (Indigenous
 housing estates), and the five remote communities can be identified in
 the census data using the Indigenous Structure of the Australian
 Statistical Geography Standard, which enables analysis of discrete
-communities, or of a group of small communities in a given area.[^37]
+communities, or of a group of small communities in a given area.[^07-part3_37]
 Where the boundaries correspond to a particular community or town with
 mobile reception, it can be assumed that most of the houses in that
 Indigenous Location (ILOC) have coverage, or are in close enough
@@ -799,7 +799,7 @@ striking difference).
 It is worth noting that although it should be possible to tell from the
 census data what kind of connection people were using, we decided that
 this particular information was unreliable, and therefore used only the
-‘internet/no internet’ figures.[^38] As Indigenous households in many of
+‘internet/no internet’ figures.[^07-part3_38] As Indigenous households in many of
 these communities share a similar socio-economic profile, we can
 conclude that social exclusion is not necessarily the cause of digital
 exclusion. Even when money is tight, we found that many people are
@@ -929,7 +929,7 @@ household economics \[would\] play a role’, and speculated that the
 interplay of factors such as low incomes, high unemployment rates, and
 higher-than-average numbers of dependents living in remote community
 households would have some impact on affordability, though we did not
-know which factors would prove most significant.[^39] While cost did not
+know which factors would prove most significant.[^07-part3_39] While cost did not
 impact greatly on community members’ choices to continue internet access
 during the transition period, billing and management of payment of plans
 emerged within several months of the introduction of self-funded
@@ -986,7 +986,7 @@ similar situations that have emerged in other central Australian
 communities without mobile coverage, in which local families applied
 with the assistance of the local regional council for satellite accounts
 under the NBN so that they could have internet access on a household
-basis.[^40] These internet services have since fallen into disuse after
+basis.[^07-part3_40] These internet services have since fallen into disuse after
 families defaulted on payment for broadband plans. Households were
 unable to pay the bills because their resources were spread too thinly
 amongst a large number of highly mobile residents, making regular
@@ -1014,7 +1014,7 @@ communities, the extra-household economy may be more important than the
 individual household, whereby linked households share resources’, and
 thus ‘\[r\]esidents might seek contributions to bills quickly from a
 number of people who are not necessarily residents of that
-household’.[^41]
+household’.[^07-part3_41]
 
 However, as discussed in Chapter 3, households tended to be fairly
 autonomous in their ownership and usage of the home computers and
@@ -1053,7 +1053,7 @@ by Smith:
 > take the attitude that their incomes (welfare in large part) belong
 > exclusively to themselves \[…\] People without cash incomes may be
 > financially supported to a certain extent by others, but such support
-> cannot be relied upon for long periods.[^42]
+> cannot be relied upon for long periods.[^07-part3_42]
 
 We observed that the burden of payment for household internet access
 often fell heavily on the individual whose account was used, as in the
@@ -1198,7 +1198,7 @@ fact when seen as the diffusion of innovation:
 > unavoidable divide. This divide is inevitable. It is the inescapable
 > result of the fact that it takes a certain amount of time for
 > innovations to spread through social networks with particular shapes
-> and characteristics.[^43]
+> and characteristics.[^07-part3_43]
 
 The inevitability of the divide exists in relation to the presence or
 absence of information, in that those without information about the
@@ -1214,7 +1214,7 @@ write:
 > convinces us that the Indigenous people are making informed choices
 > about their ICT adoption. Recognition of the factors behind these
 > choices may well lead to better ICT investment and implementation
-> decisions in the future.[^44]
+> decisions in the future.[^07-part3_44]
 
 In this final section of the chapter, we consider the importance of
 ‘digital choices’ as they occur in relation to community norms and
@@ -1224,14 +1224,14 @@ occurring in remote Australia, which we call the ‘demic deal-breaker’.
 In her study of UK data sets, Helsper noticed that particular groups
 were unexpectedly connected, defying predictors such as low
 socio-economic status: ‘Some individuals within socially disadvantaged
-groups are capable of overcoming barriers to digital engagement.’[^45]
+groups are capable of overcoming barriers to digital engagement.’[^07-part3_45]
 For instance, disadvantaged people from Afro-Caribbean origins tended to
 be more highly engaged than expected given their social disadvantages.
 Helsper’s conclusion was that digital choices can be ‘driven by cultural
 factors and the social context of individuals, which influence the
 development of positive or negative attitudes towards technologies’, and
 that ‘innovative and creative approaches’ might be required to tackle
-attitudinal and cultural barriers’.[^46] The high rates of internet
+attitudinal and cultural barriers’.[^07-part3_46] The high rates of internet
 adoption in Ali Curung also fit within this category of the
 ‘unexpectedly connected’.
 
@@ -1255,7 +1255,7 @@ all’, deciding that the missing characteristic is too important to
 substitute for something else; for the chooser the missing piece is the
 deal-breaker. The theory is useful for explaining some instances where
 choosers do not appear to be maximizing their outcomes – choosing to
-discount seemingly adequate options.[^47] However, the economic theory
+discount seemingly adequate options.[^07-part3_47] However, the economic theory
 of characteristic filtering only considers individuals’ decision-making;
 it does not explain how the cultural norms of a group might play a role
 in why some technologies are adopted and others are not.
@@ -1296,7 +1296,7 @@ Social networks thus affect the quality and flow of information, and
 create community norms (shared ideas about the proper way to behave).
 Granovetter’s influential work on the ‘strength of weak ties’ is useful
 for considering how tightly knit communities can come to be without
-internet.[^48] Granovetter argues that our acquaintances – weak social
+internet.[^07-part3_48] Granovetter argues that our acquaintances – weak social
 ties – are more likely to give us new information than our close friends
 and family, as those who we know already share similar knowledge. For
 Indigenous communities, it is entirely possible that adoption doesn’t
@@ -1307,11 +1307,11 @@ satellite internet is available, but have decided that it is too
 difficult to acquire, so those who have no knowledge of it will remain
 in the dark. Dense community ties can therefore restrict information,
 and be an obstacle to technology diffusion and development more
-generally.[^49] Even if some level of adoption occurs, places such as
+generally.[^07-part3_49] Even if some level of adoption occurs, places such as
 Imangara and Mungalawurru, which do not have a permanent youth worker or
 media center, are likely to have fewer of the ‘weak ties’ that might
 provide particular digital literacies and skills, such as GarageBand,
-which have become popular elsewhere.[^50] Uses, and not just adoption,
+which have become popular elsewhere.[^07-part3_50] Uses, and not just adoption,
 can thus be defined by the absence of weak ties.
 
 Shifting the discussion of digital exclusion to ‘digital choices’
@@ -1337,7 +1337,7 @@ experienced the benefits, and it is likely that the computer enabled
 other capacities (for him and others) flowing from a more efficient
 management of the records of the youth service. Such instances show
 there are gradations of use, including those, known as proxy users, who
-choose to access online services with the help of others.[^51]
+choose to access online services with the help of others.[^07-part3_51]
 
 When the digital divide is seen as a matter of digital choice rather
 than social exclusion, policies and programs can emerge that provide
@@ -1374,7 +1374,7 @@ the notions of social inclusion, and to a lesser extent cumulative
 causation, can lead to a sort of policy nihilism where the magnitude of
 the task seems too complex and too hard. Unfortunately, there is not
 much one can do about this if the dimensions of disadvantage are
-inextricably linked.’[^52]
+inextricably linked.’[^07-part3_52]
 
 Digital exclusion in remote Indigenous communities has been too often
 left in the ‘too hard’ basket, alongside tasks that seem both more
@@ -1387,24 +1387,24 @@ closed, and there are clear strategies for addressing it. We now turn
 our attention to some concrete policy approaches emerging from this
 book.
 
-[^1]: Central Australian Youth Link Up Service, ‘Papunya Computer Room’,
+[^07-part3_1]: Central Australian Youth Link Up Service, ‘Papunya Computer Room’,
     http://caylus.org.au/papunya-computer-room/; The Parliament of Australia Senate Standing Committee on Community
     Affairs, ‘Inquiry into Petrol Sniffing and Substance Abuse in
     Central Australia’, Commonwealth of Australia,
     http://www.aph.gov.au/Parliamentary\_Business/Committees/Senate/Community\_Affairs/Completed\_inquiries/2008-10/petrol\_sniffing\_substance\_abuse08/index.
 
-[^2]: For a discussion of over-training in Indigenous communities, see
+[^07-part3_2]: For a discussion of over-training in Indigenous communities, see
     H. Hughes and M. Hughes, *Indigenous Education 2012,* Sydney: Centre
     for Independent Studies, 2012.
 
-[^3]: R. Ellen and R. Herrick, ‘John Elferink Dismisses Idea for Free
+[^07-part3_3]: R. Ellen and R. Herrick, ‘John Elferink Dismisses Idea for Free
     Wi-Fi in Alice Springs Town Camps to Reduce Youth Crime’, *ABC
     News*,
     http://www.abc.net.au/news/2015-04-10/elferink-dismisses-wi-fi-idea-for-alice-springs-town-camps/6384214.
 
-[^4]: A. Gray, personal communication, 3 July 2013.
+[^07-part3_4]: A. Gray, personal communication, 3 July 2013.
 
-[^5]: Communities with Telstra mobile coverage in the region as of
+[^07-part3_5]: Communities with Telstra mobile coverage in the region as of
     August 2015: Ali Curung, Ampilawatja, Arlpara, Ti Tree, Yuendumu,
     Papunya, Hermannsburg, Mutitjulu, Santa Teresa, Lajamanu, Elliot,
     and Newcastle Waters, as well as the townships of Alice Springs and
@@ -1415,75 +1415,75 @@ book.
     Area 3, Indigenous Profile, by Household’,
     www.abs.gov.au/websitedbs/censushome.nsf/home.
 
-[^6]: Ampilatwatja, Arlparra, Newcastle Waters, Papunya and Mutijulu.
+[^07-part3_6]: Ampilatwatja, Arlparra, Newcastle Waters, Papunya and Mutijulu.
     Mutijulu had some coverage prior to this due to its proximity to
     Yulara (Uluru tourist township).
 
-[^7]: Australian Communications and Media Authority, ‘Communications
+[^07-part3_7]: Australian Communications and Media Authority, ‘Communications
     Report 2009-10’,
     http://www.acma.gov.au/webwr/\_assets/main/lib311995/2009-10\_comms\_report-complete.pdf.
 
-[^8]: Tangentyere Council Research Hub and Central Land Council,
+[^07-part3_8]: Tangentyere Council Research Hub and Central Land Council,
     *Ingerrekenhe Antirrkweme: Mobile Phone Use among Low Income
     Aboriginal People – a Central Australian Snapshot*, Alice Springs:
     Tangentyere Council Research Hub and Central Land Council, 2007, p.
     6.
 
-[^9]: F.R. Brady, L.E. Dyson and T. Asela, ‘Indigenous Adoption of
+[^07-part3_9]: F.R. Brady, L.E. Dyson and T. Asela, ‘Indigenous Adoption of
     Mobile Phones and Oral Culture’, Cultural Attitutes Towards Technology and Communications Conference, Murdoch University, Perth, 2008, p.
     393.
 
-[^10]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
+[^07-part3_10]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
     Oral Culture’, pp. 393-4.
 
-[^11]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
+[^07-part3_11]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
     Oral Culture’, p. 396.
 
-[^12]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
+[^07-part3_12]: Brady, Dyson and Asela, ‘Indigenous Adoption of Mobile Phones and
     Oral Culture’, p. 396.
 
-[^13]: I. Razak, ‘Telstra Accused of Ripping Off Aborigines’, *ABC
+[^07-part3_13]: I. Razak, ‘Telstra Accused of Ripping Off Aborigines’, *ABC
     News*, http://www.abc.net.au/news/stories/2009/09/09/2680645.
 
-[^14]: E. Sleath and N. Maloney, ‘Mobile Phone Hotspots Trialled in the
+[^07-part3_14]: E. Sleath and N. Maloney, ‘Mobile Phone Hotspots Trialled in the
     Outback’, *ABC News*,
     http://www.abc.net.au/local/stories/2015/03/16/4198439.htm.
 
-[^15]: Endaga sales material, www.endaga.com.
+[^07-part3_15]: Endaga sales material, www.endaga.com.
 
-[^16]: ‘DIY Telecoms’, *The Economist* (March 7 2015),
+[^07-part3_16]: ‘DIY Telecoms’, *The Economist* (March 7 2015),
     http://www.economist.com/news/technology-quarterly/21645498-fed-up-failings-big-operators-remote-mexican-communities-are-acting.
 
-[^17]: Rhizomatica, ‘About’, http://rhizomatica.org/about-2/.
+[^07-part3_17]: Rhizomatica, ‘About’, http://rhizomatica.org/about-2/.
 
-[^18]: T. Hatt, K. Okeleke and M. Meloan, ‘Closing the Coverage Gap: A View from Asia’, *GSMA Intelligence* (June 2015),
+[^07-part3_18]: T. Hatt, K. Okeleke and M. Meloan, ‘Closing the Coverage Gap: A View from Asia’, *GSMA Intelligence* (June 2015),
     https://gsmaintelligence.com/research/?file=e245c423854fcfd38eeae0a918cc91c8&download.
 
-[^19]: G. Goggin and J. Clark. ‘Mobile Phones and Community Development:
+[^07-part3_19]: G. Goggin and J. Clark. ‘Mobile Phones and Community Development:
     A Contact Zone between Media and Citizenship’, *Development in
     Practice* 19:4-5 (2009): 595.
 
-[^20]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
+[^07-part3_20]: Doron and Jeffrey, *The Great Indian Phone Book: How the Cheap
     Cell Phone Changes Business, Politics, and Daily Life*, p. 72.
 
-[^21]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
+[^07-part3_21]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
 
-[^22]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
+[^07-part3_22]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
 
-[^23]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
+[^07-part3_23]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 72.
 
-[^24]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 74.
+[^07-part3_24]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 74.
 
-[^25]: H. Galperin, and F. Bar, ‘The Microtelco Opportunity: Evidence
+[^07-part3_25]: H. Galperin, and F. Bar, ‘The Microtelco Opportunity: Evidence
     from Latin America’, *Information Technologies & International
     Development* 3.2 (2006): 73.
 
-[^26]: H. Galperin and J. Mariscal, ‘Digital Poverty: Latin American and
+[^07-part3_26]: H. Galperin and J. Mariscal, ‘Digital Poverty: Latin American and
     Caribbean Perspectives’, *Practical Publishing* (2007),
     http://www.idrc.ca/EN/Resources/Publications/openebooks/342-3/index.html,
     p. 96.
 
-[^27]: Such as the O3B non-geostationary satellites (backed by Google
+[^07-part3_27]: Such as the O3B non-geostationary satellites (backed by Google
     and other investors), which orbit close to earth and therefore offer
     low latency speeds – making voice connections acceptable – and fast
     loading for data services. O3B was designed to serve the ‘Other 3
@@ -1491,17 +1491,17 @@ book.
     satellite backhaul for mobile broadband in countries such as the
     Solomon Islands.
 
-[^28]: S. Corner, ‘Universal Telecommunications Services: A Brief
+[^07-part3_28]: S. Corner, ‘Universal Telecommunications Services: A Brief
     History and Analysis of the Issues Surrounding the New Australian
     Legislation on the Universal Service Obligation’,
     *Telecommunications Journal of Australia* 62.2 (2012): 22.
 
-[^29]: Corner, ‘Universal Telecommunications Services: A Brief History
+[^07-part3_29]: Corner, ‘Universal Telecommunications Services: A Brief History
     and Analysis of the Issues Surrounding the New Australian
     Legislation on the Universal Service Obligation’; S. Davies, *Urban Based Support for Rural and Remote Australian
     Telecommunications*, Broadband for the Bush Alliance, 2014.
 
-[^30]: K.R. Wilson, J.S. Wallin and C. Reiser, ‘Social Stratification
+[^07-part3_30]: K.R. Wilson, J.S. Wallin and C. Reiser, ‘Social Stratification
     and the Digital Divide’, *Social Science Computer Review* 21.2
     (2003); J. Van Dijk and K. Hacker, ‘The Digital Divide as a Complex and
     Dynamic Phenomenon’, *The Information Society* 19.4 (2003); P. Norris. ‘The Worldwide Digital Divide’, Annual Meeting of the
@@ -1509,31 +1509,31 @@ book.
     and Political Science, 2000; N. Selwyn, ‘Reconsidering Political and Popular Understandings of
     the Digital Divide’, *New Media & Society* 6.3 (2004).
 
-[^31]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
+[^07-part3_31]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
     Reconfiguring Access’.
 
-[^32]: Helsper, *Digital Inclusion*, p. 9.
+[^07-part3_32]: Helsper, *Digital Inclusion*, p. 9.
 
-[^33]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
+[^07-part3_33]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
     Reconfiguring Access’, p. 33.
 
-[^34]: N. Biddle, *CAEPR Indigenous Population Project 2011 Census
+[^07-part3_34]: N. Biddle, *CAEPR Indigenous Population Project 2011 Census
     Papers*, Canberra: ANU Centre for Aboriginal Economic Policy
     Research, 2013.
 
-[^35]: Australian Bureau of Statistics, ‘Patterns of Internet Access in
+[^07-part3_35]: Australian Bureau of Statistics, ‘Patterns of Internet Access in
     Australia’,
     http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0.55.001/.
 
-[^36]: Australian Bureau of Statistics, ‘Patterns of Internet Access in
+[^07-part3_36]: Australian Bureau of Statistics, ‘Patterns of Internet Access in
     Australia’.
 
-[^37]: It is possible to do this analysis by aggregating populations at
+[^07-part3_37]: It is possible to do this analysis by aggregating populations at
     a more nuanced level by mobile reception coordinates rather than
     ILOCs. However, Telstra was unable to provide accurate coordinates
     for mobile coverage in 2011.
 
-[^38]: Peculiarities in the data relating to the type of internet
+[^07-part3_38]: Peculiarities in the data relating to the type of internet
     connection are likely to have been the result of the way in which
     the survey was administered. The census is completed in remote
     communities with the assistance of ABS staff, who administer the
@@ -1555,51 +1555,51 @@ book.
     and those without, the differences in internet adoption appear to be
     statistically significant.
 
-[^39]: Rennie et al., ‘At Home on the Outstation’, p. 590.
+[^07-part3_39]: Rennie et al., ‘At Home on the Outstation’, p. 590.
 
-[^40]: Central Australian Youth Link Up Service, *Proposal Re: Better
+[^07-part3_40]: Central Australian Youth Link Up Service, *Proposal Re: Better
     Way of Providing Broadband in Remote Communities*, Alice Springs:
     Tangentyere Council, 2014.
 
-[^41]: Rennie et al., ‘At Home on the Outstation’, pp. 591; Hogan et al., *Submission to the Inquiry into Issues Surrounding
+[^07-part3_41]: Rennie et al., ‘At Home on the Outstation’, pp. 591; Hogan et al., *Submission to the Inquiry into Issues Surrounding
     Cyber-Safety for Indigenous Australians*.
 
-[^42]: J. Finlayson and A.J. Auld, ‘Shoe or Stew?: Balancing Wants and
+[^07-part3_42]: J. Finlayson and A.J. Auld, ‘Shoe or Stew?: Balancing Wants and
     Needs in Indigenous Households: A Study of Appropriate Income
     Support Payments and Policies for Families’, ANU Centre for
     Aboriginal Economic Policy Research Discussion Paper No. 182, 1999; D.E. Smith, *Toward an Aboriginal Household Expenditure Survey:
     Conceptual, Methodological and Cultural Considerations*, Canberra:
     ANU Centre for Aboriginal Economic Policy Research, 1991, p. 13.
 
-[^43]: M. Hilbert, ‘The End Justifies the Definition: The Manifold
+[^07-part3_43]: M. Hilbert, ‘The End Justifies the Definition: The Manifold
     Outlooks on the Digital Divide and Their Practical Usefulness for
     Policy-Making’, *Telecommunications Policy* 35.8 (2011): 718.
 
-[^44]: F. Brady, L.E. Dyson and Wujal Wujal Aboriginal Shire Council,
+[^07-part3_44]: F. Brady, L.E. Dyson and Wujal Wujal Aboriginal Shire Council,
     *Report to Wujal Wujal Aboriginal Shire Council on Mobile Technology
     in the Bloomfield River Valley*, 2009, p. 396.
 
-[^45]: Helsper, *Digital Inclusion*.
+[^07-part3_45]: Helsper, *Digital Inclusion*.
 
-[^46]: Helsper, *Digital Inclusion*, p. 10-11.
+[^07-part3_46]: Helsper, *Digital Inclusion*, p. 10-11.
 
-[^47]: P.E. Earl, ‘Economics and Psychology: A Survey’, *The Economic
+[^07-part3_47]: P.E. Earl, ‘Economics and Psychology: A Survey’, *The Economic
     Journal* 100.402 (1990).
 
-[^48]: M.S. Granovetter, ‘The Strength of Weak Ties’, *American Journal
+[^07-part3_48]: M.S. Granovetter, ‘The Strength of Weak Ties’, *American Journal
     of Sociology* 78.6 (1973).
 
-[^49]: M. Woolcock and D. Narayan, ‘Social Capital: Implications for
+[^07-part3_49]: M. Woolcock and D. Narayan, ‘Social Capital: Implications for
     Development Theory, Research, and Policy’, *The World Bank Research
     Observer* 15.2 (2000).
 
-[^50]: Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth
+[^07-part3_50]: Kral, ‘Youth Media as Cultural Practice: Remote Indigenous Youth
     Speaking Out Loud’.
 
-[^51]: B. Crump, and A. McIlroy, ‘The Digital Divide: Why the
+[^07-part3_51]: B. Crump, and A. McIlroy, ‘The Digital Divide: Why the
     “Don’t-Want-Tos” Won’t Compute: Lessons from a New Zealand ICT
     Project’, *First Monday* 8.12 (2003).
 
-[^52]: B. Hunter, ‘Indigenous Social Exclusion: Insights and Challenges
+[^07-part3_52]: B. Hunter, ‘Indigenous Social Exclusion: Insights and Challenges
     for the Concept of Social Inclusion’, *Family Matters*, 82 (2009):
     52.

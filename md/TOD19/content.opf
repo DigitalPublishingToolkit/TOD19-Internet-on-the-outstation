@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:isbn:978-94-92302-07-6</dc:identifier>
+    <dc:title id="epub-title-1">The Internet on the Outstation</dc:title>
+    <dc:date id="epub-date">2016-05</dc:date>
+    <dc:language>en-US</dc:language>
+    <dc:creator id="epub-creator-1">Ellie Rennie, Eleanor Hogan, Robin Gregory, Andrew Crouch, Alyson Wright,
+    Julian Thomas</dc:creator>
+    <dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
+    <dc:contributor id="epub-contributor-2">Katja van Stiphout, Léna Robin</dc:contributor>
+    <dc:subject>internet, web, net, institute of network cultures, digital, media, research, network, culture, Ellie Rennie, Eleanor Hogan, Robin Gregory, Andrew Crouch, Alyson Wright, Julian Thomas, community, infrastructure, exploration, aboriginal, Australia, exclusion, social, access, outstation</dc:subject>
+    <dc:description>'Internet on the Outstation' provides a new take on the digital divide. Why do whole communities choose to go without the internet when the infrastructure for access is in place? Through an in-depth exploration of the digital practices occurring in Aboriginal households in remote central Australia, the authors address both the dynamics of internet adoption and the benefits that flow from its use. The book challenges us to think beyond the standard explanations for the digital divide, arguing that digital exclusion is not just another symptom of social exclusion. At its heart, 'Internet on the Outstation' is a compelling examination of equality and difference in the digital age, asking: Can internet access help resolve the disadvantages associated with remote living?</dc:description>
+    <dc:publisher>Institute of Network Cultures</dc:publisher>
+    <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
+    <meta name="cover" content="cover_jpg" />
+    <meta property="dcterms:modified">2016-06-06T12:24:08Z</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="style" href="stylesheet.css" media-type="text/css" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="title_page_xhtml" href="title_page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001_xhtml" href="ch001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002_xhtml" href="ch002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003_xhtml" href="ch003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004_xhtml" href="ch004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005_xhtml" href="ch005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006_xhtml" href="ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="ch007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008_xhtml" href="ch008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009_xhtml" href="ch009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010_xhtml" href="ch010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011_xhtml" href="ch011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012_xhtml" href="ch012.xhtml" media-type="application/xhtml+xml" />
+    <item properties="cover-image" id="cover_jpg" href="media/cover.jpg" media-type="image/jpeg" />
+    <item id="file13_tiff" href="media/file13.tiff" media-type="image/tiff" />
+    <item id="file12_tiff" href="media/file12.tiff" media-type="image/tiff" />
+    <item id="file11_tiff" href="media/file11.tiff" media-type="image/tiff" />
+    <item id="file10_tiff" href="media/file10.tiff" media-type="image/tiff" />
+    <item id="file9_tiff" href="media/file9.tiff" media-type="image/tiff" />
+    <item id="file8_tiff" href="media/file8.tiff" media-type="image/tiff" />
+    <item id="file7_tiff" href="media/file7.tiff" media-type="image/tiff" />
+    <item id="file6_tiff" href="media/file6.tiff" media-type="image/tiff" />
+    <item id="file5_tiff" href="media/file5.tiff" media-type="image/tiff" />
+    <item id="file4_tiff" href="media/file4.tiff" media-type="image/tiff" />
+    <item id="file3_tiff" href="media/file3.tiff" media-type="image/tiff" />
+    <item id="file2_tiff" href="media/file2.tiff" media-type="image/tiff" />
+    <item id="file1_tiff" href="media/file1.tiff" media-type="image/tiff" />
+    <item id="file0_png" href="media/file0.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover_xhtml" />
+    <itemref idref="title_page_xhtml" linear="no" />
+    <itemref idref="ch001_xhtml" />
+    <itemref idref="ch002_xhtml" />
+    <itemref idref="ch003_xhtml" />
+    <itemref idref="ch004_xhtml" />
+    <itemref idref="ch005_xhtml" />
+    <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
+    <itemref idref="ch008_xhtml" />
+    <itemref idref="ch009_xhtml" />
+    <itemref idref="ch010_xhtml" />
+    <itemref idref="ch011_xhtml" />
+    <itemref idref="ch012_xhtml" />
+  </spine>
+  <guide>
+    <reference type="toc" title="The Internet on the Outstation" href="nav.xhtml" />
+    <reference type="cover" title="Cover" href="cover.xhtml" />
+  </guide>
+</package>

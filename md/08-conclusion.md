@@ -86,7 +86,7 @@ their limited transport and telecommunications options. As very few
 organizations or agencies attempted to use online communication to reach
 the residents over the four-year period, we were unable to determine
 whether internet access can reduce the costs of service provision to
-outstations.[^1]
+outstations.[^08-conclusion_1]
 
 During the course of our research, cyber-bullying was reported within
 some central Australian communities and towns. Older generations found
@@ -132,7 +132,7 @@ permanent loss of internet access in some cases. For others, direct
 debits of large, unexpected amounts occurred if bills had been unpaid in
 previous months.
 
-Our research in Ali Curung,[^2] a community with mobile coverage,
+Our research in Ali Curung,[^08-conclusion_2] a community with mobile coverage,
 confirmed that people are prepared to pay for the internet if it suits
 them. All interviewees who were paying for internet access were paying
 for pre-paid mobile broadband, even though satellite internet was
@@ -280,7 +280,7 @@ groups and the organizations that are working at solving communication
 barriers (such as the Australian Communications Consumer Action Network
 and the Indigenous Remote Communications Association) is important, and
 yet there are few resources to enable such collaboration and knowledge
-exchange.[^3] As for research, on-the-ground experience is necessary
+exchange.[^08-conclusion_3] As for research, on-the-ground experience is necessary
 when it comes to understanding the digital divide. There is a serious
 need for ongoing collection of data on remote community ICT
 infrastructures, as well as basic consumer information including
@@ -329,13 +329,13 @@ planning on getting an internet connection in the near future. Rhonda’s
 family were now making their own plans for enterprise at Kwale Kwale,
 and her mother had recently purchased nine baby peacocks.  
 
-[^1]: With the exception of the Central Land Council (CLC).
+[^08-conclusion_1]: With the exception of the Central Land Council (CLC).
 
-[^2]: The research involved interviews with approximately one hundred people in
+[^08-conclusion_2]: The research involved interviews with approximately one hundred people in
     Ali Curung in late 2013, with representation from half of all
     households.
 
-[^3]: The Broadband for the Bush network is the one forum where this
+[^08-conclusion_3]: The Broadband for the Bush network is the one forum where this
     occurs (www.broadbandforthebush.com.au). All four partners in the
     Home Internet Project were involved in Broadband for the Bush during
     the life of the project, for the purposes of knowledge sharing and

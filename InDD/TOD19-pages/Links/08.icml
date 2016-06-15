@@ -125,9 +125,16 @@
 		</CompositeFontEntry>
 	</CompositeFont>
 	<RootCharacterStyleGroup Self="u65">
-		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default" FontStyle="Regular">
 			<Properties>
 				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Superscript" Imported="false" KeyboardShortcut="0 0" Name="Superscript" Position="Superscript">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
@@ -136,6 +143,12 @@
 				<BasedOn type="object">CharacterStyle/Default</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<AppliedFont type="string">HK Grotesk</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Style de caractère 1" Imported="false" KeyboardShortcut="0 0" Name="Style de caractère 1" HorizontalScale="100" BaselineShift="0" VerticalScale="100" Skew="0">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
 	</RootCharacterStyleGroup>
@@ -159,6 +172,12 @@
 				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
+				<AllGREPStyles type="list">
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/Style de caractère 1</AppliedCharacterStyle>
+						<GrepExpression type="string">\d</GrepExpression>
+					</ListItem>
+				</AllGREPStyles>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" KeyboardShortcut="0 0" FontStyle="Bold" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline">
@@ -259,10 +278,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Many of the outstation residents believed there are benefits to being online. Everyday uses such as online banking and shopping can provide a significant level of agency and autonomy for individuals. Checking bank balances and welfare payments emerged as one of the most popular uses of the internet. Internet shopping, entertainment and staying in touch with family via social networking were also common – made more significant when we consider how difficult it can be for those living in remote communities to undertake these activities through other means, given their limited transport and telecommunications options. As very few organizations or agencies attempted to use online communication to reach the residents over the four-year period, we were unable to determine whether internet access can reduce the costs of service provision to outstations.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -271,6 +290,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -296,14 +317,11 @@
 				<Br/>
 				<Content>Our research in Ali Curung,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	The research involved interviews with approximately one hundred people in Ali Curung in late 2013, with representation from half of all households.</Content>
+							<Content><?ACE 4?>	The research involved interviews with approximately one hundred people in Ali Curung in late 2013, with representation from half of all households.</Content>
 							<Br/>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
@@ -380,10 +398,10 @@
 				<Br/>
 				<Content>At a more fundamental level, issues such as internet infrastructure, affordability and programs are important, not just for the daily communication activities of those who access these services, but also for the services, shires, schools and organizations that interact with communities on an ongoing basis. Nurturing connections between these groups and the organizations that are working at solving communication barriers (such as the Australian Communications Consumer Action Network and the Indigenous Remote Communications Association) is important, and yet there are few resources to enable such collaboration and knowledge exchange.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">

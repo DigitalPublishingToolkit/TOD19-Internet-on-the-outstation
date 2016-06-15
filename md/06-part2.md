@@ -8,7 +8,7 @@ and higher bandwidth services, such as videoconferencing, will be via
 **public online access centres**. Public access is more affordable and
 is well suited to the generally-communal lifestyle of these remote
 communities. It also provides a central point for community support and
-training’ (emphasis in original).[^1] The notion that Aboriginal culture
+training’ (emphasis in original).[^06-part2_1] The notion that Aboriginal culture
 requires shared facilities was carried through in a number of subsequent
 studies. Anne Daly, at the Centre for Aboriginal Economic Policy
 Research, examined 2001 census data, in which she found that while in
@@ -16,20 +16,20 @@ Research, examined 2001 census data, in which she found that while in
 access, only 10 per cent of the Indigenous population did. This
 supported the Telecommunications Action Plan for Remote and Indigenous
 Communities (TAPRIC) findings that computer centers could help overcome
-the digital divide.[^2]
+the digital divide.[^06-part2_2]
 
 A study of information and communications technology (ICT) centers by
 McCallum and Papandrea found that ‘home use is neither an attainable,
 nor necessarily desirable, outcome for most remote Indigenous
 communities. In the remote Indigenous communities that this study
 visited, the internet was considered to be a community rather than an
-individual facility, to be managed and used by the whole community’.[^3]
+individual facility, to be managed and used by the whole community’.[^06-part2_3]
 In its marketing plan setting out the equipment, goods and services that
 Telstra will supply in fulfillment of the Universal Service Obligation
 (USO) throughout Australia, Telstra stated that ‘the notion of “shared
 resources” plays a stronger role in many remote Indigenous communities
 than in other areas. This means that the provision of “shared
-phones” such as payphones can be a more appropriate solution’.[^4]
+phones” such as payphones can be a more appropriate solution’.[^06-part2_4]
 
 We found no evidence that the ‘generally communal lifestyle’ of
 remote-living Aboriginal people negates home internet. In this chapter,
@@ -50,11 +50,11 @@ matter of survival in a situation of scarcity and unpredictable food
 supply. Today, demand sharing fulfills social obligations, and acts as a
 levelling mechanism, whereby those with more resources give, when asked,
 to those with less. The considered way in which this occurs can be
-described as a ‘calculus of reciprocity’.[^5] Anthropologist L.R. Hiatt
+described as a ‘calculus of reciprocity’.[^06-part2_5] Anthropologist L.R. Hiatt
 writes: ‘Probably everywhere in Aboriginal Australia the highest secular
 value is generosity. Readiness to share with others is the main measure
 of a man’s goodness, and hospitality an essential source of his
-self-esteem’.[^6]
+self-esteem’.[^06-part2_6]
 
 Such a worldview may result in ICTs being valued differently from in the
 mainstream, which in turn may influence adoption and usage. Nicholls’
@@ -62,7 +62,7 @@ research, for example, found that the Yolngu town of Ramingining
 ‘definitely’ did not ‘revolve around a computer on a desk’, but more
 recent observations in Ngaanyatjarra communities suggest that personal
 computers are becoming increasingly important in remote communities,
-second only to cars, as the most valued commodity.[^7]
+second only to cars, as the most valued commodity.[^06-part2_7]
 
 Understanding the relative importance placed on the maintenance of
 social relationships and concern for others, in contrast to that placed
@@ -91,40 +91,40 @@ practice of demand sharing redistribute resources, but various social
 alliances and networks are created and maintained in the process, while
 the autonomy of the giver is acknowledged. In this way, demand sharing
 is integral to the tension between relatedness and individual autonomy
-that underpins all Aboriginal social practices.[^8]
+that underpins all Aboriginal social practices.[^06-part2_8]
 
 ### Aboriginal Ownership and Demand Sharing: Relatedness and Autonomy
 
 In recent times, a popular mainstream view has emerged that all demand
 sharing equates to ‘humbugging’: begging relatives to give or share
-resources.[^9] This view provides a limited and erroneous understanding
+resources.[^06-part2_9] This view provides a limited and erroneous understanding
 of the true nature and role that demand sharing plays in maintaining
 Aboriginal socio-economic systems. Drawing on his work amongst the
 Pintupi people in the Western desert region, anthropologist Fred Myers
 describes demand sharing as a form of equivalent exchange:
 
->Those who live together must, according to Pintupi notions, ‘help each other’. This means that, upon demand at least, co-residents should be willing to give food, clothing, and other material items or, as the case may be now, provide transportation or labor. In Pintupi understanding, the distribution of valued objects and services reflects and creates relatedness. Thus, they insist, those who live – or have regularly lived – together are *walytja*,[^10] what we can translate as ‘relatives’ or ‘kin’. They must help each other, and such help, once given, should be reciprocated.[^11]
+>Those who live together must, according to Pintupi notions, ‘help each other’. This means that, upon demand at least, co-residents should be willing to give food, clothing, and other material items or, as the case may be now, provide transportation or labor. In Pintupi understanding, the distribution of valued objects and services reflects and creates relatedness. Thus, they insist, those who live – or have regularly lived – together are *walytja*,[^06-part2_10] what we can translate as ‘relatives’ or ‘kin’. They must help each other, and such help, once given, should be reciprocated.[^06-part2_11]
 
 Myers also notes that a wide range of relationships were conceptualized
 by Pintupi in terms of their own concept or metaphor of *kanyininpa*, a
 word used to designate the ‘having’ (as in possession) or ‘holding’ of
-an object.[^12] Similarly, the term *walytja* refers to a sense of
+an object.[^06-part2_12] Similarly, the term *walytja* refers to a sense of
 belonging or shared identity, and could be used in relation to
 possessions, kin, ‘one’s own (my own) and oneself, as well as to refer
-to a wider sense of belonging.[^13] Here the notion of ownership
+to a wider sense of belonging.[^06-part2_13] Here the notion of ownership
 translates into ‘identification’, and provides a sense that rights to
 objects are (and should be) more widely distributed to include others as
-co-owners.[^14]
+co-owners.[^06-part2_14]
 
 At the broader level, Myers’ work highlights a general attitude towards
 personal possessions amongst the Pintupi: ‘property’, regardless of what
 it cost, was considered replaceable, and if faced with a choice of
 caring for property or caring for people, they preferred to invest in
-the latter.[^15] Indeed, the Pintupi saw non-Aboriginal people as more
+the latter.[^06-part2_15] Indeed, the Pintupi saw non-Aboriginal people as more
 concerned with the accumulation of individual wealth, money and objects
-than with their relationships to kin, family and friends.[^16] Amongst
+than with their relationships to kin, family and friends.[^06-part2_16] Amongst
 the Pintupi, relationships with relatives were more highly valued than
-ordinary possessions.[^17] For them, ownership of objects provided a
+ordinary possessions.[^06-part2_17] For them, ownership of objects provided a
 mechanism by which social relationships were maintained; the object
 itself was of less importance than the opportunity to ‘give’ or
 participate in the relationship.
@@ -134,21 +134,21 @@ found that demand sharing did not indicate a system of communal property
 or an absence of personal ownership. Rather, obligations existed because
 highly differentiated notions of personal ownership were recognized, and
 because it was how an individual shared what she or he had rights over
-that defined that person.[^18] The autonomy of the individual was
+that defined that person.[^06-part2_18] The autonomy of the individual was
 maintained in this way within social networks. Many researchers have
 noted the tension that exists between relatedness and autonomy, and that
 strategies exist that one may employ to look after one’s own interests
 so items are not parted with indiscriminately. Tonkinson, for example,
 observed that some individuals carried two tobacco tins, one of which
 was always kept empty as proof that they had no tobacco to give when
-asked.[^19] Myers also made similar observations during his research
+asked.[^06-part2_19] Myers also made similar observations during his research
 with the Pintupi. He noted that people sometimes hid possessions in
 order to avoid having to relinquish anything when asked; thus one could
-express compassion without physically giving.[^20] However, it was
+express compassion without physically giving.[^06-part2_20] However, it was
 important to maintain a fairly balanced account in one’s transactions
-with others.[^21] Sansom recorded that people would sometimes declare
+with others.[^06-part2_21] Sansom recorded that people would sometimes declare
 items to be ‘private’: that is, off-limits to normal demands from
-kin.[^22]
+kin.[^06-part2_22]
 
 ### Ownership and the Role of Passwords and Padlocks
 
@@ -229,7 +229,7 @@ these concepts extend beyond simple Western legal notions. Aboriginal
 ownership of land is conceptualized according to connections to totemic
 ancestors who created the landscape, kin relations to these ancestors,
 and among owners, and such relationships are framed in terms of
-inalienable connections to places, rights and obligations.[^23] By
+inalienable connections to places, rights and obligations.[^06-part2_23] By
 contrast, the ownership of consumable and moveable items – such as
 computers and television sets – is subject to demand sharing, and is not
 thought of as an inalienable right, although personal ownership of
@@ -273,7 +273,7 @@ example relates to contemporary Western material culture,
 anthropologists have also documented personal ownership of non-Western
 or traditional objects such as the *wanari* (short stout digging sticks)
 used by Pintupi women, which suggests that personal ownership is not
-necessarily a post-contact phenomenon.[^24]
+necessarily a post-contact phenomenon.[^06-part2_24]
 
 Other residents expressed their irritation about this situation to us,
 initially in veiled, oblique terms, then more openly. In one instance, a
@@ -294,7 +294,7 @@ their monopolization of these items caused amongst other community
 members reflects findings within the anthropological literature that
 although items non-Aboriginal people own or control within a community
 are not usually subject to the same level of demand sharing, they may
-nevertheless still be used to test social relationships.[^25] This
+nevertheless still be used to test social relationships.[^06-part2_25] This
 observation is particularly relevant here, given that Western legal
 ownership of the computers initially remained with an organization – the
 Centre for Appropriate Technology (CAT) – prior to being transferred to
@@ -306,7 +306,7 @@ private or community vehicle use, because it was seen as being owned by
 did not mean there weren’t any conflicts about the school 4WD, or that
 local Aboriginal people did not exert some form of claim over the
 vehicle, but the conflict related to usage constraints, such as the
-number of passengers, rather than ownership.[^26]
+number of passengers, rather than ownership.[^06-part2_26]
 
 Interestingly, the mother of the woman who worked at the Women’s Centre,
 who was also one of the senior woman’s daughters, sometimes used the
@@ -339,11 +339,11 @@ example, observed that specific bedrooms in a house were not ‘owned’ in
 the exclusive Western sense; rather, each room would be primarily
 associated with a particular person, who would nevertheless share access
 and use of it with others, usually those of the *jilimi* (women’s camp)
-or close relatives.[^27] When that individual moved to another camp, the
+or close relatives.[^06-part2_27] When that individual moved to another camp, the
 room then became associated with someone else. An association with a
 particular room did not confer any additional rights or power over other
 spaces in the house or *jilimi*; nor did it add any personal standing to
-that individual.[^28] In the same way, although the couple was primarily
+that individual.[^06-part2_28] In the same way, although the couple was primarily
 associated with the computer and other facilities in the Women’s Centre,
 they did not have any exclusive rights to them once they had left the
 community.
@@ -388,14 +388,14 @@ the realm of social relationships and associated obligations, and was
 essentially ‘off-limits’ to others. However, ownership of such items may
 move back and forth between the private and public domains over a period
 of time, according to the location (whether it is a private or public
-space) and other circumstances.[^29]
+space) and other circumstances.[^06-part2_29]
 
 The fact that the computer was in a public space may have signalled the
 potential for a change in ownership once the woman had left the
 community. The anthropological literature also distinguishes between the
 dynamics surrounding ownership of ‘high end’ items, such as vehicles, and scarce or ‘luxury’ goods, compared with those considered for ‘everyday’
 use. Myers observed that Pintupi people distinguished between private
-and community property in relation to vehicle ownership.[^30] ‘Private’
+and community property in relation to vehicle ownership.[^06-part2_30] ‘Private’
 vehicles were those purchased with an individual’s own money, with the
 result that he or she was recognized as the proprietor of that vehicle
 with the right to make decisions regarding its use. In contrast,
@@ -415,9 +415,9 @@ such as everyday items found in houses, suggests that in addition to an
 item’s function, its cost and/or relative availability may be a factor
 in determining whether or not ownership remains with the individual
 purchaser, or whether the item becomes part of the assemblage owned by
-the household.[^31] Amongst the Alyawarr, ownership and control of
+the household.[^06-part2_31] Amongst the Alyawarr, ownership and control of
 structural materials was usually vested in the household unit as long as
-the materials were being used.[^32] Once community members perceived
+the materials were being used.[^06-part2_32] Once community members perceived
 such items to be abandoned, they were available for reclamation by
 anyone. Items that were costly but relatively portable, such as tents,
 tended to remain the property of an individual or a household for as
@@ -549,14 +549,14 @@ of the latter, Taylor observed a change in attitudes towards material
 possessions, from relatively frugal and generally confined to simple
 items (i.e. clothing, bedding, tools, weapons, utensils) to a desire for
 new furniture, furnishings and household appliances once people occupied
-permanent dwellings.[^33]
+permanent dwellings.[^06-part2_33]
 
 According to the anthropological literature, objects may be valued for
 various reasons, not all necessarily related solely to usage. Tanner
 suggests that ‘defining modes of value for digital culture that are not
 solely economically driven but which do contain indicators of value that
 can be measured and can demonstrate change’ is important when
-considering the impact of digital resources.[^34] He identifies four
+considering the impact of digital resources.[^06-part2_34] He identifies four
 values in addition to utility: existence and/or prestige, education,
 community (being part of a community that is afforded by the digital
 resource) and inheritance/bequest value. Additionally, values are not
@@ -565,13 +565,13 @@ of certain objects may alter over time, reflecting new uses and forms of
 political control. Davenport has observed that particular objects can
 possess multiple values depending on circumstances, and that these
 values are not limited to those held by the owner or end user, but may
-be held collectively by a community.[^35] Myers notes that the value
+be held collectively by a community.[^06-part2_35] Myers notes that the value
 possessed by objects is characterized by what he called ‘slippage’, in
 which the relative value of the object (whether quantitative or
-qualitative) declines.[^36] Regarding computers, Brown et al. suggest
+qualitative) declines.[^06-part2_36] Regarding computers, Brown et al. suggest
 that they change from being considered luxury items to being thought of
 as necessities, which in turn may also influence adoption and
-usage.[^37]
+usage.[^06-part2_37]
 
 In the case of the three communities, we considered the nature and
 extent to which participants valued the computers and internet access,
@@ -618,7 +618,7 @@ progressed and once funding support ended.
 Psychologists Pierce and colleagues suggest that feelings of ownership
 are created first by controlling an object through possession, then by
 becoming familiar with it through actual or imagined use, and/or
-investing the self into it (e.g. through identification).[^38] As an
+investing the self into it (e.g. through identification).[^06-part2_38] As an
 indication of the potential value people placed on their desktop
 computers, we examined how the residents personalized them, for example
 by posting photographs, usually of family members, as wallpaper and/or
@@ -653,10 +653,10 @@ adept users.
 These perceptions of the computers’ comparative value did not appear to
 reflect the phenomenon known as ‘source dependence’, either, whereby
 people become attached to objects because of how they were obtained,
-such as whether they’d paid for them or received them by chance.[^39]
+such as whether they’d paid for them or received them by chance.[^06-part2_39]
 Specifically, source dependence is where objects are more highly valued
 when people believe that they have obtained them as a result of their
-own efforts.[^40] According to this logic, we would expect most
+own efforts.[^06-part2_40] According to this logic, we would expect most
 community members to value TVs more highly than the computers, because
 they’d bought the televisions themselves, but this was not always the
 case. This preference for the computers may reflect individual personal
@@ -737,7 +737,7 @@ living in outstations are expected to move to larger towns to reduce
 public expense. As discussed in previous chapters, researchers have been
 divided over the benefits of staying on country versus relocation, and
 the cultural and wellbeing advantages associated with each
-scenario.[^41]
+scenario.[^06-part2_41]
 
 Our particular interest was whether broadband delivery of services and
 the conveniences of online transactions might alleviate some of the
@@ -746,7 +746,7 @@ could it minimize the expense of travelling into town, or overcome
 difficulties in carrying out personal or household administration?
 Rather than treat the issue of remote living as one of citizenry rights
 and entitlements, we focused instead on the more mundane dimensions of
-remote community life.[^42] Understanding the tangible benefits of
+remote community life.[^06-part2_42] Understanding the tangible benefits of
 internet use required knowing the extent to which residents moved
 between town and community, why they did so, and whether internet access
 and use altered patterns of movement in and out of each locality.
@@ -795,7 +795,7 @@ town as often now that they had computers.
 For Imangara residents, goods purchased at the station store and at
 nearby Ali Curung were expensive. A 2009 Commonwealth inquiry into
 remote community stores reported that a basket of food cost around 30
-per cent more in very remote communities than in the cities.[^43]
+per cent more in very remote communities than in the cities.[^06-part2_43]
 Although freight refrigeration might explain the margin on food, even
 non-perishable goods tend to be more expensive. On one trip, Mary, a
 grandmother, complained to us about the cost of a child’s mattress,
@@ -815,7 +815,7 @@ because it was ‘easier than going into town; \[there was\] more choice.’
 A man at Imangara even bought a car from Adelaide on the website Gumtree
 fairly early in the project. Other community members followed suit; they
 were able to shop around for vehicles online, avoiding high mark-ups on
-cars at ‘shark’ dealers in town known to exploit Aboriginal people.[^44]
+cars at ‘shark’ dealers in town known to exploit Aboriginal people.[^06-part2_44]
 
 Some participants wanted to learn how to shop online, but ran into
 difficulties because they didn’t have a debit or credit card, or they
@@ -866,7 +866,7 @@ occupied five houses in the community, initially moved out of
 Imangara – some to stay with relatives at 6 Mile at Ti Tree, and others to
 Utopia locations. The family’s relocation was part of the Alyawarr
 practice of memory and name suppression, a deliberate process of
-‘forgetting’ in order to cope with grief.[^45] Less than two months
+‘forgetting’ in order to cope with grief.[^06-part2_45] Less than two months
 later, the mother of the daughter also passed away. Around this time,
 the family returned to Imangara because the children were not happy at
 the Ti Tree school, where the other kids spoke a different language.
@@ -878,7 +878,7 @@ and remove the images, as they needed to avoid viewing images or reading
 the names of the deceased.
 
 The deaths in Imangara were a particularly tragic event that caused
-major changes to house occupancy.[^46] Other instances were practical
+major changes to house occupancy.[^06-part2_46] Other instances were practical
 and social rather than cultural. For instance, Mungalawurru residents
 were forced to stay in Tennant Creek for a stretch of time as the roads
 had flooded, and told us of being forced to walk the long distance into
@@ -895,7 +895,7 @@ interaction with the residents. As John Taylor writes, ‘Much temporary
 movement is generated by a spatial dichotomy between the concentration
 of services and dispersion of population, with the result that regional
 centers, especially in remote Australia, are net recipients of temporary
-migrants’.[^47] We observed that the house in a Tennant Creek town camp,
+migrants’.[^06-part2_47] We observed that the house in a Tennant Creek town camp,
 where a close relative of the Mungalawurru residents lived, was
 sometimes bursting at the seams with visitors from more remote areas,
 including the Mungalawurru family members.
@@ -912,9 +912,9 @@ relatively low rates of out-migration by young people from remote and
 very remote Aboriginal settlements to ‘a cultural setting that places
 emphasis on maintaining extended kinship ties’ in which the
 establishment of independent living arrangements is ‘likely to be less
-of a stimulus for migration among young Aboriginal adults’.[^48] Housing
+of a stimulus for migration among young Aboriginal adults’.[^06-part2_48] Housing
 shortages, as well as high dependence on rental housing, are further
-constraints.[^49]
+constraints.[^06-part2_49]
 
 We discovered a clear association between residents’ degree of mobility
 and the likelihood that they would take up ownership of, and make use
@@ -1123,7 +1123,7 @@ emerged within the region during this time.
 As discussed in Chapter 2, statistical analysis of internet uses, such
 as that conducted in the Netherlands by Van Deursen and Van Dijk, have
 set out to determine whether there are correlations in what people use
-the internet for and factors such as age, gender and income.[^50] They
+the internet for and factors such as age, gender and income.[^06-part2_50] They
 found that those higher up the ladder are likely to undertake
 self-development online activities, and thus may profit more from
 internet use.
@@ -1134,7 +1134,7 @@ individual’s life. As Helsper writes, highlighting the complexity of the
 area: ‘Only when digital experiences are relevant to everyday
 situations, if they are positive in nature and only if the person feels
 that online actions lead to the reactions/actions of others, will
-digital inclusion influence social inclusion.’[^51]
+digital inclusion influence social inclusion.’[^06-part2_51]
 
 When we asked community members in our initial discussions how they
 would find out simple information such as weather forecasts, road
@@ -1225,9 +1225,9 @@ certain uses in particular localities. For instance, the cultural
 archive Ara Irititja appears popular amongst the Ngaanyatjarra,
 Pitjantjatjara and Yankunytjatjara people for whom it was created, but
 no such online archive exists for the language groups we were working
-with.[^52] As discussed further in the next chapter, Inge Kral observed
+with.[^06-part2_52] As discussed further in the next chapter, Inge Kral observed
 the popularity of GarageBand (sound mixing) software in Wingelina, where
-a media center was active in music development at the time.[^53] Other
+a media center was active in music development at the time.[^06-part2_53] Other
 programs have focused on the use of computers as part of diversionary
 youth programs. In Chapter 9, we discuss how internet use at the Papunya
 Computer Room differed from what we observed in the outstations,
@@ -1262,25 +1262,25 @@ significant, given that Aboriginal people living in remote areas are the
 most ‘underbanked’ in the country. A study by Vinita Godinho has looked
 at the reasons for underbanking, and found that money is regularly
 shared amongst a wide network of kin, and that many people see money as
-a problem, lacking the financial knowledge to control it.[^54] In
+a problem, lacking the financial knowledge to control it.[^06-part2_54] In
 addition, ‘Lower levels of access and usage of information and
 communications technology (ICT) combined with lower digital literacy
 further restrict Indigenous financial inclusion, by limiting their
-ability to access electronic banking delivery channels’.[^55]
+ability to access electronic banking delivery channels’.[^06-part2_55]
 
 In our first meetings with the communities, residents identified banking
 as one of the main services they’d like to access online. At the time,
 less than 20 per cent of participants had used internet banking, and
-around half expressed an interest in doing so.[^56] A woman who was
+around half expressed an interest in doing so.[^06-part2_56] A woman who was
 involved in a financial literacy organization did not know how to use
 internet banking, but wanted to learn. By the end of the project, all
 regular adult internet users were using online banking. Even an old man,
 who had shown no interest in computers and declined the offer of having
 one in his house, was asking for assistance from others for
-money-related purposes.[^57]
+money-related purposes.[^06-part2_57]
 
 When we commenced the project, those living in remote communities were
-known to be paying more for banking than other Australians.[^58] A 2011
+known to be paying more for banking than other Australians.[^06-part2_58] A 2011
 Department of Treasury Taskforce on ATMs in remote communities found
 that there was a tendency amongst this population to check balances and
 make withdrawals frequently, and that this resulted in significant
@@ -1293,10 +1293,10 @@ that people were often checking balances and making withdrawals for
 various reasons, including the inability to store food and therefore a
 need to shop on a daily basis, the obligation to give money to relatives
 acting as a disincentive to hold large amounts of money at a time, and
-low withdrawal limits on ATMs if cash was in short supply.[^59] The
+low withdrawal limits on ATMs if cash was in short supply.[^06-part2_59] The
 taskforce also found ‘many more balance enquiries relative to
 withdrawals than the Australian average’, which was likely caused by not
-knowing when Centrelink payments or direct debits would be made.[^60]
+knowing when Centrelink payments or direct debits would be made.[^06-part2_60]
 The report noted that those living in remote communities were either
 unable or unwilling to use internet banking. As a result of the
 taskforce, the Australian Bankers’ Association put forward a proposal to
@@ -1351,10 +1351,10 @@ of measures such as the BasicsCard through the Northern Territory
 Intervention increased the ‘forms of sociocultural surveillance and
 policing that seek to instil new cultural habits’ within Indigenous
 lives in an ‘urgent need to normalise Indigenous familial relations of
-reciprocity’.[^61] At a more general level, governments have
+reciprocity’.[^06-part2_61] At a more general level, governments have
 historically led the digital divide agenda. It aligns with efficiency
 measures, as well as an internal bureaucratic push for data-driven
-policy.[^62] These motivations spur a wide-reaching range of
+policy.[^06-part2_62] These motivations spur a wide-reaching range of
 technological changes that do not always serve the citizens whom they
 are purportedly supposed to be helping.
 
@@ -1366,7 +1366,7 @@ of the introduction of cheap mobile phones to India, Robin Jeffrey and
 Assa Doron observe how ‘the mobile phone offered greater potential to
 connect people regularly to state institutions’, and that it ‘drew
 India’s people into relations with the record-keeping capitalist state
-more comprehensively than any previous mechanism or technology’.[^63]
+more comprehensively than any previous mechanism or technology’.[^06-part2_63]
 This is offset, however, by the democratic nature of mobile phones in
 enabling vast numbers of people, from across different classes and
 hierarchies, and different genders, to become part of a network society.
@@ -1374,17 +1374,17 @@ Jeffrey and Doron stress the democratization of information-sharing that
 has become possible through this cheap and simple form of ICT access, as
 well as other capabilities such as increased capacity to connect,
 mobilize and broadcast, improving citizens’ ability to advocate for
-improved governance.[^64] While ‘none of this \[has\] overturned power
+improved governance.[^06-part2_64] While ‘none of this \[has\] overturned power
 structures or ironed out inequality yet’, Jeffrey and Doron comment that
 ‘it did make conditions “faster, more efficient and” – a matter of hope
-and promise – “more democratic”’.[^65]
+and promise – “more democratic”’.[^06-part2_65]
 
 ### Enterprise Development
 
 Altman describes the ‘hybrid’ set of economic and administrative
 variables underpinning the fabric of outstation settlements as a
 combination of state sector, private sector and customary economic
-activities (for instance, land management and visual art).[^66]
+activities (for instance, land management and visual art).[^06-part2_66]
 
 The hybrid economy was visible within all three communities insofar as
 residents supported themselves on a mixture of social security payments
@@ -1415,7 +1415,7 @@ his computer, and when the live-in visitor moved on, the man did not use
 the computer at all. While individuals mentioned using the computer and
 printer for individual and family-oriented purposes such as printing out
 ‘kids’ stories, put\[ting\] them in folders’, and or historical
-documents they found on the net,[^67] very few reported using the
+documents they found on the net,[^06-part2_67] very few reported using the
 computer equipment in a work-related context, such as for printing out
 spread-sheets.
 
@@ -1485,7 +1485,7 @@ ways in which some communities are actively pursuing enterprise and
 sustainability, in this case with assistance from willing workers and
 missionaries. As mentioned previously, downloading Aboriginal gospel
 music was popular in both Imangara and Mungalawurru, and the influence
-of various Christian churches was apparent throughout the region.[^68]
+of various Christian churches was apparent throughout the region.[^06-part2_68]
 
 Meanwhile, the man living on the far side of the community – the only
 resident who had his own computer and internet when we commenced – had
@@ -1530,11 +1530,11 @@ outside the communities with functional email accounts.
 Given that the use of email is somewhat waning as a form of online
 communication, it is more likely that social media will be the dominant
 means of connecting with outside networks and finding information,
-particularly amongst younger people.[^69] Use of social media in the
+particularly amongst younger people.[^06-part2_69] Use of social media in the
 project was fairly modest. While social media users reported spending
 significant amounts of time on Facebook, only ten community members said
 they regularly accessed Facebook and other social networking sites such
-as Divas Chat,[^70] and several more said they wished to learn, or had
+as Divas Chat,[^06-part2_70] and several more said they wished to learn, or had
 forgotten how to use, social media. Unsurprisingly, social media users
 were also youthful: most were women aged 18–29 years, plus a man in the
 same age group, a teenage girl and two women in their 30s.
@@ -1552,10 +1552,10 @@ people in six central Australian remote communities, including Ali
 Curung and Papunya, 37 per cent of participants ‘claimed they/and or
 their family members enjoy using social media for keeping in touch with
 friends and family, while 40 per cent claim they do not know why people
-like it or find it useful’.[^71] When we discussed ICT use with Ali
+like it or find it useful’.[^06-part2_71] When we discussed ICT use with Ali
 Curung community members in October 2013, roughly half of those we
 interviewed who were using the internet at the time said they used a
-social media site such as Facebook or Divas Chat.[^72] A woman told us
+social media site such as Facebook or Divas Chat.[^06-part2_72] A woman told us
 that she would often ask neighbours via Facebook whether they had any
 sugar or tea rather than walk over to their house.
 
@@ -1575,10 +1575,10 @@ of adult Australians nationally’. At 44 per cent, Facebook usage amongst
 remote Indigenous people was ‘slightly above the overall national
 average’, even though home computer usage was low, and ADSL was often
 unavailable: people generally accessed the internet on mobile
-phones.[^73] Urban Indigenous scholar Bronwyn Carlson has also
+phones.[^06-part2_73] Urban Indigenous scholar Bronwyn Carlson has also
 documented an increasing trend amongst Indigenous Australians to use
 Facebook ‘to build, display, and perform Aboriginal identities’, as a
-‘key self-representational tool’.[^74]
+‘key self-representational tool’.[^06-part2_74]
 
 ### Kids and ICT Usage
 
@@ -1598,7 +1598,7 @@ Once the computers were installed, adults had mixed responses to
 children’s use of them, some expressing surprise at their aptitude on
 the computers, others complaining about time-wasting. Adults described
 the children using the computers for both educational and entertainment
-purposes, including playing games, internet browsing, Indigitube,[^75]
+purposes, including playing games, internet browsing, Indigitube,[^06-part2_75]
 downloading photos and drawing pictures. Playing games was by far the
 most popular use (50 per cent) of the computers for children, with
 frequent mentions of educational games, particularly a maths game. Young
@@ -1623,7 +1623,7 @@ to ‘manage power use’ as a result of kids’ frequent computer use. As
 part of its Codey cybersmart project, arts provider Barkly Arts produced
 an educational poster captioned ‘Plugging in your phone at home to get
 on the Internet uses power and costs money. Power at home is for
-everyone to share and must be respected.’[^76] As discussed in Chapter
+everyone to share and must be respected.’[^06-part2_76] As discussed in Chapter
 3, towards the end of the project, people commented that they’d put
 passwords on their computers to regulate kids’, as well as visitors’ and
 other residents’ use of them, so that they would not use up all the
@@ -1641,7 +1641,7 @@ to their quite strong opinions about time-wasting activities. By
 contrast, a 2010 report commissioned by the Australian Media and
 Communications Authority (ACMA) found that 71 per cent of Australian
 parents ‘were concerned about cyber-safety, with 32% of this group
-reporting that they were “very concerned”’.[^77] Notably, most
+reporting that they were “very concerned”’.[^06-part2_77] Notably, most
 Australian parents were regularly using the internet (88 per cent) and
 accessing the internet from home at least several times a week (81 per
 cent) in comparison with the outstation residents at that time. It was
@@ -1651,10 +1651,10 @@ main reason for their lack of concern about cyber-safety.
 The term ‘cyber-safety’ encompasses the protection of internet users
 from online risks and security breaches such as ‘exposure to illegal or
 inappropriate material, stranger danger, identity theft, invasion of
-privacy, harassment and cyber-bullying’.[^78] Cyber-bullying refers more
+privacy, harassment and cyber-bullying’.[^06-part2_78] Cyber-bullying refers more
 specifically to incidents of harassment, usually involving sending
 messages (text and images) via the internet or mobile phones to other
-parties.[^79] While the more dramatic and disturbing aspects of
+parties.[^06-part2_79] While the more dramatic and disturbing aspects of
 cyber-safety are often quick to capture public attention, these are
 symptomatic of a range of issues relating to online literacy.
 
@@ -1663,15 +1663,15 @@ cyber-safety issues in remote Aboriginal communities, although there is
 a growing body of national and international academic and policy
 literature, such as *EU Kids Online* and its Australian counterpart, *AU
 Kids Online*, and reports by the Australian government’s Joint Select
-Committee on Cyber-Safety.[^80] Some limited reporting on cyber-safety
+Committee on Cyber-Safety.[^06-part2_80] Some limited reporting on cyber-safety
 in remote northern Australia appears in the Commonwealth Department of
 Families, Housing, Community Services and Indigenous Affairs (FaHCSIA)’s
 *Community Safety and Wellbeing Research Study*, which surveyed
 seventeen Aboriginal communities across the Northern Territory between
 December 2010 and June 2011, with 76 per cent of respondents classifying
-nasty phone texts as a ‘very big’ or ‘big’ problem.[^81] Similarly,
+nasty phone texts as a ‘very big’ or ‘big’ problem.[^06-part2_81] Similarly,
 RIPIA’s *Cyber Safety Program Report* identified ‘swearing and
-arguments’ online as the most common cyber-safety-related problem.[^82]
+arguments’ online as the most common cyber-safety-related problem.[^06-part2_82]
 
 We did hear concern expressed about potential and actual outbreaks of
 cyber-bullying in central Australia. When we visited Papunya in May
@@ -1695,7 +1695,7 @@ situation was managed with the assistance of the Australian Federal
 Police and ISP to identify and close the social networking
 accounts of people sending offensive messages, and to appoint monitors
 (e.g. ‘Diva Cops’) in chat rooms to identify and report potential
-concerns.[^83]
+concerns.[^06-part2_83]
 
 At Ali Curung, the women who assisted us with our survey also expressed
 concern about cyber-bullying, commenting that it was a problem amongst
@@ -1728,7 +1728,7 @@ find out the footy scores, so keen were they to keep up with what was
 happening. There were also stories of inter-racial cyber-bullying
 erupting around tension at football matches, and of racist comments
 being posted on Facebook walls, especially under photos of different
-racial groups in Tennant Creek.[^84]
+racial groups in Tennant Creek.[^06-part2_84]
 
 To follow up on these concerns, we spoke to a number of professionals,
 including lawyers, police, teachers, youth workers and other community
@@ -1738,7 +1738,7 @@ communities in the Barkly region. Because of the high degree of
 sensitivity surrounding research using Indigenous subjects, and because
 of our experience in Ali Curung, we thought it was better to proceed by
 canvassing a group of professionals first to gauge how serious an issue
-cyber-bullying was in the area.[^85] We were interested in what forms it
+cyber-bullying was in the area.[^06-part2_85] We were interested in what forms it
 took (whether it was confined to bullying or took other forms like
 security threats), what responses had been developed, and what
 implications there might be for Aboriginal people’s access to the ICTs.
@@ -1768,12 +1768,12 @@ reported that cyber-bullying was ‘particularly problematic for young
 girls’, and that it emerged in contexts such as same-sex fights
 (including ‘jealousing’ fights between girls over boyfriends and boys
 teasing each other), between couples and amongst groups of young men and
-women in communities’.[^86] The RIPIA Report also identified ‘\[f\]emale
+women in communities’.[^06-part2_86] The RIPIA Report also identified ‘\[f\]emale
 dominated social networking service use’ as ‘the group most commonly
 experiencing problems’, with ‘jealousing’ as ‘an issue voiced
-overwhelmingly by females (78%)’.[^87] Sexting, by contrast, was
+overwhelmingly by females (78%)’.[^06-part2_87] Sexting, by contrast, was
 negligible, being ‘recognised and voiced as a problem only by males, at
-just 2% of the response’.[^88]
+just 2% of the response’.[^06-part2_88]
 
 Although older people were reportedly mystified by local outbursts of
 cyber-bullying, they could also be implicated in online fights via their
@@ -1833,7 +1833,7 @@ within a relatively short period.
 
 Middle-aged and older people often expressed concern about the unguarded
 online activities of Aboriginal children and youth, and a fear that
-young people might be ‘tricking them’ with social media.[^89] Faced with
+young people might be ‘tricking them’ with social media.[^06-part2_89] Faced with
 extensive disadvantage and a large youth population – 25 per cent of
 people in the Barkly are under 17 – it’s understandable that elders,
 along with schools and the community sector, fear that cyber-bullying
@@ -1855,7 +1855,7 @@ Ngaanyatjarra lands in Western Australia that the use of digital
 technologies and new media ‘is defining a generational identity distinct
 from that of their elders, with new media representing a site where
 youths are exhibiting agency and a technological expertise that exceeds
-that of the older generation’.[^90] Moreover, this notion of a
+that of the older generation’.[^06-part2_90] Moreover, this notion of a
 generational digital divide reflects familiar anxieties expressed by
 mainstream culture within industrialized nations about younger
 generations’ ready embrace of technology. Sonia Livingstone, for
@@ -1863,15 +1863,15 @@ example, describes these sentiments as follows: ‘It is commonly held
 that at best, social networking is time-wasting and socially isolating,
 and at worst it allows paedophiles to groom children in their bedroom or
 sees teenagers lured into suicide pacts while parents think they are
-doing their homework’.[^91] Cultural anthropologist Mizuko Ito suggests
+doing their homework’.[^06-part2_91] Cultural anthropologist Mizuko Ito suggests
 that underlying these anxieties is the implicit intergenerational
 challenge that the greater ICT facility generally associated with youth
 cultures presents: ‘The discourse of digital generations and digital
 youth posits that the new media empower youth to challenge the social
-norms and educational agendas of their elders in unique ways.’[^92]
+norms and educational agendas of their elders in unique ways.’[^06-part2_92]
 
 Organizations such as the Tennant Creek Council of Elders and Respected
-Persons[^93] and Barkly Arts devised and implemented cyber-safety
+Persons[^06-part2_93] and Barkly Arts devised and implemented cyber-safety
 strategies targeting the needs of different generational groups in the
 Barkly, such as the lower levels of digital literacy among older
 generations, and a lack of understanding of Aboriginal cultural
@@ -1879,7 +1879,7 @@ protocols amongst youth. These strategies included ‘Divas Cops’ chat-room
 monitors, mediation of cyber-bullying incidents by the Tennant Creek
 Council of Elders and Respected Persons, and the creation of Techno
 Codey/Culture Codey, an online avatar that explains digital and cultural
-issues surrounding cyber-safety.[^94]
+issues surrounding cyber-safety.[^06-part2_94]
 
 The RIPIA *Cyber Safety Program Report*, which also produced three short
 film projects and intergenerational artistic activities in response to
@@ -1887,13 +1887,13 @@ cyber-safety issues, observes: ‘The importance of a family and
 community managed response to cyber safety issues, with the assistance
 of police, schools and youth workers \[…\] depending on the situation,
 indicates further consultation, study and the creation of appropriate
-and effective resources.’[^95] This includes improving digital literacy
+and effective resources.’[^06-part2_95] This includes improving digital literacy
 and training ‘digitally literate mediators \[for\] when cyber safety
 concerns arise within remote communities’, because: ‘Developing digital
 literacy empowers not only individual users, but extends the capacity of
 resolve among members within families and the community who may not be
 social networking services users themselves, but who fulfill important
-roles as leader and mediators.’[^96]
+roles as leader and mediators.’[^06-part2_96]
 
 ### Conclusion
 
@@ -1906,7 +1906,7 @@ are significant elements of the media ecology in remote communities, and
 are as important as infrastructure. Although corporate platforms can
 behave in the public interest, whether and how they are able to respond to
 the particular dynamics of remote communities when problems arise is a
-more complex question, and one that requires further research.[^97]
+more complex question, and one that requires further research.[^06-part2_97]
 
 Overall, the emphasis on personal and family uses of the computers
 appears to have developed from the location of the ICTs in the home, in
@@ -1919,7 +1919,7 @@ Furlong found that internet use was generally a means of pursing
 existing interests rather than creating new interests: ‘People who were
 using the internet on a broad and frequent basis were generally building
 upon and extending previously developed interests or using the internet
-as part of a repertoire of IT and non IT-based means.’[^98] We observed
+as part of a repertoire of IT and non IT-based means.’[^06-part2_98] We observed
 a similar trend on the outstations.
 
 More complex and more elaborate uses of the computers would possibly
@@ -2024,7 +2024,7 @@ would not describe Mary as a non-user, as she regularly asked others to
 conduct online transactions on her behalf. What has been described as
 ‘use-by-proxy’ is important, as it demonstrates that even those who do
 not have the skills or inclination to use the internet might still be
-experiencing its benefits.[^99]
+experiencing its benefits.[^06-part2_99]
 
 ### Schools
 
@@ -2038,7 +2038,7 @@ the one program that promoted at-home use of devices, One Education (a
 spin-off of the international NGO, One Laptop per Child). These
 encounters provided us with some insights into schools as sites of
 internet access. For example, the Murray Downs school near Imangara was
-connected to the internet via satellite.[^100] The school was using both
+connected to the internet via satellite.[^06-part2_100] The school was using both
 tablets and desktop computers in the classroom, primarily for
 drill-and-practice education applications for mathematics and English.
 One teacher mentioned to us that the children were possessive of the
@@ -2073,7 +2073,7 @@ certainly more confident users than those without any prior experience
 of computers.
 
 In 2012, One Education received \$11.7 million to deploy 50,000
-bespoke laptops in disadvantaged primary schools across Australia.[^101]
+bespoke laptops in disadvantaged primary schools across Australia.[^06-part2_101]
 Australian schools that met certain socio-economic criteria – including
 serving low-income and remote areas, and the percentage of students that
 identified as Indigenous – were eligible for a subsidy (government
@@ -2089,17 +2089,17 @@ home, then this would be potentially significant for those communities,
 not just the children. The general strategy of putting the devices
 directly in the hands of children is thought to ‘compensate for unequal
 access to technologies in the home environment and thus help bridge
-educational and social gaps’.[^102] A US analysis found that, when
+educational and social gaps’.[^06-part2_102] A US analysis found that, when
 controlling for income, race and parents’ education, those with a home
 computer were 6–8 per cent more likely to graduate from high school than
-teens who did not have a home computer.[^103] However, even within the One
+teens who did not have a home computer.[^06-part2_103] However, even within the One
 Education program, we found that, in Australia at least, teacher
 practices varied widely. Teachers in Indigenous schools were not likely
 to allow children to take the One Education devices home, with some
 believing the devices would be damaged in overcrowded housing
 environments. Some permitted free time on a daily basis, others used
 them only for classroom lessons, and a minority of teachers used them as
-a reward for good behavior.[^104] Over half the schools reported issues
+a reward for good behavior.[^06-part2_104] Over half the schools reported issues
 with connectivity in 2012, finding it difficult to connect the devices
 to the education department’s IT system (One Education has since been
 working to rectify this). The program’s biggest issue was teacher
@@ -2181,7 +2181,7 @@ communities.
 
 Research during the 1980s and 1990s into Aboriginal adult education and
 training suggested that Aboriginal people were more comfortable learning
-in groups than individually.[^105] But when we asked residents how they
+in groups than individually.[^06-part2_105] But when we asked residents how they
 liked to receive training about computers and internet use, most (88 per
 cent) said they preferred to learn individually or as a couple/pair.
 Without exception, all of them wanted to learn on their own computers,
@@ -2195,15 +2195,15 @@ Indigenous people prefer independent learning and individual
 instruction, along with some common characteristics referred to within
 other research, such as direct learning by seeing and doing,
 observation, experiential learning, and applying knowledge to real
-circumstances.[^106] More recent research has sought to construct a
+circumstances.[^06-part2_106] More recent research has sought to construct a
 framework that accommodates both independent learning orientations in
 Aboriginal students and the importance of community links emphasizing
-the group.[^107] Furthermore, a large body of research indicates that
+the group.[^06-part2_107] Furthermore, a large body of research indicates that
 active involvement by adult learners in the design of a learning program
 is more likely to result in their engagement with, and support for, the
 program; this is particularly true of Aboriginal learners, where a
 two-way or multiple-way system that allows for Aboriginal ownership and
-cross-cultural understanding is crucial to success.[^108]
+cross-cultural understanding is crucial to success.[^06-part2_108]
 
 To investigate this further, we discussed with community members, either
 individually or with their partner or a close relative, matters such as
@@ -2230,12 +2230,12 @@ combined with the ease of not having to travel to town, which involves
 additional costs, as well as organizing transport and accommodation.
 Research conducted elsewhere in central Australia also indicates a
 preference for in-community learning rather than at an external
-location.[^109] Learning individually affords privacy, allows learners
+location.[^06-part2_109] Learning individually affords privacy, allows learners
 to focus on their own interests, and provides an atmosphere where
 they’re likely to feel more at ease, more comfortable in asking
 questions, and away from situations in which they might potentially feel
 embarrassment (shame) at not understanding instructions or knowing how
-to do something.[^110]
+to do something.[^06-part2_110]
 
 Residents identified various tasks they wanted to learn, ranging from
 using email; online banking; downloading movies and music; uploading
@@ -2258,7 +2258,7 @@ Other researchers have observed that computers themselves fit readily
 with Aboriginal educational styles because they are interactive, involve
 learning by doing, and permit trial and error. They also allow people to
 progress at their own pace, and are real-time oriented as well as being
-‘endlessly patient, repetitive’.[^111]
+‘endlessly patient, repetitive’.[^06-part2_111]
 
 We also asked about their preferred group composition (age and gender)
 for training, and whether there were any cultural relationships that
@@ -2282,7 +2282,7 @@ not surprising given that all the computer applications are in English.
 Eady and Woodcock have also noted that many Indigenous learners prefer
 to receive instruction in English in order to improve their language,
 literacy and numeracy skills to be able to interact more effectively
-with Western society or ‘whitefellas’.[^112]
+with Western society or ‘whitefellas’.[^06-part2_112]
 
 ### An Individual, Opportunistic Approach to Learning
 
@@ -2302,7 +2302,7 @@ members’ needs, aspirations and preferences.
 Given that the timing, content and location are all largely determined
 by the learner, the main challenge for the trainer in this approach lies
 in attempting to predict how much time, individually and collectively,
-the learning will take.[^113] Consequently, the CAT team set aside
+the learning will take.[^06-part2_113] Consequently, the CAT team set aside
 additional time for training during their technical support trips. In
 practice, about 70 per cent of their time was spent on providing
 technical support, and 30 per cent on training during each visit. An
@@ -2438,7 +2438,7 @@ learning within these small communities.
 There are clear implications for the delivery of ICT-related training in
 remote Aboriginal communities, particularly as take-up of
 individually owned devices such as laptops and iPads is likely to
-continue.[^114] Although logistically challenging and resource
+continue.[^06-part2_114] Although logistically challenging and resource
 intensive, a flexible, opportunistic approach that tailors learning
 opportunities to the individual’s needs and takes place within private,
 safe spaces rather than as formal, structured training can be effective
@@ -2455,15 +2455,15 @@ The overall trend in survey-based studies of internet adoption and use
 is that men, especially younger ones, tend to be early adopters of
 internet technology and are more strongly represented in ICT usage: boys
 are ‘generally quicker than girls to lay claim to cyberspace and digital
-media’.[^115] The World Internet Project found in 2007 that in ‘all
+media’.[^06-part2_115] The World Internet Project found in 2007 that in ‘all
 twelve WIP countries assessed for this study, men use the Internet
 somewhat more than women’, although over time, ‘a slow diminishing of
 the gender divides’ occurs as women’s participation generally slightly
-increases while men’s slightly decreases.[^116] Some feminist
+increases while men’s slightly decreases.[^06-part2_116] Some feminist
 researchers have described a ‘gender digital divide’, and the
-male-coding of the information and communications sector.[^117] For the
+male-coding of the information and communications sector.[^06-part2_117] For the
 three outstations, having desktop computers in the home thus seemed a
-scenario that might stereotypically appeal to young men.[^118] However,
+scenario that might stereotypically appeal to young men.[^06-part2_118] However,
 we found that this was not necessarily the case. Women appeared to be
 the dominant users of the computers and internet at home, while men were
 frequent users of shared computer facilities.
@@ -2471,34 +2471,34 @@ frequent users of shared computer facilities.
 There is considerable discussion within the anthropological literature
 about the gendering of activities and domains within traditional
 Aboriginal societies in terms of separate spheres with complementary
-functional roles.[^119] In her landmark review, ‘Gender and Aboriginal
+functional roles.[^06-part2_119] In her landmark review, ‘Gender and Aboriginal
 Society’, anthropologist Francesca Merlan observes how remote northern
 Australian Indigenous social contexts are characterized by ‘the
 frequently found Aboriginal tendency toward dualism – insistence
 ideologically and practically upon some degree of male-female
-separatism’.[^120] Anthropologists and others have described the
+separatism’.[^06-part2_120] Anthropologists and others have described the
 gendering of activities and domains within traditional Aboriginal
 societies in terms of separate spheres with complementary functional
 roles, with perspectives differing as to whether gender inequalities are
 inherent within this schema or whether they result from, or are
-exacerbated by, the imposition of European culture.[^121] Some (such as
+exacerbated by, the imposition of European culture.[^06-part2_121] Some (such as
 Cowlishaw and Hamilton) claim that women occupy a subordinate role
 within this schema, while others (such as Bell and Kaberry) argue that
 Aboriginal women exercise and enjoy a degree of autonomy in traditional
-society.[^122]
+society.[^06-part2_122]
 
 Merlan urges caution, however, in invoking the notion of autonomy in
 relation to the gendering of activities and domains, because of its
 different conceptualization within Aboriginal and European frameworks.
 She states that Aboriginal selfhood ‘is importantly constituted through
 social relatedness, and thus is not to be confused with western notions
-of individualism’.[^123] She also draws on Annette Hamilton’s discussion
+of individualism’.[^06-part2_123] She also draws on Annette Hamilton’s discussion
 of how gender autonomy might be confused with labor and cultural
 division within Aboriginal social life because men’s and women’s lives
-appear to be self-contained.[^124]
+appear to be self-contained.[^06-part2_124]
 
 As feminist scholar McClintock has said, ‘domesticity is both a *space*
-and a *relationship of power*’.[^125] The impact of the gender division
+and a *relationship of power*’.[^06-part2_125] The impact of the gender division
 of labor within domestic space in central Australian remote Aboriginal
 communities is thus worth considering in relation to ICT infrastructures
 and programs.
@@ -2600,23 +2600,23 @@ We observed that women were more likely to tell us about their social
 media use. A report by Remote Indigenous Public Internet Access (RIPIA)
 found that women made up most of the social media users on the three
 platforms used by remote community members: 59 per cent of Facebook
-users and 65 per cent of Divas Chat and airG users.[^126] When the RIPIA
+users and 65 per cent of Divas Chat and airG users.[^06-part2_126] When the RIPIA
 researcher asked community members at Papunya whether they thought
 people understood how to manage their privacy settings on social media
 accounts, they responded informally ‘that females understood, but males
 did not’, a response that was supported by survey data indicating ‘that
 females comprised 89 per cent of the “yes” response’ in this
-community.[^127] The RIPIA researcher suggested that being able to
+community.[^06-part2_127] The RIPIA researcher suggested that being able to
 manage privacy settings indicated ‘that individuals who spend more time
 engaging with digital devices and social networking services, in this
 case being females \[…\] are able to develop higher levels of digital
-literacy’.[^128]
+literacy’.[^06-part2_128]
 
 Participants at Imangara often mentioned children as computer users (45
 per cent of responses). This was probably because of the greater numbers
 of children there than in Mungalawurru who were able to stay in the
 community while attending the nearby local infants and primary
-school.[^129] The high rates of young women and children who reported using
+school.[^06-part2_129] The high rates of young women and children who reported using
 the computers tends to support the ‘domestic hub’ emphasis of use of the
 computers. As discussed in the previous chapter, although senior women
 over 60 years of age at Imangara and Mungalawurru often acted in a
@@ -2680,9 +2680,9 @@ cultural precedents for young men to live a transitory lifestyle; Myers
 describes how until they have married (often in middle age amongst the
 Pintupi) and have passed through further stages of instruction conducted
 by older men, ‘young men cannot settle down, cannot stay in one
-place’.[^130] Traditionally, young unmarried men post-initiation were:
+place’.[^06-part2_130] Traditionally, young unmarried men post-initiation were:
 ‘free and unfettered \[…\] not yet channeled into reproduction but under
-the guidance of larger society as embodied by older men’.[^131]
+the guidance of larger society as embodied by older men’.[^06-part2_131]
 
 The man’s story indicates how transitory some remote community members’
 lifestyles can be, particularly young males, with the result that their
@@ -2716,7 +2716,7 @@ functions; some – such as washing and repairing clothes – of which
 relate directly to the domestic sphere, while others – teaching and
 education, health, administration, arts and crafts – are less strongly
 linked, possibly because they have been introduced through Western
-contact.[^132] Tasks relating to an external domain of outdoor
+contact.[^06-part2_132] Tasks relating to an external domain of outdoor
 activities were coded as predominantly men’s technical functions, with a
 ‘middle ground’ of tasks perceived as gender neutral or equally shared
 by the sexes.
@@ -2726,17 +2726,17 @@ government and private technical support funding cycles on gender
 employment issues in remote communities: ‘men’s work, seen mostly in the
 technical fields, was sporadic or opportunist; women’s work, seen mostly
 in the educational and health fields, was steady, institutional,
-developmental and programmed’.[^133] They noted that there was an
+developmental and programmed’.[^06-part2_133] They noted that there was an
 increased emphasis on providing training for ‘\[s\]emi-technical and
 non-industrial occupational skills, such as settlement health and
 primary school teacher assistant skills’ which tends to emphasize
 organizational and cross-communicational competencies, and attracted
-more Aboriginal women than men as participants.[^134] There was less
+more Aboriginal women than men as participants.[^06-part2_134] There was less
 funding available for training and skills development for ‘specialist
 trade or industrial technology occupations’ associated with men, and
 ‘this had more of a social effect on the skills development and
 educational participation rate for Aboriginal men than for Aboriginal
-women, particularly for small settlement populations’.[^135] As well as
+women, particularly for small settlement populations’.[^06-part2_135] As well as
 the cultural precedent for higher levels of mobility amongst young men,
 the lack of employment and training opportunities connected with
 male-associated technical functions may partly explain their infrequent
@@ -2751,7 +2751,7 @@ the computer as more part of her domain of technical activity, but
 complementary to his cattle work within a male domain of external
 activity. Merlan observes that: ‘Women’s productive and especially
 redistributive role was important in defining Aboriginal domesticity,
-and the current membership of particular domestic groups.’[^136] Women’s
+and the current membership of particular domestic groups.’[^06-part2_136] Women’s
 greater participation in the project – looking after the computers,
 doing tasks online for family and liaising with researchers – may
 reflect the correlation of the computers with the more female-oriented
@@ -2765,7 +2765,7 @@ sessions and training. Even in the initial stages, men made up slightly
 less than half (45 per cent) of the participants in community meetings
 about the computers. At the time, we observed that young men in
 particular were often out at work or in town, and therefore more
-difficult to interview.[^137] A couple of years after we installed the
+difficult to interview.[^06-part2_137] A couple of years after we installed the
 computers in the communities, men’s rate of participation in surveys and
 discussions on our research trips had declined to just under one-third
 (29 per cent). With only a few exceptions, when men interacted with us,
@@ -2828,7 +2828,7 @@ The higher rate of male users we observed in May 2012 was also at odds
 with results from a survey of the PCR that the Central
 Australian Youth Link Up Service (CAYLUS) conducted in 2010, when usage
 according to gender was in the order of 44 per cent females and 56 per
-cent males.[^138] Within the following years, the computer room appears
+cent males.[^06-part2_138] Within the following years, the computer room appears
 to have become identified as a distinctly young male space. Similarly,
 when we conducted research into internet use at Ali Curung, we were told
 that young males tended to dominate the computer room when it was open;
@@ -2869,7 +2869,7 @@ computer room, similar to how access to the Women’s Centre computers at
 Imangara became largely restricted to one family. CAYLUS suggested that
 some white support staff would probably always be involved in managing
 the computer room, because of the need to take into account cultural
-constraints relating to gender and family affiliations.[^139]
+constraints relating to gender and family affiliations.[^06-part2_139]
 
 In September 2013, the PCR underwent a further evolution when it was
 relocated in the Maku Shed (further discussed in Chapter 9). Originally, a small room in the Maku Shed was
@@ -2916,127 +2916,127 @@ infrastructure and arrangements, as well as training and technical
 support, to facilitate equality of access in remote Aboriginal
 communities.
 
-[^1]: Regional Telecommunications Inquiry, *Connecting Regional
+[^06-part2_1]: Regional Telecommunications Inquiry, *Connecting Regional
     Australia,* Canberra: Department of Communications, Information
     Technology and the Arts, 2002, p. 7.
 
-[^2]: Daly, *Bridging the Digital Divide*; Telecommunications Action Plan for Remote Indigenous Communities
+[^06-part2_2]: Daly, *Bridging the Digital Divide*; Telecommunications Action Plan for Remote Indigenous Communities
     (TAPRIC), *Report on the Strategic Study for Improving
     Telecommunications in Remote Indigenous Communities.*
 
-[^3]: K. McCallum and F. Papandrea, ‘Community Business: The Internet in
+[^06-part2_3]: K. McCallum and F. Papandrea, ‘Community Business: The Internet in
     Remote Australian Indigenous Communities’, *New Media & Society*
     (2009): 1245.
 
-[^4]: Telstra, ‘Universal Service Obligation Standard Marketing Plan’,
+[^06-part2_4]: Telstra, ‘Universal Service Obligation Standard Marketing Plan’,
     https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/doc/consumer/uso-standard-marketing-plan.doc.
 
-[^5]: R.G. Schwab, *The Calculus of Reciprocity: Principles and
+[^06-part2_5]: R.G. Schwab, *The Calculus of Reciprocity: Principles and
     Implications of Aboriginal Sharing,* Canberra: Centre for Aboriginal
     Economic Policy Research, 1995, p. 7.
 
-[^6]: L. Hiatt, ‘Traditional Attitudes to Land Resources’ in R. M.
+[^06-part2_6]: L. Hiatt, ‘Traditional Attitudes to Land Resources’ in R. M.
     Berndt (ed.) *Aboriginal Sites: Rites and Resource Development*,
     Perth: University of Western Australia Press, 1982, pp. 14–15.
 
-[^7]: A.V. Nicholls, *The Social Life of the Computer in Ramingining,*
+[^06-part2_7]: A.V. Nicholls, *The Social Life of the Computer in Ramingining,*
     Darwin: Charles Darwin University, 2009, p. 45; D. Featherstone, ‘The Aboriginal Invention of Broadband: How
     Yarnangu Are Using ICTs in the Ngaanyatjarra Lands of Western
     Australia’ in L. Ormond-Parker, A. Corn, C. Fforde, K. Obata and S.
     O’Sullivan (eds) *Information Technologies and Indigenous
     Communities,* Canberra: AIATSIS Research Publications, 2013, p. 43.
 
-[^8]: N. Peterson, ‘Demand Sharing: Reciprocity and the Pressure for
+[^06-part2_8]: N. Peterson, ‘Demand Sharing: Reciprocity and the Pressure for
     Generosity among Foragers’, *American Anthropologist* 95.4 (1993): 190.
 
-[^9]: See J. Altman, ‘A Genealogy of “Demand Sharing”: From Pure
+[^06-part2_9]: See J. Altman, ‘A Genealogy of “Demand Sharing”: From Pure
     Anthropology to Public Policy’ in Y. Musharbash and M. Barber (eds)
     *Ethnography and the Production of Anthropological Knowledge: Essays
     in Honour of Nicolas Peterson*, Canberra: ANU E Press, 2011.
 
-[^10]: Elsewhere Myers (1986: 109) states that the word *walytja* is
+[^06-part2_10]: Elsewhere Myers (1986: 109) states that the word *walytja* is
     used to refer to a sense of belonging or shared identity,
     possessions, kin, one’s own (my own), and oneself.
 
-[^11]: F. Myers, ‘Place, Identity and Exchange in a Totemic System:
+[^06-part2_11]: F. Myers, ‘Place, Identity and Exchange in a Totemic System:
     Nurturance and the Process of Social Reproduction in Pintupi
     Society’ in J. Fajans (ed.) *Exchanging Products: Producing
     Exchange*, Sydney: University of Sydney, 1993, p. 37.
 
-[^12]: F. Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
+[^06-part2_12]: F. Myers, *Pintupi Country, Pintupi Self: Sentiment, Place and
     Politics Among Western Desert Aborigines,* Berkeley, Los Angeles:
     University of California Press, 1986, p. 145; Myers, ‘Place, Identity and Exchange in a Totemic System’, p. 38.
 
-[^13]: Myers, *Pintupi Country, Pintupi Self*, p. 109; F. Myers, ‘Some Properties of Culture and Persons’ in R.A. Ghosh (ed.)
+[^06-part2_13]: Myers, *Pintupi Country, Pintupi Self*, p. 109; F. Myers, ‘Some Properties of Culture and Persons’ in R.A. Ghosh (ed.)
     *Code: Collaborative Ownership and the Digital Economy*, Cambridge: MIT Press, 2005, pp. 47-48.
 
-[^14]: Myers, *Pintupi Country, Pintupi Self*, p. 109.
+[^06-part2_14]: Myers, *Pintupi Country, Pintupi Self*, p. 109.
 
-[^15]: Myers, *Pintupi Country, Pintupi Self*; F. Myers, ‘Burning the Truck and Holding the Country: Pintupi Forms of
+[^06-part2_15]: Myers, *Pintupi Country, Pintupi Self*; F. Myers, ‘Burning the Truck and Holding the Country: Pintupi Forms of
     Property and Identity’ in E.N. Wilmsen (ed.) *We Are Here: Politics
     of Aboriginal Land Tenure,* Los Angeles: University of California
     Press, 1989.
 
-[^16]: Myers, ‘Burning the Truck and Holding the Country’.
+[^06-part2_16]: Myers, ‘Burning the Truck and Holding the Country’.
 
-[^17]: Myers, *Pintupi Country, Pintupi Self*, p. 111.
+[^06-part2_17]: Myers, *Pintupi Country, Pintupi Self*, p. 111.
 
-[^18]: G. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
+[^06-part2_18]: G. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
     Wiradjuri of New South Wales’ in G. Wenzel, G. Hovelsrud-Broda and
     N. Kishigami (eds) *The Social Economy of Sharing: Resource
     Allocation and Modern Hunter-Gatherers*, Osaka: National Museum of Ethnology, 2000, p. 94.
 
-[^19]: R. Tonkinson, *The Jigalong Mob: Aboriginal Victors of the Desert
+[^06-part2_19]: R. Tonkinson, *The Jigalong Mob: Aboriginal Victors of the Desert
     Crusade,* Menlo Park, California: Cummings Publishing Company, 1974,
     p. 106.
 
-[^20]: Compare also: A.B. Weiner, ‘Cultural Difference and the Density
+[^06-part2_20]: Compare also: A.B. Weiner, ‘Cultural Difference and the Density
     of Objects’, *American Ethnologist* 212 (1994).
 
-[^21]: Myers, *Pintupi Country, Pintupi Self*, p. 171.
+[^06-part2_21]: Myers, *Pintupi Country, Pintupi Self*, p. 171.
 
-[^22]: B. Sansom, *The Camp at Wallaby Cross: Aboriginal Fringe Dwellers
+[^06-part2_22]: B. Sansom, *The Camp at Wallaby Cross: Aboriginal Fringe Dwellers
     in Darwin,* Canberra: Australian Institute of Aboriginal Studies,
     1980, p. 240.
 
-[^23]: I. Keen, ‘The Interpretation of Aboriginal “Property” on the
+[^06-part2_23]: I. Keen, ‘The Interpretation of Aboriginal “Property” on the
     Australian Colonial Frontier’ in I. Keen (ed.) *Aboriginal
     Participation in Australian Economies: Historical and
     Anthropological Perspectives*, Canberra: ANU Press, 2010.
 
-[^24]: D.F. Thomson, *Bindibu Country*, Melbourne: Thomas Nelson, 1975.
+[^06-part2_24]: D.F. Thomson, *Bindibu Country*, Melbourne: Thomas Nelson, 1975.
 
-[^25]: W. Fogarty, *‘You Got Any Truck?’ Vehicles and Decentralised
+[^06-part2_25]: W. Fogarty, *‘You Got Any Truck?’ Vehicles and Decentralised
     Mobile Service-Provision in Remote Indigenous Australia,* Canberra:
     ANU Centre for Aboriginal Economic Policy Research, 2005.
 
-[^26]: Fogarty, *‘You Got Any Truck?’*, p. 3.
+[^06-part2_26]: Fogarty, *‘You Got Any Truck?’*, p. 3.
 
-[^27]: Musharbash, *Yuendumu Everyday*, p. 55.
+[^06-part2_27]: Musharbash, *Yuendumu Everyday*, p. 55.
 
-[^28]: Musharbash, *Yuendumu Everyday*, p. 55.
+[^06-part2_28]: Musharbash, *Yuendumu Everyday*, p. 55.
 
-[^29]: For example of flour, see also Musharbash, *Yuendumu Everyday*.
+[^06-part2_29]: For example of flour, see also Musharbash, *Yuendumu Everyday*.
 
-[^30]: Myers, ‘Burning the Truck and Holding the Country’, pp. 23–25.
+[^06-part2_30]: Myers, ‘Burning the Truck and Holding the Country’, pp. 23–25.
 
-[^31]: J.F. O’Connell, ‘Room to Move: Contemporary Alyawara Settlement
+[^06-part2_31]: J.F. O’Connell, ‘Room to Move: Contemporary Alyawara Settlement
     Patterns and Their Implications for Aboriginal Housing Policy’ in M.
     Heppell (ed.) *A Black Reality: Aboriginal Camps and Housing in
     Remote Australia*, Canberra: Australian Institute of Aboriginal
     Studies, 1979.
 
-[^32]: O’Connell, ‘Room to Move’.
+[^06-part2_32]: O’Connell, ‘Room to Move’.
 
-[^33]: J. Taylor, ‘Housing Programs at Edward River and Mitchell River
+[^06-part2_33]: J. Taylor, ‘Housing Programs at Edward River and Mitchell River
     Aboriginal Reserves’ in M. Heppell (ed.) *A Black Reality: Aboriginal
     Camps and Housing in Remote Australia*, Canberra: Australian
     Institute of Aboriginal Studies, 1979, p. 213.
 
-[^34]: S. Tanner, *Measuring the Impact of Digital Resources: The
+[^06-part2_34]: S. Tanner, *Measuring the Impact of Digital Resources: The
     Balanced Value Impact Model,* London: King’s College, 2012, p. 26.
 
-[^35]: C. Renfrew, ‘Varna and the Emergence of Wealth in Prehistoric
+[^06-part2_35]: C. Renfrew, ‘Varna and the Emergence of Wealth in Prehistoric
     Europe’ in A. Appadurai (ed.) *The Social Life of Things: Commodities
     in Cultural Perspective*, Cambridge: Cambridge University Press,
     1988; W.H. Davenport, ‘Two Kinds of Value in the Eastern Solomon Islands’
@@ -3044,250 +3044,250 @@ communities.
     Cultural Perspective*, Cambridge: Cambridge University Press, 1988,
     p. 108.
 
-[^36]: F. Myers, ‘Introduction: The Empire of Things’ in F. Myers (ed.)
+[^06-part2_36]: F. Myers, ‘Introduction: The Empire of Things’ in F. Myers (ed.)
     *The Empire of Things: Regimes of Value and Material Culture*, Santa
     Fe: School of American Research Press, 2001, p. 6.
 
-[^37]: S.A. Brown, V. Venkatesh and H. Bala, ‘Household Technology Use:
+[^06-part2_37]: S.A. Brown, V. Venkatesh and H. Bala, ‘Household Technology Use:
     Integrating Household Life Cycle and the Model of Adoption of
     Technology in Households’, *The Information Society* 22.4 (2006): 216.
 
-[^38]: J.L. Pierce, T. Kostova, and K.T. Dirks. ‘The State of
+[^06-part2_38]: J.L. Pierce, T. Kostova, and K.T. Dirks. ‘The State of
     Psychological Ownership: Integrating and Extending a Century of
     Research’, *Review of General Psychology* 7.1 (2003): 84.
 
-[^39]: G. Loewenstein and S. Issacharoff, ‘Source Dependence in the
+[^06-part2_39]: G. Loewenstein and S. Issacharoff, ‘Source Dependence in the
     Valuation of Objects’, *Journal of Behavioral Decision Making* 7.3
     (1994).
 
-[^40]: Loewenstein and Issacharoff, ‘Source Dependence in the Valuation
+[^06-part2_40]: Loewenstein and Issacharoff, ‘Source Dependence in the Valuation
     of Objects’: 160.
 
-[^41]: See P. Sutton, *The Politics of Suffering: Indigenous Australia
+[^06-part2_41]: See P. Sutton, *The Politics of Suffering: Indigenous Australia
     and the End of the Liberal Consensus,* Carlton: Melbourne University
     Publishing, 2009; N. Pearson, *Radical Hope: Education and Equality in Australia,*
     Melbourne: Schwartz Publishing Pty Ltd, 2011.
 
-[^42]: Such as: Kerins, *The First-Ever Northern Territory
+[^06-part2_42]: Such as: Kerins, *The First-Ever Northern Territory
     Homelands/Outstations Policy*.
 
-[^43]: Aboriginal and Torres Strait Islander Committee, *Everybody's
+[^06-part2_43]: Aboriginal and Torres Strait Islander Committee, *Everybody's
     Business: Remote Aboriginal and Torres Strait Community Stores*,
     Canberra: Commonwealth of Australia, 2009, p. 10.
 
-[^44]: See J. Altman, M.C. Dillon and K. Jordan, ‘Submission to the House
+[^06-part2_44]: See J. Altman, M.C. Dillon and K. Jordan, ‘Submission to the House
     of Representatives Standing Committee on Aboriginal and Torres
     Strait Islander Affairs Inquiry into Community Stores in Remote
     Aboriginal and Torres Strait Islander Communities’, *CAEPR Topical Issue No 04/2009*, Canberra: Australian National University, 2009.
 
-[^45]: C. Elliot, ‘Social Death and Disenfranchised Grief: An Alyawarr
+[^06-part2_45]: C. Elliot, ‘Social Death and Disenfranchised Grief: An Alyawarr
     Case Study’ in K. Glaskin (ed.) *Mortality, Mourning and Mortuary
     Practices in Indigenous Australia,* London: Ashgate Publishing,
     2008.
 
-[^46]: Subsequently, Imangara residents made the decision that people
+[^06-part2_46]: Subsequently, Imangara residents made the decision that people
     would be allowed to return to the same house if they moved out for a
     period due to death, and that houses would not be reallocated to
     other families in the interim. The residents specified that this was
     a decision specific to Imangara and did not necessarily apply in
     other communities.
 
-[^47]: J. Taylor, *Population and Diversity: Policy Implications of
+[^06-part2_47]: J. Taylor, *Population and Diversity: Policy Implications of
     Emerging Indigenous Demographic Trends*, Canberra: Centre for
     Aboriginal Economic Policy Research, 2006, p. 64.
 
-[^48]: Taylor, *Population and Diversity*, p. 32.
+[^06-part2_48]: Taylor, *Population and Diversity*, p. 32.
 
-[^49]: Taylor, *Population and Diversity*.
+[^06-part2_49]: Taylor, *Population and Diversity*.
 
-[^50]: Van Deursen, Van Dijk and Ten Klooster, ‘Increasing
+[^06-part2_50]: Van Deursen, Van Dijk and Ten Klooster, ‘Increasing
     Inequalities in What We Do Online’.
 
-[^51]: Helsper, *Digital Inclusion*, p. 31.
+[^06-part2_51]: Helsper, *Digital Inclusion*, p. 31.
 
-[^52]: Although Kimberly Christen has produced innovative digital
+[^06-part2_52]: Although Kimberly Christen has produced innovative digital
     content and databases for Warumungu.
 
-[^53]: I. Kral, *Plugged In: Remote Australian Indigenous Youth and
+[^06-part2_53]: I. Kral, *Plugged In: Remote Australian Indigenous Youth and
     Digital Culture*.
 
-[^54]: V. Godinho, *Money, Financial Capability and Well-Being in
+[^06-part2_54]: V. Godinho, *Money, Financial Capability and Well-Being in
     Indigenous Australia,* Melbourne: RMIT University, 2014, p. 8.
 
-[^55]: Godinho, *Money, Financial Capability and Well-Being in
+[^06-part2_55]: Godinho, *Money, Financial Capability and Well-Being in
     Indigenous Australia,* p. 2; See also L. Hems, C. Connolly and M. Georgouras, ‘Measuring
     Financial Exclusion in Australia’ for National Australia Bank,
     Sydney: Centre for Social Impact (CSI), University of New South
     Wales, 2012.
 
-[^56]: Rennie et al., *Home Internet for Remote Indigenous Communities*,
+[^06-part2_56]: Rennie et al., *Home Internet for Remote Indigenous Communities*,
     pp. 46-47.
 
-[^57]: Asking for assistance with online banking is also problematic for
+[^06-part2_57]: Asking for assistance with online banking is also problematic for
     some people, leading to privacy breaches and theft. Financial abuse
     by family members through online banking is an area that requires
     further research.
 
-[^58]: See Australian Financial Counselling and Credit Reform
+[^06-part2_58]: See Australian Financial Counselling and Credit Reform
     Association, ‘ATM Fees in Indigenous Communities’,
     http://www.afccra.org/media%20releases%20documents/ATM%20Fees%20in%20Remote%20Indigenous%20Communities.pdf.
 
-[^59]: See Australian Financial Counselling and Credit Reform
+[^06-part2_59]: See Australian Financial Counselling and Credit Reform
     Association, ‘ATM Fees in Indigenous Communities’, p. 8.
 
-[^60]: See Australian Financial Counselling and Credit Reform
+[^06-part2_60]: See Australian Financial Counselling and Credit Reform
     Association, ‘ATM Fees in Indigenous Communities’, p. 7.
 
-[^61]: A. Lattas and B. Morris, ‘The Politics of Suffering and the
+[^06-part2_61]: A. Lattas and B. Morris, ‘The Politics of Suffering and the
     Politics of Anthropology’ in J. Altman and M. Hinkson (eds) *Culture
     Crisis: Anthropology and Politics in Aboriginal Australia*, Chicago:
     University of New South Wales Press, 2010, pp. 123-124.
 
-[^62]: Coalition, ‘The Coalition’s Policy for E-Government and the
+[^06-part2_62]: Coalition, ‘The Coalition’s Policy for E-Government and the
     Digital Economy’.
 
-[^63]: A. Doron and R. Jeffrey, *The Great Indian Phone Book: How the
+[^06-part2_63]: A. Doron and R. Jeffrey, *The Great Indian Phone Book: How the
     Cheap Cell Phone Changes Business, Politics, and Daily Life*,
     Cambridge: Harvard University Press, 2013, pp. 222, 224.
 
-[^64]: Doron and Jeffrey, *The Great Indian Phone Book*.
+[^06-part2_64]: Doron and Jeffrey, *The Great Indian Phone Book*.
 
-[^65]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 224.
+[^06-part2_65]: Doron and Jeffrey, *The Great Indian Phone Book*, p. 224.
 
-[^66]: See J. Altman, ‘Development Options on Aboriginal Land:
+[^06-part2_66]: See J. Altman, ‘Development Options on Aboriginal Land:
     Sustainable Indigenous Hybrid Economies in the Twenty-First Century’
     in L. Taylor, G. Ward, G. Henderson, R. Davis and L. Wallis (eds)
     *The Power of Knowledge, the Resonance of Tradition,* Canberra:
     Aboriginal Studies Press, 2005.
 
-[^67]: The young woman in the story opening this chapter made a wall
+[^06-part2_67]: The young woman in the story opening this chapter made a wall
     poster from an online article about her grandfather’s days as a
     stockman.
 
-[^68]: In January 2014, ABC news reported that the community of Haasts
+[^06-part2_68]: In January 2014, ABC news reported that the community of Haasts
     Bluff had started fundraising to erect a 20-meter-high neon crucifix
     on a hill, with an estimated cost of \$1.2 million. G. Liston,
     ‘Remote Community Hopes to Erect Giant Neon Crucifix’,
     http://www.abc.net.au/news/2008-09-25/fiery-debate-over-dpp-decision/521100.
 
-[^69]: P. Olsen, ‘Teenagers Say Goodbye to Facebook and Hello to
+[^06-part2_69]: P. Olsen, ‘Teenagers Say Goodbye to Facebook and Hello to
     Messenger Apps’, *The Guardian*, 10 November 2013.
 
-[^70]: Divas Chat is a dating and messaging service owned by Canadian
+[^06-part2_70]: Divas Chat is a dating and messaging service owned by Canadian
     company airG and contracted to Telstra. It is popular amongst
     remote-living Aboriginal people as it can be accessed from a phone
     that has run out of credit. Debt accrued through subscription to
     airG (95c a day) is then deducted from the user’s Telstra credit
     when the mobile is recharged.
 
-[^71]: L. Iten, *Cyber Safety Program Report,* Alice Springs: Northern
+[^06-part2_71]: L. Iten, *Cyber Safety Program Report,* Alice Springs: Northern
     Territory Library and Central Australian Youth Link Up Service,
     2014, p. 10.
 
-[^72]: This finding differs somewhat to Iten’s (2014); however, Iten
+[^06-part2_72]: This finding differs somewhat to Iten’s (2014); however, Iten
     interviewed a smaller sample and did not include ‘nil’ responses.
 
-[^73]: M. Balogh, ‘Indigenous Australia Addicted to Facebook’, news
+[^06-part2_73]: M. Balogh, ‘Indigenous Australia Addicted to Facebook’, news
     release, 26 August 2014.
 
-[^74]: B. Carlson, ‘The “New Frontier”: Emergent Indigenous Identities
+[^06-part2_74]: B. Carlson, ‘The “New Frontier”: Emergent Indigenous Identities
     and Social Media’, in M. Harris, M. Nakata and B. Carlson (eds) *The
     Politics of Identity: Emerging Indigeneity*, Sydney: University of
     Technology Sydney E-Press, 2013.
 
-[^75]: In early 2016, Indigitube was not available and the site was
+[^06-part2_75]: In early 2016, Indigitube was not available and the site was
     redirecting to ICTV Play, a video-on-demand service for the remote
     Indigenous community television service, ICTV.
 
-[^76]: Barkly Arts, 8 August 2014. In fact, mobile phone charging uses a
+[^06-part2_76]: Barkly Arts, 8 August 2014. In fact, mobile phone charging uses a
     trivial amount of power.
 
-[^77]: Australian Communications and Media Authority (ACMA), ‘Cybersmart
+[^06-part2_77]: Australian Communications and Media Authority (ACMA), ‘Cybersmart
     Parents: Connecting Parents to Cyber-Safety Resources’, Canberra:
     Australian Media and Communications Authority, 2010, p. 6.
 
-[^78]: ACMA, ‘Cybersmart Parents’, p. 6.
+[^06-part2_78]: ACMA, ‘Cybersmart Parents’, p. 6.
 
-[^79]: ACMA, ‘Cybersmart Parents’, p. 52.
+[^06-part2_79]: ACMA, ‘Cybersmart Parents’, p. 52.
 
-[^80]: S. Livingstone and L. Haddon, *EU Kids Online: Final Report,*
+[^06-part2_80]: S. Livingstone and L. Haddon, *EU Kids Online: Final Report,*
     London: EU Kids Online, 2009; L. Green, D. Brady, K. Olafsson, J. Hartley and C. Lumby, ‘Risks and
     Safety for Australian Children on the Internet: Full Findings from
     the Au Kids Online Survey of 9-16 Year Olds and Their Parents’,
     *Cultural Science Journal* 4.1 (2011); Joint Select Committee on Cyber-Safety, ‘High-Wire Act: Cyber-Safety
     and the Young’, *Interim Report,* Canberra, 2011.
 
-[^81]: G. Shaw and P. D’Abbs, *Community Safety and Wellbeing
+[^06-part2_81]: G. Shaw and P. D’Abbs, *Community Safety and Wellbeing
     Research Study: Consolidated Report,* Canberra: Department of
     Families, Housing, Community Services and Indigenous Affairs, 2011,
     pp. 8-9.
 
-[^82]: L. Iten, *Cyber Safety Program Report,* Alice Springs: Northern
+[^06-part2_82]: L. Iten, *Cyber Safety Program Report,* Alice Springs: Northern
     Territory Library and Central Australian Youth Link Up Service,
     2014.
 
-[^83]: Central Land Council (CLC), ‘Divas Chat Causing Social Chaos’,
+[^06-part2_83]: Central Land Council (CLC), ‘Divas Chat Causing Social Chaos’,
     *Land Rights News*, Alice Springs: Central Land Council, 2012, pp.
     4-6; Human Rights Equal Opportunity Commission, *Social Justice Report
     2011,* Sydney: Commonwealth of Australia, 2011.
 
-[^84]: See E. Hogan, ‘Behind the Mulga Curtain’, *Inside Story*, 2014; E. Hogan, E. Rennie, A. Crouch, A. Wright, R. Gregory and J. Thomas,
+[^06-part2_84]: See E. Hogan, ‘Behind the Mulga Curtain’, *Inside Story*, 2014; E. Hogan, E. Rennie, A. Crouch, A. Wright, R. Gregory and J. Thomas,
     *Submission to the Inquiry into Issues Surrounding Cyber-Safety for
     Indigenous Australians*, Brisbane: ARC Centre of Excellence for
     Creative Industries and Innovation, Queensland University of
     Technology, 2013.
 
-[^85]: G. Cowlishaw, ‘A New Protection Policy?’, *Inside Story*, 2013.
+[^06-part2_85]: G. Cowlishaw, ‘A New Protection Policy?’, *Inside Story*, 2013.
 
-[^86]: Shaw and D’Abbs, *Community Safety and Wellbeing Research
+[^06-part2_86]: Shaw and D’Abbs, *Community Safety and Wellbeing Research
     Study: Consolidated Report*, p. 82, 106.
 
-[^87]: Iten, *Cyber Safety Program Report*, p. 9, 12.
+[^06-part2_87]: Iten, *Cyber Safety Program Report*, p. 9, 12.
 
-[^88]: Iten, *Cyber Safety Program Report*, p. 12.
+[^06-part2_88]: Iten, *Cyber Safety Program Report*, p. 12.
 
-[^89]: CLC, ‘Divas Chat Causing Social Chaos’, pp. 4-6.
+[^06-part2_89]: CLC, ‘Divas Chat Causing Social Chaos’, pp. 4-6.
 
-[^90]: I. Kral, ‘Youth Media as Cultural Practice: Remote Indigenous
+[^06-part2_90]: I. Kral, ‘Youth Media as Cultural Practice: Remote Indigenous
     Youth Speaking out Loud’, *Australian Aboriginal Studies* 1 (2011).
 
-[^91]: S. Livingstone, ‘Taking Risky Opportunities in Youthful Content
+[^06-part2_91]: S. Livingstone, ‘Taking Risky Opportunities in Youthful Content
     Creation: Teenagers' Use of Social Networking Sites for Intimacy,
     Privacy and Self-Expression’, *New Media & Society* 10.3 (2008):
     395.
 
-[^92]: M. Ito, J. Antin, M. Finn, A. Law, A. Manion, S. Mitnick, D.
+[^06-part2_92]: M. Ito, J. Antin, M. Finn, A. Law, A. Manion, S. Mitnick, D.
     Schlossberg, S. Yardi and H.A. Horst, *Hanging Out, Messing Around,
     and Geeking Out: Kids Living and Learning with New Media,*
     Cambridge, MA: MIT Press, 2009.
 
-[^93]: The Council was not running in 2015, as its funding had ceased,
+[^06-part2_93]: The Council was not running in 2015, as its funding had ceased,
     although informal arrangements were in place.
 
-[^94]: Hogan, ‘Behind the Mulga Curtain’; Hogan et al., *Submission to the Inquiry into Issues Surrounding
+[^06-part2_94]: Hogan, ‘Behind the Mulga Curtain’; Hogan et al., *Submission to the Inquiry into Issues Surrounding
     Cyber-Safety for Indigenous Australians*.
 
-[^95]: Iten, *Cyber Safety Program Report*, p. 12.
+[^06-part2_95]: Iten, *Cyber Safety Program Report*, p. 12.
 
-[^96]: Iten, *Cyber Safety Program Report*, p. 16.
+[^06-part2_96]: Iten, *Cyber Safety Program Report*, p. 16.
 
-[^97]: M. Ananny, ‘From Noxious to Public? Tracing Ethical Dynamics of
+[^06-part2_97]: M. Ananny, ‘From Noxious to Public? Tracing Ethical Dynamics of
     Social Media Platform Conversions’, *Social Media + Society* 1.1
     (2015).
 
-[^98]: Selwyn, Gorard and Furlong, ‘Whose Internet Is It Anyway?
+[^06-part2_98]: Selwyn, Gorard and Furlong, ‘Whose Internet Is It Anyway?
     Exploring Adults’ (Non) Use of the Internet in Everyday Life’, p.
     13.
 
-[^99]: Selwyn, Gorard and Furlong, ‘Whose Internet Is It Anyway?
+[^06-part2_99]: Selwyn, Gorard and Furlong, ‘Whose Internet Is It Anyway?
     Exploring Adults’ (Non) Use of the Internet in Everyday Life’.
 
-[^100]: The Murray Downs school had an attendance rate of around 75 per
+[^06-part2_100]: The Murray Downs school had an attendance rate of around 75 per
     cent in 2013 and 2014 although enrolments had dwindled to twenty-three students in 2014, down from the forty-three in 2010; Northern Territory Department of Education, ‘Enrolment and
     Attendance Statistics’,
     http://www.education.nt.gov.au/students/at-school/enrolment-attendance/enrolment-attendance-statistics/2013-enrolment-and-attendance-statistics.
 
-[^101]: One Education was known as ‘One Laptop per Child Australia’ at
+[^06-part2_101]: One Education was known as ‘One Laptop per Child Australia’ at
     that time. Co-author Ellie Rennie, together with education
     technology researcher Sarah Howard, conducted a survey of schools
     within the One Education system as part of evaluations for the
@@ -3303,17 +3303,17 @@ communities.
     tablet) to classrooms once the teachers have participated in an
     online training program.
 
-[^102]: M. Warschauer and T. Matuchniak, ‘New Technology and Digital
+[^06-part2_102]: M. Warschauer and T. Matuchniak, ‘New Technology and Digital
     Worlds: Analyzing Evidence of Equity in Access, Use, and Outcomes’,
     *Review of Research in Education* 34.1 (2010): 180.
 
-[^103]: R.W. Fairlie, D.O. Beltran and K.K. Das, ‘Home Computers and
+[^06-part2_103]: R.W. Fairlie, D.O. Beltran and K.K. Das, ‘Home Computers and
     Educational Outcomes: Evidence from the NLSY97 and CPS\*’, *Economic
     Inquiry* 48.3 (2010).
 
-[^104]: Howard and Rennie, ‘Free for All’.
+[^06-part2_104]: Howard and Rennie, ‘Free for All’.
 
-[^105]: S. Harris and J. Kinslow-Harris, *Culture and Learning:
+[^06-part2_105]: S. Harris and J. Kinslow-Harris, *Culture and Learning:
     Tradition and Education in North-East Arnhem Land,* Canberra:
     Australian Institute of Aboriginal and Torres Strait Islander
     Studies, 1980; P. Hughes and A.J. More, *Aboriginal Ways of Learning,* Adelaide:
@@ -3323,15 +3323,15 @@ communities.
     and Western Mathematics: Creating an Effective Mathematics Learning
     Environment’, *Education in Rural Australia* 8.2 (1998).
 
-[^106]: M. Battiste, *Indigenous Knowledge and Pedagogy in First Nations
+[^06-part2_106]: M. Battiste, *Indigenous Knowledge and Pedagogy in First Nations
     Education: A Literature Review with Recommendations,* Ottawa:
     Apamuwek Institute, 2002, pp. 15, 18.
 
-[^107]: T. Yunkaporta, *Aboriginal Pedagogies at the Cultural
+[^06-part2_107]: T. Yunkaporta, *Aboriginal Pedagogies at the Cultural
     Interface*, Professional Doctorate (Research) thesis, James Cook
     University, Townsville, Qld, 2009.
 
-[^108]: J. Byrnes, ‘Aboriginal Learning Styles and Adult Education: Is a
+[^06-part2_108]: J. Byrnes, ‘Aboriginal Learning Styles and Adult Education: Is a
     Synthesis Possible?’, *Australian Journal of Adult and Community
     Education* 33.3 (1993); M. Donovan, ‘Can Information Communication Technological Tools Be
     Used to Suit Aboriginal Learning Pedagogies’, *Information
@@ -3351,54 +3351,54 @@ communities.
     Literacy conference, Surfers Paradise, Australia, 3-4 October, 2008,
     http://www.acal.edu.au/conference/08/Deadly\_Dreaming\_Mahon.pdf.
 
-[^109]: For example: I. Kral and I. Falk, *What Is All That Learning
+[^06-part2_109]: For example: I. Kral and I. Falk, *What Is All That Learning
     For? Indigenous Adult English Literacy Practices, Training,
     Community Capacity and Health*, p. 41.
 
-[^110]: M. Donovan, ‘Is It a Digital Divide Because It’s No Good When
+[^06-part2_110]: M. Donovan, ‘Is It a Digital Divide Because It’s No Good When
     Talking from an Aboriginal Point? Giving Aboriginal Design to
     Educational Practices’,
     http://www.persons.org.uk/ci/mm/nmtc/nmtc2/donovan%20paper.pdf; N. Harrison, *Teaching and Learning in Aboriginal Education*, Melbourne: Oxford University Press, 2011, pp. 53-54.
 
-[^111]: O’Donogue 1992 and Steen 1997, as cited in Donovan, ‘Can
+[^06-part2_111]: O’Donogue 1992 and Steen 1997, as cited in Donovan, ‘Can
     Information Communication Technological Tools Be Used to Suit
     Aboriginal Learning Pedagogies?’.
 
-[^112]: M. Eady and S. Woodcock, ‘Understanding the Need: Using
+[^06-part2_112]: M. Eady and S. Woodcock, ‘Understanding the Need: Using
     Collaboratively Created Draft Guiding Principles to Direct Online
     Synchronous Learning in Indigenous Communities’, *International
     Journal for Educational Integrity* 6.2 (2010): 964.
 
-[^113]: A. Crouch, *Home Internet for Remote Indigenous Communities:
+[^06-part2_113]: A. Crouch, *Home Internet for Remote Indigenous Communities:
     Technical Report*, p. 39.
 
-[^114]: McCallugh cited in D. Featherstone, ‘The Aboriginal
+[^06-part2_114]: McCallugh cited in D. Featherstone, ‘The Aboriginal
     Invention of Broadband: How Yarnangu Are Using ICTs in the
     Ngaanyatjarra Lands of Western Australia’, in L. Ormond-Parker,
     A. Corn, C. Fforde, K. Obata and S. O’Sullivan,
     *Information Technologies and Indigenous Communities*, Canberra: AIATSIS Research Publications, 2013, p. 43.
 
-[^115]: S. Weber and S. Dixon, *Growing Up Online: Young People and
+[^06-part2_115]: S. Weber and S. Dixon, *Growing Up Online: Young People and
     Digital Technologies*, New York: Palgrave Macmillan, 2007, p. 256.
 
-[^116]: W.H. Dutton, A. Shepherd and C. Di Gennaro, ‘Digital Divides and
+[^06-part2_116]: W.H. Dutton, A. Shepherd and C. Di Gennaro, ‘Digital Divides and
     Choices Reconfiguring Access: National and Cross National Patterns
     of Internet Diffusion and Use’ in B. Anderson, M. Brynin, Y. Raban
     and J. Gershuny (eds) *Information and Communication Technologies in
     Society E-Living in a Digital Europe,* London: Routledge, 2007, p.
     37.
 
-[^117]: S. Huyer and T. Sikoska, *Overcoming the Gender Digital Divide:
+[^06-part2_117]: S. Huyer and T. Sikoska, *Overcoming the Gender Digital Divide:
     Understanding ICTs and Their Potential for the Empowerment of
     Women,* Santo Domingo, Dominican Republic: UN-INSTRAW, 2003, pp. 2,
     12; A. Thas, C. Ramilo and C. Cinoco, ‘Gender and ICT’, *UNDP
     Asia-Pacific Development Information Programme E-Primer,* New Delhi:
     Elsevier, 2007, p. 2.
 
-[^118]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
+[^06-part2_118]: Dutton, Shepherd and Di Gennaro, ‘Digital Divides and Choices
     Reconfiguring Access’, p. 42.
 
-[^119]: See for example: D. Bell, *Daughters of the Dreaming,*
+[^06-part2_119]: See for example: D. Bell, *Daughters of the Dreaming,*
     Melbourne: Allen and Unwin, 1983; G. Cowlishaw, ‘Infanticide in Aboriginal Australia’, *Oceania* 48.4
     (1978): 262-283; G. Cowlishaw, ‘Socialisation and Subordination among Australian
     Aborigines’ *Man* 17.3 (September, 1982): 492-507; G. Cowlishaw, *Women’s Realm: A Study of Socialization, Sexuality
@@ -3409,65 +3409,65 @@ communities.
     1981; P.M. Kaberry, *Aboriginal Women,* London: George Routledge and Sons
     Pty Ltd, 1939.
 
-[^120]: F. Merlan, ‘Gender in Aboriginal Society: A Review’ in R. M.
+[^06-part2_120]: F. Merlan, ‘Gender in Aboriginal Society: A Review’ in R. M.
     Berndt and R. Tonkinson (eds) *Social Anthropology and Australian
     Aboriginal Studies*, Canberra: Aboriginal Studies Press, 1988, p.
     20.
 
-[^121]: Merlan, ‘Gender in Aboriginal Society’, p. 29.
+[^06-part2_121]: Merlan, ‘Gender in Aboriginal Society’, p. 29.
 
-[^122]: Cowlishaw, ‘Infanticide in Aboriginal Australia’; Cowlishaw, ‘Socialisation and Subordination Among Australian
+[^06-part2_122]: Cowlishaw, ‘Infanticide in Aboriginal Australia’; Cowlishaw, ‘Socialisation and Subordination Among Australian
     Aborigines’; Cowlishaw, *Women’s Realm: A Study of Socialization, Sexuality and
     Reproduction among Australian Aborigines*; Hamilton, ‘A Complex Strategical Situation: Gender and Power in
     Aboriginal Australia’; D. Bell, *Daughters of the Dreaming,* Melbourne: Allen and Unwin,
     1983; Kaberry, *Aboriginal Women*.
 
-[^123]: Merlan, ‘Gender in Aboriginal Society’ p. 30; cf. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
+[^06-part2_123]: Merlan, ‘Gender in Aboriginal Society’ p. 30; cf. Macdonald, ‘Economies and Personhood: Demand Sharing Among the
     Wiradjuri of New South Wales’; N. Peterson, ‘Demand Sharing: Reciprocity and the Pressure for
     Generosity Among Foragers’, *American Anthropologist* 95.4 (1993); G. Robinson, ‘Families, Generations, and Self: Conflict, Loyalty,
     and Recognition in an Australian Aboriginal Society’, *Ethos* 25.3
     (1997): 304.
 
-[^124]: McClintock 1995 as cited in Merlan, ‘Gender in Aboriginal
+[^06-part2_124]: McClintock 1995 as cited in Merlan, ‘Gender in Aboriginal
     Society’ p. 30.
 
-[^125]: McClintock 1995 as cited in J. Lydon, ‘‘‘Our Sense of Beauty”:
+[^06-part2_125]: McClintock 1995 as cited in J. Lydon, ‘‘‘Our Sense of Beauty”:
     Visuality, Space and Gender on Victoria’s Aboriginal Reserves,
     South-Eastern Australia’, *History and Anthropology* 16.2 (2005):
     222.
 
-[^126]: Iten, *Cyber Safety Program Report*, p. 9.
+[^06-part2_126]: Iten, *Cyber Safety Program Report*, p. 9.
 
-[^127]: Iten, *Cyber Safety Program Report*, p. 16.
+[^06-part2_127]: Iten, *Cyber Safety Program Report*, p. 16.
 
-[^128]: Iten, *Cyber Safety Program Report*, p. 16.
+[^06-part2_128]: Iten, *Cyber Safety Program Report*, p. 16.
 
-[^129]: Karen moved from Mungalawurru to Tennant Creek once her oldest
+[^06-part2_129]: Karen moved from Mungalawurru to Tennant Creek once her oldest
     child turned five, to support him while he attended school.
 
-[^130]: Myers, *Pintupi Country, Pintupi Self*, p. 145.
+[^06-part2_130]: Myers, *Pintupi Country, Pintupi Self*, p. 145.
 
-[^131]: Myers, *Pintupi Country, Pintupi Self*, p. 238.
+[^06-part2_131]: Myers, *Pintupi Country, Pintupi Self*, p. 238.
 
-[^132]: K.W. Seemann, M. Parnell, S. McFallan and S. Tucker, *Housing
+[^06-part2_132]: K.W. Seemann, M. Parnell, S. McFallan and S. Tucker, *Housing
     for Livelihoods: The Lifecycle of Housing and Infrastructure Through
     a Whole-of-System Approach in Remote Aboriginal Settlements*, Vol.
     29, Alice Springs: Desert Knowledge CRC, 2008, p. 16.
 
-[^133]: Seemann et al., *Housing for Livelihoods*, p. 17.
+[^06-part2_133]: Seemann et al., *Housing for Livelihoods*, p. 17.
 
-[^134]: Seemann et al., *Housing for Livelihoods*, pp. 17-18.
+[^06-part2_134]: Seemann et al., *Housing for Livelihoods*, pp. 17-18.
 
-[^135]: Seemann et al., *Housing for Livelihoods*, p. 18.
+[^06-part2_135]: Seemann et al., *Housing for Livelihoods*, p. 18.
 
-[^136]: Merlan, ‘Gender in Aboriginal Society’, p. 36.
+[^06-part2_136]: Merlan, ‘Gender in Aboriginal Society’, p. 36.
 
-[^137]: Australian Communications and Media Authority, ‘Communications
+[^06-part2_137]: Australian Communications and Media Authority, ‘Communications
     Report 2009-10’,
     http://www.acma.gov.au/webwr/\_assets/main/lib311995/2009-10\_comms\_report-complete.pdf,
     p. 27.
 
-[^138]: Central Australian Youth Link Up Service, *Annual Attendance
+[^06-part2_138]: Central Australian Youth Link Up Service, *Annual Attendance
     Trends Data: July*, 2010.
 
-[^139]: J. McFarland 2013, personal communication.
+[^06-part2_139]: J. McFarland 2013, personal communication.

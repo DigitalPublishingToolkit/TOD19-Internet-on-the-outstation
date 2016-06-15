@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:978-94-92302-07-6" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_jpg" />
+  </head>
+  <docTitle>
+    <text>The Internet on the Outstation</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="ch001.xhtml#colophon" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="ch002.xhtml#acknowledgements" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Names and Permissions</text>
+      </navLabel>
+      <content src="ch003.xhtml#names-and-permissions" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Map</text>
+      </navLabel>
+      <content src="ch004.xhtml#map" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="ch005.xhtml#introduction" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>PART I</text>
+      </navLabel>
+      <content src="ch006.xhtml#part-i" />
+      <navPoint id="navPoint-7">
+        <navLabel>
+          <text>Chapter 1: Policy</text>
+        </navLabel>
+        <content src="ch006.xhtml#chapter-1-policy" />
+      </navPoint>
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>Chapter 2: Infrastructure</text>
+        </navLabel>
+        <content src="ch006.xhtml#chapter-2-infrastructure" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>PART II</text>
+      </navLabel>
+      <content src="ch007.xhtml#part-ii" />
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>Chapter 3: Ownership and Values</text>
+        </navLabel>
+        <content src="ch007.xhtml#chapter-3-ownership-and-values" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>Chapter 4: Mobility</text>
+        </navLabel>
+        <content src="ch007.xhtml#chapter-4-mobility" />
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>Chapter 5: Uses</text>
+        </navLabel>
+        <content src="ch007.xhtml#chapter-5-uses" />
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>Chapter 6: Skills and Training</text>
+        </navLabel>
+        <content src="ch007.xhtml#chapter-6-skills-and-training" />
+      </navPoint>
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>Chapter 7: Gender</text>
+        </navLabel>
+        <content src="ch007.xhtml#chapter-7-gender" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>PART III</text>
+      </navLabel>
+      <content src="ch008.xhtml#part-iii" />
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Chapter 8: Alternative Regimes</text>
+        </navLabel>
+        <content src="ch008.xhtml#chapter-8-alternative-regimes" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>Chapter 9: Digital Choices</text>
+        </navLabel>
+        <content src="ch008.xhtml#chapter-9-digital-choices" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>Conclusion: What Needs to Happen Next</text>
+      </navLabel>
+      <content src="ch009.xhtml#conclusion-what-needs-to-happen-next" />
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>Postscript</text>
+        </navLabel>
+        <content src="ch009.xhtml#postscript" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>Bibliography</text>
+      </navLabel>
+      <content src="ch010.xhtml#bibliography" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>List of Acronyms </text>
+      </navLabel>
+      <content src="ch011.xhtml#list-of-acronyms" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>Appendixes</text>
+      </navLabel>
+      <content src="ch012.xhtml#appendixes" />
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>Appendix 1: Transition to the National Broadband Network (NBN) Interim Satellite Service (ISS)</text>
+        </navLabel>
+        <content src="ch012.xhtml#appendix-1-transition-to-the-national-broadband-network-nbn-interim-satellite-service-iss" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>Appendix 2: Location and Movement of the Computers in the Communities</text>
+        </navLabel>
+        <content src="ch012.xhtml#appendix-2-location-and-movement-of-the-computers-in-the-communities" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>Appendix 3: Gender and Uses</text>
+        </navLabel>
+        <content src="ch012.xhtml#appendix-3-gender-and-uses" />
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>Appendix 4: ICT Program Models and Their Features</text>
+        </navLabel>
+        <content src="ch012.xhtml#appendix-4-ict-program-models-and-their-features" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

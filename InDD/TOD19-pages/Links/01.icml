@@ -137,6 +137,18 @@
 				<AppliedFont type="string">HK Grotesk</AppliedFont>
 			</Properties>
 		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Superscript" Imported="false" KeyboardShortcut="0 0" Name="Superscript" Position="Superscript">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Style de caractère 1" Imported="false" KeyboardShortcut="0 0" Name="Style de caractère 1" HorizontalScale="100" BaselineShift="0" VerticalScale="100" Skew="0">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
 	</RootCharacterStyleGroup>
 	<RootParagraphStyleGroup Self="u64">
 		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" Hyphenation="false" SpaceAfter="2.834645669291339" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
@@ -159,6 +171,12 @@
 				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
+				<AllGREPStyles type="list">
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/Style de caractère 1</AppliedCharacterStyle>
+						<GrepExpression type="string">\d</GrepExpression>
+					</ListItem>
+				</AllGREPStyles>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -234,10 +252,10 @@
 				<Br/>
 				<Content>CAT is an Aboriginal not-for-profit organization that works towards sustainable livelihoods for those living in remote communities, and conducts research into, and development of, appropriate technologies. CAT was formed in the 1980s when the outstation movement was gaining momentum, and much of its work today is still focused on small remote communities, known as ‘outstations’. In CAT’s definition, appropriate technologies meet the economic, cultural, environmental and social needs of the people, and design and development occurs through consultation and collaboration with communities. In his history of CAT, Alan Mayne writes that CAT’s ‘appropriate technologies’, ‘together with the research and design process that produces them, their regular servicing and the training and education programmes that inform their use, are making a difference in communities throughout remote Australia’.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content>1</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -252,6 +270,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -287,10 +307,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> article.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -315,10 +335,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -343,10 +363,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -377,10 +397,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -401,6 +421,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br/>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
